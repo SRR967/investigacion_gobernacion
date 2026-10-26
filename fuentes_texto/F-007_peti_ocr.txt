@@ -1,0 +1,5308 @@
+
+=== p1 ===
+Ge Hunación
+Fecha Aprobación:
+27 de Enero de 2026
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+FIGNET,
+150 se
+GESTIÓN - MIPG
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE
+Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 1 de 62
+Plan Estratégico de Tecnologías de la
+Información
+PETI
+2026
+El plan estratégico de tecnologías de la
+información
+(PETI)
+considerando la parte institucional en la
+cual se alinean los procesos de la entidad
+con la tecnologia para generar valor y
+cumplir de manera efectiva las metas del
+plan de desarrollo departamental.
+Secretaria General
+Grupo de Tecnologías de la
+Información y la Comunicación
+Revisó 1
+Firma
+Nombre
+Cargo
+Tult
+Brayan Alexander Beleño García
+Profesional de apoyo TIC
+arela Bonilla
+Adriana Marcelo Valencia Cardona
+Líder de proceso
+Secretatia General
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co -Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p2 ===
+Gel Hulación
+Fecha Aprobación:
+27 de Enero de 2026
+(O)
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTION - MIPG
+icontec
+(IONET
+150 госл
+SGesst-1
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 2 de 62
+CONTENIDO
+INTRODUCCIÓN..
+1.
+OBJETIVO ESTRATÉGICO
+1.1
+Objetivo Específicos ......
+2.
+3.
+4.
+5.
+ALCANCE DEL DOCUMENTO
+SOPORTE NORMATIVO
+MOTIVADORES ESTRATEGICOS...
+ENTENDIMIENTO ORGANIZACIONAL
+5.1
+5.1.1
+5.1.2
+5.1.3
+5.1.4
+Estructura Organizacional de la Entidad
+Organigrama de la Gobernación del Huila
+Misión....
+Visión
+Mapa de Procesos
+...4
+..4
+4
+5
+..5
+..11
+.. 13
+.. 13
+. 13
+...14
+.. 14
+.. 15
+Portafolio de Servicios que Presta la Gobernación del Huila en Relación a sus Procesos
+y Grupos de Valor..
+5.1.6. Grupo para la Construcción del PETI
+5.2
+5.2.1
+5.2.2
+5.2.3
+5.3
+5.4
+5.5
+5.6
+Direccionamiento Estratégico de TI
+Plan de Desarrollo Nacional "Colombia, Potencia Mundial de la Vida"
+Plan de Desarrollo del Departamento.
+Alineación Planes Estratégicos .
+Alineación / Cobertura de las TIC a los procesos de la Entidad
+Canales a Través de los Cuales se Prestan los Servicios........
+Actores de TI que Prestan los Servicios
+Procesos y Procedimientos de TI que Generan los Servicios TI
+6.
+ANÁLISIS DE LA SITUACIÓN ACTUAL
+6.1
+6.2
+6.3
+6.4
+6.5
+Estrategia de TI...
+Sistemas de Información
+Servicios Tecnológicos
+Gestión de Información
+Gobierno de TI
+DIAGNÓSTICO...
+7.1
+7.2
+Análisis frente al seguimiento de lo ejecutado en la vigencia anterior..
+DOFA
+...22
+...23
+..23
+.24
+...26
+.. 26
+..30
+...30
+..31
+.. 33
+..33
+.34
+..37
+..38
+38
+..39
+..39
+40
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p3 ===
+Gobernaciór
+del Huilc
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+IONET
+150 гом
+Fecha Aprobación:
+27 de Enero de 2026
+PLAN ESTRATEGICO TECNOLOGIA DE
+LA INFORMACION Y LAS
+COMUNICACIONES - PETI
+Código: SGN-C043-PIE01
+Versión: 1
+Página 3 de 62
+8.
+COMPONENTE ESTRATÉGICO.
+9.
+MODELO DE GESTIÓN DE TI
+9.1
+Estrategia de TI.
+9.1.1
+Objetivos estratégicos de TI..
+9.2
+Gobierno de TI......
+9.2.1
+Estructura organizacional de TI
+9.2.2
+Políticas de TI
+9.2.3
+Proceso de Gestión y Seguridad de TI
+9.3
+Sistemas de Información
+9.4
+Servicios Tecnológicos..
+9.5
+Infraestructura
+10.
+MODELO DE PLANEACIÓN
+11.
+INDICADORES..
+12.
+INICIATIVAS PRIORIZADAS
+13.
+HOJA DE RUTA.
+14.
+PRESUPUESTO DE INICIATIVAS PRIORIZADAS.
+15.
+PLAN DE COMUNICACIONES.....
+16.
+PARTICIPACIÓN CIUDADANA, APROBACIÓN Y PUBLICACIÓN FINAL DEL PLAN
+17.
+RESULTADOS ESPERADOS..
+18.
+REGISTROS Y ANEXOS
+18.1 Registros.
+18.2 Anexos.
+19.
+CONTROL DE CAMBIOS
+.42
+43
+..43
+..43
+. 44
+44
+46
+...46
+...49
+...50
+..50
+.50
+....51
+..57
+. 58
+60
+60
+60
+..61
+61
+..61
+...61
+..62
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co -Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p4 ===
+oberna
+cid
+Fecha Aprobación:
+27 de Enero de 2026
+(©)
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+Icontec
+IONET
+150 s
+SC4rS)-1
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 4 de 62
+INTRODUCCIÓN
+El Plan Estratégico de las Tecnologías de la Información y Comunicaciones (PETI)
+de la GOBERNACIÓN DEL HUILA es resultado de un ejercicio de planeación
+estratégica realizado por el proceso GESTION Y SEGURIDAD DE TECNOLOGÍAS
+DE LA INFORMACION, para determinar actividades e iniciativas que contribuyan al
+cumplimiento de las metas del proceso, el fortalecimiento de la política de Gobierno
+Digital, la mejora en la prestación de servicios ciudadanos, el logro de los objetivos
+estratégicos de la entidad y metas del plan de desarrollo.
+El presente PETI es formulado para la vigencia 2026 y se encuentra enmarcado en
+los planes de desarrollo nacional y departamental, así como en los lineamientos del
+Modelo Integrado de Planeación y Gestión y la política de Gobierno Digital.
+1. OBJETIVO ESTRATÉGICO
+Establecer estrategias y definir acciones en el marco de la implementación de la
+política de Gobierno Digital en la GOBERNACIÓN DEL HUILA, para fortalecer la
+planeación, el gobierno y la gestión de TI y el desempeño institucional, alineados
+con los objetivos estratégicos y misionales de la entidad.
+1.1 Objetivo Específicos
+• Plantear iniciativas que contribuyan al fortalecimiento de la gestión TI en la
+entidad, fortaleciendo capacidades tecnológicas.
+• Mejorar los servicios ciudadanos que presta la GOBERNACIÓN DEL HUILA
+mediante la adopción de tecnologías que faciliten el acceso de los usuarios y
+grupos de interés.
+• Definir proyectos que impulsen el fortalecimiento del ecosistema digital en el
+Departamento del Huila.
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co -Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p5 ===
+gobernacion
+el Huile
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+GIONET
+Fecha Aprobación:
+27 de Enero de 2026
+150 s0e
+Sabas
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE
+| Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 5 de 62
+2. ALCANCE DEL DOCUMENTO
+El PETI inicia con un diagnóstico de la situación actual de la gestión TI en la entidad
+y determina sus capacidades en comparación con los lineamientos del modelo de
+arquitectura Ti, de igual manera realiza un análisis de los objetivos estratégicos y
+misionales de la GOBERNACIÓN DEL HUILA y del proceso de Gestión y Seguridad
+de Tecnologías de la Información para determinar brechas y oportunidades.
+Finalmente, presenta un portafolio de iniciativas o proyectos de TI encaminados al
+fortalecimiento de la plataforma tecnológica de la Gobernación y mejoras en los
+procesos internos y los servicios al ciudadano que presta la entidad, en
+cumplimiento de los lineamientos y buenas prácticas que establece la política de
+Gobierno Digital.
+3. SOPORTE NORMATIVO
+A continuación, se lista las normas y documentos de referencia que aportan al
+proceso de construcción del PETI.
+Marco Normativo
+Constitución
+Política
+Colombia - 1991
+Ley 962 de 2005
+Tabla 1. Normas y Documentos de Referencia del PETI
+Normas y Documentos de Referencia
+Descripción
+Artículo 15. "Todas las personas tienen derecho a su intimidad
+personal y familiar y a su buen nombre, y el Estado debe
+de
+respetarlos y hacerlos respetar. De igual modo, tienen derecho a
+conocer, actualizar y rectificar las informaciones que se hayan
+recogido sobre ellas en bancos de datos y en archivos de
+entidades públicas y privadas. Cuando las entidades de la
+El artículo 14 lo siguiente
+Administración Pública requieran comprobar la existencia de
+necesaria para la solución de un
+procedimiento o petición de los particulares, que obre en otra
+entidad pública, procederán a solicitar a la entidad el envio de
+dicha información. En tal caso, la carga de la prueba no
+Será permitido el intercambio de información entre distintas
+entidades oficiales, en aplicación del principio de colaboración. El
+envio de la información por fax o por cualquier otro medio de
+transmisión electrónica, proveniente de una entidad pública,
+prestará mérito suficiente y servirá de prueba en la actuación de
+que se trate, siempre y cuando se encuentre debidamente
+certificado digitalmente por la entidad que lo expide y haya sido
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p6 ===
+obernacio
+el Huil
+Fecha Aprobación:
+27 de Enero de 2026
+Marco Normativo
+Ley 1273 de 2009
+Ley 1341 de 2009
+Ley 1581 de 2012
+Ley 1712 de 2014
+Ley 1753 de 2015
+Ley 1955 de 2019
+Ley 1978 de 2019
+Ley 2052 de 2020
+Decreto Ley 019 de
+2012
+(0)
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACION Y
+GESTIÓN - MIPG
+Icontec
+LIONET
+150%00
+SC4953'1
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 6 de 62
+Normas y Documentos de Referencia
+Descripción
+solicitado por el funcionario superior de aquel a quien se atribuya
+el trámite".
+Por medio de la cual se modifica el Código Penal, se crea un nuevo
+bien jurídico tutelado - denominado "de la protección de la
+omunicaciones, entre otras disposicione
+Por la cual se definen Principios y conceptos sobre la sociedad de
+la información y la organización de las Tecnologías de la
+Información y las Comunicaciones -TIC-, se crea la Agencia
+Nacional del Espectro y se dictan otras disposiciones
+Por la cual se dictan disposiciones generales para la protección de
+datos personales.
+Por medio de la cual se crea la Ley de Transparencia y del
+Derecho de Acceso a la Información Pública Nacional y se dictan
+otras disposiciones
+Por la cual se expide el Plan Nacional de Desarrollo 2014-2018
+"TODOS POR UN NUEVO PAIS" "Por medio de la cual se crea la
+Ley de Transparencia y del Derecho de Acceso a la Información
+Pública Nacional y se dictan otras disposiciones
+Por el cual se expide el Plan Nacional de Desarrollo 2018-2022
+"Pacto por Colombia, Pacto por la Equidad". Por el cual se expide
+el plan nacional de desarrollo 2018-2022 - pacto por Colombia,
+pacto por la equidad. En su artículo 147 "Transformación Digital
+Pública" establece que las entidades territoriales podrán definir
+estrategias de ciudades y territorios inteligentes, para lo cual
+deberán incorporar los lineamientos técnicos en el componente de
+transformación digital que elabore el Ministerio de Tecnologías de
+Establece que las entidades del orden nacional deberán incluir en
+su plan de acción el componente de transformación digital,
+siguiendo los estándares que para tal efecto defina el Ministerio de
+Tecnologías de la Información y las Comunicaciones (MinTIC)
+Por la cual se moderniza el Sector de las Tecnologías de la
+Información y las
+Comunicaciones
+-TIC,
+se distribuyen
+competencias, se crea un Regulador Único y se dictan otras
+disposiciones.
+Por medio de la cual se establecen disposiciones transversales a
+la rama ejecutiva del nivel nacional y territorial y a los particulares
+que cumplan funciones públicas y/o administrativas, en relación
+con la racionalización de trámites y se dictan otras disposiciones.
+Por el cual se dictan normas para suprimir o reformar regulaciones,
+procedimientos y trámites innecesarios existentes en la
+Administración Pública.
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p7 ===
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+TONET
+150 geor
+Fecha Aprobación:
+27 de Enero de 2026
+PLAN ESTRATÉGICO TECNOLOGIA DE
+LA INFORMACION Y LAS
+COMUNICACIONES - PETI
+Código: SGN-C043-PIE01
+Versión: 1
+Página 7 de 62
+Normas y Documentos de Referencia
+Marco Normativo
+Decreto 2150 de
+1995
+Decreto 1151 de
+2008
+Decreto
+4485
+de
+2009
+Decreto
+235
+2010
+Decreto
+2364 de
+2012
+Decreto 2693 de
+2012
+Descripción
+Por el cual se suprimen y reforman regulaciones, procedimientos
+o trámites innecesarios existentes en la Administración Pública.
+Lineamientos generales de la Estrategia de Gobierno en Línea de
+la República de Colombia, se reglamenta parcialmente la Ley 962
+de 2005, y se dictan otras disposiciones.
+Por medio de la cual se adopta la actualización de la Norma
+Técnica de Calidad en la Gestión Pública.
+de
+Por el cual se regula el intercambio de información entre entidades
+para el cumplimiento de funciones públicas
+Por medio del cual se reglamenta el artículo 7 de la Ley 527 de
+1999, sobre la firma electrónica y se dictan otras disposiciones.
+Por el cual se establecen los lineamentos generales de la
+Estrategia de Gobierno en Línea de la República de Colombia, se
+reglamentan parcialmente las Leyes 1341 de 2009, 1450 de 2011,
+y se dictan otras disposiciones.
+Decreto 2482 de
+2012
+Decreto
+1377
+de
+2013
+Decreto 2573 de
+2014
+Por el cual se establecen los lineamientos generales para la
+integración de la planeación y la gestión
+Por el cual se reglamenta parcialmente la Ley 1581 de 2012 o Ley
+de Datos Personales
+Por el cual se establecen los lineamientos generales de la
+Estrategia de Gobierno en línea, se reglamenta parcialmente la
+Ley 1341 de 2009 y se dictan otras disposiciones
+Por el cual se reglamenta el artículo 25 de la Ley 1581 de 2012,
+relativo al Registro Nacional de Bases de Datos, que permitirá
+Decreto
+2014
+886 de
+cumplir con la obligación legal de dar publicidad a la existencia de
+bases de datos de carácter personal y servirá de herramienta de
+supervisión para la efectiva protección de los derechos de los
+titulares.
+Por el cual se reglamenta el registro de TIC y se subroga el título
+Decreto 2433 de
+1 de la parte 2 del libro 2 del Decreto 1078 de 2015, Decreto Único
+2015
+Reglamentario del sector de Tecnologías de la Información y las
+Comunicaciones.
+Decreto
+1078
+, de
+2015
+Decreto
+2015
+Por medio del cual se expide el Decreto Único Reglamentario del
+Sector de Tecnologías de la Información y las Comunicaciones
+103
+de
+se reglamenta parcialmente la Ley 1712 de 2014 en lo relativo a la
+gestión de la información pública y se dictan otras disposiciones.
+Por el cual se adiciona el Decreto Unico Reglamentario del sector
+Decreto
+415
+de
+de la Función Pública, Decreto Numero 1083 de 2015, en lo
+2016
+relacionado con la definición de los lineamientos para el
+fortalecimiento institucional en materia de tecnologías de la
+información y las Comunicaciones.
+Decreto
+2016
+728
+de
+| Actualiza el Decreto 1078 de 2015 con la implementación de zonas
+de acceso público a Internet inalámbrico
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co -Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p8 ===
+(O)
+obernación
+le| Huil:
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+contec
+SIONET
+15O 100:
+SUSH
+Código: SGN-C043-PIE01
+Fecha Aprobación:
+27 de Enero de 2026
+PLAN ESTRATÉGICO TECNOLOGIA DE Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 8 de 62
+Normas y Documentos de Referencia
+Marco Normativo
+Descripción
+Por el cual se adiciona el capítulo 2 al titulo 9 de la parte 2 del libro
+Decreto
+2017
+728
+2 del Decreto Único Reglamentario del sector TIC, Decreto 1078
+de
+de 2015, para fortalecer el modelo de Gobierno Digital en las
+entidades del orden nacional del Estado colombiano, a través de
+la implementación de zonas de acceso público a Internet
+inalámbrico.
+Por el cual se adiciona el título 17 a la parte 2 del libro 2 del
+Decreto Único Reglamentario del sector de Tecnologías de la
+Decreto 1413 de
+2017
+Información y las Comunicaciones, Decreto 1078 de 2015, para
+reglamentarse parcialmente el capítulo IV del título I! de la Ley
+1437 de 2011 y el artículo 45 de la Ley 1753 de 2015,
+estableciendo lineamientos generales en el uso y operación de los
+servicios ciudadanos digitales.
+Por medio del cual se modifica el Decreto 1083 de 2015, Decreto
+Decreto 1499 de Único Reglamentario del Sector Función Pública, en lo relacionado
+2017
+con el Sistema de Gestión establecido en el artículo 133 de la Ley
+1753 de 2015.
+Decreto 612 de
+2018
+Por el cual se fijan directrices para la integración de los planes
+institucionales y estratégicos al Plan de Acción por parte de las
+entidades del Estado.
+Por el cual se establecen los lineamientos generales de la política
+Decreto 1008 de
+2018
+de Gobierno Digital y se subroga el capítulo 1 del título 9 de la
+parte 2 del libro 2 del Decreto 1078 de 2015, Decreto Único
+Reglamentario del sector de Tecnologías de la Información y las
+Comunicaciones.
+Por el cual se dictan normas para simplificar, suprimir y reformar
+Decreto 2106 del
+trámites, procesos y procedimientos innecesarios existentes en la
+2019
+administración pública Cap. II Transformación Digital Para Una
+Gestión Publica Efectiva
+Decreto
+620
+de
+Estableciendo los lineamientos generales en el uso y operación de
+2020
+los servicios ciudadanos digitales"
+Decreto
+088
+de
+Por el cual se establecen los conceptos, lineamientos, plazos y
+2022
+condiciones para la digitalización y automatización de trámites y
+su realización en línea.
+Por el cual se adiciona el Titulo 21 a la Parte 2 del Libro 2 del
+Decreto Único 1078 de 2015, Reglamentario del Sector de
+Decreto
+2022
+338 de
+Tecnologías de la Información y las Comunicaciones, con el fin de
+establecer los lineamientos
+generales para
+• fortalecer la
+gobernanza de la seguridad digital, se crea el Modelo y las
+instancias de Gobernanza de Seguridad Digital y se dictan otras
+disposiciones
+Decreto 0767 de
+2022
+Por el cual se establecen los lineamientos generales de la Política
+de Gobierno Digital y se subroga el Capítulo 1 del Título 9 de la
+Parte 2 del Libro 2 del Decreto 1078 de 2015, Decreto Único
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p9 ===
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+GIONET
+Gei Hunación
+SCA33H7
+Código: SGN-C043-PIE01
+Fecha Aprobación:
+PLAN ESTRATÉGICO TECNOLOGIA DE
+Versión: 1
+27 de Enero de 2026
+LA INFORMACION Y LAS
+COMUNICACIONES - PETI
+Página 9 de 62
+Normas y Documentos de Referencia
+Marco Normativo
+Descripción
+Reglamentario del Sector de Tecnologias de la información y las
+Comunicaciones.
+Por el cual se adiciona el Titulo 22 a la Parte 2 del Libro 2 del
+Decreto 1263 de
+Decreto 1078 de 2015, Decreto Único Reglamentario del Sector
+2022
+de Tecnologías de la Información y las Comunicaciones, con el fin
+de definir lineamientos
+y estándares aplicables a
+la
+Transformación Digital Pública.
+Resolución
+3564
+Por la cual se reglamentan aspectos relacionados con la Ley de
+de 2015
+Transparencia y Acceso a la Información Pública
+Resolución
+3564
+Reglamenta algunos artículos y parágrafos del Decreto número
+2015
+1081 de 2015 (Lineamientos para publicación de la Información
+para discapacitados)
+Resolución
+2710
+Por la cual se establecen los lineamientos para la adopción del
+de 2017
+protocolo IPv6.
+Resolución 500 de
+Por la cual se establecen los lineamientos y estándares para la
+2021
+estrategia de seguridad digital y se adopta el modelo de seguridad
+y privacidad como habilitador de la Política de Gobierno Digital.
+Resolución 460 de
+Por el cual expide el Plan Nacional de Infraestructura de Datos y
+2022
+su hoja de ruta en el desarrollo de la Política de Gobierno Digital,
+y se dictan los lineamientos generales para su implementación
+Resolución 746 de
+Por la cual se fortalece el Modelo de Seguridad y Privacidad de la
+2022
+Información y
+se definen lineamientos adicionales a los
+establecidos en la Resolución No. 500 de 2021
+Por la cual se establecen los lineamientos de transformación
+Resolución
+1177
+digital para las estrategias de ciudades y territorios inteligentes de
+de 2022
+las entidades territoriales, en el marco de la Politica de Gobierno
+Digital
+Por la cual se establecen los requisitos, las condiciones y el trámite
+Resolución
+1951
+de la habilitación de los prestadores de servicios ciudadanos
+de 2022
+digitales especiales; se dan los lineamientos y estándares para la
+integración de estos servicios y la coordinación de los prestadores
+con la Agencia Nacional Digital"
+Accesibilidad a páginas web El objeto de la Norma Técnica
+Norma
+Técnica
+Colombiana
+NTC
+Colombiana (NTC) 5854
+es establecer los requisitos de
+accesibilidad que son aplicables a las páginas web, que se
+5854 de 2012
+presentan agrupados en tres niveles de conformidad: A, AA, y
+En este documento se desarrolla el proceso de implementación de
+la Política de Gobierno Digital a través de los siguientes cuatro (4)
+Manual
+de
+momentos: 1. Conocer la política; 2. Planear la política; 3. Ejecutal
+Gobierno Digital - la política: y 4. Medir la política; cada uno de ellos incorpora las
+2018
+acias de nivel nacional y triaria pelicado a curita los
+componentes TIC para el Estado, y TIC para la Sociedad, y los
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co -Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p10 ===
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+(©)
+contec
+1505000
+RIONET
+Ge Hunación
+Fecha Aprobación:
+27 de Enero de 2026
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 10 de 62
+Normas y Documentos de Referencia
+Marco Normativo
+Descripción
+elementos habilitadores Arquitectura, Seguridad de la Información,
+Servicios Ciudadanos Digitales, con el fin de habilitar y mejorar la
+provisión de servicios ciudadanos digitales de confianza y calidad,
+lograr procesos internos, seguros y eficientes, tomar decisiones
+basadas en datos a partir del uso y aprovechamiento de la
+información, empoderamiento de los ciudadanos a través de un
+estado abierto, e impulsar el desarrollo de territorios y ciudades
+inteligentes a través de las TIC.
+Documento maestro dirigido a Entidades Públicas, el cual
+establece la estructura conceptual del Modelo de Arquitectura
+MAE.G.GEN.01 -
+Documento
+Maestro
+del
+Modelo de
+Arquitectura
+Empresarial
+Empresarial del Marco de Referencia. En este, se definen los
+dominios o dimensiones las cuales agrupan y organizan los
+lineamientos de arquitectura empresarial: Planeación de la
+Arquitectura, Arquitectura Misional, Arquitectura de Información,
+Arquitectura
+Sistemas
+Información, Infraestructura
+Tecnológica, Arquitectura de Seguridad, y Uso y Apropiación de la
+Arquitectura.
+Documento maestro dirigido a Entidades Públicas, el cual
+MGPTI.G.GEN.01 -
+Documento
+Maestro
+del
+Modelo de
+Gestión
+Proyectos TI
+establece la estructura conceptual del Modelo de Gestión de
+Proyectos Tl del Marco de Referencia. En este, se definen
+dominios que abordan todos los procesos y actividades para la
+de
+dirección y ejecución de proyectos, programas y portafolios desde
+la necesidad de la administración pública: Legal, Planeación,
+Ejecución, y Control.
+MGGTI.G.GEN.01 -
+Documento maestro dirigido a Entidades Públicas, el cual
+Documento
+establece la estructura conceptual del Modelo de Gestión y
+Maestro
+Gobierno de TI del Marco de Referencia. En este, se definen los
+del Modelo
+de
+dominios que permiten alinear las necesidades del negocio
+Gestión
+mediante el uso adecuado de las TIC: Estrategia de TI, Gobierno
+Gobierno de TI
+de TI, Sistemas de Información, Información, Infraestructura de TI,
+Uso y Apropiación de TI.
+G.ES.06 Guía para
+la Construcción | Documento técnico dirigido a las entidades públicas del Estado
+del
+PETI
+-
+Colombiano, en el que se reestructura la versión anterior de la
+Planeación de la
+¡guía, se incorpora una metodología y se actualiza el contenido
+Tecnología para la
+para la construcción del PETI con un enfoque de Arquitectura en
+Transformación
+la planeación de la Tecnología para la Transformación Digital.
+Digital - 2019
+Directiva
+Presidencial 04 de
+, Eficiencia administrativa y lineamientos de la política cero papel en
+2012
+la administración pública
+Conpes 3292
+Señala la necesidad de eliminar, racionalizar y estandarizar
+Proyecto
+trámites a partir de asociaciones comunes sectoriales e
+Racionalización y intersectoriales (cadenas de trámites): enfatizando en el flujo de
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p11 ===
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+JONET
+Gel Hunación
+Fecha Aprobación:
+27 de Enero de 2026
+Marco Normativo
+automatización de
+trámites, del 28 de
+junio de 2004
+SC413)1
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE
+Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 11 de 62
+Normas y Documentos de Referencia
+Descripción
+información entre los eslabones que componen la cadena de
+procesos administrativos y soportados en desarrollos tecnológicos
+que permitan mayor eficiencia y transparencia en la prestación de
+servicios a los ciudadanos.
+Conpes 3920 de
+tiene por objetivo aumentar el
+Política Nacional
+aprovechamiento de datos, mediante el desarrollo de las
+de Explotación de
+condiciones para que sean gestionados como activos para
+Datos - Big Data,
+generar valor social y económico. En lo que se refiere a las
+del 17 de abril de
+actividades de las entidades públicas, esta generación de valor es
+2018
+entendida como la provisión de bienes públicos para brindar
+respuestas efectivas y útiles frente a las necesidades sociales
+El crecimiento en el uso masivo de las Tecnologías de la
+Información y las Comunicaciones (TIC) en Colombia, reflejado en
+la masificación de las redes de telecomunicaciones como base
+para cualquier actividad socioeconómica y el incremento en la
+Conpes
+3854
+oferta de servicios disponibles en línea, evidencian un aumento
+Política Nacional
+significativo en la participación digital de los ciudadanos. Lo que a
+de
+Seguridad
+su vez se traduce en una economía digital con cada vez más
+Digital
+de
+participantes en el país. Desafortunadamente, el incremento en la
+Colombia, del 11
+participación digital de los ciudadanos trae consigo nuevas y más
+de abril de 2016
+sofisticadas formas para atentar contra su seguridad y la del
+Estado. Situación que debe ser atendida, tanto brindando
+protección en el ciberespacio para atender estas amenazas, como
+reduciendo la probabilidad
+de que estas sean efectivas,
+fortaleciendo las capacidades de los posibles afectados para
+identificar y gestionar este riesgo.
+Conpes 3975
+Política Nacional
+de
+Transformación
+Digital
+Inteligencia
+Artificial, del 8 de
+noviembre de 2019
+Define la Politica Nacional de Transformación Digital e Inteligencia
+Artificial, estableció una acción a cargo de la Dirección de
+Gobierno Digital para desarrollar los lineamientos para que las
+e
+entidades públicas del orden nacional elaboren sus planes de
+transformación digital con el fin de que puedan enfocar sus
+esfuerzos en este tema.
+4. MOTIVADORES ESTRATÉGICOS
+EI PETI se formula en el marco de las directrices estratégicas vigentes del orden
+nacional, departamental y local:
+El Plan Nacional de Desarrollo 2022 - 2026 "Colombia, Potencia Mundial de la
+Vida", establece la importancia de las tecnologías de la información y
+comunicaciones como medio para conectar y alfabetizar digitalmente a los
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co -Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p12 ===
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACION Y
+GESTION - MIPG
+(O)
+contec
+LIONET
+Gobernación
+del Hulla
+Código: SGN-C043-PIE01
+Fecha Aprobación:
+27 de Enero de 2026
+PLAN ESTRATÉGICO TECNOLOGIA DE Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 12 de 62
+habitantes para desarrollar la sociedad del conocimiento. Así mismo, el Plan
+Estratégico "Conectividad y Tecnología para cambiar la vida" del Ministerio TIC
+establece directrices y lineamientos para el fortalecimiento de las capacidades de
+las entidades públicas mejorando la eficiencia institucional y generando valor
+público en el marco de un Estado Abierto, con énfasis en los territorios, en busca de
+incrementar el nivel de transformación digital del Estado a través de planes,
+programas y proyectos que impulsen la Política de Gobierno Digital, y la vinculación
+de las entidades públicas al ecosistema de información pública digital.
+La Política de Gobierno Digital, define lineamientos y estándares que logran articular
+y materializar sus elementos, como se observa en la figura siguiente:
+Figura 1. Componentes y Propósito Gobierno Digital
+POLÍTICA DE GOBIERNO DIGITAL
+GOBERNANZA
+SECTOR PRIVADO
+Habilitadores
+reutectura
+cultura y
+apropiación
+Seguridad y
+la información
+Servicies
+ciudadanos
+digliales
+ACADEMIA
+CIUDADANOS
+SOCIEDAD CIVIL
+INNOVACIÓN PÚBLICA DIGITAL
+Uneas de acción
+Servicios y
+procesos
+Inteligentes
+Decisiones
+basadas
+Estado
+ablerta
+Iniciativas
+dinamizadoras
+transformación
+derital
+Extrameetas de
+ЗАНОВОНЯ У
+tentatias
+insulteentes
+ENTIDADES PÚBLICAS
+OBJETIVO
+6
+Lineamientos, guías y estándares
+Imagen tomada de htips://gobiernodiaital.mintic.gov.co/portal/Politica-de-Gobierno-Digital/
+De igual manera, el PETI recoge lineamientos básicos del Plan de Desarrollo
+Departamental "Por un Huila Grande 2024 - 2027", el cual tienen como objetivo
+construir colectivamente un nuevo modelo de desarrollo, sustentado en una visión
+sostenible en el corto, mediano y largo plazo, con propuestas emanadas desde las
+comunidades gracias al excelente trabajo participativo en los 37 municipios de
+nuestro departamento, y con las diversas comunidades, entidades académicas,
+públicas y privadas que aportaron a la construcción del mismo de manera
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p13 ===
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTION - MIPG
+GIONET
+150 mpc1
+›obernación
+el Huile
+SCa1s3-1
+Código: SGN-C043-PIE01
+Fecha Aprobación:
+27 de Enero de 2026
+PLAN ESTRATÉGICO TECNOLOGIA DE
+Versión: 1
+LA INFORMACION Y LAS
+COMUNICACIONES - PETI
+Página 13 de 62
+participativa e incluyente. Dicho Plan de Desarrollo incluye el componente
+"Conectividad y Virtualidad para generar Oportunidades".
+Así mismo, en este punto se determinan algunos de los paradigmas que debe
+romper la entidad para adelantar el proceso de transformación digital, impulsados
+por el mejoramiento continuo de la gestión de TI:
+• Falta de articulación entre el proceso de gestión TIC y los procesos de
+planeación y dirección.
+• Fortalecer las capacidades para el uso y apropiación de TIC por parte de los
+funcionarios y contratistas.
+• Implementar buenas prácticas y estándares para la gestión de TI y Sistemas de
+Información.
+5. ENTENDIMIENTO ORGANIZACIONAL
+Es necesario efectuar el reconocimiento misional y estratégico de la entidad para
+determinar oportunidades y brechas para la planeación y gestión de las TIC.
+Es oportuno ofrecer un contexto frente a la misión, visión, estructura, procesos,
+planes, metas y programas con el fin abordar el PETI, de manera integral y poder
+impulsar el cumplimiento de las metas organizacionales y la implementación de la
+transformación digital.
+5.1 Estructura Organizacional de la Entidad
+5.1.1 Organigrama de la Gobernación del Huila
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p14 ===
+Gel Hungción
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+(O)
+contec
+LIONET
+Fecha Aprobación:
+27 de Enero de 2026
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 14 de 62
+Figura 2. Estructura Orgánica de la Administración Central Departamental
+ESTRUCTURA ORGANIZACIONALDE LA ADMINISTRACIÓN
+CENTRAL DEL DEPARTAMENTO DEL HUILA
+1.
+3
+3
+DESPACHO DEL GOBERNADOR
+OFICINA DE CONTROL INTERNO DE
+GESTION
+DEPARTAMENTO ADMINISTRATIVO DI
+PLANEACIÓN
+10
+3
+20
+Nivel Organizacional
+Despacho
+Oficinas
+epartamente
+dministrativ
+Secretarías de Despacho
+Direcciones Técnicas
+TOTAL DEPENDENCIAS
+OCIA DE MAR ENNO
+DEPARTAMENTO ADMINISTRATIVO
+JURÍDICO
+DEPARTAMESNTATACIGI AINO DE
+OFICINA DE GESTION DEL RIESGO DE
+DESASTRES
+SECRETARIA
+GENERAL
+ECRETARÍA R
+ACIENO
+SECRETARÍA DE
+ACRICULTURA Y
+AHNERÍA
+TURISMO
+SECRETARÍA DE
+LA MUJER
+FAMILIA E
+INCLUSION
+SOCIAL
+SECRETARÍA DE
+GOBIERNO,
+SEGURIDAD Y
+ASUNTOS
+COMUNITARIOS
+SECRETARÍA DE
+VIAS E
+INFRAESTRUCTURA
+SECRETARÍA
+DE SALUD
+SECRETARTA
+DE
+EDUCACIÓN
+SECRETARÍA DE
+CULTURA
+Dirección Técnica
+desearlesd
+Dirección Técnica d
+Infraestructura
+SOLENSES ERANDES
+sonasana
+Dirección Técnich de
+Gestión
+bernaci
+I Hui
+Imagen tomada de https://extranet.huila.gov.co/
+5.1.2 Misión
+El Departamento del Huila, según la Constitución Política, tiene autonomía para la
+administración de los asuntos seccionales y la planificación y promoción del
+desarrollo económico y social de su territorio. Ejerce funciones administrativas de
+coordinación, de complementariedad de la acción municipal, de intermediación
+entre el Gobierno Nacional y los Municipios y prestador de los servicios
+determinados por la Constitución y la ley".
+5.1.3 Visión
+En el año 2020 el Huila será el corazón verde de Colombia, pacífico, solidario y
+emprendedor; líder de una región dinámica donde florecen los sueños de todos.
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p15 ===
+Gel Hunación
+Fecha Aprobación:
+27 de Enero de 2026
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+PLAN ESTRATÉGICO TECNOLOGIA DE
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+contec
+IONET
+T50 M00
+$C0551
+Código: SGN-C043-PIE01
+Versión: 1
+Página 15 de 62
+5.1.4 Mapa de Procesos
+O cactión del Talomo
+ESTATICOS
+C. Cober
+comunicación publica
+C Planeación ERrALegica
+dei Departamento
+© Milora Continua y
+desempeto Institucianst
+C foranda de prayoctor
+Clencia, Tecnología
+nortasn -cT
+O cesión de la contrarción
+Figura 3. Mapa de Procesos de la Gobernación del Huila
+MEJORA CONTÍNUA
+Tadento
+callde
+ducatte
+MISIONAL
+repeccien
+Agitancia
+y control en
+obertur
+ducati
+ACCIÓN AL PREVENCIÓN MESCOS)
+MAPA DE 41 PROCESO
+DE LA ADMINISTRACIÓN
+CENTRAL DEL HUILA
+AL
+Segurcad y
+convirencia
+dudadana
+en soled
+Gestión de
+MARA
+MISIONAL
+23
+MISIONAL
+de Sontad
+Salud
+Gestion del
+control alegres
+en salud
+Población
+etnica
+servicios de
+Salud
+MISIONAL
+lantar
+ІНКОРМАСОЙ У СОМИНАМ
+NECESIDADES
+y luriemo
+Imagen tomada de https://extranet.huila.gov.co/
+• Control intamo
+• Gestión de Corarol y
+SATISFACCIÓN
+•costion furídico
+O Cestien y Contrat do
+as Dentas
+al cerción ón la intormación
+estadittich y cartográfica
+O Administracion del
+• Cesión dei patrimonto
+Decumantal
+Los Procesos Estratégicos son llamados también tácticos. Los procesos operativos
+también llamados Misionales desarrollan o ejecutan actividades que están
+directamente relacionados con el cumplimiento de la misión institucional, conforme
+a las competencias de ley establecidas en cada sector. Los procesos de Soporte
+son igualmente llamados de Apoyo porque soportan o apoyan todas las actividades
+de los procesos misionales. Procesos de Evaluación, están los procesos de Gestión
+de Control y Auditorías y el proceso de control disciplinario.
+Los macroprocesos están clasificados por estratégicos, misionales, de apoyo y de
+evaluación, los cuales contienen los procesos adscritos por dependencia, tal como
+se muestra en la tabla siguiente.
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co -Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p16 ===
+Gobernación
+del Huila
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTION - MIPG
+GIONET
+150 soci
+scaser
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE Versión: 1
+Fecha Aprobación:
+27 de Enero de 2026
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 16 de 62
+Tabla 2. Procesos por Dependencia
+TIPO
+PROCESO
+Gobernabilidad y comunicación pública
+DEPENDENCIA
+Despacho Gobernador
+Mejora continua y Revisión del sistema
+de
+gestión
+Secretaría General
+Gestión del Talento Humano
+Planeación Estratégica del Departamento
+Gerencia de proyectos y regalías
+Ciencia, Tecnología - CTel
+Gestión de la Contratación
+Planificación y Control del Presupuesto.
+Asistencia técnica, seguimiento у evaluación
+municipal
+Relación y servicio Estado Ciudadano
+Departamento Administrativo
+de Planeación
+Departamento Administrativo
+de Contratación
+Secretaria de Hacienda
+Departamento Administrativo
+de Planeación
+Secretaria General
+Gestión de pensiones a cargo del departamento
+Desarrollo Económico, agroindustria y minero.
+Gestión Ambiental
+Fortalecimiento del patrimonio cultural huilense
+Desarrollo Económico y turístico
+Secretaria de Agricultura y
+Minería
+Secretaria de Cultura
+Secretaria
+de Desarrollo
+Económico y Turismo
+Cobertura educativa
+Inspección, vigilancia y control en educación
+Talento Humano del Sector Educativo
+Secretaria de Educación
+Misionales
+Calidad educativa
+Bienestar, Equidad e Inclusión social de los
+grupos poblacionales
+Secretaria de Mujer, Familia e
+Inclusión Social
+Gestión del Riesgo de desastres
+Seguridad y orden público
+Asistencia, inspección, vigilancia y control a
+organizaciones comunales, entidades sin ánimo
+Secretaria de Gobierno y
+Desarrollo Comunitario
+de lucro, religiosas y participación ciudadana
+Población étnica
+Paz, derechos humanos y atención a víctimas
+Gestión a la dirección del SGSSS
+Gestión en la Prestación de los Servicios de
+salud
+Gestión en salud Pública
+Secretaria de Salud
+Gestión del Aseguramiento al SGSSS
+Inspección, vigilancia y control integral en salud
+Gestión de Vías e Infraestructura
+Secretaria
+de
+Infraestructura
+Vias
+e
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p17 ===
+sobernaciot
+lo Holla
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+HIONET
+Fecha Aprobación:
+27 de Enero de 2026
+TIPO
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE
+Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 17 de 62
+PROCESO
+Gestión Jurídica
+Gestión de la Información
+Estadisi ca y Cautidad de Tecnologias de la
+Información
+Gestión del patrimonio documental
+Administracion y gestion de recursos fisicos
+Gestión y control de las rentas departamentales
+Gestión Contable
+Administración del recurso financiero
+Control Interno Disciplinario
+DEPENDENCIA
+Departamento Administrativo
+Jurídico
+Departamento Administrativo
+De Planeación
+Secretaria General
+Secretaria de Hacienda
+Evaluación
+Oficina de Control Disciplinario
+Gestión de Control y auditorias
+Oficina de Control Interno
+Tomado del Manual de Gestión Integral de la Entidad
+5.1.5 Portafolio de Servicios que Presta la Gobernación del Huila en Relación
+a sus Procesos y Grupos de Valor
+Tabla 3. Portafolio de Servicios que Presta la Gobernación del Huila
+GRUPOS DE VALOR
+PROCESO
+PRODUCTOS O SERVICIOS
+ENTES DE CONTROL
+ALCALDES
+ENTIDADES DEL SECTOR PÚBLICO
+ORGANISMOS PRIVADOS
+GESTION A LA
+Direcciones locales de salud en
+DIRECCION DEL
+el Departamento orientados para
+SISTEMA
+asumir las competencias en el
+componente de dirección del
+GENERAL
+DEl
+SEGURIDAD
+/S.G.S.S.S
+SOCIAL
+EN
+IPS acompañadas en el proceso
+SALUD
+del saneamiento de los aportes
+patronales
+GESTION
+DEL
+Sistema de aseguramiento en
+ASEGURAMIENT
+salud asistido,
+vigilado
+O AL SISTEMA controlado
+x
+x
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p18 ===
+Gobernación
+Fecha Aprobación:
+27 de Enero de 2026
+PROCESO
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+contec
+150 0001
+GIONET
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 18 de 62
+PRODUCTOS O SERVICIOS
+ENTES DE CONTROL
+ALCALDES
+GRUPOS DE VALOR
+COMUNIDAD
+PROVEEDORES Y PRESTADORES DE
+SERVICIOS
+EMPRESAS, SOCIEDADES DEL
+ESTADO E INSTITUCIONES DE SALUD
+ESTABLECIMIENTOS EDUCATIVOS
+Y/O INSTITUCIONES EDUCATIVAS
+ENTIDADES DEL SECTOR PÚBLICO
+ORGANISMOS PRIVADOS
+GENERAL
+SEGURIDAD
+SOCIAL
+SALUD
+DE
+EN
+Prestadores de servicios de
+salud inscritos y habilitados.
+Recurso humano en
+salud
+inscrito mediante certificado y
+Orden de prestación de servicios
+de salud y/o ayudas técnicas
+Urgencias:
+emergencias
+GESTIÓN EN LA desastres,
+coordinados
+PRESTACION DE
+LOS SERVICIOS
+DE SALUD
+asignados
+según los lineamientos de la
+coordinación Nacional de la red
+de donación y trasplante
+Proyectos de inversión
+para
+infraestructura,
+dotación
+equipos de salud viabilizados
+Red de
+servicios de salud
+estructurada y
+en
+funcionamiento.
+Medicamentos entregados
+Población huilense con bajos
+ndices
+de morbilidad
+mortalidad en eventos de interés
+en salud pública
+GESTION
+EN
+Actores del SGSSS asistidos y
+SALUD PUBLICA
+capacitados en los programas
+contemplados en el Plan de
+Salud Pública
+Resultados de
+• laboratorio de
+salud publica
+GESTIÓN
+TALENTO
+DEL
+Estudio Técnico de Planta de
+cargos presentada al MEN
+x
+X
+X
+X
+X
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co -Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p19 ===
+de friación
+Fecha Aprobación:
+27 de Enero de 2026
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+PLAN ESTRATÉGICO TECNOLOGIA DE
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+IQNET.
+PROCESO
+PRODUCTOS O SERVICIOS
+ENTES DE CONTROL
+ALCALDES
+COMUNIDAD
+PROVEEDORES Y PRESTADORES DE
+SERVICIOS
+EMPRESAS, SOCIEDADES DEL
+ESTADO E INSTITUCIONES DE SALUD
+ESTABLECIMIENTOS EDUCATIVOS
+Y/O INSTITUCIONES EDUCATIVAS
+GRUPOS DE VALOR
+ENTIDADES DEL SECTOR PÚBLICO
+Página 19 de 62
+Versión: 1
+Código: SGN-C043-PIE01
+SCAISH-1
+50 901
+ORGANISMOS PRIVADOS
+HUMANO
+DEL Decreto de adopción de planta
+SECTOR
+de cargos
+EDUCATIVO
+Decreto de Distribución de planta
+de cargos
+Actos
+administrativos
+de
+nombramiento de personal
+Manual de funciones y perfiles
+para Personal Administrativo de
+la Instituciones Educativas
+Decreto
+de
+Reglamento
+Territorial de Inspección
+vigilancia y Resolución del Plan
+operativo anual de Inspección y
+INSPECCIÓN,
+VIGILANCIA
+CONTROL
+EDUCACIÓN
+vigilancia
+Y Informe de resultados
+de
+las
+EN visitas a los establecimientos
+educativos
+Actos
+administrativos
+de
+legalización
+establecimientos
+educativos
+oficiales y no oficiales
+escolar matriculayes, atenidos y
+con el cupo garantizado en el
+servicio educativo
+COBERTURA
+EDUCATIVA
+PAn de apoyo al mejoramiento -
+CALIDAD
+EDUCATIVA
+profesional de educadores
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co -Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p20 ===
+Ge unción
+Fecha Aprobación:
+27 de Enero de 2026
+PROCESO
+(@)
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+contec
+JONET
+150*01
+SC4553-1
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 20 de 62
+GRUPOS DE VALOR
+PRODUCTOS O SERVICIOS
+ENTES DE CONTROL
+ALCALDES
+COMUNIDAD
+PROVEEDORES Y PRESTADORES DE
+SERVICIOS
+EMPRESAS, SOCIEDADES DEL
+ESTADO E INSTITUCIONES DE SALUD
+ESTABLECIMIENTOS EDUCATIVOS
+Y/O INSTITUCIONES EDUCATIVAS
+ENTIDADES DEL SECTOR PÚBLICO
+ORGANISMOS PRIVADOS
+Coordinación
+interinstitucional
+para la ejecución de procesos de
+articulación
+Vias
+e
+Infraestructuras
+construidas,
+rehabilitadas
+GESTIÓN
+VIAS
+INFRAESTRUCT
+URA
+DE
+mejoradas y conservadas
+Necesidades
+identificadas
+E
+priorizadas
+Entidades
+centralizadas
+descentralizadas apoyadas en el
+mejoramiento
+de
+infraestructura
+su
+FORTALECIMIEN
+TO
+DEL
+PATRIMONIO
+Patrimonio cultural Valorado,
+CULTURAL
+Protegido y Difundido
+HUILENSE
+Funcionarios
+ASISTENCIA
+TECNICA,
+públicos
+servidores
+asesorados
+técnicamente
+SEGUIMEINTO Y
+EVALUACIÓN
+Documento
+de medición y
+MUNICIPAL
+análisis del desempeño integral
+municipal.
+Estudios de conocimiento
+del
+riesgo.
+GESTION
+RIESGO
+DESASTRES
+DEL
+Obras de
+prevención y
+DE
+mitigación
+Apoyo humanitario (alimentario y
+no alimentario), y/o económico.
+Asistencia y visitas técnicas
+Actividades
+coordinadas
+SEGURIDAD
+articuladas con la fuerza pública
+ORDEN PUBLICO
+y organismos de seguridad del
+ASISTENCIA,
+INSPECCIÓN.
+en legislación comunitaria
+x
+x
+x
+x
+X
+x
+x
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila
+x
+=== p21 ===
+Fecha Aprobación:
+27 de Enero de 2026
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+PLAN ESTRATÉGICO TECNOLOGIA DE
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+PROCESO
+PRODUCTOS O SERVICIOS
+ENTES DE CONTROL
+ALCALDES
+COMUNIDAD
+PROVEEDORES Y PRESTADORES DE
+SERVICIOS
+EMPRESAS, SOCIEDADES DEL
+ESTABLECIMIENTOS EDUCATIVOS
+Y/O INSTITUCIONES EDUCATIVAS
+GRUPOS DE VALOR
+Página 21 de 62
+Versión: 1
+Código: SGN-C043-PIE01
+FIONET
+VIGILANCIA
+Y
+Entidades y organizaciones
+CONTROL
+A
+comunitarias
+Controladas
+ORGANIZACIONE
+vigiladas
+S COMUNALES,
+Personerías
+Juridicas
+ENTIDADES SIN
+dignatarios reconocidos
+ANIMO
+DE
+*Dignatarios Inscritos.
+LUCRO
+*Certificación
+de Personería
+RELIGIOSAS Y
+Jurídica y Representación Legal.
+PARTICIPACIÓN
+*Reforma de Estatutos.
+CIUDADANA
+*Reconocimiento de Personería
+Jurídica.
+*Certificados de Existencia y
+Representación Legal
+Apertura y Registro de Libros
+Cancelación
+de Personería
+Juridica.
+BIENESTAR,
+EQUIDAD
+E
+INCLUSION
+SOCIAL DE LOS
+Población
+Vulnerable
+beneficiada mediante programas
+sociales
+GRUPOS
+POBLACIONALES
+DESARROLLO
+ECONÓMICO, R
+Infraestructura productiva del
+AGROINDUSTRIA
+departamento
+orientada,
+Y MINERO
+desarrollada y modernizada.
+DESARROLLO
+Destinos
+turisticos
+ECONÓMICO
+Y
+estructurados, cualificados y
+TURISTICO
+promocionados
+Respuestas
+las
+RELACIÓN
+SERVICIO
+ESTADO
+CIUDADANO
+Y
+Comunicaciones oficiales, PQR,
+y requerimientos realizados a
+través del PBX, telefax 8712705
+de
+la linea gratuita
+01800968716, atendidos.
+Pasaporte
+X
+Tomado del Manual de Gestión Integral de la Entidad
+ORGANISMOS PRIVADOS
+X
+X
+X
+X
+x
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p22 ===
+Fecha Aprobación:
+27 de Enero de 2026
+SISTEMA DE GESTION: MODELO
+Icontec
+SIONET
+INTEGRADO DE PLANEACIÓN Y
+150 гол
+GESTIÓN - MIPG
+SC4153-1
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 22 de 62
+5.1.6. Grupo para la Construcción del PETI
+Conforme a lo establecido en la guía G.ES.06 Guía para la Construcción del PETI
+- Planeación de la Tecnología para la Transformación Digital, se relacionan los
+funcionarios encargados para la construcción del Plan Estratégico de Tecnologías
+de la Información.
+Área
+ía, Conectividad y Telecomunicaciones
+de Tecnolog
+Tabla 4. Equipo para la Construcción del PETI
+Nombre
+Función
+Abel Ángel
+Ángel
+Apoyar la construcción de los temas
+relacionados con las aplicaciones, y la
+implementación de Gobierno Digital.
+Myrian Rocío
+Santos
+Carolina Falla
+Cleves
+Yesinith Varela
+Bonilla
+Profesionales
+de Apoyo
+Apoyar la construcción de los temas
+relacionados con la seguridad, y la
+implementación de Gobierno Digital.
+Apoyar la construcción de los temas
+relacionados con la infraestructura, y la
+implementación de Gobierno Digital.
+Líder de la implementación de Gobierno
+Digital, Líder Estratégico de Tl y Responsable
+de Seguridad y Privacidad de la Información.
+Orientar a las áreas en la definición de las
+acciones de mejora.
+Apoyar la construcción de los temas
+relacionados con las Aplicaciones, Seguridad
+e
+Infraestructura, así como de la
+implementación de la política de Gobierno
+Digital.
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p23 ===
+Gobernaçion
+del Muila
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+FIONET
+150 scien
+Código: SGN-C043-PIE01
+Fecha Aprobación:
+27 de Enero de 2026
+PLAN ESTRATÉGICO TECNOLOGIA DE
+Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 23 de 62
+5.2 Direccionamiento Estratégico de TI
+5.2.1 Plan de Desarrollo Nacional "Colombia, Potencia Mundial de la Vida"
+Objetivos
+• Garantizar acceso,
+uso y aprovechamiento de datos para impulsar la
+transformación social.
+• Garantizar las libertades, la protección de la dignidad y el desarrollo integral de
+las personas mediante la gestión confiable de la seguridad digital.
+• Aumentar la productividad, etectividad, eficiencia y oportunidad de la justicia,
+mediante digitalización e inclusión para el bienestar de las personas en los
+territorios.
+• Fortalecer la institucionalidad como motor de cambio para recuperar la confianza
+de la ciudadanía y para el fortalecimiento del vínculo Estado - Ciudadanía.
+Estrategias
+• Duplicar el acceso a internet en el país.
+• Implementación del Programa de Datos Básicos
+• Interoperabilidad como bien público digital
+• Portabilidad de datos para el empoderamiento ciudadano
+• Datos sectoriales para aumentar el aprovechamiento de datos en el país
+• Visibilización de las desigualdades para mejorar la toma de decisiones de
+política social
+• Protección de las personas, de las infraestructuras digitales, fortalecimiento de
+las entidades del Estado y garantía en la prestación de sus servicios en el
+entorno digital
+• Legislación nacional para un ecosistema digital seguro y confiable
+• Política de Estado de Transformación Digital de la Justicia de mediano y largo
+plazo
+• Conectividad integral y estrategia multicanal para los servicios de justicia digital
+• Herramientas tecnológicas con enfoques diferenciales para la divulgación y
+acceso al ordenamiento jurídico
+• Capacidades y la oferta del Sistema de Justicia.
+• Lucha contra la corrupción en las entidades públicas nacionales y territoriales
+• Entidades públicas territoriales y nacionales fortalecidas
+• Calidad, efectividad, transparencia y coherencia de las normas
+• Gobierno digital para la gente
+• Capacidades y articulación para la gestión territorial
+• Eficiencia institucional para el cumplimiento de los acuerdos realizados con las
+comunidades
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co -Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p24 ===
+Ge Hunación
+Fecha Aprobación:
+27 de Enero de 2026
+Metas
+(O)
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+contec
+1509001
+(TONET
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 24 de 62
+Sector
+Función
+Pública
+TIC
+TIC
+TIC
+TIC
+TIC
+TIC
+TIC
+Indicador
+Ciudadanos y servidores públicos
+capacitados en temas de gestión
+pública
+Accesos móviles a internet
+Entidades del orden nacional y
+territorial que den apertura, actualicen
+o usen los datos abiertos
+Formaciones finalizadas en
+habilidades digitales
+Personas mayores de cinco años que
+usan internet
+Personas sensibilizadas en el uso
+seguro y responsable de las TIC
+Empresas de la industria digital
+beneficiadas para impulsar la
+transformación productiva del país
+Empresas y/o empresarios que
+adoptan herramientas tecnológicas
+para la transformación digital
+Línea Base
+173.532
+(2022)
+30'100.000
+(2021)
+651
+Meta Cuatrienio
+220.000
+61'400.000
+800
+73.03%
+(2021)
+-
+1.569
+(2022)
+12.822
+(2022)
+797.000
+85%
+4'200.000
+3.405
+32.822
+5.2.2 Plan de Desarrollo del Departamento
+El Plan de Desarrollo Departamental (2024- 2027) "Por un Huila Grande" ha
+planteado los siguientes programas vinculado el desarrollo de TI, fortalecimiento la
+institucionalidad de TI basados en la adopción de la política de Gobierno Digital.
+OBJETIVOS
+• Articular acciones intersectoriales e interinstitucionales para la implementación
+de las TIC en el orden departamental, logrando el mayor acceso a la población,
+en el propósito de avanzar en una sociedad más productiva, competitiva,
+globalizada, protegida y con mayor apropiación y acceso al conocimiento.
+ESTRATEGIAS
+• Facilitar el acceso de los ciudadanos a internet, conformando alianzas con
+entidades del orden nacional y territorial, para llevar este servicio a zonas de
+difícil acceso del Departamento.
+Fomentar el uso y apropiación de TIC y la inclusión social digital, a través de
+centros y puntos digital del Departamento, alianzas con entidades de educación
+informal, vinculando población en estado de vulnerabilidad, discapacidad y
+población rural dispersa.
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co -Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p25 ===
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+HIONET
+250 s0e-
+Gei Hưng ción
+Fecha Aprobación:
+27 de Enero de 2026
+Kanh
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE
+Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 25 de 62
+• Fortalecer la política de Gobierno Digital en el Departamento del Huila,
+asesorando y acompañando entidades del orden local en su adopción e
+implementación, con el fin de mejorar la gestión y gobernanza de 11.
+Indicador de
+resultado
+Línea
+Base
+Año
+Linea
+base
+Meta
+2027
+Meta
+2024-2027
+290020002
+Porcentaje de hogares
+con acceso a internet
+56,0%
+2022
+66,0%
+10%
+Fuente de
+ODS
+informacion
+DANE -
+Boletín
+técnico
+indicadores
+básicos de
+TIC en
+hogares
+Programa 2301 Facilitar el acceso y uso de las Tecnologías de la Información
+y las Comunicaciones en todo el territorio nacional
+Indicador de
+resultado
+Línea
+Base
+Año
+Linea
+base
+Meta
+2027
+Meta
+2024-2027
+Porcentaje de hogares
+con acceso a internet
+56,0%
+2022
+66.0%
+10%
+Fuente de
+información
+DANE -
+Boletín
+técnico
+indicadores
+básicos de
+TiC en
+hogares
+ODS
+Producto
+Servicio de
+educación informal
+en uso básico de
+tecnologias de la
+Información y las
+comunicaciones
+Indicador
+Personas de la
+comunidad
+capacitadas en
+uso básico de
+tecnologías de la
+información y las
+comunicaciones
+Línea
+base
+Año
+linea
+base
+Meta
+2027
+Meta
+2024 - 2027
+ODS
+10.000
+2023
+15.000
+15.000
+171
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co -Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p26 ===
+de Hunación
+Fecha Aprobación:
+27 de Enero de 2026
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+(O)
+contec
+IS0 seus
+(TONET
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 26 de 62
+Servicio de
+Conexiones a
+Redes de Acceso
+onexiones :
+internet fijc
+151.592
+2023
+157.484
+157.484
+17
+Servicio de
+asistencia técnica
+para promocionar
+la oferta
+nstitucional er
+TIC
+Municipios
+asistidos en oferta
+institucional
+0
+2023
+4
+5.2.3 Alineación Planes Estratégicos
+Plan Nacional de Desarrollo
+Garantizar las libertades, la protección de la
+dignidad y el desarrollo integral de las
+personas mediante la gestión confiable de la
+seguridad digital.
+Tabla 5. Alineación Plan Nacional de Desarrollo - Plan de Desarrollo
+Departamental
+Plan Departamental de Desarrollo
+Personas
+de
+la comunidad
+capacitadas en uso básico de
+tecnologías de laen uso básico de
+tecnologías de la información y las
+comunicaciones.
+Fortalecer la institucionalidad como motor de
+cambio para recuperar la confianza de la
+ciudadanía y para el fortalecimiento del
+• Municipios asistidos
+Institucional en TIC.
+en
+oferta
+vínculo Estado - Ciudadanía.
+Aumentar la productividad, efectividad,
+eficiencia y oportunidad de la justicia,
+mediante digitalización e inclusión para el
+• Servicio de Conexiones a Redes de
+bienestar de las personas en los territorios.
+Acceso a Internet Fijo.
+Garantizar acceso, uso y aprovechamiento
+de datos para impulsar la transformación
+social.
+• Personas |
+de
+la comunidad
+capacitadas
+en
+uso básico de
+tecnologías de la información y las
+comunicaciones.
+• Municipios
+asistidos en
+oferta
+Institucional en TIC.
+5.3 Alineación / Cobertura de las TIC a los procesos de la Entidad
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co -Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p27 ===
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+HIQNET
+150 s01
+Gobernación
+del Muita
+KASH
+Código: SGN-CO43-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE
+Fecha Aprobación:
+27 de Enero de 2026
+Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 27 de 62
+Tabla 6. Servicios de TIC que Asisten o dan Cobertura a los Procesos de la Entidad
+Servicios
+Portal Web
+Portal de
+Contratación
+Sistema de
+Comunicacio
+nes Oficiales.
+Sigdehu
+Procesos
+Estratégicos
+Planeación Estratégica del
+Departamento
+Gobernabilidad
+Comunicación Pública
+Mejora
+continua
+desempeño institucional
+Gerencia de proyectos y
+regalias
+Ciencia, Tecnologia e
+Innovación - Ctel
+Gestión de la Contratación
+Gestión
+del Talento
+Humano
+Planificación y Control del
+Presupuesto
+Evaluación
+Gestión de Control y
+Auditorias
+Control
+Interno
+Disciplinario
+Misionales
+Gestión a la dirección en
+Salud
+Prestación de servicios de
+Salud
+Gestión en Salud Püblica
+Sistema de Seguridad
+Social en Salud
+Conocie el en lo
+Cobertura Educativa
+Calidad Educativa
+X
+× ×
+X
+Extranet
+Correo
+Electrónico
+Mensajería
+Instantánea
+× ×
+× ×
+×× *
+× ×
+X X
+X
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co -Twitter: @HuilaGob - Facebook: Gobernación del Huila
+Acceso a
+Internet
+xxx
+X
+× X
+Soporte a
+Usuarios
+X
+Gestión de
+Usuarios
+X
+. ×
+=== p28 ===
+Servicios
+Portal Web
+Portal de
+Contratación
+Sistema
+27 de Enero de 2026
+Fecha Aprobación:
+Ge Hunación
+City
+Sishuila
+Sideru
+Sirhuila
+Sityc
+Siproj
+Sipej
+COMUNICACIONES - PETI
+LA INFORMACIÓN Y LAS
+PLAN ESTRATÉGICO TECNOLOGIA DE
+GESTIÓN - MIPG
+INTEGRADO DE PLANEACIÓN Y
+SISTEMA DE GESTION: MODELO
+Icontec
+10 mor
+IONET
+Código: SGN-C043-PIE01
+Versión: 1
+Página 28 de 62
+Sild
+TBG
+Extranet
+Correo
+Electrónico
+Procesos
+Inspección, Vigilancia y
+Control en educación
+Talento Humano del sector
+educativo
+Gestión de
+Vias
+Infraestructura
+Fortalecimiento
+Patrimonio
+del
+Cultural
+Huilense
+Asistencia
+Técnica,
+Seguimiento y Evaluación
+Municipal
+Gestión del Riesgo de
+Desastres
+Relación y Servicio Estado
+- Ciudadano
+Paz, derechos humanos y
+atención a victimas
+Seguridad y Convivencia
+Ciudadana
+Asistencia,
+inspección,
+entades sin cito de
+lucro,
+religiosas
+participación ciudadana
+Bienestar, equidad
+inclusión social de los
+grupos poblacionales
+Desarrollo
+económico,
+agroindustria y minero
+Gestión Ambiental
+Desarrollo Económico y
+Turístico
+Población étnica
+Gestión de pensiones a
+cargo del Departamento
+Apoyo
+X
+×* ×
+* x
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila
+X
+Mensajeria
+Instantánea
+X
+Acceso a
+Internet
+X
+Soporte a
+Usuarios
+× ×
+Gestión de
+Usuarios
+=== p29 ===
+Gobernación
+del Huila
+Fecha Aprobación:
+27 de Enero de 2026
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+PLAN ESTRATÉGICO TECNOLOGIA DE
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Servicios
+Sifa
+City
+Sishuila
+Sigdehu
+Sirhuila
+Sityc
+Siprol
+Sipej
+LIONET
+150 v00
+Código: SGN-C043-PIE01
+Versión: 1
+Página 29 de 62
+Extranet
+Correo
+Electrónico
+X
+Mensajeria
+Instantánea
+Procesos
+Gestión y control de las
+rentas departamentales
+Gestión contable
+Administración del recurso
+financiero
+Administración y gestión
+de los recursos fisicos
+Gestión Juridica
+Gestión y seguridad de
+tecnologías
+información
+Gestión de la información
+estadistica y cartográfica
+Gestión del patrimonio
+documental
+. *
+× x
+TBG
+X X
+X X
+X
+X X
+× ×
+x
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co -Twitter: @HuilaGob - Facebook: Gobernación del Huila
+x
+. ×
+X
+Acceso a
+Internet
+Soporte a
+Usuarios
+Gestión de
+Usuarios
+=== p30 ===
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTION - MIPG
+(®)
+Icontec
+GIONET
+Gobernacion
+del Huila
+SC0S1-1
+Código: SGN-C043-PIE01
+Fecha Aprobación:
+27 de Enero de 2026
+PLAN ESTRATÉGICO TECNOLOGIA DE Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 30 de 62
+5.4 Canales a Través de los Cuales se Prestan los Servicios
+La Gobernación del Huila cuenta con varios canales de comunicación para la
+solución de incidencias, con un equipo técnico para atención que provee soluciones
+a problemas con excelentes tiempos de respuesta y con personal especializado
+para visitas en sitio, en casos en que sea requerido.
+La Mesa de Ayuda, atenderá los incidentes y peticiones necesarios para el normal
+funcionamiento de los activos y servicios de TI.
+• Telefónica: Los agentes de la mesa de servicio analizarán, registrarán y
+atenderán las solicitudes mediante asesoría telefónica en el horario de atención
+de 7:00 am a 12:00 m y de 2:00 p.m. a 6:00 pm.
+• Remota: Los analistas realizaran conexión remota al equipo del usuario a través
+de herramientas que permiten realizar esta actividad (tales como TeamViewer,
+VPN, etc) con las medidas de seguridad pertinentes, por ejemplo, uso de VPN,
+para solucionar de manera ágil, inmediata y eficaz la solicitud, en el horario de
+atención de 7:00 am a 12:00 m y de 2:00 p.m. a 6:00 pm.
+• Presencial: El analista se desplazará a la ubicación fisica donde se encuentre el
+usuario solicitante para atender la solicitud cuando no sea posible dar solución
+mediante la atención telefónica o remota, en el horario de atención de 7:00 am
+a 12:00 m y de 2:00 p.m. a 6:00 pm.
+• WEB: Los agentes recibirán vía WEB las solicitudes de los usuarios. Registro y
+estado de las solicitudes Todas la solicitudes en la mesa de servicio son
+registradas mediante un Tiquete (Ticket), que a su vez es identificado por un
+número, el cual será informado al usuario en el momento del registro de la
+solicitud de manera automática mediante correo electrónico, este número le sirve
+al usuario para que en el momento que lo desee esté informado del estado de
+su solicitud y al finalizar la atención a esa solicitud, el usuario será notificado
+mediante correo electrónico y por este medio será enviada la encuesta para
+medir el nivel de satisfacción del servicio prestado.
+5.5 Actores de TI que Prestan los Servicios
+De acuerdo a las solicitudes de prestación de los servicios TI, los actores que
+participan se clasifican en los siguientes niveles:
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p31 ===
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+JONET
+250 Mợo
+del Henación
+SC43331
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE
+Fecha Aprobación:
+27 de Enero de 2026
+Versión: 1
+LA INFORMACION Y LAS
+COMUNICACIONES - PETI
+Página 31 de 62
+• Primer Nivel: En el Primer Nivel el grupo de soporte - Técnicos, establecen un
+primer contacto con el usuario interno o externo, están preparados para
+administrar problemas de simple resolución entre los que pueden destacar:
+incidencias en líneas físicas, instalación o reinstalación básica de aplicaciones,
+inconvenientes con registros de usuario, así como verificación de la correcta
+instalación de software y hardware. Buscando dar una solución al requerimiento
+generado y/o escalarlo a los analistas de segundo y tercer nivel, realizando el
+seguimiento de la solución hasta su cierre.
+• Segundo Nivel: Se denomina segundo Nivel a los funcionarios (analistas) que
+apoyan a la mesa de servicio en la solución de requerimientos generados.
+Corrigen los fallos que no han podido ser resueltos anteriormente gracias a que
+cuentan con más experiencia y conocimientos, siendo posible ofrecer una
+revisión más física y extensa del problema. En este nivel se llevan a cabo tareas
+más complejas como recuperaciones de datos, reinicios de fábrica o cambio de
+equipos y configuración de redes inalámbricas. Cuando las solicitudes exceden
+las posibilidades del soporte técnico del segundo nivel estas se elevan al tercero.
+• Tercer Nivel: Se denomina tercer nivel a los especialistas que solucionan temas
+específicos y puntuales a nivel técnico de desarrollo y de investigación escalados
+por el primer y segundo nivel. Es este nivel tienen capacidad para tomar la
+decisión de reemplazar equipos de manera definitiva.
+5.6 Procesos y Procedimientos de TI que Generan los Servicios TI
+A continuación, se detallan
+las actividades que se desarrollan dentro del
+procedimiento a través del cual se prestan los servicios TI:
+Tabla 7. Procedimiento de Servicios TIC
+Registros
+No.
+Actividad
+Ciclo Depende Responsable
+((PHVA)
+ncia
+(Entrada y
+Salida) y/o
+Documentos
+Tiempo
+(Días u
+Horas)
+Observacion
+es
+SGN-C043-
+los
+1. Sequicionientos
+de
+TIC
+incidencias tecnológicas
+Revisar pertinencia dell
+P
+Técnico
+[Secretarial
+Operativo o
+General Profesional de
+Apoya
+M01
+SGN-C043-
+M835
+10 minutos
+Registros
+OTRS
+H
+Técnico
+(Secretarial Operativo o
+General Profesional de
+Apoyo
+SGN-C043-
+M01
+SGN-C043-
+10 minutos
+M835
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p32 ===
+Gel Hunación
+Fecha Aprobación:
+27 de Enero de 2026
+No.
+Actividad
+que la respuesta sea SI,
+pase a la actividad No. 3.
+En caso de que la
+respuesta sea NO, pase
+Analizar y clasificar el
+requerimiento
+3.
+incidencia
+según los
+servicios incluidos en el
+catálogo de servicios
+TIC, y la prioridad de
+éste
+Realizar diagnóstico de
+causas
+4. requerimiento
+del
+incidente presentado
+Realizar atención de la
+solicitud, en el caso de
+5. que corresponda a la
+activación o acceso a un
+servicio de TI
+Escalar requerimiento o
+solicitud con proveedor
+necesario, para
+solución
+Habilitar el servicio
+7. solicitado
+• realizar
+solución a lo requerido
+Notificar al usuario que
+requerimiento,
+8. solicitud o incidemiente.
+atendido y/o solucionado
+(O)
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+LIONET
+150 soci
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 32 de 62
+Ciclo
+Depende
+(PHVA)
+ncia
+Responsable
+H
+Profesional
+Universitario,
+Secretaria
+Técnico
+General | Operativo y/o
+Profesional de
+Apoyo
+Técnico
+H
+Secretaria
+Operativo o
+General Profesional de
+Apoya
+H
+H
+H
+H
+H
+Profesional
+Universitario,
+Secretaria
+Técnico
+General
+Operativo o
+Profesional de
+Apoyo
+Profesional
+Universitario,
+Secretaria
+Técnico
+General
+Operativo o
+Profesional de
+Apoyo
+Profesional
+Secretaria Universitario o
+General
+Técnico
+Operativo
+Profesional
+Universitario,
+Secretaria
+Técnico
+General
+Operativo o
+Profesional de
+Apoyo
+Profesional
+Universitario,
+Secretaria
+Técnico
+General
+Operativo o
+Profesional de
+Apoyo
+Registros
+{Entrada y
+Salida) y/c
+Documentos
+Tiempo Observacion
+(Días u
+Horas)
+es
+SGN-C043-
+M01
+SGN-C043-
+M835
+Registros
+OTRS
+10 minutos
+SGN-C043-
+M01
+SGN-C043-
+M835
+Registros
+OTRS
+10 minutos
+Registros
+OTRS
+1 hora
+Tiempo
+máximo de
+diagnóstico
+Registros
+OTRS
+30 minutos
+SGN-C043-
+P01-F06
+Registros
+OTRS
+10 minutos
+SGN-C043-
+PO1-F06
+Registros
+OTRS
+48 horas
+Tiempo
+máximo de
+atención
+Registros
+OTRS
+Correo
+15 minutos
+electrónico del
+usuario
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co -Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p33 ===
+Gel Hunación
+Fecha Aprobación:
+27 de Enero de 2026
+No.
+Actividad
+Cerrar el requerimiento
+en el sistema de gestión
+9. de servicios de TI -
+OTRS.
+Enviar
+solicitud
+10. diligenciamiento
+de
+de
+encuesta de satisfacción
+Alimentar la base de
+datos de incidentes y
+11. requerimientos, en caso
+de que aplique y sea
+hecesario.
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+GIONET
+M0901
+504011-1
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE
+Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 33 de 62
+Ciclo Depende
+(PHVA)
+ncia
+,Responsable
+Registros
+(Entrada y
+Salida) y/o
+Dacumentos
+H
+A
+Profesional
+Universitario,
+Secretarial
+Técnico
+General
+Registros
+OTRS
+Operativo o
+Profesional de
+Apoyo
+Profesional
+Universitario,
+Secretaria
+Técnico
+General |
+Operativo o
+Profesional de
+Apoyo
+Registros
+OTRS
+Correo
+electrónico del
+usuario
+Técnico
+Registros
+Secretaria
+Operativo o
+OTRS
+General | Profesional de
+Base de datos
+Apoyo
+de incidentes
+Tiempo
+(Días u
+Observacion
+Horas)
+es
+Se envía al
+notificar al
+1 minuto
+usuario sobre
+atención y
+solución
+Se realiza al
+notificar al
+1 minuto
+usuario la
+atención y
+solución
+1 hora
+6. ANÁLISIS DE LA SITUACIÓN ACTUAL
+6.1 Estrategia de TI
+En el marco del sistema de gestión de calidad en la GOBERNACIÓN DEL HUILA,
+el proceso de GESTION Y SEGURIDAD DE TECNOLOGÍAS DE LA
+INFORMACIÓN tiene en su caracterización la definición de su objetivo, actividades,
+entradas, salidas e indicadores.
+Objetivo del proceso GESTION Y SEGURIDAD DE TECNOLOGÍAS DE LA
+INFORMACIÓN
+Gestionar las tecnologías de información de la Gobernación del Huila, desarrollando
+planes, programas y proyectos, gestionando sistemas de información y prestando
+servicios de soporte, administración y mantenimiento de los servicios y la
+infraestructura tecnológica de la entidad, contribuyendo al cumplimiento de las
+metas estratégicas y los objetivos misionales.
+Las actividades e iniciativas relacionadas con los objetivos estratégicos de TI están
+enmarcados en dos programas y, a su vez, en dos proyectos de inversión que se
+formularon para el año 2026.
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co -Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p34 ===
+(O)
+Gobernación
+del Huila
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+contec
+(TONET
+150900%
+SC41531
+Código: SGN-C043-PIE01
+Fecha Aprobación:
+27 de Enero de 2026
+PLAN ESTRATEGICO TECNOLOGIA DE Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 34 de 62
+Programa:
+Facilitar el acceso y uso de las Tecnologías de la Información y las
+Comunicaciones en todo el territorio nacional
+Proyecto:
+Fortalecimiento del Ecosistema Digital en el Departamento del Huila
+Programa: Fortalecimiento a la gestión y dirección de la administración pública
+territorial - Gobernanza Institucional
+Proyecto:
+Fortalecimiento de la Estructura Tecnológica e Informática de la
+Gobernación del Huila
+Identificación de Usuarios
+Los grupos interesados y usuarios de los servicios del proceso de Gestión TI se
+pueden clasificar en:
+Usuarios Internos
+Gobernador
+•
+•
+Secretarios
+Directores de
+Administrativo
+Departamento
+•
+Líderes de proceso
+• Funcionarios de planta
+en
+general
+• Contratistas
+• Proveedores
+Usuarios Externos
+•
+Ciudadanía en general
+•
+Entes de control
+•
+Gremios
+6.2 Sistemas de Información
+El catálogo de sistemas de información presenta cada una de las soluciones
+tecnológicas que soportan los procesos de la entidad y una descripción de los
+mismos, con base en sus funcionalidades.
+Tabla 8. Catálogo de sistemas de información de la Gobernación del Huila
+Categoría
+Nombre
+Descripción
+/ Uso
+Tipo
+SISTEMA DE
+Este sistema apoya la automatización del
+INFORMACIÓN
+procesos de administración del recurso
+FINANCIERO Y
+¡financiero,
+contabilidad
+pública
+ADMINISTRATIVO-Departamental, ejecución y control del
+SIFA (Módulos:
+presupuesto Departamental, así como los
+Presupuesto,
+brocesos de administración de nómina y Administrativo
+Cliente
+/Servidor
+Tesorería,
+almacén.
+Contabilidad
+El módulo de Presupuesto y Tesorería
+Nómina, Almacén, permiten el manejo de las operaciones
+Seguridad,
+que realiza la entidad, con el manejo de
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p35 ===
+Ge Hunación
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTION - MIPG
+LIONET
+Fecha Aprobación:
+27 de Enero de 2026
+Nombre
+Planeación y
+Trazabilidad)
+SISTEMA
+INFORMACIÓN
+TRIBUTARIO
+EDESK PRISMA
+SC0sH-1
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE
+Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 35 de 62
+Descripción
+Categoría
+/ Uso
+Tipo
+este instrumento de desarrollo anual tanto
+para ingresos como para
+egresos,
+apropiaciones,
+disponibilidades,
+ejecución, compromisos y órdenes de
+pago.
+El módulo de Contabilidad es el puerto
+donde llegan todas las transacciones de
+los otros módulos que
+componen el
+SIFA® y que hace que el sistema sea
+confiable, seguro para la presentación de
+los informes concernientes a esta área.
+El módulo de Nómina facilita el manejo de
+las operaciones que realizan la entidad en
+esta área como son los pagos a los
+empleados,
+sus
+historias
+certificaciones.
+laborales,
+El módulo de Almacén permite el manejo
+de las operaciones que realiza la entidad
+en esta área como son los inventarios,
+activos
+fijos,
+elementos devolutivos,
+salidas y entradas.
+El módulo de
+Planeación permite
+establecer la ejecución presupuestal, en
+términos financieros, de los planes de
+desarrollo
+establecidos
+Departamento
+por
+el
+Administrativo
+de
+Planeación - DAP
+El módulo de Trazabilidad facilita el
+seguimiento y control de facturas que son
+presentadas por entidades prestadoras de
+servicios de salud (EPS, IPS, etc.) por
+medio de archivos
+RIPS
+(Registro
+Individual de Prestación de Servicios de
+Salud) y archivos de Recobros.
+Mediante el módulo de seguridad se
+administra los accesos a cada una de las
+opciones de todos los módulos, así como
+la creación de usuarios y asignación de
+permisos.
+DE Sistema de información que apoya la
+[Interfaz web
+Gestión
+y Control
+la Renta
+para
+Departamental: Impuestos de vehículos, Administrativo liquidaciones
+registro, otras rentas y registro cámara de
+y pago en
+Comercio
+línea
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila -- Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p36 ===
+Gobernación
+del Huila
+Fecha Aprobación:
+27 de Enero de 2026
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+icontec
+LIONET
+150 oct
+S4511
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 36 de 62
+Categoría
+/ Uso
+Tipo
+Nombre
+Descripción
+PORTAL
+WEB Solución
+enfocada
+a
+interacción,
+INSTITUCIONAL -participación, trámites y servicios en línea
+Nexura Platform e-que posibilita cambiar el modelo de
+Misional
+gov
+comunicación ciudadano-estado
+PORTAL
+DE Sistema para la publicación, seguimiento
+CONTRATACIÓN
+y convocatoria de los procesos de Administrativo
+contratación que adelanta la Entidad
+Módulo de Ventanilla Única: Proceso de
+radicación de todos los documentos -
+comunicaciones
+(peticiones,
+quejas,
+reclamos,
+sugerencias, felicitaciones y
+Sistema de Gestión
+denuncias) de entrada, salida, e internos,
+Documental
+-PQRSFD de la Entidad. Gestiona flujos
+Sistema
+de documentales de la Entidad y genera
+Comunicaciones
+informes de gestión de la atención al
+Oficiales
+Módulo ciudadano.
+Misional
+de ventanilla única
+ciudadano, modulado de thiva ecuada todos los
+de archivo)
+documentos
+electrónicos que se
+gestionan en la Entidad y también los
+documentos de archivos físicos que se
+indexen y clasifiquen a través de procesos
+de digitalización.
+Sistema Integral de
+Salud - SISHUILA
+(Módulo
+aseguramiento
+de sistema de información que apoya el
+desarrollo de los procesos Gestión a la
+SSGSS, Modulo de Dirección del Sistema General de
+Autorizaciones,
+Módulo regulador Seguridad Social en Salud, Gestión del
+aseguramiento al Sistema General de
+de urgencias Y Seguridad Social en Salud y Gestión en
+emergencias
+CRUEH, Módulo
+Salud Pública y laboratorio.
+4505, Módulo
+de
+laboratorio)
+El Sistema de Información Geográfica del
+|Huila - SIGDEHU, tiene por objetivo tener
+Sistema
+información
+de la cartografía actualizada y real (base de
+Geográfica
+del datos Georreferenciada, que permite
+Departamento del visualizar, digitalizar, procesar, desplegar
+Huila - SIGDEHU
+información temática y
+sintetizada
+en forma de cartografía
+digital). Esto ayuda a tomar decisiones en
+Misional
+Misional
+Web
+Web
+Web
+Web
+Aplicación
+de escritorio
+Edificio Gobemación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p37 ===
+Gobernación
+del Huila
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+LIONET
+Fecha Aprobación:
+27 de Enero de 2026
+Nombre
+SC4151t
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE
+Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 37 de 62
+Descripción
+Categoría
+Tipo
+/ Uso
+materia de ordenamiento territorial para
+los municipios y el departamento.
+A través del Sistema de Información
+Regional del Departamento del Huila se
+busca apoyar la planificación integral de
+mediano y largo plazo para la ejecución y
+Sistema
+Información
+Regional
+SIRHUILA
+municipios; de tal forma que permita
+-dinamizar el desarrollo regional y la
+inversión pública ejerciendo control social.
+Además, el sistema sirve de apoyo ante
+las necesidades de información de las
+entidades y usuarios sobre diferentes
+aspectos del departamento del Huila.
+Es el Sistema de información Turistica y
+Cultural del Huila, una herramienta
+tecnológica que a través del uso de las
+objetivo
+fortalecimiento del desarrollo sostenible
+Sistema
+información
+dole saca purica pry cultural isquresenta
+Turistica y Culturalmejorar la competitividad regional,
+valorando la importancia del trabajo en
+del Huila - SITYC
+equipo y aportando a procesos de
+investigación, desarrollo e innovación en
+el presente y a futuro. EI SITYC es una
+olataforma multi-servicios, que integra
+funciones de estadística, divulgación y
+promoción.
+Este es sistema está basado en Balanced
+TBG - Huila
+seguimiento del plan de desarrollo, la
+información que arroja permite evaluar y
+proyectar políticas públicas e inversiones
+Misional
+Web
+Misional
+Web
+Misional
+Web
+6.3 Servicios Tecnológicos
+El proceso de GESTION Y SEGURIDAD DE TECNOLOGÍAS DE LA
+INFORMACIÓN cuenta con el siguiente lístado de servicios TI en oferta para el
+cliente interno y apoyo a los diferentes procesos de la entidad.
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p38 ===
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+(O)
+Icontec
+BIONET
+de Hunación
+Fecha Aprobación:
+27 de Enero de 2026
+$C4155-1
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE Versión: 1
+LA INFORMACION Y LAS
+COMUNICACIONES - PETI
+Página 38 de 62
+Tabla 9. Catálogo de Servicios TIC de la Gobernación del Huila
+N°
+1
+SERVICIO
+DESCRIPCIÓN
+Internet
+Conexión a internet para el edificio central y sedes de la
+Gobernación del Huila
+2
+Conexión red WiFi
+Acceso a la red de datos a través de conexión inalámbrica para
+equipos de la entidad y usuarios externos
+Asistencia técnica, de manera presencial, remota, telefónica o
+3
+Soporte a usuarios
+web, a computadores, impresoras, periféricos informáticos y
+UPS.
+4
+Gestión de usuarios
+Creación y administración de usuarios del dominio de la
+entidad
+Medio de intercambio externo e interno de información
+5
+Correo electrónico
+institucional, a través de internet de manera confiable y fácil -
+Creación y gestión de cuentas
+Portal de información y comunicación interno, mediante el cual
+6
+Extranet
+se tiene acceso a información institucional y herramientas que
+apoyan la gestión de las diferentes dependencias
+Publicación de información en el portal oficial de comunicación,
+7
+Sede Electrónica
+transparencia e interacción de la entidad, dirigido a la
+ciudadanía y a otras entidades ww.huila.gov.co
+8
+9
+10
+11
+Sistemas de información
+Soporte a la operación del
+sistema financiero SIFA
+Soporte a la operación del
+Comunicaciones Oficiales
+Telefonía fija
+Gestión de requerimientos no funcionales de los diferentes
+sistemas de información que soportan procesos de la entidad
+Apoyo técnico a la gestión de usuarios y operación del SIFA
+Apoyo técnico a la gestión de usuarios y operación del Sistema
+de Comunicaciones Oficiales
+Medio de comunicación por voz a través de la red de telefonía
+fija que permite la comunicación entre dependencias y con el
+exterior - Soporte y mantenimiento
+12
+Backup
+Almacenamiento y respaldo de información relevante que
+respalde procesos de la entidad
+Elaboración conceptos técnicos relacionados con las
+13
+Conceptos técnicos
+adquisiciones tecnológicas en hardware, sistemas de
+información y aplicaciones
+6.4 Gestión de Información
+La gestión de la información se encuentra en un nivel incipiente en la entidad.
+Existen algunos flujos de información que relacionan procesos de generación de
+información y la publicación de la misma en medios como la página web. Estos flujos
+están enmarcados en la aplicación de la ley de Transparencia y Acceso a la
+Información.
+6.5 Gobierno de TI
+Dentro de la estructura de procesos está el proceso de GESTION Y SEGURIDAD
+DE TECNOLOGÍAS DE LA INFORMACIÓN, en este proceso se tiene como lider un
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co -Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p39 ===
+Sobernacion
+del Huilc
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+FIONET,
+150 som
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE
+Fecha Aprobación:
+27 de Enero de 2026
+Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 39 de 62
+profesional especializado que es el encargado de articular el objetivo y actividades
+del proceso con el resto de la entidad. Dentro de la estructura orgánica no existe la
+institucionalidad de TI, enmarcada en los lineamientos expuestos en el decreto 415
+de 2016 y el decreto 1499 del 11 de septiembre de 2017, correspondiente al Modeio
+Integrado de Planeación y Gestión - MIPG
+7. DIAGNÓSTICO
+7.1 Análisis frente al seguimiento de lo ejecutado en la vigencia anterior
+Dominio TI
+Tabla 10. Seguimiento de ejecución de iniciativas PETI 2025
+Iniciativa
+Descripción
+actividad
+Servicios
+Tecnológicos
+Servicios
+Tecnológicos
+Gestión de la
+seguridad
+nformática de la
+Gobernación del
+implementación ®
+protocolos nueve
+precionamiento.
+Realizar gestión de la
+seguridad informática del
+centro
+de
+datos
+e
+infraestructura de la red
+de
+datos
+de
+la
+Gobernación del Huila, y
+evaluación
+de
+estructura tecnológica de
+la
+entidad
+para
+determinar un plan de
+acción para la migraciór
+a protocolo IPV6
+Fortalecimiento
+de
+la
+infraestructura
+tecnológica de la
+entidad
+Fortalecer la capacidad
+tecnológica de la entidad
+mediante inversión en la
+actualización y cambio
+de
+la
+infraestructura
+tecnológica en las sedes
+de la entidad y el soporte
+de
+servicios
+Disminuir los tiempos en
+la gestión de trámites
+tecnológicos
+de
+la
+Gobernación del Huila.
+Seguimiento
+El Grupo de Tecnologia realizó
+la contratación del
+servicio
+Seguridad
+de
+| especializado
+de
+centro de datos y
+administración y seguridad del
+redes de datos
+centro de datos y redes de
+de la entidad.
+datos de la entidad (Contrato
+de Suministro de Servicios No.
+Plan de acción
+929 de 2025, de objeto "Prestar
+para diagnóstico
+los servicios pare el soporte,
+de
+redes
+e
+administración
+implementación
+mantenimiento de los servicios
+de
+protocolo
+tecnológicos
+de
+IPv6.
+infraestructura ti de la
+Gobernación
+del
+Huila,
+incluyendo el suministro de
+repuestos que se requieran").
+El Grupo de Tecnología realizó
+las siguientes actividades, en
+procura
+de fortalecer
+la
+Aumento en la
+capacidad
+de
+infraestructura
+tecnológica
+modernización
+de equipos
+Red de datos
+Centros de datos
+Equipos
+tecnológicos
+Respaldo
+nformaciór
+Continuidad de
+servicios
+capacidad tecnológica de la
+entidad:
+- Contrato de Suministro de
+Servicios No. 929 de 2025, er
+el que se incluye el suministro
+de repuestos y/o partes para
+los computadores, impresoras.
+denta Ad infusacio entra
+Departamental.
+- Ampliación de canal
+de
+intermet de 700 Mips a de
+Mbps en el Edificio Principal, y
+ampliación de canal de internet
+de 400 Misa 0Mp en la
+Secretaria de Salud
+- Implementación de canal di
+nternet para la nueva sede de
+Servicios
+Tecnológicos
+Gestión
+Fortalecimienio de
+servicios TI
+Gestionar
+los
+requerimientos
+de
+servicios TI de soporte,
+mantenimiento
+y
+capacitación por medio
+Herramienta
+gestionar
+requerimientos de servicios de
+TI de la entidad:
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p40 ===
+se Hunación
+Fecha Aprobación:
+27 de Enero de 2026
+Dominio TI
+Iniciativa
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTION - MIPG
+contec
+SIONET
+10x01
+SC415H-1
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 40 de 62
+Descripción
+actividad
+de
+una herramient
+Meta
+Cumplimiento de
+Seguimiento
+tecnológica que facilite li
+Su estallan del servicio y
+en el servicio: soporte.lic@huila.gov.co.
+ofrecido por el
+procesa
+de
+gestión TI
+Sistemas
+Información
+Fortalecimiento
+de
+de sistemas de
+información de la
+entidad
+Actualizar de manera
+constante los sistemas
+de información de la
+entidad con el fin de
+mejor
+prestación de servicios a
+la ciudadanía en general
+y desarrollo efectivo de
+los procesos.
+Ei Grupo de Tecnbogia Teaizo
+as siguientes ider os
+procura de fortalecer
+sistemas de información de la
+Sistemas
+de
+entidad:
+Información
+- Sistemas de información
+actualizados.
+Extranet Corporativa, SIFA, !
+nuevo portal de Impuestos de
+Vehiculos e Impuesto de
+Registro, con servicio de
+soporte
+y
+mantenimiento
+contratados.
+Tabla 11. Línea base producto de seguimiento de iniciativas PETI 2025
+Dominio Ti
+Línea Base
+Cantidad
+Gestión de la seguridad
+Servicios
+contratados
+informática
+Seministración y seguridad del cerro de datos y
+Servicios
+Tecnológicos
+Gobernación del Huila e redes de datos de la entidad
+implementación de nuevos
+de
+Plan de acción para diagnóstico de redes que permita
+direccionamiento.
+implementar nuevos protocolos de direccionamiento
+Servicios
+Fortalecimiento
+Tecnológicos
+apesa conica de la in para raleer la
+Servicios
+Tecnológicos
+destinicios fortalecimiento
+Indicadores de oportunidad No. 1 y 2 de la matriz de
+ndicadores del proceso de Gestión y Seguridad de
+TI.
+Indicador 1 = 100%
+Indicador 2 = 0%
+Sistemas
+Fortalecimiento
+de
+Información
+1 ante normado de
+Sistemas de información con servicio de soporte y
+mantenimiento contratados.
+4
+7.2 DOFA
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p41 ===
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+GIONET
+N0 204:
+Gobernación
+Kans
+del Huila
+Código: SGN-C043-P1E01
+Fecha Aprobación:
+PLAN ESTRATÉGICO TECNOLOGIA DE Versión: 1
+27 de Enero de 2026
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 41 de 62
+Tabla 12. Matriz DOFA para el proceso de Gestión y Seguridad de TI
+OPORTUNIDADES (0) -
+AMENAZAS (A)- superarlas
+EXTERNAS
+aprovecharlas
+1. Incentivos por entidades del
+orden nacional asociadas a TI
+para la formación del talento
+humano
+1. Vulnerabilidad
+2. Tendencias de innovación y
+información
+de
+la
+INTERNAS
+transformación digital
+FORTALEZAS
+(F)-
+3. Nuevas tecnologías
+ESTRATEGIAS FO-
+ESTRATEGIAS FA -
+explotarlas u optimizarlas
+ofensivas o de crecimiento
+Defensivas
+1. Conocimiento de la entidad
+y sus procesos
+2. Proceso documentado
+3. Experiencia y
+buenos
+Gestión y fortalecimiento de
+servicios TI
+Fortalecimiento de sistemas
+de información de la entidad
+resultados en proyectos
+formulados
+DEBILIDADES
+(D)-
+minimizarlas
+1. Falta de inversión
+2. El grupo TIC no es tenido
+en cuenta en el nivel
+estratégico de la entidad
+3. Falta de capacitación al
+personal
+ESTRATEGIAS DO - de
+reorientación o refuerzo
+Gestión de la seguridad
+informática de la Gobernación
+del Huila.
+Implementación de nuevos
+protocolos de
+direccionamiento.
+ESTRATEGIAS DA -
+supervivencia o retiro
+Fortalecer la infraestructura
+tecnológica en la Administración
+Central Departamental.
+Como resultado del análisis DOFA, se identifica la necesidad de desarrollar
+estrategias que permitan fortalecer la gestión de tecnologías de la información en la
+Gobernación del Huila, a partir de las herramientas y servicios TIC que actualmente
+se gestionan y fortalecen permanentemente, aprovechando para ello las nuevas
+tecnologías disponibles y tendencias en transformación digital para implementar
+soluciones tecnológicas que permitan mejorar los procesos y la eficiencia
+administrativa.
+Así mismo, es importante direccionar recursos desde entidades del orden nacional
+asociadas a TI (como el Ministerio TIC, el Departamento de Función Pública, entre
+otras) para el fortalecimiento de las capacidades y competencias del talento humano
+de la entidad, y de esta manera, avanzar en el cumplimiento e implementación
+buenas
+prácticas, estándares
+y normatividad nacional, fortaleciendo los
+conocimientos, experiencia y resultados obtenidos y documentados en el proceso
+de Gestión y Seguridad de TI de la entidad, y atendiendo así riesgos, necesidades
+y debilidades identificadas.
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p42 ===
+sobernación
+del Huila
+Fecha Aprobación:
+27 de Enero de 2026
+(O)
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+Icontec
+150 0001
+SC4353-1
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 42 de 62
+8. COMPONENTE ESTRATÉGICO
+NOMBRE DE LA ESTRATEGIA:
+Fortalecimiento de la estructura tecnológica e informática de la Gobernación del Huila
+RECURSOS CON LOS QUE SOPORTA LA ESTRATEGIA (marque X)
+Inversión _X ylo Funcionamiento: X . ¿lncluido en PAA ? Si: X No: _
+Código y Nombre del Proyecto de inversión:
+Recursos de Funcionamiento: $_0_
+BPIN202500000034935 - Fortalecimiento de la
+estructura tecnológica e informática de la
+Gobernación del Huila
+Costo de la estrategia: $600.000.000
+Acciones para cumplir la
+Respon-
+estrategia
+sable
+Brindar asistencia técnica
+para la gestión de la
+seguridad informática del
+ceniro de datos e
+infraestructura de la red de
+datos de la Gobernación
+TIC
+del Huila, para
+implementación de nuevos
+protocolos de
+direccionamiento.
+Fortalecer la
+infraestructura tecnológica
+en la Administración
+Centrai Departamental,
+TIC
+con el fin de mejorar la
+eficiencia administrativa.
+Gestionar los
+requerimientos de
+servicios TI relacionados
+con soporte y
+mantenimiento a équipos
+de cómputo, periféricos,
+UPS, impresoras, red
+leiefónica, infraestructura
+TIC
+tecnológica que facilite la
+prestación del servicio y su
+trazabilidad en la
+Administración Central
+Departamental.
+Productos o
+resultados
+Seguridad de centro
+de calos y redes de
+catos de la entidad
+Indicadores
+F-inicio
+Ver ítem 11
+Plan de acción para
+1/04/ 2026
+diagnóstico de redes
+que permita
+"Hoja de Ruta'
+implementación de
+nuevos protocolos de
+direccionamiento.
+Aumerto en la
+capacidad de
+infraestructura
+ecnológica
+nodernización d
+Ver item 11
+"Indicadores'
+e ítem 13
+1/04/ 2026
+'Hoja de Rula"
+F-fin
+Frecuencial
+Seguimiento
+30/121
+2026
+Anual
+30/121
+2026
+Anual
+Cumplimiento de los
+indicadores de
+Ver item 11
+oportunidad en el
+"Indicadores"
+servicio ofrecido por el
+e item 13
+1104/ 2926
+proceso de gestión Ti
+¡*toja de Ruta"
+30/12
+/2026
+Anual
+Riesgos
+Pérdida de
+dispoibilidad
+de datos e
+información
+critica y/o
+sensible
+gesticnada
+por la entidad.
+Deterioro de
+infraestructura
+tecnológica
+por parte de
+los
+funcionarios
+de la entidad.
+Deterioro de
+infraestructura
+tecnológica
+por parte de
+los
+funcionarios
+de la entidad.
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p43 ===
+Ge Hunación
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+(IGNET:
+Fecha Aprobación:
+27 de Enero de 2026
+PLAN ESTRATÉGICO TECNOLOGIA DE
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Productos o
+resultados
+Indicadores
+F-inicio
+esperados
+Código: SGN-C043-PIE01
+Versión: 1
+Página 43 de 62
+Acciones para cumplir la
+Respon-
+estrategia
+sable
+Brindar soporte, asisencia
+técnica, y actualizaciones
+constantes a sistemas de
+información y aplicaciones
+existentes en la entidad,
+con el fin de garantizar la
+TIC
+prestación de servicios a la
+ciudadanía en general y e
+lesarrallo efectivo de los
+procesos.
+F-fin
+Frecuencial
+Seguimiento
+Riesgos
+Sistemas de
+información
+diseñados,
+actualizados o en
+funcionamiento
+Ver ítem 11
+"Indicadores"
+e item 13
+("Hoja de Ruta"
+1/04/2026
+30/1212
+026
+Anual
+Caídas de los
+servicios de la
+entidad,
+soportados
+por sistemas
+de
+información y
+aplicaciones
+existentes.
+9. MODELO DE GESTIÓN DE TI
+Este numeral describe la situación objetivo o deseada en materia de gestión de TI
+en la Gobernación del Huila, desde el punto de vista de cada uno de los dominios
+del Marco de Referencia de Arquitectura Empresarial.
+9.1 Estrategia de TI
+La estrategia de TI busca que GOBERNACIÓN DEL HUILA alcance los siguientes
+objetivos:
+• Cumpla con las metas de Plan de Desarrollo
+• Optimización de los procesos de la entidad
+• Apoyo a la alta dirección para la toma de decisiones
+• Garantizar un buen servicio a los ciudadanos y funcionarios
+• Promover el uso y apropiación de los recursos tecnológicos
+• Garantizar la seguridad y privacidad de la información
+9.1.1 Objetivos estratégicos de TI
+• Definir e implementar planes, políticas, guías, proyectos, catálogos, entre
+otros desarrollados dentro de la Gestión TI.
+• Desarrollar estrategias que permitan a los usuarios internos el adecuado uso
+de los recursos tecnológicos, así mismo motivar el uso e implementación de
+nuevas tecnologías.
+• Implementar buenas prácticas para el desarrollo de los diferentes proyectos
+tecnológicos.
+• Garantizar una plataforma tecnológica que tenga niveles óptimos en
+seguridad y privacidad de la información.
+• Uso y aprovechamiento de las TIC para consolidar un estado y ciudadanos
+competitivos, proactivos e innovadores que generen valor público en un
+entorno de confianza digital.
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co -Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p44 ===
+obernació
+Fecha Aprobación:
+27 de Enero de 2026
+SISTEMA DE GESTION: MODELO
+(O)
+contec
+FIQNET
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE Versión: 1
+LA INFORMACION Y LAS
+COMUNICACIONES - PETI
+Página 44 de 62
+9.2 Gobierno de TI
+Objetivos del Gobierno de TI, en el marco de la política de Gobierno Digital y el
+Modelo de Planeación y Gestión - MIPG
+1. Definición de roles y perfiles de TI
+. Gestión de relaciones con otras áreas e instituciones públicas
+3. Modelo de gestión de proyectos.
+4. Gestión de proveedores.
+5. Acuerdos de nivel de servicio y de desarrollo.
+6.
+Procesos de TI e indicadores de gestión de TI
+7. Esquema de transferencia de conocimiento
+9.2.1 Estructura organizacional de TI
+Incorporar a la estructura organizacional de la entidad, el área u oficina de TIC y el
+rol de lider de TI, en el marco de la adopción por parte de GOBERNACIÓN DEL
+HUILA de los lineamientos expuestos en el decreto 415 de 2016.
+La Gobernación del Huila cuenta con el Grupo de Tecnología y
+Telecomunicaciones, adscrito a la Secretaria General, el cual se encuentra
+organizado de la siguiente manera:
+Figura 2. Estructura Organizacional de TI en la Gobernación del Huila
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co -Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p45 ===
+el Hungción
+Fecha Aprobación:
+27 de Enero de 2026
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+CIONET
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE
+Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 45 de 62
+COORDINADOR
+TIC
+Profesional
+Especializado
+(Planta)
+Profesionales
+Universitarios (Planta)
+* Tres (3) Profesionales
+Universitarios Grado 5
+* Un (1) Profesional
+Universitario Grado 4
+Técnicos Operativos (Planta)
+* Un (1) Técnico Operativo Grado 4
+* Das (2) Técnicos Operativos
+Grado 3
+Profesionales de Apoyo (Contratistas)
+* Tres (3) Profesionales de Apoyo al proceso de
+Gestión
+Información.
+seguridad de tecnologías de la
+Profesionales y Técnicos que conforman los equipos
+previamente contratados para los servicios de soporte
+administración y seguridad informática, como también e
+mantenimiento preventivo, correctivo y soporte técnico a
+computadores, impresoras, periféricos informáticos, UPS
+suministro de repuestos.
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co -Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p46 ===
+Sobernación
+o Music
+Fecha Aprobación:
+27 de Enero de 2026
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACION Y
+GESTION - MIPG
+(O)
+contec
+SCASSH1
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 46 de 62
+9.2.2 Políticas de TI
+La GOBERNACIÓN DEL HUILA, cuenta en la actualidad con un Manual de Política,
+Uso y Administración de Recursos Tecnológicos, a disposición de funcionarios,
+contratistas y proveedores de servicios de la entidad, desde el 29 de Diciembre de
+2015, en la que se establecen lineamientos bajo la responsabilidad del Grupo de
+Tecnología, Conectividad y Telecomunicaciones, que orientan al uso adecuado de
+estas políticas para obtener el mayor provecho de estas, y constituyen una
+herramienta de vital importancia y sensibilidad organizacional de carácter
+obligatoria, el cual permite a la entidad crecer y mantenerse competitiva. Este
+conjunto de políticas se encuentra en permanente actualización, conforme a los
+nuevos lineamientos generados por el Ministerio TIC y el Departamento
+Administrativo de la Función Pública en materia de seguridad y privacidad de la
+información, que soportan la implementación del Sistema de Gestión de Seguridad
+de la Información para la entidad
+9.2.3 Proceso de Gestión y Seguridad de TI
+El proceso de Gestión y Seguridad de Tecnologías de la Información de la
+Gobernación del Huila tiene por objetivo gestionar las tecnologías de información
+de la Gobernación del Huila, desarrollando planes, programas y proyectos,
+gestionando sistemas de información y prestando servicios de soporte,
+administración y mantenimiento de los servicios y la infraestructura tecnológica de
+la entidad, contribuyendo al cumplimiento de las metas estratégicas y los objetivos
+misionales, abarcando la formulación y/o actualización de los lineamientos, politicas
+de tecnologías de información y comunicación, la identificación de las necesidades
+de tecnologías de información y culmina con la ejecución de las estrategias, la
+entrega de los servicios TI y las acciones de uso y aprovechamiento de las
+tecnologías de la información y comunicaciones.
+Para esto, tiene como principales elementos de valor las siguientes actividades y
+estrategias:
+• Verificar diariamente los tiempos y la pertinencia de la atención y respuestas
+a los requerimientos mediante el reporte del sistema de gestión de servicios
+TI (mesa de ayuda) por parte del Coordinador TIC
+• Verificar mensualmente roles y perfiles asignados a los usuarios de servicios
+de Ti mediante el directorio activo por parte del Coordinador TIC
+• Verificar anualmente que los recursos asignados para el proyecto de
+inversión correspondan con los requeridos para la prestación de servicios de
+Tl, por parte del Líder del proceso de Gestión y seguridad de tecnologías de
+la información
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co -Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p47 ===
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+LIONET.
+Gobernacion
+del Huila
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE
+Fecha Aprobación:
+27 de Enero de 2026
+Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 47 de 62
+• Monitorear mensualmente el desempeño del indicador "Incidencias críticas
+de la plataforma tecnológica" el cual determina el nivel de disponibilidad de
+acceso a los servicios tecnológicos por parte de los usuarios de la
+Gobernación del Huila, por parte del Coordinador de TIC y personal de apoyo
+• Controlar el acceso a información relacionada con los diferentes procesos y
+provista a través de servicios de Ti. Cómo se realiza la actividad de control:
+Asignar usuarios según roles y perfiles establecidos para cada servicio de TI.
+• Establecer el uso de módulos de administración y seguridad en cada uno de
+los sistemas de información de la entidad. Cómo se realiza la actividad de
+control: Concientizar y apropiar a los servidores de la entidad en el
+cumplimiento de las políticas de seguridad de la información: Sensibilización
+de las políticas y seguridad de la información a los servidores de la entidad.
+• Prevenir explotación de vulnerabilidades de seguridad de los sistemas
+operativos Windows
+• Gestionar la infraestructura tecnológica de la entidad mediante lineamientos
+de seguridad de la información, servicios de soporte y especializados de TI,
+prevención de explotación de vulnerabilidades de seguridad de los sistemas
+operativos, controles de acceso a redes WiFi, con el fin de garantizar la
+gestión de servicios de TIC y soporte técnico a centro de datos y redes de la
+entidad.
+9.2.3.1 Procedimiento de Gestión Tecnológica
+Tiene por objetivo gestionar las tecnologías de información de la Gobernación del
+Huila,
+elaborando planes, proyectos y prestando servicios de soporte,
+administración y mantenimiento la infraestructura tecnológica de la entidad,
+contribuyendo al cumplimiento de las metas estratégicas y los objetivos misionales,
+abarcando desde la identificación de necesidades y planeación hasta la prestación
+de asistencia técnica, soporte y asesoria en lo referente a la infraestructura y
+servicios tecnológicos de la entidad, recibidos y canalizados a través de la mesa de
+servicios TIC (soporte.tic@huila.gov.co).
+9.2.3.2 Procedimiento de Servicios TIC
+Tiene por objetivo gestionar y entregar servicios TIC eficientes y de calidad al talento
+humano de la Gobernación del Huila y entes descentralizados beneficiarios, para
+su uso y apropiación en el desarrollo de los diferentes planes, programas, proyectos
+e iniciativas, que permitan la toma de decisiones para el cumplimiento de los
+objetivos estratégicos de la entidad, teniendo como alcance desde el reporte de
+incidentes y requerimientos, pasando por la prestación de asistencia técnica,
+soporte y asesoría en lo referente a la infraestructura y servicios tecnológicos de la
+entidad, a través de la mesa de servicios, hasta la evaluación de éstos a través
+encuestas de satisfacción y calidad.
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co -Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p48 ===
+obernaciót
+fal Hilo
+Fecha Aprobación:
+27 de Enero de 2026
+NO
+NO
+(O)
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTION - MIPG
+Icontec
+CIONET
+NO KCY
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 48 de 62
+Tabla 13. Flujograma para la mesa de ayuda TIC
+INICIO
+Registrar Incidencia o petición
+Flujograma Mesa de Ayuda TIC
+El usuario / funcionario de la entidad realiza la
+solicitud o requerimiento al correo electrónico
+soporte.tic@huila.gov.co
+Las solicitudes se deben realizar desde un
+correo institucional
+El horario de atención de la mesa de ayuda es
+de lunes a viernes de 7:00 am a 12:00 m y de
+2:00 p.m. a 6:00 pm
+¿La solicitud
+pracedente?
+SI
+Análisis de la solicitud
+Rala dez
+SI
+Realizar escalado
+Realizar diagnóstico
+Realizar atención
+Se verifica si el requerimiento o incidencia
+cuenta con la información suficiente para
+proceder a su análisis
+Se analiza la solicitud y se clasifica como
+requerimiento de servicio o incidencia y se
+evalúa la necesidad o no de escalarla para que
+sea atendida
+Si es necesario se envía al proveedor de
+servicios correspondiente para que sea
+solucionado
+En caso de ser necesario que debe realizar un
+diagnóstico de las causas del requerimiento o
+incidente
+En el caso de solicitud de activación o acceso
+a un servicio se determinará si el solicitante
+está autorizado para ello
+Se habilita el servicio o se realiza la solución,
+notificando al usuario que su caso fue atendido
+y solucionado
+NO
+Salucionar registro
+Correciar
+-SI
+FIN
+Se cierra el registro
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p49 ===
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+SIONET
+150 sen
+Gobernación
+del Huila
+SCa1s1-1
+Código: SGN-C043-PIE01
+Fecha Aprobación:
+27 de Enero de 2026
+PLAN ESTRATEGICO TECNOLOGIA DE
+Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 49 de 62
+9.2.3.3 Procedimiento de Adquisición, Desarrollo, Soporte, Mantenimiento,
+Retiro, Cambio Y/o Actualización de Software
+Tiene por objetivo establecer directrices, lineamientos y actividades a adelantar para
+la adquisición, cambio, desarrollo (interno y/o externo), soporte y/o asistencia
+técnica, mantenimiento y/o actualización de sistemas de información, aplicaciones,
+web o móviles y en general, cualquier tipo de solución de software de propiedad de
+la Entidad o candidato a ser adquirido según el caso, gestionando la seguridad de
+la información en éstos, verificando que se preserve la confidencialidad, integridad
+y disponibilidad de la información de la Administración Central con el
+acompañamiento del Grupo de Tecnología, Conectividad y Telecomunicaciones de
+la Gobernación del Huila como responsable de estas funciones.
+El procedimiento busca cubrir recomendaciones de tipo económico, legal y técnico
+que permitan a la Entidad establecer condiciones generales para asegurar la
+calidad/costo y cumplimiento de los contratos de bienes/servicios relacionados con
+software buscando propiciar una mayor eficiencia y transparencia en el uso de los
+recursos tecnológicos de la Administración Central Departamental.
+9.2.3.4 Procedimiento de Gestión de Incidentes Tecnológicos y de Seguridad
+de la Información
+Tiene por objetivo gestionar eficaz y oportunamente todos los incidentes
+tecnológicos y/o eventos de seguridad de la información que atenten contra el
+normal funcionamiento de los servicios de Tl y las características de
+confidencialidad, integridad y disponibilidad de los activos de información de la
+Gobernación del Huila, mediante diagnóstico, investigación y escalamiento de
+incidentes, para establecer acciones correctivas que permitan mantener su calidad
+y disponibilidad, y generar de una base de datos de conocimiento y acciones
+proactivas al interior de la Entidad.
+9.3 Sistemas de Información
+Para el correcto, oportuno y apropiado funcionamiento de los sistemas de
+información, la Oficina de tecnología o quien haga sus veces hace uso del Catálogo
+de Sistemas de Información establecido por el modelo de arquitectura TI del
+MINTIC.
+Se definirá el alcance, objetivos y los requerimientos técnicos para el desarrollo e
+implementación de nuevos sistemas de información y para la actualización o
+integración de los ya existentes.
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p50 ===
+obernacio
+ni maril
+Fecha Aprobación:
+27 de Enero de 2026
+(©)
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+contec
+CONET
+10 s0c)
+5C4%
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE Versión: 1
+LA INFORMACION Y LAS
+COMUNICACIONES - PETI
+Página 50 de 62
+9.4 Servicios Tecnológicos
+La entidad define una guía de servicios tecnológicos que permita mantener un
+correcto funcionamiento de la plataforma tecnológica de la entidad y ejercer
+actividades de soporte y mantenimiento a través de una mesa de servicios TI. Así
+mismo, garantiza respuesta oportuna a los diferentes sucesos que en materia de
+tecnologías de la información puedan afectar el funcionamiento apropiado de la red
+de datos,
+equipos tecnológicos, red comunicaciones, entre otros servicios
+asociados.
+9.5 Infraestructura
+El proceso de modernización institucional tiene como objetivo mejorar la eficiencia
+administrativa, prestar a los ciudadanos un servicio oportuno y de calidad, para ello
+se mejorará y aumentará la capacidad tecnológica actual entendida como un medio
+para lograr los fines propuestos.
+El componente de infraestructura dentro del modelo de gestión de TI, comprende la
+definición de la arquitectura de la plataforma tecnológica y de los planes de
+adquisición a partir de los análisis de capacidad, seguridad y de disponibilidad, los
+cuales recogen las necesidades de infraestructura para soportar tanto los sistemas
+de información cómo los servicios tecnológicos. Dentro de este componente se
+incluyen todos los elementos de infraestructura tecnológica requeridos para
+consolidar la plataforma que da soporte a los servicios:
+Infraestructura tecnológica: servidores, equipos de redes y comunicaciones,
+sistemas de almacenamiento, seguridad y backup, licenciamiento de software.
+Hardware y software de oficina: equipos de cómputo, impresoras, escáneres,
+telefonía, software de productividad.
+10. MODELO DE PLANEACIÓN
+El ámbito Entendimiento estratégico busca el entendimiento preciso, claro y
+documentado de la situación actual de la institución, el contexto organizacional y el
+entorno, para proporcionarle al Grupo TIC la orientación que le permita usar la
+tecnología como agente de transformación.
+De esta manera, la Gobernación del Huila cuenta con una estrategia de TI alineada
+con el Plan Nacional de Desarrollo, Plan de Desarrollo Departamental estando
+orientada a generar valor y a contribuir al logro de los objetivos estratégicos. Para
+la Gobernación del Huila, los lineamientos tecnológicos emitidos por el MinTIC son
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co -Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p51 ===
+sobernacion
+el Herid
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+CIONET
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE
+Fecha Aprobación:
+27 de Enero de 2026
+Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 51 de 62
+de amplio reconocimiento y seguimiento. Específicamente la alineación con la
+Politica de Gobierno Digital se evidencia en las mediciones que anualmente se
+realizan por parte del Departamento Nacional a través del FURAG.
+11. INDICADORES
+La adopción de estos indicadores se realiza mediante la actualización y
+fortalecimiento del proceso de Gestión y Seguridad de Tecnologías de la
+Información de la entidad, con la adopción de los modelos de Gestión TI, Gobierno
+TI, Arquitectura Empresarial, Gestión de Proyecto TI y Seguridad y Privacidad de la
+Información; en cumplimiento de los estándares y la política de Gobierno Digital
+nacional y
+demás directrices emitidas por el MinTIC y el Departamento
+Administrativo de la Función Pública.
+Tabla 14. Indicadores de gestión Ti del proceso de Gestión y Seguridad de TI
+Objetivos de TI
+Indicadores de los
+objetivos de TI
+Definir
+implementar
+planes, políticas
+guías,
+proyectos, catálogos, entre
+otros desarrollados dentro
+Número
+de
+planes,
+programas y políticas
+de la Gestión TI.
+Desarrollar estrategias que
+permitan a los usuarios
+internos el adecuado uso de
+los recursos tecnológicos,
+así mismo motivar el uso e
+Funcionarios capacitados
+en uso de herramientas
+TIC
+implementación de nuevas
+tecnologías.
+Implementar
+buenas
+prácticas para el desarrollo
+Proyectos implementados
+de los diferentes proyectos
+con buenas prácticas
+tecnológicos.
+Garantizar una plataforma
+Porcentaje
+tecnológica que
+de
+tenga
+implementación
+del
+optimos
+en
+Modelo de Gestión
+de
+seguridad y privacidad de la
+Seguridad
+de
+la
+información.
+Información
+Uso y aprovechamiento de
+las TIC para consolidar un
+estado
+ciudadanos
+Trámites automatizados,
+competitivos, proactivos e
+en linea o eliminados
+innovadores que generen
+Línea Base
+Meta 2026
+-
+5
+250
+250
+5
+61%
+65%
+24
+30
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p52 ===
+(O)
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+icontec
+CIQNET
+150%0
+Ge bernación
+Fecha Aprobación:
+27 de Enero de 2026
+GESTIÓN - MIPG
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE Versión: 1
+LA INFORMACION Y LAS
+COMUNICACIONES - PETI
+Página 52 de 62
+Indicadores de los
+Objetivos de TI
+objetivos de TI
+Línea Base
+Meta 2026
+valor público en un entorno
+de confianza digital.
+Indicadores de calidad del proceso Gestión de TI
+Tabla 15. Indicadores de calidad del proceso de Gestión y Seguridad de TI
+Nombre del
+Tipo de
+Explicación
+Definición del
+Unidad /
+indicador
+indicador
+del indicador
+indicador
+Meta
+Hora/Días
+promedio
+de
+solución a los
+requerimientos
+Oportunidad
+realizados
+a
+través de la
+Tiempo
+promedio
+respuesta
+incidentes
+requerimientos
+de
+de
+a
+Tiempo
+respuesta
+Número
+de
+4 horas
+requerimientos
+mesa de servicio
+Indicadores relacionados con la política de Gobierno Digital
+Tabla 16. Indicadores de la política de Gobierno Digital
+METAS
+Cumplimiento Gobierno Digital
+Línea Base
+Elementos
+Transversales
+Gobernanza
+91.7
+Innovación Pública Digital
+83.3
+Arquitectura
+76.3
+Cultura y apropiación
+100.0
+Habilitadores
+Seguridad y privacidad
+de
+la
+información
+97.5
+Servicios ciudadanos digitales
+Lineas
+acción
+Iniciativas
+Dinamizadoras
+de
+Servicios y procesos inteligentes
+Decisiones basadas en datos
+Estado abierto
+Proyectos de transformación digital
+86.2
+96.3
+89.0
+2026
+93
+85
+80
+100.0
+98.5
+11
+82
+90
+98
+90
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co -Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p53 ===
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+(IONET
+Ge unación
+Fecha Aprobación:
+27 de Enero de 2026
+50e33*1
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 53 de 62
+Medición avance del PETI
+Nombre Indicador
+T-SPI (indice de
+desempeño
+promedio del mapa
+de ruta de ejecución
+del PETI
+en la
+entidad)
+Porcentaje
+ejecución
+de
+cumplimiento
+de
+estrategias
+definidas en el PETI
+en un periodo dado.
+Tabla 17. Indicadores de avance del PETI
+Tipo de indicador
+Explicación del
+indicador
+Unidad
+Medir el desempeño
+de
+la
+implementación del
+mapa de ruta del
+PETI respecto al
+cronograma
+Gestión
+planteado. Permite Tiempo / Semestral
+entender
+comportamiento en
+el tiempo de la
+ejecución del PETI
+inmediatamente
+anterior.
+Medir el nivel del
+avance porcentual
+versus
+el
+Gestión
+proyectado en un
+periodo dado, en lo
+Porcentaje
+que respecta a las
+iniciativas definidas
+en el PETI.
+Indicadores Proceso "GESTIÓN Y SEGURIDAD DE TECNOLOGÍAS DE LA INFORMACIÓN"
+El proceso "GESTIÓN Y SEGURIDAD DE TECNOLOGÍAS DE LA INFORMACIÓN" tiene como
+objetivo gestionar las tecnologías de información de la Gobernación del Huila,
+desarrollando planes, programas y proyectos, gestionando sistemas de información
+y prestando servicios de soporte, administración y mantenimiento de los servicios y
+la infraestructura tecnológica de la entidad, contribuyendo al cumplimiento de las
+metas estratégicas y los objetivos misionales.
+La siguiente tabla muestra los indicadores del proceso "GESTIÓN Y SEGURIDAD DE
+TECNOLOGÍAS DE LA INFORMACIÓN" y sus definiciones:
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p54 ===
+Indicadores
+Definiciones
+Objetivo
+@
+Ge Huilación
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+IONET
+Código: SGN-CO43-PIE01
+Fecha Aprobación:
+PLAN ESTRATÉGICO TECNOLOGIA DE
+Versión: 1
+27 de Enero de 2026
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 54 de 62
+Tabla 18. Indicadores Proceso "GESTIÓN Y SEGURIDAD DE TECNOLOGÍAS DE LA INFORMACIÓN"
+Indicador 1
+Cubrimiento en
+asesoría, soporte y
+mantenimiento
+informático
+Determinar la oportunidad en
+requerimientos de asesoria.
+soporte y mantenimiento en
+la operación y uso de los
+servicios tecnológicos de la
+Gobernación.
+Indicador 2
+Incidencias críticas de la
+plataforma tecnológica
+Indicador 3
+Visitantes Sede
+Electrónica
+Gobernación del Huila.
+Cuantificar el número de
+requerimientos
+generados
+por eventos críticos en la
+prestación de los servicios
+del catálogo de servicios
+tecnológicos.
+Visitames de numsede
+electrónica
+de
+Gobernación del Huila.
+Pertinencia
+Indicador
+del
+Evaluar la prestación
+i de
+servicio
+de soporte
+hardware y software que
+requieren los usuarios de la
+infraestructura tecnológica e
+informática de la institución.
+Determinar el nivel
+disponibilidad de acceso a los
+servicios tecnológicos
+por
+parte de los usuarios.
+Unidad de Medida
+Definición
+Variables para la
+Fórmula
+Porcentaje
+Número de requerimientos
+asesoría, soporte
+mantenimiento atendidos con
+oportunidad: Son los casos
+presentados
+que
+son
+Porcentaje
+Criterios para determinar la
+criticidad de los servicios y
+determinar la clasificación de
+la incidencia tecnológica.
+Indicador 4
+Información de usuarios
+protegida por BACKUP
+Establecer el porcentaje de
+usuarios que periódicamente
+están saivaguardando la
+información
+prioritaria
+del
+proceso.
+Establecer
+acciones
+de
+mejora
+encaminadas
+incentivar la protección de la
+Establecer estrategias
+de
+información prioritaria
+por
+promoción y divulgación que
+parte de los funcionarios.
+permita que los ciudadanos
+accedan a la información
+Mantener la capacidad de
+pública y a los servicios en
+recuperación
+línea
+que ofrece
+información
+ante posibles
+Gobernación del Huila.
+pérdidas.
+Garantizar la continuidad
+mediante procedimientos de
+Numérico
+restauración.
+Porcentaje
+Total de Funcionarios con
+Васкир
+realizados en el
+N/A
+periodo
+evaluado:
+Corresponde al total de los
+funcionarios priorizados que
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila'
+=== p55 ===
+Indicadores
+Definiciones
+Fórmula para su
+Cálculo
+Aspectos
+Metodológicos
+el Hutación
+Fecha Aprobación:
+27 de Enero de 2026
+Indicador 1
+Cubrimiento en
+asesoría, soporte y
+mantenimiento
+informático
+atendidos de acuerdo
+tiempo establecido en
+catálogo de servicios de
+tecnología.
+Criterios para determinar la
+oportunidad en la atención de
+los
+requerimientos
+de
+asesoría,
+soporte
+mantenimiento en
+operación y uso de
+los
+Gobernación del Huila.
+Baja: 12 Horas
+Media: > 2 Horas - <12 Horas
+Alta: <= 2 horas
+de asesoria, soporte
+mantenimiento atendidos con
+oportunidad en el Periodo
+X 100 / Total requerimientos
+presentados en el periodo
+La información que soporta
+los datos del indicador se
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+PLAN ESTRATÉGICO TECNOLOGIA DE
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Indicador 2
+Incidencias críticas de la
+plataforma tecnológica
+Baja: <=30 Minutos
+Media: > 30 Minutos <= 60
+Minutos
+Alta: >= 60 Minutos
+El número de incidencias
+críticas: Son las caídas de
+aplicaciones
+infraestructura (eléctrica o
+servidor) de la plataforma
+tecnológica que superen los
+60
+minutos
+de
+indisponibilidad del servicio.
+Total
+de
+incidencias:
+Corresponde al total de las
+caídas de aplicaciones y/o
+infraestructura (eléctrica o
+servidor), presentadas en
+cada periodo clasificadas
+como (Baja, Media, Alta).
+Número
+Críticas
+de
+Incidencias
+en
+periodo
+evaluado: X 100 / Total de
+incidencias presentadas en el
+periodo evaluado
+Para el reporte del indicador
+se
+tendrá solamente
+FIONET
+HO 7001
+Código: SGN-C043-PIE01
+Versión: 1
+Página 55 de 62
+Indicador 3
+Visitantes Sede
+Electrónica
+Gobernación del Huila.
+Indicador 4
+Información de usuarios
+protegida por BACKUP
+cuentan con Backup de la
+información relevante
+sensible durante el periodo
+evaluado.
+Total
+Funcionarios
+priorizados en el periodo
+evaluado: Corresponde a los
+dueños y líderes de proceso
+y funcionarios que gestionan
+información
+relevante
+sensible de la administración
+departamental.
+N° de vistas a la sede
+electrónica.
+www.huila.gov.co
+Total de funcionarios con
+Backup realizados en el
+periodo evaluado X 100 /
+Total
+de
+funcionarios
+priorizados en el periodo
+evaluado.
+Los
+criterios
+para
+priorización
+de
+los
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p56 ===
+Indicadores
+Definiciones
+Fuente
+de
+Datos
+Periodicidad
+Fechas
+Medición
+Rangos
+Evaluación
+los
+de
+de
+Gobernación
+Sol Multa
+Fecha Aprobación:
+27 de Enero de 2026
+Indicador 1
+Cubrimiento en
+asesoría, soporte y
+mantenimiento
+informático
+obtiene del Reporte mesa de
+servicios.
+Reporte mesa de servicios.
+Mensual
+<= 70,00% Deficiente.
+70,01% - 89,99% Aceptable.
+90% - 100% Excelente.
+> 100% Meta Superada.
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+PLAN ESTRATÉGICO TECNOLOGIA DE
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Indicador 2
+Incidencias críticas de la
+plataforma tecnológica
+cuentas las incidencias que
+superan los 60 Minutos de
+indisponibilidad del servicio
+tecnológico.
+La información que soporta
+los datos del indicador se
+obtiene del Reporte mesa de
+servicios.
+Reporte mesa de servicios.
+Mensual
+‹ 7,00% Meta Superada
+7,00% - 8,99% Excelente
+9,00% - 10% Aceptable
+> 10% Deficiente
+Icontec
+FIONET
+Código: SGN-C043-PIE01
+Versión: 1
+Página 56 de 62
+Indicador 3
+Visitantes Sede
+Electrónica
+Gobernación del Huila.
+Google Analytics.
+Mensual
+<= 99.999 Deficiente
+100.000 - 139.999 Aceptable
+140.000 - 182.000 Excelente
+> 182.000 Meta Superada
+Indicador 4
+Información de usuarios
+protegida por BACKUP
+funcionarios a los cuales se
+les va a salvaguardar la
+información se establecen en
+el Instructivo "Configuración y
+Parametrización de Respaldo
+de Información de Usuarios y
+Servidores".
+Centro de datos
+Gestion
+tecnológica
+de
+telecomunicaciones.
+Mensual
+<= 70,00% Deficiente.
+70,01% - 89,99% Aceptable.
+90% - 100% Excelente.
+> 100% Meta Superada.
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p57 ===
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+JONET
+150 s00l
+del Hunación
+SUBH
+Código: SGN-C043-PIE01
+Fecha Aprobación:
+PLAN ESTRATÉGICO TECNOLOGIA DE
+Versión: 1
+27 de Enero de 2026
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 57 de 62
+12. INICIATIVAS PRIORIZADAS
+Dominio
+Iniciativa 1
+Descripción
+Meta
+Políticas
+Dominio
+Iniciativa 2
+Descripción
+Metas
+Políticas
+Dominio
+Iniciativa 3
+Descripción
+Meta
+Políticas
+Dominio
+Iniciativa 4
+Descripción
+Meta
+Politicas
+Tabla 19. Iniciativa 1 del PETI
+Servicios Tecnológicos
+Gestión de la seguridad informática de la Gobernación del Huila e implementación
+de nuevos protocolos de direccionamiento.
+Realizar gestión de la seguridad informática del centro de datos e infraestructura
+de la red de datos de la Gobernación del Huila, y evaluación de la estructura
+tecnológica de la entidad para determinar un plan de acción para la migración a
+rotocolo IPV6
+Diagnóstico de la rec
+Plan de acción para migración a IPV6
+Gobierno Digital
+Seguridad Digital
+Tabla 20. Iniciativa 2 del PETI
+Fortalecimiento de la infraestructura tecnológica de la entidad
+Fortalecer la capacidad tecnológica de la entidad mediante inversión en la
+actualización y cambio de la infraestructura tecnológica en las sedes de la entidad
+y el soporte de los servicios tecnológicos de la Gobernación del Huila.
+Red y centro de datos
+Equipos tecnológicos
+Respaldo de información
+Continuidad de servicios
+Gobierno Digital
+Seguridad Digital
+Tabla 21. Iniciativa 3 del PETI
+Servicios Tecnológicos
+Gestión y fortalecimiento de servicios TI
+Gestionar los requerimientos de servicios TI de soporte, mantenimiento y
+capacitación por medio de una herramienta tecnológica que facilite la prestación
+del servicio y su evaluación
+Cumplimiento de los indicadores de oportunidad en el servicio ofrecido por el
+proceso de gestión TI
+Gobierno Digital
+Tabla 22. Iniciativa 4 del PETI
+Fortalecimiento de sistemas de información de la entidad
+Actualizar de manera constante los sistemas de información de la entidad con el
+fin de garantizar mejor prestación de servicios a la ciudadania en general y
+Gobierno Digital
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co -Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p58 ===
+Ge unación
+Fecha Aprobación:
+27 de Enero de 2026
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+PLAN ESTRATÉGICO TECNOLOGIA DE
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Icontec
+IQNET,
+150 s80)
+SC4152-1
+Código: SGN-C043-PIE01
+Versión: 1
+Página 58 de 62
+13. HOJA DE RUTA
+Dominio
+Arquitectura
+TI
+Servicios
+Tecnológicos
+Iniciativa
+Gestión
+de
+seguridad
+informática de la
+Gobernación
+Huila
+implementación
+de
+nuevos
+protocolos
+de
+direccionamiento.
+Servicios
+Tecnológicos
+Tabla 23. Hoja de ruta del PETI
+Descripción actividad
+Meta
+Realizar gestión de la
+seguridad informática del
+Seguridad
+de
+centro
+de
+datos
+centro de datos y
+infraestructura de la red
+redes de datos de
+de
+datos
+de
+la entidad.
+Gobernación del Huila, y
+evaluación
+Plan
+de
+acción
+estructura tecnológica de
+para
+diagnóstico
+la entidad para determinar
+de
+redes
+un plan de acción para la
+implementación de
+migración a protocolo
+protocolo IPv6.
+IPV6.
+Fortalecer la capacidad
+Aumento
+en
+tecnológica de la entidad
+capacidad
+la
+de
+mediante inversión en la
+infraestructura
+actualización y cambio de
+tecnológica
+Fortalecimiento de
+infraestructura
+modernización de
+la infraestructura
+tecnológica en las sedes
+equipos
+tecnológica de la
+de la entidad y el soporte
+entidad
+de los servicios Disminuir
+Red de datos
+los tiempos en la gestión
+Centros de datos
+de trámites tecnológicos
+Equipos
+de la Gobernación del
+tecnológicos
+Huila.
+Respaldo
+de
+información
+Políticas
+de
+Gestión
+Gobierno
+Digital
+Seguridad
+Digital
+Gobierno
+Digital
+Seguridad
+Digital
+Fecha
+inicio
+Febrero
+de 2026
+Febrero
+de 2026
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co -Twitter: @HuilaGob - Facebook: Gobernación del Huila
+Fecha fin
+Diciembre
+de 2026
+Diciembre
+de 2026
+Responsable
+Lider TIC
+Líder TIC
+=== p59 ===
+Dominio
+Arquitectura
+TI
+Servicios
+Tecnológicos
+Sistemas
+de
+Información
+el Humación
+Fecha Aprobación:
+27 de Enero de 2026
+Iniciativa
+Gestión
+fortalecimiento de
+servicios TI
+Fortalecimiento de
+sistemas
+de
+información de la
+entidad
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+PLAN ESTRATÉGICO TECNOLOGIA DE
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Descripción actividad
+Meta
+Continuidad
+servicios
+de
+Gestionar
+los
+requerimientos
+de
+servicios TI de soporte,
+Cumplimiento
+de
+mantenimiento
+los indicadores de
+capacitación por medio de
+oportunidad en el
+herramienta
+tecnológica que facilite la
+servicio ofrecido
+por el proceso de
+prestación del servicio y
+gestión TI
+su evaluación
+Actualizar de
+manera
+constante los sistemas de
+información de la entidad
+con el fin de garantizar
+mejor prestación de
+servicios a la ciudadania
+Sistemas
+Información
+actualizados.
+de
+en general y desarrollo
+efectivo de los procesos.
+contec
+(IONET
+Código: SGN-C043-PIE01
+Versión: 1
+Página 59 de 62
+Políticas
+de
+Gestión
+Fecha
+inicio
+Fecha fin
+Gobierno
+Digital
+Febrero
+de 2026
+Diciembre
+de 2026
+Gobierno
+Digital.
+Febrero
+de 2026
+Diciembre
+de 2026
+Edificio Gobernación. Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila'
+Responsable
+Líder TIC
+Lider TIC
+=== p60 ===
+SISTEMA DE GESTION: MODELO
+contec
+(IONET
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+SC43S3-1
+Código: SGN-C043-PIE01
+Fecha Aprobación:
+PLAN ESTRATÉGICO TECNOLOGIA DE Versión: 1
+27 de Enero de 2026
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 60 de 62
+14. PRESUPUESTO DE INICIATIVAS PRIORIZADAS
+Estrategia de TI
+Fortalecimiento
+de la estructura
+tecnológica e
+informática de la
+Gobernación del
+Huila
+Tabla 24. Presupuesto de iniciativas del PETI
+Presupuesto Estimado
+Actividad
+Gestión de la seguridad informática de la
+Gobernación del Huila, e implementación de
+nuevos protocolos de direccionamiento.
+Fortalecer la infraestructura tecnológica en la
+Administración Central Departamental.
+Gestión y fortalecimiento de servicios TI.
+Fortalecimiento de sistemas de información
+de la entidad.
+Total Presupuesto Priorizado
+$
+$
+$
+$
+$
+2026
+100,000,000
+298,000,000
+50,000,000
+152,000,000
+600,000,000
+15. PLAN DE COMUNICACIONES
+El plan de comunicaciones es una herramienta que permite definir la estrategia de
+difusión del PETi; por lo tanto, una vez aprobado se comunicará a toda la entidad y
+a los interesados para iniciar la implementación de este. Se emitirán boletines
+informativos con la presentación del PETI, buscando la articulación entre las
+diferentes dependencias para un desarrollo eficiente de las tecnologías de la
+información y comunicación. Los canales de difusión serán la Extranet, correos
+electrónicos corporativos y la página web. De igual manera se hará una
+presentación anual con los avances del PETI y los catálogos de sistemas de
+información y servicios tecnológicos. Se realizarán sesiones en los primeros tres
+meses de cada año con las diferentes dependencias para la presentación de la
+estrategia de TI y el portafolio de servicios del proceso de Gestión Tecnológica y de
+Telecomunicaciones.
+16. PARTICIPACIÓN CIUDADANA, APROBACIÓN Y PUBLICACIÓN FINAL
+DEL PLAN
+Para garantizar la participación ciudadana, el presente plan se publicó en la sede
+electrónico en el link de transparencia de participación ciudadano para comentarios,
+sugerencias y observaciones del de la ciudadanía, entre los días 09 de enero de
+2026,
+el
+13
+de
+enero
+2026,
+en
+https://www.huila.gov.co/general/publicaciones/12219/participacion/
+el
+link:
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p61 ===
+obernació
+el Huil
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+TONET
+Fecha Aprobación:
+27 de Enero de 2026
+150 son
+SC43131
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE
+Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 61 de 62
+Pasados los dias de publicación en el link de participación, no se presentaron
+observaciones por parte de la ciudadanía, frente a este plan institucional estratégico.
+La aprobación del plan institucional y/o estratégico, se hace por parte del
+responsable del plan, el líder y ante el Comité Institucional de Gestión y Desempeño
+- CIGD en Acta No. 02 de fecha 27 de enero de 2026.
+Publicación final del plan, una vez aprobado en extranet y sede electrónica:
+Una vez aprobado dicho Plan por parte de los miembros del comité CIGD, éste se
+remitió al correo soporte. tic@huila.gov.co para su publicación en la sede electrónica
+de la Gobernación (link de transparencia).
+Igualmente fue enviado al correo participa.ciudadano@huila.gov.co para ser
+publicado internamente en la Extranet / Sistema de Gestión MIPG / componentes
+estratégicos /planes integrados, para conocimiento de los servidores públicos y la
+ciudadanía en general.
+17. RESULTADOS ESPERADOS
+Ver item 12 "Hoja de Ruta".
+18. REGISTROS Y ANEXOS
+18.1 Registros
+AS
+SGN-C043-PIE01
+Registro de seguimiento y/o productos o
+resultados logrados del Plan Estratégico
+de Tecnologías de la Información - PETI.
+18.2 Anexos
+Se anexa el Registro de seguimiento y/o productos o resultados logrados del Plan Estratégico de
+Tecnologías de la Información - PETI de la vigencia 2026. Este registro fue generado conforme a la
+recuencia de seguimiento establecida(s) en el item 8, y remitido al correo participa.ciudadano@huila.gov.co
+ara su publicación en la extranet Sistema de Gestión MIPG /componente Estratégico /Planes integrados
+Edificio Gobernación, Calle 8 Gra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co -Twitter: @HuilaGob - Facebook: Gobernación del Huila
+=== p62 ===
+SISTEMA DE GESTION: MODELO
+INTEGRADO DE PLANEACIÓN Y
+GESTIÓN - MIPG
+Icontec
+450 WA0!
+LIONET
+Ge Munación
+Fecha Aprobación:
+27 de Enero de 2026
+19. CONTROL DE CAMBIOS
+Versión
+Vigencia
+1
+27 de enero
+de 2026
+Código: SGN-C043-PIE01
+PLAN ESTRATÉGICO TECNOLOGIA DE Versión: 1
+LA INFORMACIÓN Y LAS
+COMUNICACIONES - PETI
+Página 62 de 62
+Identificación de los cambios
+Versión Inicial
+Responsable
+Líder de
+proceso y
+Secretaria
+General
+Firma
+Nombre
+Cargo
+- Revisé
+Profesional de apoyo TIC
+venir sero esa
+Adriana Marcela Valencia Cardona
+Secretaria General
+Edificio Gobernación, Calle 8 Cra. 4 esquina, Neiva - Huila - Colombia. PBX: (57+8) 8671300
+www.huila.gov.co-Twitter: @HuilaGob - Facebook: Gobernación del Huila'

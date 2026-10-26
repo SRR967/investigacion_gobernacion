@@ -1,0 +1,12 @@
+{
+  "latex-workshop.latex.tools": [
+    { "name": "latexmk", "command": "latexmk", "args": ["-pdf", "-outdir=%OUTDIR%", "-interaction=nonstopmode", "-synctex=1", "%DOC%"] }
+  ],
+  "latex-workshop.latex.recipes": [
+    { "name": "latexmk (APA 7, biber)", "tools": ["latexmk"] }
+  ],
+  "latex-workshop.latex.recipe.default": "first",
+  "latex-workshop.latex.outDir": "%DIR%/build",
+  "latex-workshop.latex.autoBuild.run": "onSave",
+  "latex-workshop.view.pdf.viewer": "tab"
+}

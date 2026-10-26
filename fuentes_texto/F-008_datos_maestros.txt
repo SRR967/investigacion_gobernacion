@@ -1,0 +1,2412 @@
+
+=== p1 ===
+Consecutivo Área responsable de la tabla Nombre de la tabla Descripción de tabla Cantidad de atributos Atributos/Tipo Atributo Cantidad de registros Usuario Interno Frecuencia actualización del dato Aprovechamiento ¿Hay datos georreferenciados en los atributos relacionados? (Sí/No) Si la respuesta anterior fue "Sí", por favor indique los atributos de georreferenciación. Productor o Consumidor Medio de Intercambio Almacena la Información en Base de Datos? Si/No Entidad Origen
+1 Depto. Adm. Planeación Municipios
+Contiene el catálogo oficial de los 37 municipios del
+departamento del Huila con sus características
+administrativas, geográficas y estadísticas. Base territorial
+para la planeación departamental alineada con el DANE.
+12
+id_municipio:TEXT | cod_dane:TEXT | nombre:TEXT | categoria:TEXT | 
+superficie_km2:DECIMAL | altitud_msnm:NUMBER | latitud:DECIMAL | 
+longitud:DECIMAL | poblacion:NUMBER | nbi_pct:DECIMAL | zona:TEXT | 
+cod_departamento:TEXT
+37
+Planeación, Hacienda, 
+Salud, Educación, 
+Infraestructura, TIC
+Eventual (censos 
+DANE)
+APLICATIVOS MISIONALES: Sistema de Información Geográfica (SIG) departamental; módulo de 
+planeación territorial; sistema de indicadores del Plan de Desarrollo 'Huila Grande 2024-2027'. 
+INTEROPERABILIDAD: DANE (proyecciones poblacionales por municipio); IGAC-SIGOT (capas 
+cartográficas base); DNP-SISMEG (metas territoriales); MSPS-SISPRO (indicadores de salud por 
+municipio); MEN-SIMAT (matrícula escolar por municipio). CASOS ESPECÍFICOS: (1) 
+Georeferenciación de obras públicas, IPS, IE y amenazas de riesgo; (2) Cálculo de distribución del 
+SGP por fórmulas poblacionales y de NBI; (3) Elaboración de mapas departamentales para rendición 
+de cuentas ciudadana; (4) Base para el modelo de estratificación y focalización del SISBÉN IV en el 
+Huila.
+Sí latitud:DECIMAL; longitud:DECIMAL; superficie_km2:DECIMAL Consumidor Web Services Sí DANE
+2 Depto. Adm. Planeación Corregimientos
+Registro de los corregimientos del departamento con sus
+datos administrativos y cartográficos, según la división
+territorial vigente reconocida por el DANE.
+9
+id_corregimiento:TEXT | cod_dane:TEXT | nombre:TEXT | municipio_cod:TEXT | 
+area_km2:DECIMAL | latitud:DECIMAL | longitud:DECIMAL | 
+poblacion:NUMBER | estado:TEXT
+67 Planeación, Gobierno Eventual
+APLICATIVOS MISIONALES: Sistema de Información Geográfica (SIG) departamental; sistema de 
+gestión del riesgo (PDGRD); módulo de atención a comunidades rurales. INTEROPERABILIDAD: 
+DANE-DIVIPOLA (codificación oficial corregimientos); UNGRD-SIGPAD (gestión del riesgo a nivel de 
+corregimiento); ICBF (focalización programas Primera Infancia en zonas rurales). CASOS 
+ESPECÍFICOS: (1) Focalización de programas de saneamiento básico y agua potable en zonas 
+rurales; (2) Planificación de rutas de atención de emergencias y desastres por corregimiento; (3) 
+Distribución territorial de EPSEA para asistencia técnica agropecuaria; (4) Elaboración de Planes de 
+Desarrollo Municipal articulados con el nivel departamental.
+Sí latitud:DECIMAL; longitud:DECIMAL; area_km2:DECIMAL Consumidor Web Services Sí DANE
+3 Depto. Adm. Planeación Veredas
+Catálogo de veredas del departamento del Huila, unidades
+básicas del área rural usadas para la focalización de
+programas agropecuarios, sociales y de gestión del riesgo.
+8
+id_vereda:TEXT | cod_dane:TEXT | nombre:TEXT | municipio_cod:TEXT | 
+corregimiento_cod:TEXT | area_ha:DECIMAL | latitud_centroide:DECIMAL | 
+longitud_centroide:DECIMAL
+1,524
+Planeación, 
+Agricultura, Ambiente, 
+Gestión Riesgo
+Eventual
+APLICATIVOS MISIONALES: Sistema de Información Geográfica (SIG) departamental; sistema de 
+asistencia técnica agropecuaria (EPSEA); módulo de gestión del riesgo. INTEROPERABILIDAD: IGAC 
+(catastro rural multipropósito por vereda); DANE-Censo Nacional Agropecuario (estadísticas veredales); 
+MADR-RUSA (registro de productores por vereda); ADR (proyectos de desarrollo rural). CASOS 
+ESPECÍFICOS: (1) Focalización de visitas de asistencia técnica a productores agropecuarios; (2) 
+Identificación de veredas con mayor índice de amenaza natural para el PDGRD; (3) Cruce con datos 
+SISBÉN IV para focalización de subsidios rurales; (4) Análisis de cobertura educativa en zonas rurales 
+dispersas para el MEN.
+Sí
+latitud_centroide:DECIMAL; 
+longitud_centroide:DECIMAL; 
+area_ha:DECIMAL
+Consumidor Web Services Sí DANE / IGAC
+4 Depto. Adm. Planeación Barrios
+Registro de barrios y urbanizaciones de los municipios,
+especialmente Neiva, con codificación oficial para la
+planeación urbana y atención de servicios públicos.
+7 id_barrio:TEXT | nombre:TEXT | municipio_cod:TEXT | estrato:NUMBER | area_ha:DECIMAL | latitud:DECIMAL | longitud:DECIMAL 312 Planeación, Gobierno, Infraestructura Eventual
+APLICATIVOS MISIONALES: Sistema de estratificación socioeconómica departamental; módulo de 
+atención ciudadana; sistema de planificación urbana. INTEROPERABILIDAD: Empresas de servicios 
+públicos (estrato para facturación); SISBEN IV-DANE (focalización de subsidios por barrio); DNP 
+(indicadores de pobreza urbana por barrio). CASOS ESPECÍFICOS: (1) Asignación de estratos para 
+cálculo de subsidios cruzados en servicios públicos domiciliarios; (2) Priorización de obras de 
+infraestructura urbana en barrios con NBI alto; (3) Planificación de rutas de transporte público e 
+intervención social; (4) Análisis de cobertura de programas sociales por barrio en Neiva y cabeceras 
+municipales.
+Sí latitud:DECIMAL; longitud:DECIMAL; area_ha:DECIMAL Productor Otro Sí Gobernación del Huila
+Mecanismo: Cargue de archivo plano (XLSX/CSV). Los municipios 
+remiten el archivo de barrios a la Gobernación por correo institucional o 
+carpeta compartida. La Gobernación lo carga manualmente al sistema 
+interno. No existe servicio web, Xroad, enlace de base de datos ni 
+conexión P2P.
+5 Depto. Adm. Planeación Proyectos_Inversion
+Banco de proyectos de inversión del departamento
+registrados en el Banco de Programas y Proyectos de
+Inversión Departamental (BPPID) y en el sistema MGA del
+DNP.
+14
+id_proyecto:TEXT | codigo_bpin:TEXT | nombre:TEXT | sector:TEXT | 
+municipios_benefic:TEXT | fecha_formulacion:DATE | vigencia_inicio:NUMBER | 
+vigencia_fin:NUMBER | fuente_financiacion:TEXT | valor_total:NUMBER | 
+estado:TEXT | avance_fisico:DECIMAL | avance_financiero:DECIMAL | 
+ejecutor:TEXT
+420 Planeación, Hacienda, todas las secretarías Mensual
+APLICATIVOS MISIONALES: Módulo de seguimiento al Plan de Desarrollo departamental; sistema de 
+programación y ejecución presupuestal; dashboard de inversión pública. INTEROPERABILIDAD: DNP-
+MGA (formulación y registro de proyectos BPIN); DNP-SUIFP (seguimiento unificado de inversiones); 
+DNP-GESPROY-SGR (proyectos de regalías); MHCP-CHIP (programación presupuestal articulada); 
+Contraloría Departamental (auditorías de inversión). CASOS ESPECÍFICOS: (1) Elaboración del Marco 
+de Gasto de Mediano Plazo (MGMP) con proyección de inversión a 4 años; (2) Informe de ejecución de 
+inversiones para la Asamblea Departamental (Art. 343 Ley 5/1992); (3) Cruce con datos de avance 
+físico en campo para alertas tempranas de retrasos contractuales; (4) Base para el cálculo de 
+indicadores de eficacia del Plan de Desarrollo en el SISMEG-DNP.
+No N/A Productor Web Services Sí Gobernación del Huila / DNP
+Integración con MGA-DNP y SUIFP vía Web Service. GESPROY-SGR 
+para seguimiento de regalías. Exportación XLSX para Asamblea 
+Departamental.
+6 Depto. Adm. Planeación Banco_Proyectos
+Repositorio institucional de fichas técnicas y estudios
+previos de proyectos de inversión departamental,
+incluyendo proyectos viables, no viables y archivados.
+10
+id_ficha:TEXT | codigo_bpin:TEXT | nombre_proyecto:TEXT | sector:TEXT | 
+estado:TEXT | fecha_registro:DATE | valor_inversión:NUMBER | fuente:TEXT | 
+responsable:TEXT | vigencia:NUMBER
+380 Planeación, Hacienda Mensual
+APLICATIVOS MISIONALES: Sistema BPPID (Banco de Programas y Proyectos de Inversión 
+Departamental); módulo de viabilización y priorización de proyectos; sistema de presupuesto. 
+INTEROPERABILIDAD: DNP-SUIFP (viabilización nacional de proyectos); FINDETER (proyectos de 
+financiamiento para entidades territoriales); Gobernación (alineación con Plan de Desarrollo y MGMP). 
+CASOS ESPECÍFICOS: (1) Priorización de proyectos a incluir en el presupuesto anual por sector y 
+municipio; (2) Verificación de no duplicidad de proyectos entre secretarías antes de su formulación; (3) 
+Soporte técnico para gestión de créditos con FINDETER y banca multilateral; (4) Repositorio histórico 
+para análisis de inversión por período de gobierno.
+No N/A Productor Otro Sí Gobernación del Huila
+Mecanismo: Cargue de archivo plano (XLSX/PDF). Los proyectos del 
+BPPID se registran mediante archivo XLSX del sistema MGA-DNP que el 
+funcionario descarga y carga manualmente al repositorio interno. 
+Complementariamente se usan documentos PDF de fichas técnicas. No 
+existe servicio web ni enlace automático.
+7 Depto. Adm. Planeación Metas_Plan_Desarrollo
+Registro de metas, indicadores y programas del Plan de
+Desarrollo Departamental 'Huila Grande 2024-2027',
+vinculadas al Plan Nacional de Desarrollo.
+11
+id_meta:TEXT | programa:TEXT | subprograma:TEXT | indicador:TEXT | 
+linea_base:NUMBER | meta_cuatrienio:NUMBER | unidad_medida:TEXT | 
+responsable:TEXT | fuente:TEXT | avance_acumulado:DECIMAL | estado:TEXT
+186 Todas las secretarías Trimestral
+APLICATIVOS MISIONALES: Sistema de seguimiento y evaluación del Plan de Desarrollo 'Huila 
+Grande 2024-2027'; dashboard de Despacho del Gobernador; módulo de rendición de cuentas. 
+INTEROPERABILIDAD: DNP-SISMEG (reporte trimestral de avance de metas de gobierno); DANE 
+(fuente de líneas base poblacionales e indicadores sectoriales); MEN-SIMAT, MSPS-REPS, INS-
+SIVIGILA (fuentes automáticas de datos sectoriales para indicadores). CASOS ESPECÍFICOS: (1) 
+Generación automática del informe de gestión para rendición de cuentas ante la Asamblea; (2) 
+Semáforo de alertas para el Despacho del Gobernador sobre metas con rezago; (3) Cálculo del Índice 
+de Desempeño Fiscal y de gestión para el DNP; (4) Insumo para la Evaluación de Resultados del Plan 
+de Desarrollo por la Contraloría.
+No N/A Productor Web Services Sí Gobernación del Huila / DNP
+8 Depto. Adm. Planeación Indicadores_Gestion
+Catálogo de indicadores de gestión del SIG alineados con
+la norma ISO 9001:2015 y el MIPG, para monitoreo de
+procesos institucionales.
+9
+id_indicador:TEXT | proceso:TEXT | nombre:TEXT | formula:TEXT | 
+meta:NUMBER | frecuencia:TEXT | responsable:TEXT | unidad_medida:TEXT | 
+tipo:TEXT
+142 Control Interno, todas las secretarías Trimestral
+APLICATIVOS MISIONALES: Sistema Integrado de Gestión (SIG) — módulo de indicadores; sistema 
+de control interno MIPG; módulo de auditorías internas. INTEROPERABILIDAD: DAFP-FURAG 
+(reporte anual de resultados de gestión pública); ICONTEC (auditorías de certificación ISO 9001:2015 
+y NTCGP 1000:2009); Contraloría Departamental (indicadores de gestión en informes de auditoría). 
+CASOS ESPECÍFICOS: (1) Medición trimestral de eficiencia por proceso para la Alta Dirección; (2) 
+Soporte para el mantenimiento de la certificación ISO 9001 del SIG; (3) Insumo para planes de 
+mejoramiento ante hallazgos de Control Interno; (4) Comparativo de desempeño institucional entre 
+vigencias para análisis de tendencias.
+No N/A Productor Otro Sí Gobernación del Huila
+Mecanismo: Cargue de archivo plano (XLSX) — Formulario interno SIG. 
+Los responsables de proceso diligencian el formato trimestral de 
+indicadores en Excel y lo cargan al módulo del Sistema Integrado de 
+Gestión (SIG). No existe servicio web, Xroad, enlace de base de datos ni 
+conexión P2P.
+9 Depto. Adm. Planeación Planes_Desarrollo
+Repositorio histórico de los planes de desarrollo
+departamentales con sus componentes, programas y
+metas por período de gobierno.
+8
+id_plan:TEXT | nombre:TEXT | periodo_inicio:NUMBER | periodo_fin:NUMBER | 
+gobernador:TEXT | ejes:TEXT | programas:NUMBER | 
+presupuesto_total:NUMBER
+6 Planeación, Asamblea Cuatrienal
+APLICATIVOS MISIONALES: Repositorio oficial de planes de desarrollo por período de gobierno; 
+sistema de planeación estratégica; módulo de análisis histórico de políticas públicas. 
+INTEROPERABILIDAD: DNP (articulación Plan Nacional–Plan Departamental); Asamblea 
+Departamental (control político al plan); ODS-Naciones Unidas (alineación de metas de desarrollo 
+sostenible). CASOS ESPECÍFICOS: (1) Análisis de continuidad de programas y políticas entre 
+períodos de gobierno; (2) Referencia técnica para la formulación del nuevo plan de desarrollo cada 
+cuatrienio; (3) Insumo para evaluaciones ex-post de impacto de política pública departamental; (4) 
+Fuente para informes de rendición de cuentas comparativos ante la ciudadanía.
+No N/A Productor Otro Sí Gobernación del Huila
+Mecanismo: Publicación de documento oficial (PDF/XLSX). El Plan de 
+Desarrollo se adopta mediante Ordenanza departamental y se publica 
+como documento PDF en la Gaceta Departamental y en 
+www.huila.gov.co. El archivo XLSX del plan cuatrienal se distribuye 
+internamente. No existe servicio web, Xroad, enlace de base de datos ni 
+conexión P2P.
+10 Depto. Adm. Planeación Programas_Gobierno
+Catálogo de programas del plan de gobierno
+departamental, articulados con el Plan Nacional de
+Desarrollo y los ODS.
+8 id_programa:TEXT | eje:TEXT | nombre:TEXT | objetivo:TEXT | metas:NUMBER | presupuesto:NUMBER | responsable:TEXT | estado:TEXT 42 Planeación, Secretarías Anual
+APLICATIVOS MISIONALES: Sistema de planeación estratégica; módulo de alineación Plan 
+Nacional–Plan Departamental; sistema de seguimiento a compromisos de gobierno. 
+INTEROPERABILIDAD: DNP-SISMEG (articulación programas con metas de gobierno nacional); 
+Cancillería (programas de cooperación internacional); Sistema ODS (seguimiento Objetivos de 
+Desarrollo Sostenible en el departamento). CASOS ESPECÍFICOS: (1) Elaboración del informe de 
+cumplimiento del Programa de Gobierno ante la ciudadanía; (2) Articulación con CONPES sectoriales 
+que afectan al departamento del Huila; (3) Base para la formulación de indicadores del Marco de Gasto 
+de Mediano Plazo; (4) Referencia para la coordinación interinstitucional entre secretarías y entidades 
+nacionales.
+No N/A Productor Web Services Sí Gobernación del Huila
+11 Depto. Adm. Planeación Proyectos_Regalias
+Registro de proyectos financiados con recursos del
+Sistema General de Regalías (SGR) aprobados por el
+OCAD y en ejecución en el Huila.
+13
+id_proyecto:TEXT | codigo_bpin:TEXT | nombre:TEXT | ocad:TEXT | 
+sector:TEXT | municipios:TEXT | valor_aprobado:NUMBER | 
+valor_ejecutado:NUMBER | vigencia:NUMBER | fecha_aprobacion:DATE | 
+estado:TEXT | contrato:TEXT | interventor:TEXT
+87 Planeación, Hacienda, secretarías ejecutoras Mensual
+APLICATIVOS MISIONALES: Sistema de seguimiento SGR de la Gobernación; módulo de gestión de 
+proyectos con fuentes de regalías; dashboard de inversión SGR. INTEROPERABILIDAD: DNP-
+GESPROY-SGR (registro y seguimiento de proyectos SGR); DNP-SMSCE (sistema de monitoreo, 
+seguimiento, control y evaluación SGR); Contraloría General de la República (auditorías SGR); Agencia 
+Nacional de Minería-ANM (distribución de regalías por municipio productor). CASOS ESPECÍFICOS: 
+(1) Cálculo mensual del indicador de ejecución del presupuesto SGR para el SMSCE-DNP; (2) 
+Preparación de informes para los OCAD departamental y regional del Huila; (3) Alerta temprana sobre 
+proyectos SGR en riesgo de incumplir plazos de ejecución; (4) Insumo para la Rendición de Cuentas 
+SGR al Congreso de la República.
+No N/A Productor Web Services Sí Gobernación del Huila / DNP / SGR
+12 Depto. Adm. Planeación Datos_Estadísticos_Poblacionales
+Contiene los indicadores estadísticos del Departamento
+por municipio: demografía, economía, educación, salud y
+medio ambiente.
+12
+Codigo_DANE_Municipio (CODE), Municipio (TEXT), Anio (NUMBER), Indicador 
+(TEXT), Categoria_Indicador (CODE), Valor (NUMBER), Unidad_Medida 
+(TEXT), Fuente (TEXT), Zona (CODE), Periodo (CODE), Fecha_Calculo 
+(DATE), Observaciones (TEXT)
+~85.000 Planeación, Todas las Secretarías Anual Fuente base para indicadores del Plan de Desarrollo y del MRAE. Interopera con el DANE (proyecciones) y con el SISMEG-DNP. Alimenta el Observatorio Digital y dashboards de gestión territorial. Sí Municipio_Cod (CODE) →  coordenadas centroides; Latitud_Centroide (DECIMAL); Longitud_Centroide (DECIMAL); Area_Km2 (DECIMAL) Consumidor Web Services No DANE / IGAC / Gobernación del Huila
+DANE produce las proyecciones poblacionales. La Gobernación las 
+consume. | Intercambio mediante API de datos abiertos DANE 
+(proyecciones poblacionales) y servicio WFS cartográfico IGAC-SIGOT. 
+Alimenta el Observatorio Digital departamental. Complementariamente se 
+usa descarga XLSX/CSV para carga masiva interna.
+13 Depto. Adm. Planeación Capas_Cartográficas
+Contiene la información de las capas cartográficas:
+división político-administrativa, vías, uso del suelo,
+cuencas y zonas de riesgo en shapefile y GeoJSON.
+10
+Codigo_Capa (CODE), Nombre_Capa (TEXT), Tipo_Geometria (CODE), 
+Sistema_Referencia (CODE), Escala (TEXT), Fuente (TEXT), 
+Fecha_Actualizacion (DATE), Formato (CODE), Municipios (CODE), 
+URL_Servicio (TEXT)
+~320 Planeación, Vías, Gestión Riesgo Semestral Repositorio central de capas GIS del departamento. Alimenta el geoportal institucional y los mapas de planeación territorial. Interopera con el IGAC (SIGOT), IDEAM, CAM y sistemas de gestión del riesgo (UNGRD). Base para análisis espaciales de todos los procesos misionales. Sí Geometria_WKT (GEOMETRY); EPSG (CODE); BBox_MinX/MaxX/MinY/MaxY (DECIMAL); Escala_Referencia (NUMBER) Consumidor Web Services No IGAC / IDEAM / CAM / Gobernación del Huila
+IGAC produce las capas cartográficas base. La Gobernación las 
+consume vía SIGOT. | Intercambio mediante servicios estándar OGC 
+(WMS/WFS) con IGAC-SIGOT y GeoServer REST API institucional. 
+Formatos de intercambio: shapefile y GeoJSON bajo sistema de 
+referencia SIRGAS 2000 (EPSG:4686). Integración con IDECA para 
+visualización cartográfica.
+14 Secretaria General -TIC Infraestructura_Tecnológica Activos tecnológicos: servidores, redes, estaciones detrabajo, licencias de software y servicios en la nube. 13
+Codigo_Activo (CODE), Nombre_Activo (TEXT), Tipo (CODE), Marca (TEXT), 
+Modelo (TEXT), Serial (TEXT), Sistema_Operativo (TEXT), IP (TEXT), 
+Ubicacion (TEXT), Dependencia (CODE), Estado (CODE), Fecha_Adquisicion 
+(DATE), Fecha_Garantia (DATE)
+~2.800 TIC Trimestral
+Inventario de activos TI. Alimenta el Plan Estratégico de TI (PETI) y el Modelo de Seguridad y 
+Privacidad de la Información (MSPI – MinTIC). Interopera con CMDB para gestión de cambios y 
+continuidad del negocio. Base para auditorías de seguridad informática.
+No N/A Productor Otro No Gobernación del Huila / MinTIC
+Mecanismo: Parámetro interno — Sistema CMDB/ITSM y archivo XLSX. 
+El inventario de infraestructura tecnológica se gestiona en el CMDB 
+interno y se exporta a XLSX para reportes a MinTIC (MSPI) e ICONTEC. 
+No existe servicio web, Xroad, base de datos Db link ni P2P.
+15 Depto. Adm. Contratación Contratos
+Registro de contratos de suscritos por la Gobernación del
+Huila, publicados en SECOP II conforme a la Ley 80/1993
+y Ley 1150/2007. Tipo, objeto, contratista, cuantía, plazo,
+supervisor, estado y publicación en SECOP II.
+16
+Numero_Contrato (TEXT), Tipo_Contrato (CODE), Objeto (TEXT), 
+NIT_Contratista (TEXT), Cuantia (NUMBER), Plazo_Dias (NUMBER), 
+Fecha_Suscripcion (DATE), Fecha_Inicio (DATE), Fecha_Terminacion (DATE), 
+Supervisor (TEXT), Modalidad_Seleccion (CODE), Estado (CODE), CDP 
+(TEXT), URL_SECOP (TEXT), Dependencia (CODE), Valor_Adiciones 
+(NUMBER)
+~22.000 Contratación, Secretarías, Jurídico Diaria Fuente principal del proceso contractual. Publica en SECOP II (obligatorio Ley 1150/2007). Interopera con el SIIF para la imputación presupuestal y con el sistema de supervisores para alertas de vencimiento. Alimenta los reportes de contratación a la Contraloría y CCE. No N/A Productor Web Services No Gobernación del Huila / CCE / Contraloría Departamental
+La Gobernación genera sus propios contratos y los publica en SECOP II. 
+| Medio: Publicación obligatoria en SECOP II mediante API REST-CCE. 
+Imputación presupuestal en SIIF Nación. Reportes en XML para 
+Contraloría Departamental.
+16 Depto. Adm. Contratación Contratistas_Proponentes
+Contratistas y proponentes: capacidad financiera,
+experiencia, clasificación UNSPSC, historial. Integra con
+RUP-CCB.
+14
+NIT (TEXT), Razon_Social (TEXT), Tipo_Persona (CODE), 
+Representante_Legal (TEXT), Codigo_UNSPSC (CODE), Cap_Financiera 
+(NUMBER), Cap_Organizacion (NUMBER), Experiencia (TEXT), Estado_RUP 
+(CODE), Inhabilitado (BOOLEAN), Calificacion (NUMBER), Fecha_Inscripcion 
+(DATE), Municipio (CODE), N_Contratos (NUMBER)
+~6.800 Contratación, Jurídico Mensual
+Registro de contratistas personas naturales y jurídicas. Interopera con el RUP-CCE para verificación de 
+capacidades, con la DIAN para validación tributaria y con listas restrictivas (OFAC, ONU). Alimenta el 
+proceso de selección y adjudicación en SECOP II.
+No N/A Consumidor Web Services No Gobernación del Huila / CCE / DIAN
+El RUP es administrado por CCE. La Gobernación consulta/consume el 
+registro. | Medio: Integración con RUP-CCE vía Web Service. Validación 
+DIAN API RUT. Verificación listas ONU/OFAC. Integración SECOP II para 
+adjudicación.
+17 Secretaria de Hacienda Impuestos_Vehiculos
+Padrón de vehículos sujetos al impuesto departamental de
+vehículos automotores según la Ley 488/1998 y
+Ordenanzas departamentales.
+12
+id_vehiculo:TEXT | placa:TEXT | propietario_nit:TEXT | marca:TEXT | 
+modelo:TEXT | cilindraje:NUMBER | clase:TEXT | avaluo:NUMBER | 
+impuesto_anual:NUMBER | estado_pago:TEXT | vigencia:NUMBER | 
+municipio_matricula:TEXT
+148000 Hacienda – Rentas Anual (matrículas) / Continua (pagos)
+APLICATIVOS MISIONALES: Sistema de Rentas departamental (módulo impuesto de vehículos); 
+sistema de cobro coactivo; módulo de liquidación y recaudo. INTEROPERABILIDAD: RUNT-Ministerio 
+de Transporte (validación de propietarios y avalúos); DIAN (cruces de información tributaria para 
+fiscalización); MHCP-CHIP (reporte de ingresos tributarios a la CGN). CASOS ESPECÍFICOS: (1) 
+Liquidación automática del impuesto anual por placa usando avalúos RUNT; (2) Generación de paz y 
+salvo vehicular para trámites de traspaso y revisión técnico-mecánica; (3) Proceso de cobro coactivo a 
+morosos mediante mandamiento de pago; (4) Análisis de evasión fiscal vehicular mediante cruce entre 
+vehículos matriculados RUNT y pagos en el sistema.
+No N/A Consumidor Web Services Sí RUNT / Ministerio de Transporte
+18 Secretaria de Hacienda Cuentas_Bancarias
+Registro de las cuentas bancarias institucionales de la
+Gobernación del Huila para la gestión del Tesoro
+Departamental.
+9
+id_cuenta:TEXT | banco:TEXT | numero_cuenta:TEXT | tipo:TEXT | 
+moneda:TEXT | rubro_asociado:TEXT | estado:TEXT | fecha_apertura:DATE | 
+titular:TEXT
+48 Hacienda – Tesorería Eventual
+APLICATIVOS MISIONALES: Sistema de Tesorería departamental; módulo de gestión del flujo de 
+caja; sistema de conciliaciones bancarias. INTEROPERABILIDAD: Entidades bancarias (transferencias 
+ACH y P2P); MHCP-SIIF (registro de cuentas para pagos de nómina y proveedores); Contraloría 
+Departamental (conciliaciones en auditorías). CASOS ESPECÍFICOS: (1) Programación diaria del flujo 
+de caja para pago oportuno de nómina y contratos; (2) Conciliación mensual de extractos bancarios vs. 
+registros contables en el SIIF; (3) Gestión de cuotas partes pensionales entre entidades públicas; (4) 
+Control de saldos disponibles por fuente de financiación para evitar sobregiros presupuestales. NOTA: 
+Datos reservados — acceso restringido a Tesorería, Contraloría y auditorías autorizadas.
+No N/A Productor P2P-Punto a Punto Sí Gobernación del Huila
+19 Secretaria de Hacienda Presupuesto_Anual
+Presupuesto de rentas y gastos del departamento por
+vigencia fiscal, según el Decreto de liquidación del
+presupuesto y la Ordenanza de adopción.
+12
+id_rubro:TEXT | vigencia:NUMBER | seccion:TEXT | programa:TEXT | 
+subprograma:TEXT | objeto_gasto:TEXT | tipo:TEXT | 
+apropiacion_inicial:NUMBER | apropiacion_definitiva:NUMBER | 
+compromisos:NUMBER | obligaciones:NUMBER | pagos:NUMBER
+3200 Hacienda, Planeación, todas las secretarías Diaria (ejecución) / Anual (adopción)
+APLICATIVOS MISIONALES: Sistema SIIF Nación (módulo presupuestal); módulo de programación y 
+ejecución presupuestal; dashboard financiero institucional. INTEROPERABILIDAD: MHCP-SIIF 
+(registro en tiempo real de compromisos, obligaciones y pagos); CGN-CHIP (transmisión mensual de 
+formularios CGR-1 ejecución presupuestal); Contraloría Departamental (informes de ejecución para 
+control fiscal); DNP (Marco de Gasto de Mediano Plazo y apropiaciones por sector). CASOS 
+ESPECÍFICOS: (1) Elaboración del decreto de liquidación del presupuesto anual conforme a la 
+Ordenanza; (2) Control del PAC (Programa Anual Mensualizado de Caja) para la Tesorería; (3) 
+Generación automática del informe mensual de ejecución para la Asamblea Departamental; (4) Cálculo 
+del indicador de sostenibilidad fiscal (Ley 617/2000) que limita el gasto de funcionamiento.
+No N/A Productor Web Services Sí Gobernación del Huila / MHCP / CGN
+20 Secretaria de Hacienda Terceros_Financieros Terceros del sistema financiero: beneficiarios de pagos,acreedores, proveedores, entidades bancarias y fondos. 14
+NIT_CC (TEXT), Nombre_Razon_Social (TEXT), Tipo_Tercero (CODE), 
+Cuenta_Bancaria (TEXT), Entidad_Bancaria (CODE), Tipo_Cuenta (CODE), 
+Municipio (CODE), Telefono (TEXT), Email (TEXT), Representante_Legal 
+(TEXT), Fondo_Pensiones (CODE), Fondo_Cesantias (CODE), Estado (CODE), 
+Fecha_Actualizacion (DATE)
+~12.500 Hacienda, Contabilidad, Tesorería Mensual Maestro de beneficiarios de pagos (proveedores, contratistas, funcionarios). Interopera con el SIIF Nación para órdenes de pago, con la DIAN para validación de NIT y con el sistema bancario para transferencias ACH/PSE. Base del proceso de tesorería. No N/A Productor Web Services No Gobernación del Huila / DIAN / MHCP
+La Gobernación produce el maestro de terceros financieros para pagos. | 
+Medio: Integración con SIIF Nación vía Web Service para órdenes de 
+pago. Validación DIAN mediante API RUT. Transferencias bancarias ACH 
+vía protocolo P2P.
+21 Secretaria de Hacienda Cuentas_Contables
+Plan de cuentas contable alineado con el Catálogo
+General de Cuentas de la Contaduría General de la
+Nación (CGN).
+10
+Codigo_CGN (CODE), Nombre_Cuenta (TEXT), Nivel (NUMBER), Naturaleza 
+(CODE), Clase (CODE), Grupo (CODE), Cuenta (CODE), Subcuenta (CODE), 
+Auxiliar (TEXT), Estado (CODE)
+~3.200 Contabilidad, Hacienda Anual
+Plan de Cuentas Público (PCP) de la CGN. Base del módulo contable del SIIF. Interopera con CHIP 
+para consolidación de estados financieros. Alimenta los informes contables exigidos por la CGN (CGR-
+4, NIC-SP).
+No N/A Consumidor Web Services No CGN / Gobernación del Huila
+El Plan de Cuentas Público (PCP) es emitido por la CGN. La 
+Gobernación lo adopta. | Medio: Integración con SIIF Nación módulo 
+contable y transmisión a CHIP-CGN en formato XML mensual. Plan de 
+Cuentas Público descargado del portal CGN.
+22 Secretaria de Hacienda Contribuyentes_Rentas
+Contribuyentes y agentes de retención de rentas
+departamentales con historial de pagos y estado de
+cuenta.
+12
+NIT_CC (TEXT), Nombre (TEXT), Tipo_Persona (CODE), Tipo_Renta (CODE), 
+Municipio (CODE), Obligaciones (TEXT), Saldo_Favor (NUMBER), Saldo_Deuda 
+(NUMBER), Estado_Cuenta (CODE), Ultima_Declaracion (DATE), 
+Agente_Retencion (BOOLEAN), Fecha_Registro (DATE)
+~38.000 Hacienda, Rentas Mensual
+Padrón de contribuyentes de rentas departamentales. Interopera con el RUNT (vehículos), el DANE y la 
+DIAN para cruces de información. Alimenta el sistema de cobro coactivo y los procesos de fiscalización 
+tributaria.
+No N/A Productor Web Services No Gobernación del Huila / DIAN / RUNT
+La Gobernación genera el padrón de contribuyentes de rentas 
+departamentales. | Medio: Integración con RUNT vía Web Service para 
+datos de vehículos. Cruces con DIAN mediante API RUT. Archivo plano 
+para cobro coactivo (proceso interno).
+Información de Georreferenciación Intercambio de datos
+Observaciones
+Estructura de datos
+GOBERNACIÓN DEL HUILA
+DATOS MAESTROS
+=== p2 ===
+23 Secretaria de Hacienda Ejecución_Presupuestal
+Presupuesto departamental por vigencia: apropiación,
+compromisos, obligaciones y pagos. Eje del sistema
+financiero.
+13
+Vigencia (NUMBER), Rubro (CODE), Tipo (CODE), Apropiacion_Inicial 
+(NUMBER), Modificaciones (NUMBER), Apropiacion_Definitiva (NUMBER), 
+Compromisos (NUMBER), Obligaciones (NUMBER), Pagos (NUMBER), 
+Reservas (NUMBER), Fuente_Financiacion (CODE), Dependencia (CODE), 
+Fecha_Corte (DATE)
+~95.000 Hacienda, Planeación, Control Interno Diaria Fuente central del proceso financiero. Alimenta el CHIP-CGN (formularios CGR-1 y CGR-4) y los reportes al MHCP. Interopera con el SIIF para compromisos, obligaciones y pagos en tiempo real. Base de la rendición de cuentas fiscal ante la Contraloría. No N/A Productor Web Services No Gobernación del Huila / MHCP / CGN / Contraloría Departamental
+La Gobernación produce y gestiona la ejecución presupuestal propia. | 
+Intercambio en tiempo real con SIIF Nación mediante Web Service. 
+Transmisión mensual a CHIP-CGN en formato XML. Reportes XLSX 
+periódicos a la Contraloría Departamental. Dashboard financiero Power 
+BI embebido en el portal institucional.
+24 Secretaria de Hacienda Pensionados_Departamento
+Pensionados a cargo del Departamento: tipo, régimen,
+mesada, entidad pagadora y acto administrativo de
+reconocimiento.
+13
+Cedula (TEXT), Nombre (TEXT), Tipo_Pension (CODE), Regimen (CODE), 
+Mesada_Mensual (NUMBER), Entidad_Pagadora (CODE), Acto_Administrativo 
+(TEXT), Fecha_Reconocimiento (DATE), Estado (CODE), N_Beneficiarios 
+(NUMBER), Cuenta_Bancaria (TEXT), Entidad_Bancaria (CODE), 
+Exento_Retencion (BOOLEAN)
+~4.200 Hacienda, Pensiones, Contabilidad Mensual Padrón de pensionados del departamento. Interopera con Colpensiones para validación de derechos adquiridos y con la UGPP para control de doble beneficio. Alimenta el cálculo del pasivo pensional y los reportes actuariales exigidos por el MHCP (FONPET). No N/A Productor Web Services No Gobernación del Huila / MHCP / Colpensiones / UGPP
+La Gobernación administra el padrón de pensionados departamentales. | 
+Medio: Integración con Colpensiones vía Web Service para validación de 
+derechos pensionales. Validación UGPP API. Reporte actuarial FONPET-
+MHCP.
+25 Oficina Control Interno Procesos_SIG
+Procesos del Sistema Integrado de Gestión (SIG):
+nombre, macroproceso, tipo, objetivo, responsable y
+versión vigente.
+11
+Codigo_Proceso (CODE), Nombre_Proceso (TEXT), Tipo_Proceso (CODE), 
+Macroproceso (CODE), Objetivo (TEXT), Responsable (CODE), Version 
+(TEXT), Fecha_Aprobacion (DATE), Estado (CODE), N_Documentos 
+(NUMBER), URL_Documentacion (TEXT)
+~68 Todas las dependencias Anual Mapa de procesos del Sistema Integrado de Gestión (SIG) alineado con la norma ISO 9001:2015 y el MIPG. Alimenta el sistema de gestión documental (SIGA), los planes de mejoramiento y los reportes FURAG al DAFP. No N/A Productor Otro No Gobernación del Huila / DAFP / ICONTEC
+Mecanismo: Cargue de archivo plano (XLSX) — Formulario digital FFIE. 
+El inventario de infraestructura escolar se reporta al FFIE-MEN mediante 
+archivo XLSX en el portal del Fondo. No existe servicio web, Xroad, base 
+de datos Db link ni conexión P2P.
+26 Oficina Control Interno - Disciplinario Investigados_Disciplinario Servidores vinculados a procesos disciplinarios: faltapresunta, estado del proceso y decisión (Ley 734/2002). 13
+Cedula (TEXT), Nombre (TEXT), Cargo (CODE), Dependencia (CODE), 
+Falta_Presunta (CODE), Tipo_Falta (CODE), Radicado (TEXT), Fecha_Apertura 
+(DATE), Estado_Proceso (CODE), Decision (TEXT), Sancion (CODE), 
+Fecha_Decision (DATE), Apelacion (BOOLEAN)
+~850 Control Disciplinario, Jurídico Semanal Base del sistema de control disciplinario (Ley 734/2002 / Ley 1952/2019). Interopera con el SIRI (Sistema de Información de Registro de Sanciones – Función Pública) para reporte de sanciones ejecutoriadas. Alimenta el informe de gestión disciplinaria y el FURAG. No N/A Productor Web Services No Gobernación del Huila / DAFP / Procuraduría General
+La Oficina de Control Disciplinario genera los expedientes disciplinarios. | 
+Intercambio con SIRI (Sistema de Información de Registro de Sanciones) 
+de la Función Pública mediante Web Service para reporte de sanciones 
+ejecutoriadas. Reporte XML al DAFP. Archivo cifrado para la 
+Procuraduría General. Dashboard interno de Control Disciplinario.
+27 Oficina Control Interno Hallazgos_Auditorias Hallazgos de auditoría interna y externa: causa, efecto,calificación, plan de mejoramiento y fecha de cierre. 14
+Codigo_Hallazgo (CODE), Auditoria (CODE), Dependencia_Auditada (CODE), 
+Descripcion (TEXT), Causa (TEXT), Efecto (TEXT), Criterio (TEXT), Calificacion 
+(CODE), Accion_Correctiva (TEXT), Responsable (CODE), Fecha_Compromiso 
+(DATE), Avance_Pct (NUMBER), Estado (CODE), Fecha_Cierre (DATE)
+~3.200
+Control Interno, 
+Planeación, 
+Secretarías
+Trimestral
+Repositorio de hallazgos de auditorías internas y externas. Alimenta los Planes de Mejoramiento del 
+SIG y los informes al ente de control fiscal. Interopera con el sistema de la Contraloría Departamental 
+para seguimiento de compromisos.
+No N/A Productor Web Services No
+Gobernación del Huila / 
+Contraloría 
+Departamental
+La Oficina de Control Interno genera los hallazgos de auditoría. | Medio: 
+Integración con portal Contraloría Departamental para seguimiento de 
+compromisos. Sistema SIG interno. Reporte XLSX trimestral y reporte 
+FURAG-DAFP.
+28 Oficina Control Interno Planes_Mejoramiento Planes de mejoramiento con la Contraloría General yórganos de control: acción correctiva, avance y evidencias. 12
+Codigo_Plan (CODE), Fuente_Hallazgo (CODE), Ente_Control (TEXT), 
+Accion_Correctiva (TEXT), Responsable (CODE), Fecha_Suscripcion (DATE), 
+Fecha_Comprometida (DATE), Avance_Pct (NUMBER), Evidencias (TEXT), 
+Estado (CODE), Prorroga (BOOLEAN), Observaciones (TEXT)
+~1.800 Control Interno, Todas las Secretarías Mensual Repositorio de planes de mejoramiento institucionales derivados de auditorías. Alimenta el informe de seguimiento MIPG-DAFP y los reportes a la Contraloría. Interopera con los módulos del SIG para cierre de hallazgos. No N/A Productor Web Services No Gobernación del Huila / Contraloría Departamental / DAFP
+La Gobernación formula y gestiona sus propios planes de mejoramiento. 
+| Medio: Integración con portal Contraloría Departamental para 
+seguimiento. Sistema SIG módulo mejoramiento. Reporte XML al DAFP-
+FURAG. Dashboard Power BI.
+29 Secretaria General -Talento Humano Contratistas
+Registro de personas naturales y jurídicas vinculadas
+mediante contratos de prestación de servicios, obra y
+suministro en la vigencia actual.
+11
+id_contratista:TEXT | cedula_nit:TEXT | nombre:TEXT | tipo:TEXT | 
+contrato:TEXT | objeto:TEXT | valor:NUMBER | fecha_inicio:DATE | 
+fecha_fin:DATE | dependencia:TEXT | supervisor:TEXT
+5600 Talento Humano, Contratación, Hacienda Continua
+APLICATIVOS MISIONALES: Sistema de gestión contractual de la Gobernación; módulo de 
+verificación y seguimiento de contratos de prestación de servicios; sistema de pagos de Hacienda 
+(SIIF). INTEROPERABILIDAD: SECOP II-CCE (publicación obligatoria de contratos y supervisión en 
+línea); UGPP (verificación de pago de parafiscales de contratistas independientes); DIAN (validación de 
+RUT y estado tributario para pagos); Contraloría Departamental (reportes de contratistas con contratos 
+activos). CASOS ESPECÍFICOS: (1) Verificación automática de inhabilidades e incompatibilidades 
+antes de cada pago; (2) Control de acumulación de contratos entre secretarías para el mismo 
+contratista; (3) Generación de certificaciones de contratos para trámites ante el SIGEP y CNSC; (4) 
+Cruce con RUAF-DANE para validar que contratistas con contratos activos no figuren como empleados 
+públicos.
+No N/A Productor Web Services Sí Gobernación del Huila / CCE
+30 Secretaria General -Talento Humano Planta_Personal
+Estructura de cargos de la planta global y planta de
+cargos de la Gobernación del Huila, según Ordenanzas de
+planta y manual de funciones.
+10
+id_cargo:TEXT | denominacion:TEXT | codigo:TEXT | grado:TEXT | nivel:TEXT | 
+dependencia:TEXT | n_cargos:NUMBER | asignacion_basica:NUMBER | 
+estado:TEXT | decreto_planta:TEXT
+486 Talento Humano, Planeación Eventual (modificación de planta)
+APLICATIVOS MISIONALES: Sistema de nómina institucional (SIIF); módulo de administración de 
+personal (SIGEP); sistema de convocatorias y concursos de méritos. INTEROPERABILIDAD: DAFP-
+SIGEP (publicación obligatoria de la planta de cargos); CNSC (convocatorias a concursos de méritos 
+para cargos de carrera); MHCP-SIIF (liquidación de nómina por cargo y grado salarial); Contraloría 
+Departamental (auditoria de nómina vs. planta autorizada). CASOS ESPECÍFICOS: (1) Cálculo 
+automático del valor de nómina mensual por tipo de vinculación; (2) Verificación de no superación del 
+límite de gasto de funcionamiento (Ley 617/2000) con la planta vigente; (3) Elaboración de la planta 
+provisional para vacantes no cubiertas por concurso; (4) Insumo para la modificación de planta 
+mediante Ordenanza cuando se requiere crear o suprimir cargos.
+No N/A Productor Web Services Sí Gobernación del Huila / DAFP / CNSC
+31 Secretaria General -Talento Humano Historial_Laboral
+Hoja de vida y expediente laboral de cada servidor público, 
+incluyendo actos de vinculación, encargos, comisiones,
+sanciones y retiros.
+13
+id_evento:TEXT | cedula:TEXT | tipo_evento:TEXT | descripcion:TEXT | 
+fecha_evento:DATE | acto_administrativo:TEXT | dependencia:TEXT | 
+cargo_anterior:TEXT | cargo_nuevo:TEXT | vigencia:NUMBER | 
+observaciones:TEXT | firmado_por:TEXT | estado:TEXT
+28400 Talento Humano Continua
+APLICATIVOS MISIONALES: Sistema de Gestión Documental SIGA (expediente digital de personal); 
+módulo de administración de personal; sistema de control disciplinario. INTEROPERABILIDAD: DAFP-
+SIGEP (hoja de vida oficial del servidor público); Colpensiones (historial de tiempos de servicio para 
+liquidación pensional); Contraloría Departamental (verificación de inhabilidades por sanciones fiscales). 
+CASOS ESPECÍFICOS: (1) Elaboración de certificaciones de tiempo de servicio y salarios para 
+trámites de pensión; (2) Soporte documental en procesos disciplinarios ante la Procuraduría y Control 
+Disciplinario; (3) Verificación de requisitos de ascenso en el escalafón (docentes Decreto 1278); (4) 
+Cálculo de prestaciones sociales (cesantías, primas, vacaciones) para liquidaciones definitivas.
+No N/A Productor Otro Sí Gobernación del Huila
+Mecanismo: Expediente físico digitalizado (PDF/escáner). Los actos del 
+historial laboral se digitalizan y almacenan en el sistema SIGA con 
+acceso restringido. La entrega de certificaciones se hace por oficio o 
+correo institucional. No existe servicio web, Xroad, base de datos Db link 
+ni P2P.
+32 Secretaria General Bienes_Muebles_Inmuebles
+Inventario de activos físicos: inmuebles (sedes, lotes),
+muebles, vehículos y equipos, con ubicación, estado, valor
+y responsable de custodia.
+14
+Codigo_Bien (CODE), Nombre_Bien (TEXT), Tipo_Bien (CODE), Descripcion 
+(TEXT), Valor_Historico (NUMBER), Valor_Avaluo (NUMBER), Estado (CODE), 
+Ubicacion (TEXT), Dependencia_Custodio (CODE), Responsable (TEXT), 
+Fecha_Adquisicion (DATE), Numero_Placa (TEXT), Fecha_Ultima_Act (DATE), 
+Observaciones (TEXT)
+~18.500 General, Contabilidad, Control Interno Semestral Alimenta el módulo de activos fijos del SIIF Nación. Interopera con Contabilidad para cálculo de depreciaciones (CGN), con Seguros para renovación de pólizas y con Hacienda para avalúos catastrales. Base del inventario exigido por la Contraloría. No N/A Productor Web Services No Gobernación del Huila / CGN / Contraloría Departamental
+La Gobernación administra el inventario de sus propios bienes. | Medio: 
+Integración con SIIF Nación módulo de activos fijos y transmisión XML a 
+CHIP-CGN. Sistema de seguros institucional.
+33 Secretaria General - Archivo Series_Documentales Series y subseries documentales según las Tablas deRetención Documental (TRD) aprobadas por el AGN. 11
+Codigo_Serie (CODE), Nombre_Serie (TEXT), Subserie (TEXT), 
+Dependencia_Productora (CODE), Retencion_Gestion (NUMBER), 
+Retencion_Central (NUMBER), Disposicion_Final (CODE), Soporte (CODE), 
+Frecuencia_Consulta (CODE), Fecha_Aprobacion_TRD (DATE), 
+Norma_Sustantiva (TEXT)
+~680 Todas dependencias, Archivo Cada 5 años Base del Sistema de Gestión Documental (SIGA). Interopera con el AGN (ISAD-G) para la elaboración de Tablas de Retención Documental (TRD). Usada en el módulo de gestión documental para clasificación, radicación y archivo. No N/A Productor Otro No Gobernación del Huila / AGN
+Mecanismo: Sistema de Gestión Documental SIGA — Exportación 
+XML/TRD. Las series documentales se gestionan en el sistema SIGA y la 
+TRD se reporta al AGN mediante exportación XML. No existe servicio 
+web en tiempo real, Xroad, base de datos Db link ni P2P.
+34 Secretaria General - Atencion al Ciudadano Ciudadanos_Usuarios Ciudadanos usuarios de la Gobernación: canal de acceso,trámites realizados, PQRSDF y estado. Política Estado-Ciudadano. 12 Cedula (TEXT), Nombre (TEXT), Municipio (CODE), Canal_Acceso (CODE), N_Tramites (NUMBER), N_PQRSDF (NUMBER), Ultimo_Acceso (DATE), Correo (TEXT), Telefono (TEXT), Tipo_Identificacion (CODE), Estado (CODE), Preferencia_Canal (CODE) ~350.000 Sec. General, Servicio Ciudadano Diaria Registro de ciudadanos que han interactuado con la Gobernación vía PQRSFD, trámites o programas sociales. Interopera con el sistema PQRSFD (extranet.huila.gov.co) y SUIT-DAFP. Dato personal sensible – uso restringido Ley 1581/2012. Solo se publica estadística agregada. No N/A Productor Web Services No Gobernación del Huila / DAFP
+Sistema PQRSFD en extranet.huila.gov.co. Integración SUIT-DAFP para 
+trámites vía Web Service. Archivo cifrado para uso interno. Dashboard 
+estadístico Power BI.
+35 Secretaría General Bienes_Muebles_Inmuebles
+Inventario de activos físicos: inmuebles (sedes, lotes),
+muebles, vehículos y equipos, con ubicación, estado, valor
+y responsable de custodia.
+14
+Codigo_Bien (CODE), Nombre_Bien (TEXT), Tipo_Bien (CODE), Descripcion 
+(TEXT), Valor_Historico (NUMBER), Valor_Avaluo (NUMBER), Estado (CODE), 
+Ubicacion (TEXT), Dependencia_Custodio (CODE), Responsable (TEXT), 
+Fecha_Adquisicion (DATE), Numero_Placa (TEXT), Fecha_Ultima_Act (DATE), 
+Observaciones (TEXT)
+~18.500 General, Contabilidad, Control Interno Semestral Alimenta el módulo de activos fijos del SIIF Nación. Interopera con Contabilidad para cálculo de depreciaciones (CGN), con Seguros para renovación de pólizas y con Hacienda para avalúos catastrales. Base del inventario exigido por la Contraloría. No N/A Productor Web Services No Gobernación del Huila / CGN / Contraloría Departamental
+La Gobernación produce el inventario de activos. Dependencia interna. | 
+Medio: Integración con SIIF Nación módulo de activos fijos y transmisión 
+XML a CHIP-CGN. Sistema de seguros institucional.
+36 Secretaría General Proveedores_Bienes_Servicios Proveedores del Departamento: razón social, NIT,categoría CUBS, historial de contratación e inhabilitaciones. 13
+NIT (TEXT), Razon_Social (TEXT), Representante_Legal (TEXT), Direccion 
+(TEXT), Municipio (CODE), Telefono (TEXT), Email (TEXT), Categoria_CUBS 
+(CODE), Capacidad_Financiera (NUMBER), Estado_RUP (CODE), Inhabilitado 
+(BOOLEAN), Fecha_Registro (DATE), Historial_Contratos (NUMBER)
+~4.200 Contratación, General, Contabilidad Mensual Base de proveedores para el proceso de compras y suministros. Interopera con el RUP (Registro Único de Proponentes – CCE) y con SECOP II para procesos de menor cuantía. Alimenta órdenes de compra y servicio en el módulo de Hacienda. No N/A Consumidor Web Services No Gobernación del Huila / CCE / DIAN
+El RUP-CCE es la fuente oficial de proveedores. La Gobernación 
+consulta. | Medio: Integración con RUP-CCE vía Web Service para 
+verificación de proponentes. Integración SECOP II para procesos de 
+menor cuantía.
+37 Secretaría General - Talento Humano Servidores_Publicos
+Registro del Talento humano de la Gobernación:
+servidores públicos de carrera, libre nombramiento,
+provisionalidad, período fijo cargo, dependencia, tipo de
+vinculación, nivel salarial, escalafón y estado.
+16
+Cedula (TEXT), Nombre_Completo (TEXT), Cargo (CODE), Dependencia 
+(CODE), Tipo_Vinculacion (CODE), Nivel (CODE), Grado (NUMBER), Salario 
+(NUMBER), Fecha_Posesion (DATE), Estado (CODE), Escalafon (CODE), 
+Correo_Institucional (TEXT), Telefono (TEXT), Municipio_Residencia (CODE), 
+EPS (CODE), Fondo_Pension (CODE)
+~4.800 Talento Humano, Hacienda (nómina) Mensual
+Maestro de servidores públicos. Nómina, liquidación de prestaciones, reportes DAFP (SIGEP), Función 
+Pública, Contraloría, gestión de vacaciones y permisos. Alimenta el SIGEP (Sistema de Información y 
+Gestión del Empleo Público – DAFP) y el sistema de nómina (SIIF). Interopera con la UGPP para 
+validación de parafiscales, con la CNSC para concursos de méritos y con la DIAN para retención en la 
+fuente.
+No N/A Productor Web Services No Gobernación del Huila / DAFP / UGPP / CNSC
+La Secretaría General administra la planta de servidores públicos. | 
+Medio: Integración con SIGEP-DAFP vía Web Service. Nómina en SIIF 
+Nación. Validación parafiscales UGPP API. Transmisión XML a DAFP 
+para FURAG.
+38 Secretarìa General - TIC Sistemas_Informacion
+Inventario de sistemas de información y aplicativos que 
+soportan los procesos misionales y de apoyo de la 
+Gobernación del Huila.
+12
+id_sistema:TEXT | nombre:TEXT | proceso:TEXT | tipo:TEXT | proveedor:TEXT 
+| version:TEXT | tecnologia:TEXT | bd:TEXT | url:TEXT | estado:TEXT | 
+usuario_admin:TEXT | fecha_adquisicion:DATE
+42 TIC, Control Interno Semestral Arquitectura tecnológica MRAE, auditorías de seguridad, planes de contingencia, PETI. No N/A Productor Otro Sí Gobernación del Huila / MinTIC
+Mecanismo: Parámetro interno — Inventario en sistema CMDB/PETI 
+institucional. El catálogo de sistemas de información se gestiona en el 
+CMDB del área TIC y se reporta a MinTIC mediante formulario MSPI. No 
+existe servicio web, Xroad, base de datos Db link ni P2P.
+39 Secretarìa General - TIC Usuarios_Sistemas
+Registro de usuarios internos con acceso a los sistemas 
+de información institucionales, con roles y perfiles de 
+seguridad.
+9
+id_usuario:TEXT | cedula:TEXT | nombre:TEXT | dependencia:TEXT | 
+sistema:TEXT | perfil:TEXT | estado:TEXT | fecha_creacion:DATE | 
+ultimo_acceso:DATE
+3840 TIC Continua Control de acceso, auditorías de seguridad, MSPI, gestión de identidades. No N/A Productor Otro Sí Gobernación del Huila
+Mecanismo: Parámetro interno — Directorio activo institucional (MSPI). 
+El registro de usuarios del sistema se gestiona mediante directorio activo 
+con acceso restringido y se reporta en auditorías de seguridad MSPI. No 
+existe servicio web externo, Xroad, base de datos Db link ni P2P.
+40 Secretarìa General - TIC Inventario_Tecnologico Inventario de activos tecnológicos (hardware, software, redes y comunicaciones) de la Gobernación del Huila. 12 id_activo:TEXT | tipo:TEXT | descripcion:TEXT | marca:TEXT | modelo:TEXT | serial:TEXT | dependencia:TEXT | estado:TEXT | valor_compra:NUMBER | fecha_adquisicion:DATE | garantia_hasta:DATE | proveedor:TEXT 4840 TIC, Hacienda Continua Gestión de activos TI, renovación tecnológica, inventario contable, PETI. No N/A Productor Otro Sí Gobernación del Huila
+Mecanismo: Cargue de archivo plano (XLSX) — Formato INVIAS. El 
+inventario de puentes se registra en el formato estándar INVIAS (archivo 
+XLSX/CSV) y se reporta al sistema SINCO-INVIAS mediante cargue 
+manual de archivo plano. No existe servicio web, Xroad, enlace de base 
+de datos ni conexión P2P.
+41 Secretarìa General - TIC Servicios_Digitales
+Catálogo de servicios digitales y trámites en línea 
+ofrecidos por la Gobernación del Huila, alineado con el 
+SUIT y GovTech.
+10
+id_servicio:TEXT | cod_suit:TEXT | nombre:TEXT | dependencia:TEXT | 
+tipo:TEXT | canal:TEXT | tiempo_respuesta:NUMBER | costo:NUMBER | 
+estado:TEXT | url:TEXT
+87 TIC, todas las dependencias Semestral Mejora de servicios al ciudadano, Anti-Trámites, FURAG, reportes MinTIC y DAFP. No N/A Productor Web Services Sí Gobernación del Huila / DAFP
+42 Secretaria de Educación Instituciones_Educativas
+Catálogo de instituciones educativas oficiales del
+Departamento: código DANE, municipio, zona, niveles
+ofertados, modalidad y estado de legalización.
+14
+Codigo_DANE (CODE), Nombre_IE (TEXT), Municipio (CODE), Zona (CODE), 
+Direccion (TEXT), Telefono (TEXT), Rector (TEXT), Niveles_Ofertados (TEXT), 
+Modalidad (CODE), Jornadas (TEXT), Estado (CODE), Fecha_Legalizacion 
+(DATE), N_Sedes (NUMBER), N_Estudiantes (NUMBER)
+~1.250 Educación, Planeación Anual
+Registro oficial de IE oficiales. Alimenta el SIMAT-MEN (Sistema Integrado de Matrícula). Interopera 
+con el DANE (código DANE-IE) y con el ICFES para resultados Saber. Insumo para la asignación de la 
+planta docente y la transferencia per cápita del SGP Educación.
+Sí
+Latitud (DECIMAL); Longitud (DECIMAL); 
+Municipio (CODE); Zona_Urbana_Rural 
+(CODE)
+Productor Web Services No Gobernación del Huila / MEN / DANE / ICFES
+La Gobernación gestiona las IE oficiales del departamento. | Medio: 
+Integración con SIMAT-MEN vía Web Service. API ICFES para resultados 
+Saber. Código DANE-IE. Dashboard cartográfico GeoServer institucional.
+43 Secretaria de Educación Sedes_Educativas
+Registro de las sedes educativas del departamento,
+incluyendo dirección, estado de la infraestructura,
+conectividad y dotación.
+12
+id_sede:TEXT | cod_dane_sede:TEXT | nombre:TEXT | ie_cod:TEXT | 
+municipio:TEXT | vereda_barrio:TEXT | latitud:DECIMAL | longitud:DECIMAL | 
+estado_infraestructura:TEXT | conectividad:BOOLEAN | n_aulas:NUMBER | 
+area_m2:NUMBER
+2148 Educación, Infraestructura Anual
+APLICATIVOS MISIONALES: Sistema de gestión de infraestructura educativa; módulo de conectividad 
+escolar; sistema de matrícula SIMAT; SIG departamental (mapa de sedes educativas). 
+INTEROPERABILIDAD: MEN-SIMAT (código DANE de sede para matrícula oficial); MinTIC-
+Computadores para Educar (estado de conectividad por sede); FFIE-MEN (inventario de infraestructura 
+escolar por sede); DANE (código de sede educativa para estadísticas). CASOS ESPECÍFICOS: (1) 
+Georreferenciación de sedes para análisis de cobertura y distancias a zonas rurales; (2) Priorización de 
+sedes para programas de conectividad rural MinTIC (zonas sin internet); (3) Identificación de sedes en 
+riesgo de desastre para planes de contingencia escolar; (4) Cálculo del número de docentes 
+requeridos por sede según ratio alumno/maestro del MEN.
+Sí latitud:DECIMAL; longitud:DECIMAL Productor Web Services Sí Gobernación del Huila / MEN
+44 Secretaria de Educación Estudiantes_Matriculados
+Matrícula oficial de estudiantes del sector educativo
+departamental: por sede, matrícula, IE, grado, jornada,
+modalidad, vulnerabilidad y PAE. Fuente oficial SIMAT-
+MEN.
+14
+N_Matricula (TEXT), NUIP (TEXT), Nombre (TEXT), Codigo_DANE_IE (CODE), 
+Grado (CODE), Anio_Lectivo (NUMBER), Jornada (CODE), Modalidad (CODE), 
+Municipio (CODE), Condicion_Vulnerabilidad (CODE), PAE (BOOLEAN), Etnia 
+(CODE), Discapacidad (BOOLEAN), Estado (CODE)
+~220.000 Educación, MEN-SIMAT Anual Matrícula oficial. Alimenta SIMAT-MEN para consolidado nacional. Interopera con el PAE (Programa de Alimentación Escolar – MEN) para focalización de beneficiarios, con el ICBF y con el sistema de gratuidad educativa. Datos anonimizados para publicación abierta. No N/A Productor Web Services No Gobernación del Huila / MEN / ICBF / DANE
+La Gobernación genera la matrícula oficial del sector educativo. | Medio: 
+Integración con SIMAT-MEN vía Web Service. Integración PAE-MEN. 
+Cruce SISBÉN IV-DANE. Archivo cifrado para reportes sectoriales. XLSX 
+anonimizado Open Data.
+45 Secretaria de Educación Docentes_Sector_Educativo Registro de docentes y directivos del sector oficialdepartamental, vinculados según Decreto 2277 y 1278. 14
+Cedula (TEXT), Nombre (TEXT), Codigo_DANE_IE (CODE), Area_Ensenanza 
+(CODE), Decreto_Escalafon (CODE), Grado_Escalafon (NUMBER), 
+Cargo_Directivo (BOOLEAN), Tipo_Vinculacion (CODE), Municipio (CODE), 
+Titulo_Academico (TEXT), Fecha_Ingreso (DATE), Estado (CODE), Correo 
+(TEXT), Telefono (TEXT)
+~11.500 Educación, RRHH Educativo Continua Registro docente oficial. Alimenta SIGEP-DAFP y SIMAT-MEN para la planta docente. Interopera con la CNSC para concursos de méritos y con el MHCP para el pago de nómina docente con transferencias SGP. Base del proceso de evaluación de desempeño (Decreto 1278/2002). No N/A Productor Web Services No Gobernación del Huila / MEN / DAFP / CNSC
+La Gobernación administra el registro docente del sector oficial. | Medio: 
+Integración SIGEP-DAFP vía Web Service. Integración planta SIMAT-
+MEN. Portal concursos CNSC. SIIF nómina SGP. Transmisión XML al 
+MEN.
+46 Secretaria de Educación Infraestructura_Educativa
+Inventario de la infraestructura física de las instituciones
+educativas: aulas, baterías sanitarias, laboratorios,
+restaurantes y canchas.
+11
+id_espacio:TEXT | sede_cod:TEXT | tipo_espacio:TEXT | area_m2:NUMBER | 
+estado:TEXT | anio_construccion:NUMBER | material_construccion:TEXT | 
+necesidad_intervencion:BOOLEAN | costo_intervencion:NUMBER | 
+financiador:TEXT | fecha_ult_mantenimiento:DATE
+7840 Infraestructura, Educación Anual
+APLICATIVOS MISIONALES: Sistema de inventario de infraestructura educativa; módulo de proyectos 
+de mantenimiento y mejoramiento escolar; sistema de seguimiento a obras educativas. 
+INTEROPERABILIDAD: FFIE-MEN (fichas de infraestructura para asignación de recursos); SGR 
+(proyectos de construcción y mejoramiento de escuelas con regalías); INVIAS (vías de acceso a sedes 
+educativas rurales). CASOS ESPECÍFICOS: (1) Priorización anual de sedes educativas para 
+intervención con recursos SGP-calidad; (2) Gestión de contratos de mantenimiento preventivo y 
+correctivo de plantas físicas; (3) Elaboración del Plan Departamental de Infraestructura Educativa para 
+el MEN; (4) Identificación de sedes con necesidades de accesibilidad para personas con discapacidad 
+(Ley 1618/2013).
+No N/A Productor Otro Sí Gobernación del Huila / MEN
+Mecanismo: Cargue de archivo plano (XLSX) — Formulario digital FFIE. 
+El inventario de infraestructura escolar se reporta al FFIE-MEN mediante 
+archivo XLSX en el portal del Fondo de Financiamiento. No existe 
+servicio web, Xroad, base de datos Db link ni P2P.
+47 Secretaria de Educación Bibliotecas_Escolares
+Inventario de bibliotecas escolares con estado de
+colección, conectividad y participación en el Plan Nacional
+de Lectura y Escritura.
+9
+id_biblioteca:TEXT | ie_cod:TEXT | nombre:TEXT | n_titulos:NUMBER | 
+conectividad:BOOLEAN | estado_coleccion:TEXT | responsable:TEXT | 
+n_usuarios_mes:NUMBER | participa_pnle:BOOLEAN
+412 Educación, Cultura Anual
+APLICATIVOS MISIONALES: Sistema de inventario de dotaciones educativas; módulo del Plan 
+Nacional de Lectura y Escritura (PNLE); sistema de seguimiento a programas de fomento lector. 
+INTEROPERABILIDAD: MEN-PNLE (reporte de colecciones y participación en Colombia Lee); 
+Biblioteca Nacional de Colombia (programa de acceso a colecciones digitales); DANE (indicadores de 
+lectura por departamento). CASOS ESPECÍFICOS: (1) Gestión de dotaciones de libros y materiales 
+educativos por programa MEN; (2) Análisis de cobertura del Plan de Lectura en sedes rurales frente a 
+urbanas; (3) Priorización de sedes para recibir colecciones del Programa Libros para Aprender del 
+MEN; (4) Soporte para el Día Departamental del Libro y actividades de fomento lector.
+No N/A Productor Otro Sí Gobernación del Huila / MEN
+Mecanismo: Cargue de archivo plano (XLSX) — Formulario PNLE. El 
+inventario de bibliotecas escolares se reporta al Plan Nacional de Lectura 
+y Escritura (MinEducación) mediante archivo XLSX. No existe servicio 
+web, Xroad, base de datos Db link ni P2P.
+48 Secretaria de Educación Conectividad_Educativa
+Estado de conectividad a internet de las sedes educativas
+oficiales, articulado con el programa Mi Señal y
+Computadores para Educar.
+10
+id_conexion:TEXT | sede_cod:TEXT | tiene_internet:BOOLEAN | 
+proveedor:TEXT | velocidad_mbps:NUMBER | tipo_conexion:TEXT | 
+n_computadores:NUMBER | fecha_instalacion:DATE | estado:TEXT | 
+programa_tic:TEXT
+2148 Educación, TIC Anual
+APLICATIVOS MISIONALES: Sistema de gestión de conectividad educativa; módulo de seguimiento a 
+contratos TIC con operadores; SIG departamental (mapa de brecha digital educativa). 
+INTEROPERABILIDAD: MinTIC-Colombia en Línea (contratos de conectividad rural); MinTIC-
+Computadores para Educar (estado de equipos y conectividad por sede); ICFES (correlación entre 
+conectividad y resultados Saber). CASOS ESPECÍFICOS: (1) Gestión de contratos con operadores de 
+internet para sedes rurales (Meta Plan de Desarrollo); (2) Reporte a MinTIC del estado de conectividad 
+departamental para el índice de gobierno digital; (3) Análisis de impacto de la conectividad en 
+resultados académicos (Pruebas Saber); (4) Identificación de sedes sin conectividad para focalización 
+del programa Centros Digitales MinTIC.
+No N/A Consumidor Web Services Sí MinTIC / Colombia en Línea
+49 Secretaría de Salud Eventos_Salud_Publica
+Eventos de salud pública notificados: CIE-10, período
+epidemiológico, casos confirmados y defunciones. Fuente
+SIVIGILA-INS.
+13
+Codigo_Evento (CODE), Nombre_Evento (TEXT), CIE_10 (CODE), Municipio 
+(CODE), Periodo_Epidemiologico (NUMBER), Anio (NUMBER), 
+Casos_Sospechosos (NUMBER), Casos_Confirmados (NUMBER), 
+Casos_Descartados (NUMBER), Defunciones (NUMBER), Estado_Brote 
+(CODE), Semana_Epidemiologica (NUMBER), Fuente_Notificacion (CODE)
+~185.000 Salud, INS-SIVIGILA Semanal
+Notificaciones EISP. Alimenta SIVIGILA (Sistema de Vigilancia en Salud Pública – INS). Interopera con 
+el Observatorio de Salud del Huila (Power BI), con el MSPS (SISPRO) y con el INS para alertas 
+epidemiológicas. Publicado como dato abierto en datos.gov.co (ver EISP Huila).
+Sí
+Municipio_Residencia (CODE) → 
+centroide IGAC; Municipio_Procedencia 
+(CODE); coordenadas de centroide 
+municipal
+Productor Web Services No Gobernación del Huila / INS / MSPS
+La Gobernación notifica eventos al SIVIGILA-INS y produce el dato. | 
+Medio: Notificación semanal a SIVIGILA-INS vía API. Observatorio de 
+Salud Huila (Power BI embebido). SISPRO-MSPS. Exportación 
+XLSX/CSV datos abiertos datos.gov.co.
+50 Secretaría de Salud IPS_Prestadoras_Salud
+Registro de Instituciones Prestadoras de Servicios de
+Salud habilitadas en el Huila: código REPS, nivel de
+complejidad, servicios habilitados y estado de habilitación.
+13
+Codigo_REPS (CODE), Nombre_IPS (TEXT), Municipio (CODE), Direccion 
+(TEXT), Nivel_Complejidad (CODE), Servicios_Habilitados (TEXT), Camas 
+(NUMBER), Tipo_Entidad (CODE), NIT (TEXT), Representante_Legal (TEXT), 
+Estado_Habilitacion (CODE), Fecha_Habilitacion (DATE), Telefono (TEXT)
+~620 Salud, Planeacion, REPS-MSPS Continua (habilitaciones REPS) Registro de IPS habilitadas. Alimenta el REPS-MSPS (Registro Especial de Prestadores de Servicios de Salud). Interopera con Supersalud para IVC y con el SGSSS para referencia y contrarreferencia. Insumo para el mapa de oferta hospitalaria departamental. Sí Municipio (CODE); Latitud (DECIMAL); Longitud (DECIMAL); Dirección (TEXT) Consumidor Web Services No Gobernación del Huila / MSPS / Supersalud
+El REPS-MSPS es la fuente oficial de IPS. La Gobernación consume el 
+dato. | Medio: Integración con REPS-MSPS vía Web Service. API IVC 
+Supersalud. Geoportal salud (shapefile/KML). Exportación XLSX Open 
+Data MSPS. Integración SIVIGILA.
+=== p3 ===
+51 Secretaría de Salud Afiliados_Regimen_Subsidiado
+Personas afiliadas al Sistema General de Seguridad Social 
+en Salud (SGSSS) en régimen subsidiado gestionado por
+la Gobernación: EPS-S asignada, nivel SISBEN, núcleo
+familiar y estado de afiliación. Fuente BDUA-ADRES.
+14
+NUIP (TEXT), Nombre (TEXT), Municipio (CODE), EPS_S (CODE), 
+Nivel_SISBEN (CODE), Puntaje_SISBEN (NUMBER), Nucleo_Familiar 
+(NUMBER), Fecha_Afiliacion (DATE), Estado_Afiliacion (CODE), 
+Regimen_Anterior (CODE), Tipo_Beneficiario (CODE), Discapacidad 
+(BOOLEAN), Etnia (CODE), Fecha_Actualizacion (DATE)
+~680.000 Salud, ADRES-BDUA Mensual
+Padrón de afiliados al régimen subsidiado. Interopera con la BDUA-MSPS (Base de Datos Única de 
+Afiliados) para validación de afiliaciones y con el FOSYGA/ADRES para el giro UPC. Alimenta el 
+sistema de pago a EPS-S y el Observatorio de Salud. Dato sensible – acceso restringido por Ley 
+1581/2012.
+No N/A Consumidor Web Services No Gobernación del Huila / MSPS / ADRES
+La BDUA-MSPS/ADRES produce el padrón de afiliados. La Gobernación 
+lo consume. | Medio: Integración mensual con BDUA-MSPS vía Web 
+Service. API ADRES para giro UPC. SISPRO-MSPS para estadísticas. 
+Archivo cifrado para Supersalud y Contraloría.
+52 Secretaría de Salud Hospitales
+Registro de hospitales y clínicas públicas y privadas del
+departamento, con datos de oferta, capacidad resolutiva y
+financiación.
+12
+id_hospital:TEXT | nombre:TEXT | municipio:TEXT | nivel:TEXT | tipo:TEXT | 
+camas_totales:NUMBER | camas_uti:NUMBER | quirofanos:NUMBER | 
+urgencias:BOOLEAN | nat_juridica:TEXT | fuente_financiacion:TEXT | 
+estado:TEXT
+42 Salud, Infraestructura Anual
+APLICATIVOS MISIONALES: Sistema de información de la red prestadora departamental; módulo de 
+gestión hospitalaria de la Secretaría de Salud; Observatorio de Salud del Huila (datos de oferta 
+hospitalaria). INTEROPERABILIDAD: MSPS-REPS (habilitación y estado de hospitales); Supersalud 
+(auditorías IVC a prestadores); ADRES (giro de recursos UPC a hospitales públicos); MinSalud 
+(categorización de la red para emergencias nacionales). CASOS ESPECÍFICOS: (1) Elaboración del 
+Mapa de Oferta Hospitalaria del Huila para el MSPS; (2) Gestión de planes de mejoramiento de 
+hospitales públicos con recursos SGP-Salud; (3) Activación de la red de emergencias departamental 
+ante desastres o epidemias; (4) Cálculo del indicador de disponibilidad de camas UCI por 100.000 hab. 
+para el PTS.
+Sí municipio (georreferenciación indirecta) Consumidor Web Services Sí MSPS / REPS
+53 Secretaría de Salud Camas_Hospitalarias
+Inventario de camas hospitalarias por tipo de servicio y
+municipio en el Huila, para planificación de la red
+prestadora.
+9
+id_registro:TEXT | ips_cod:TEXT | municipio:TEXT | tipo_cama:TEXT | 
+servicio:TEXT | n_camas:NUMBER | habilitadas:NUMBER | estado:TEXT | 
+vigencia:NUMBER
+1840 Salud Semestral
+APLICATIVOS MISIONALES: Sistema de gestión de la red prestadora; módulo de referencia y 
+contrarreferencia del Huila; Observatorio de Salud (indicadores de capacidad hospitalaria). 
+INTEROPERABILIDAD: MSPS-REPS (registro de camas habilitadas por tipo y servicio); CRUE-Huila 
+(Central Reguladora de Urgencias y Emergencias); INS (notificación de camas disponibles durante 
+emergencias sanitarias). CASOS ESPECÍFICOS: (1) Operación diaria del CRUE-Huila para referencia 
+de pacientes entre IPS; (2) Análisis de suficiencia de la red para atender la demanda proyectada por 
+municipio; (3) Activación del Plan de Emergencias Hospitalarias ante eventos masivos de víctimas; (4) 
+Cálculo del indicador de ocupación hospitalaria como alerta de saturación del sistema.
+No N/A Consumidor Web Services Sí MSPS / REPS
+54 Secretaría de Salud Medicos
+Registro del talento humano en salud (médicos,
+especialistas) habilitados y activos en el departamento del
+Huila, según RETHUS.
+10
+id_profesional:TEXT | registro_rethus:TEXT | especialidad:TEXT | ips_cod:TEXT 
+| municipio:TEXT | tipo_contrato:TEXT | titulo:TEXT | universidad:TEXT | 
+estado:TEXT | sexo:TEXT
+2840 Salud Semestral
+APLICATIVOS MISIONALES: Sistema de gestión de talento humano en salud; módulo de IVC de 
+prestadores de la Secretaría de Salud; Observatorio de Salud (indicadores de recurso humano). 
+INTEROPERABILIDAD: MSPS-RETHUS (Registro de Talento Humano en Salud); MEN (programas de 
+formación de especialistas para zonas de difícil acceso); ICETEX (becas para formación de 
+especialistas en el Huila). CASOS ESPECÍFICOS: (1) Cálculo del ratio médico por habitante por 
+municipio para el análisis de suficiencia de la red; (2) Verificación de títulos habilitantes en procesos de 
+contratación de médicos en ESEs; (3) Identificación de municipios con déficit de médicos especialistas 
+para programas de formación; (4) Soporte al programa departamental de telemedicina para ampliar 
+cobertura en municipios sin especialistas.
+No N/A Consumidor Web Services Sí MSPS / RETHUS
+55 Secretaría de Salud Enfermeras Registro del personal de enfermería profesional y auxiliarhabilitado y activo en el departamento del Huila. 9 id_profesional:TEXT | registro_rethus:TEXT | ips_cod:TEXT | municipio:TEXT | tipo_contrato:TEXT | titulo:TEXT | estado:TEXT | sexo:TEXT | nivel_formacion:TEXT 4120 Salud Semestral
+APLICATIVOS MISIONALES: Sistema de gestión de talento humano en salud; módulo de IVC de 
+prestadores; Observatorio de Salud (indicadores de recurso humano enfermería). 
+INTEROPERABILIDAD: MSPS-RETHUS (registro habilitante de enfermeras); Tribunal Ético de 
+Enfermería (validación de tarjeta profesional vigente); MEN (articulación con programas de enfermería 
+en universidades del Huila). CASOS ESPECÍFICOS: (1) Cálculo del ratio enfermera/paciente para 
+auditorías de calidad en IPS; (2) Verificación de habilitación vigente en procesos de contratación de 
+personal de enfermería en ESEs; (3) Análisis de la distribución de enfermeras en zonas rurales vs. 
+urbanas para focalización de programas; (4) Soporte para el programa de formación de Auxiliares de 
+Enfermería en municipios con baja cobertura.
+No N/A Consumidor Web Services Sí MSPS / RETHUS
+56 Secretaría de Salud Farmacias
+Inventario de establecimientos farmacéuticos autorizados
+por la Secretaría de Salud del Huila para dispensación de
+medicamentos.
+10
+id_farmacia:TEXT | nombre:TEXT | municipio:TEXT | nit:TEXT | 
+director_tecnico:TEXT | tipo:TEXT | estado:TEXT | fecha_autorizacion:DATE | 
+servicios:TEXT | regimen:TEXT
+487 Salud Continua (autorizaciones)
+APLICATIVOS MISIONALES: Sistema de Inspección, Vigilancia y Control (IVC) de la Secretaría de 
+Salud; módulo de habilitación de establecimientos farmacéuticos; sistema de alertas sanitarias 
+departamental. INTEROPERABILIDAD: INVIMA (reporte de establecimientos autorizados para 
+dispensación de medicamentos); MSPS (programa ampliado de Inmunización — cadena de frío en 
+farmacias); DIAN (establecimientos habilitados para facturación electrónica de medicamentos). CASOS 
+ESPECÍFICOS: (1) Operativos de inspección sanitaria programados con base en el mapa de farmacias 
+por municipio; (2) Verificación de la cadena de frío en farmacias que dispensan vacunas y biológicos 
+del PAI; (3) Alerta ante farmacias que comercialicen medicamentos sin registro INVIMA o con fecha de 
+vencimiento; (4) Soporte para el control de dispensación de medicamentos de control especial 
+(psicotrópicos, estupefacientes).
+Sí municipio (georreferenciación indirecta) Productor Otro Sí Gobernación del Huila / INVIMA
+Mecanismo: Formulario digital de habilitación (Sistema IVC-Salud). La 
+habilitación de farmacias se tramita en el sistema IVC de la Secretaría de 
+Salud y se notifica al INVIMA por oficio. No existe Web Service con 
+INVIMA, Xroad, base de datos Db link ni P2P.
+57 Secretaría de Salud Red_Laboratorios
+Registro de laboratorios clínicos y de salud pública
+habilitados en el Huila, incluyendo el Laboratorio
+Departamental de Salud Pública.
+10
+id_laboratorio:TEXT | nombre:TEXT | municipio:TEXT | tipo:TEXT | nit:TEXT | 
+director_cientifico:TEXT | servicios:TEXT | estado:TEXT | 
+fecha_habilitacion:DATE | red_laboratorios:TEXT
+48 Salud Continua (habilitaciones)
+APLICATIVOS MISIONALES: Sistema de vigilancia epidemiológica departamental (SIVIGILA local); 
+Laboratorio Departamental de Salud Pública; Observatorio de Salud del Huila (confirmación de EISP). 
+INTEROPERABILIDAD: INS-Red Nacional de Laboratorios (confirmación diagnóstica de brotes); 
+SIVIGILA-INS (reporte de resultados de laboratorio para eventos de interés en salud pública); INVIMA 
+(control de calidad de reactivos y equipos de laboratorio). CASOS ESPECÍFICOS: (1) Confirmación 
+diagnóstica de casos sospechosos de dengue, TB, VIH y otras EISP; (2) Investigación de brotes 
+alimentarios mediante análisis microbiológicos en el laboratorio departamental; (3) Control de calidad de 
+agua para consumo humano en municipios sin laboratorio propio; (4) Análisis de muestras del PAI 
+(vacunas) para verificar potencia e inocuidad de biológicos.
+No N/A Productor Web Services Sí Gobernación del Huila / INS / MSPS
+58 Secretaría de Salud Laboratorios_Muestras
+Muestras y resultados del Laboratorio Departamental de
+Salud Pública: programa (agua, alimentos, vectores) y
+alertas.
+12
+Codigo_Muestra (CODE), Tipo_Muestra (TEXT), Programa (CODE), 
+Municipio_Origen (CODE), Fecha_Toma (DATE), Fecha_Analisis (DATE), 
+Resultado (TEXT), Interpretacion (CODE), Responsable_Toma (TEXT), Analista 
+(TEXT), Estado (CODE), Alerta_Generada (BOOLEAN)
+~28.500 Salud Pública, LNSP-INS Diaria Registro de muestras de salud pública del Laboratorio Departamental. Interopera con la Red Nacional de Laboratorios del INS para confirmación de brotes. Alimenta SIVIGILA con resultados de laboratorio (trazabilidad diagnóstica). No N/A Productor Web Services No Gobernación del Huila / INS
+El Laboratorio Departamental produce los datos de muestras propias. | 
+Intercambio con SIVIGILA-INS mediante API para reporte de resultados 
+de laboratorio. Integración con la Red Nacional de Laboratorios del INS 
+en formato XML. LIMS interno del Laboratorio Departamental. 
+Exportación CSV para el Observatorio de Salud del Huila.
+59 Secrearia de vias e Infraestructura Obras_Publicas_Infraestructra
+Registro de obras de infraestructura pública en ejecución,
+ejecutadas o históricas: avance físico/financiero,
+contratista, supervisor e interventor.
+15
+Codigo_Obra (CODE), Nombre_Obra (TEXT), Municipio (CODE), 
+Tipo_Intervencion (CODE), Contratista (TEXT), Valor_Contrato (NUMBER), 
+Fecha_Inicio (DATE), Fecha_Terminacion (DATE), Plazo_Dias (NUMBER), 
+Avance_Fisico_Pct (NUMBER), Avance_Financiero_Pct (NUMBER), Supervisor 
+(TEXT), Interventor (TEXT), Estado (CODE), Numero_Contrato (TEXT)
+~4.800 Vías e Infraestructura, Contratación Mensual Registro maestro de obras en ejecución o terminadas. Interopera con SECOP II para datos contractuales y con el sistema cartográfico para ubicación. Alimenta el Dashboard de Inversión en Infraestructura y los reportes al Ministerio de Transporte e INVIAS. Sí Latitud (DECIMAL); Longitud (DECIMAL); Municipio (CODE); Vereda (TEXT) Productor Web Services No Gobernación del Huila / INVIAS / CCE
+La Secretaría de Vías genera el registro de obras de infraestructura. | 
+Intercambio con SECOP II mediante API REST para publicación de 
+contratos de obra. Exportación shapefile/KML para inspección técnica en 
+campo. Dashboard Power BI de seguimiento de obras. Reportes XLSX a 
+la Contraloría. Integración cartográfica con SIGOT-IGAC.
+60 Secrearia de vias e Infraestructura Contratos_Obra Registro específico de contratos de obra pública yconsultoría de la Secretaría de Vías e Infraestructura. 14
+id_contrato:TEXT | numero:TEXT | objeto:TEXT | contratista:TEXT | 
+valor:NUMBER | plazo:NUMBER | fecha_inicio:DATE | interventor:TEXT | 
+fuente:TEXT | avance_fisico:DECIMAL | avance_financiero:DECIMAL | 
+acta_inicio:DATE | estado:TEXT | municipio:TEXT
+2840 Infraestructura, Contratación Continua
+APLICATIVOS MISIONALES: Sistema de gestión de contratos de obra (Secretaría de Vías); módulo 
+de supervisión e interventoría; dashboard de seguimiento de obras; sistema de pagos SIIF (avances 
+de obra). INTEROPERABILIDAD: SECOP II-CCE (publicación y seguimiento de contratos de obra); 
+INVIAS (reporte de avance de contratos de vías primarias); Contraloría Departamental (auditorías de 
+contratos de obra en ejecución). CASOS ESPECÍFICOS: (1) Generación automática de alertas de 
+vencimiento de pólizas de contratos de obra; (2) Cálculo del indicador de ejecución física vs. financiera 
+para informes al INVIAS y al OCAD; (3) Control de actas de obra parciales para validar pagos 
+progresivos a contratistas; (4) Soporte documental para liquidaciones unilaterales y reclamaciones 
+arbitrales de contratos.
+No N/A Productor Web Services Sí Gobernación del Huila / CCE
+61 Secrearia de vias e Infraestructura Red_Vial_Departamental
+Inventario de la red vial a cargo del Departamento:
+longitud, tipo de superficie, estado, TPD y proyectos de
+intervención programados.
+13
+Codigo_Tramo (CODE), Nombre_Tramo (TEXT), Municipio_Origen (CODE), 
+Municipio_Destino (CODE), Longitud_Km (NUMBER), Tipo_Superficie (CODE), 
+Estado_Via (CODE), TPD (NUMBER), Nivel_Red (CODE), 
+Anio_Ult_Mantenimiento (NUMBER), Intervencion_Programada (BOOLEAN), 
+Valor_Estimado (NUMBER), Observaciones (TEXT)
+~2.450 Vías e Infraestructura, Planeación Semestral Inventario georreferenciado de la red vial departamental. Interopera con el SINCO-INVIAS (Sistema de Información de Carreteras y Obras). Alimenta el Plan Vial Departamental y el sistema de gestión del riesgo vial. Insumo para priorización de mantenimientos y obras en OCAD. Sí
+Latitud_Inicio (DECIMAL); Longitud_Inicio 
+(DECIMAL); Latitud_Fin (DECIMAL); 
+Longitud_Fin (DECIMAL); 
+Municipio_Origen (CODE); 
+Geometria_Linea (GEOMETRY – WGS84)
+Productor Web Services No Gobernación del Huila / INVIAS / IGAC
+La Gobernación genera el inventario de la red vial departamental. | 
+Medio: Integración con SINCO-INVIAS vía Web Service. Intercambio en 
+shapefile/GeoJSON bajo WGS84. WMS GeoServer institucional. 
+Integración SIGOT-IGAC y UNGRD.
+62 Secrearia de vias e Infraestructura Puentes
+Inventario de puentes de la red vial departamental con
+estado estructural, capacidad de carga y prioridades de
+intervención.
+11
+id_puente:TEXT | nombre:TEXT | via_cod:TEXT | municipio:TEXT | 
+luz_m:DECIMAL | capacidad_ton:NUMBER | material:TEXT | estado:TEXT | 
+anio_construccion:NUMBER | latitud:DECIMAL | longitud:DECIMAL
+387 Infraestructura Anual
+APLICATIVOS MISIONALES: Sistema de inventario vial departamental; módulo de gestión de carga y 
+restricciones vehiculares; sistema de gestión del riesgo vial (PDGRD). INTEROPERABILIDAD: 
+INVIAS-SINCO (registro nacional de puentes viales); UNGRD (gestión del riesgo en puentes en zona 
+de amenaza sísmica o inundación); Ministerio de Transporte (restricciones de carga por capacidad de 
+puentes). CASOS ESPECÍFICOS: (1) Definición de restricciones de peso (toneladas) por puente para 
+vehículos de carga; (2) Priorización de reemplazos de puentes obsoletos o con daño estructural en el 
+Plan Vial; (3) Activación de protocolos de emergencia cuando un puente es afectado por crecida de 
+ríos o sismo; (4) Inspección periódica de puentes con índice de condición estructural bajo (≤ 3 en 
+escala INVIAS).
+Sí latitud:DECIMAL; longitud:DECIMAL Productor Otro Sí Gobernación del Huila / INVIAS
+Mecanismo: Cargue de archivo plano (XLSX) — Formato inventario 
+INVIAS. El inventario de puentes se registra en el formato estándar 
+INVIAS y se reporta a SINCO mediante cargue manual de archivo plano. 
+No existe servicio web, Xroad, base de datos Db link ni P2P.
+63 Secrearia de vias e Infraestructura Infraestructura_Publica
+Inventario general de bienes inmuebles de uso público del
+departamento: edificios, parques, centros culturales y
+deportivos.
+11
+id_bien:TEXT | nombre:TEXT | tipo:TEXT | municipio:TEXT | direccion:TEXT | 
+latitud:DECIMAL | longitud:DECIMAL | area_m2:NUMBER | estado:TEXT | 
+valor_catastral:NUMBER | responsable:TEXT
+642 Infraestructura, Hacienda Anual
+APLICATIVOS MISIONALES: Sistema de inventario de bienes públicos (Secretaría General); módulo 
+de seguros institucionales; sistema contable SIIF (activos fijos). INTEROPERABILIDAD: CGN-CHIP 
+(reporte del inventario de bienes para estados financieros NIC-SP 17); Contraloría Departamental 
+(auditorías al inventario de bienes); IGAC (avalúos catastrales de bienes inmuebles del estado). 
+CASOS ESPECÍFICOS: (1) Gestión anual de pólizas de seguros para edificios e inmuebles de la 
+Gobernación; (2) Cálculo de depreciación contable de edificios según NIC-SP 17 para los estados 
+financieros; (3) Soporte para procesos de titulación, transferencia o enajenación de bienes públicos; (4) 
+Identificación de inmuebles subutilizados para planes de optimización del espacio institucional.
+Sí latitud:DECIMAL; longitud:DECIMAL Productor Otro Sí Gobernación del Huila
+Mecanismo: Cargue de archivo plano (XLSX) — Transmisión CHIP-CGN 
+por lotes. El inventario de bienes inmuebles se transmite a la CGN en el 
+sistema CHIP en formato XML por lotes periódicos (no es Web Service 
+en tiempo real). No existe Xroad, base de datos Db link ni P2P.
+64 Secrearia de vias e Infraestructura Equipamientos
+Catálogo de equipamientos institucionales (mobiliario,
+equipos de cómputo, vehículos y maquinaria) asignados a
+dependencias.
+10
+id_equipo:TEXT | descripcion:TEXT | tipo:TEXT | serie:TEXT | 
+dependencia:TEXT | responsable:TEXT | estado:TEXT | 
+valor_adquisicion:NUMBER | fecha_adquisicion:DATE | vida_util_meses:NUMBER
+8420 Infraestructura, Hacienda, TIC Continua
+APLICATIVOS MISIONALES: Sistema de inventario de activos fijos (Hacienda/General); módulo de 
+mantenimiento preventivo y correctivo; sistema contable SIIF (depreciación de activos). 
+INTEROPERABILIDAD: CGN-CHIP (reporte de activos fijos para estados financieros NIC-SP 17); 
+DIAN (registro de activos para efectos tributarios); Contraloría Departamental (inventario físico de 
+activos en auditorías). CASOS ESPECÍFICOS: (1) Toma física de inventario semestral para conciliar 
+con registros contables; (2) Gestión del plan anual de mantenimiento preventivo de equipos de 
+cómputo y vehículos; (3) Proceso de baja y remate de activos obsoletos conforme al Decreto 
+1082/2015; (4) Generación de informes de activos para el Seguro Colectivo de Activos de la 
+Gobernación.
+No N/A Productor Otro Sí Gobernación del Huila
+Mecanismo: Cargue de archivo plano (XLSX) — Integración contable SIIF 
+por lotes. El inventario de activos fijos se integra al SIIF mediante cargue 
+de archivo plano por lotes (no Web Service en tiempo real). No existe 
+Xroad, base de datos Db link ni P2P.
+65 Secrearia de vias e Infraestructura Proyectos_Infraestructura Cartera de proyectos de infraestructura vial, social y productiva en formulación, ejecución o terminados. 12 id_proyecto:TEXT | nombre:TEXT | tipo:TEXT | municipio:TEXT | fuente:TEXT | valor:NUMBER | estado:TEXT | fecha_inicio:DATE | fecha_fin:DATE | avance_pct:DECIMAL | contrato:TEXT | ejecutor:TEXT 640 Infraestructura, Planeación Mensual Priorización de inversiones, reportes al INVIAS/MSPS/MEN, Plan Vial Departamental. No N/A Productor Web Services Sí Gobernación del Huila
+66 Secrearia de vias e Infraestructura Maquinaria Inventario de maquinaria pesada y equipos de construcción propios de la Gobernación del Huila. 11 id_maquina:TEXT | descripcion:TEXT | marca:TEXT | modelo:TEXT | placa:TEXT | anio:NUMBER | estado_mecanico:TEXT | municipio_actual:TEXT | km_horas:NUMBER | prox_mantenimiento:DATE | responsable:TEXT 142 Infraestructura Mensual Asignación de maquinaria, mantenimiento preventivo y correctivo, control de combustible, depreciación. Sí municipio_actual (georreferenciación indirecta) Productor Otro Sí Gobernación del Huila
+Mecanismo: Parámetro interno — Sistema de inventario y seguimiento 
+GPS. La maquinaria se registra en el sistema de inventario institucional. 
+Algunos equipos cuentan con GPS para seguimiento. No existe Web 
+Service externo, Xroad, base de datos Db link ni P2P.
+67 Secrearia de vias e Infraestructura Plan_Vial Plan Vial Departamental del Huila con priorización de 
+corredores viales, metas de mantenimiento y fuentes de 
+financiación.
+10
+id_corredor:TEXT | nombre:TEXT | municipios:TEXT | longitud_km:DECIMAL | 
+tipo_intervencion:TEXT | valor_estimado:NUMBER | prioridad:TEXT | 
+fuente:TEXT | vigencia:NUMBER | estado:TEXT
+124 Infraestructura, Planeación Anual Priorización de inversión vial, articulación con INVIAS/FINDETER, reportes Plan Nacional de Vías. Sí longitud_km (referencia vial con trazado cartográfico) Productor Otro Sí Gobernación del Huila / INVIAS
+Mecanismo: Cargue de archivo plano (XLSX/shapefile) — Documento 
+oficial. El Plan Vial Departamental se formula como documento oficial y 
+se intercambia con INVIAS mediante archivo XLSX y shapefile. No existe 
+Web Service en tiempo real, Xroad, base de datos Db link ni P2P.
+68 Secretaria de Agricultura y Minería Productores_Agropecuarios
+Productores agropecuarios del Huila: actividad (café, 
+arroz, cacao, ganadería, piscicultura), área y tenencia de 
+tierra.
+14
+Cedula (TEXT), Nombre (TEXT), Municipio (CODE), Vereda (TEXT), 
+Actividad_Principal (CODE), Area_Total_Ha (NUMBER), Area_Sembrada_Ha 
+(NUMBER), Produccion_Ton (NUMBER), Tenencia_Tierra (CODE), 
+Sistema_Produccion (CODE), Tecnologia (CODE), Pertenece_Asociacion 
+(BOOLEAN), Asistencia_Tecnica (BOOLEAN), Fecha_Registro (DATE)
+~48.000 Agricultura, Planeación Anual
+Base del sistema de asistencia técnica agropecuaria (EPSEA). Interopera con el MADR (Registro 
+Único de Usuarios de Servicios Agropecuarios – RUSA) y con Finagro para acceso a crédito. Alimenta 
+el sistema de subsidios ADR y el Censo Nacional Agropecuario (DANE). Usada en convocatorias de 
+programas de desarrollo rural.
+Sí
+Municipio (CODE) → centroide IGAC; 
+Vereda (TEXT) → polígono IGAC; 
+Latitud_Predio (DECIMAL); 
+Longitud_Predio (DECIMAL)
+Productor Web Services No Gobernación del Huila / MADR / DANE / Finagro
+La Secretaría de Agricultura genera el registro de productores rurales. | 
+Medio: Integración con RUSA-MADR vía Web Service para el registro 
+único de usuarios. API Finagro para crédito rural. Integración SIG 
+cartográfico veredal-IGAC.
+69 Secretaria de Agricultura y Minería Productores_Rurales
+Registro de productores agropecuarios del departamento 
+del Huila, articulado con el Registro Único de Usuarios del 
+MADR (RUAF-Agropecuario).
+12
+id_productor:TEXT | municipio:TEXT | vereda:TEXT | actividad_principal:TEXT | 
+area_ha:DECIMAL | sistema_produccion:TEXT | n_predios:NUMBER | 
+asociado_org:BOOLEAN | acceso_credito:BOOLEAN | 
+asistencia_tecnica:BOOLEAN | sexo:TEXT | grupo_etario:TEXT
+48200 Agricultura, Planeación Anual (actualización por proyectos) Focalización de asistencia técnica UMATA, subsidios, programas ADR, Agrosavia, reportes MADR. Sí municipio y vereda (georreferenciación indirecta IGAC) Productor Web Services Sí Gobernación del Huila / MADR
+70 Secretaria de Agricultura y Minería Asociaciones_Campesinas
+Registro de asociaciones y organizaciones de productores 
+agropecuarios con reconocimiento jurídico y activas en el 
+Huila.
+10
+id_asociacion:TEXT | nit:TEXT | nombre:TEXT | municipio:TEXT | vereda:TEXT | 
+tipo:TEXT | cultivo_principal:TEXT | n_asociados:NUMBER | estado:TEXT | 
+acto_reconocimiento:TEXT
+487 Agricultura, Gobierno Semestral Focalización de programas de apoyo, contratos de asociatividad, proyectos productivos ADR. Sí municipio y vereda (georreferenciación indirecta) Productor Web Services Sí Gobernación del Huila
+71 Secretaria de Agricultura y Minería Predios_Rurales
+Inventario de predios rurales del Huila con información 
+catastral, uso del suelo y titularidad, articulado con el 
+IGAC.
+11
+id_predio:TEXT | matricula_inmobiliaria:TEXT | municipio:TEXT | vereda:TEXT | 
+area_ha:DECIMAL | uso_suelo:TEXT | propietario_nit:TEXT | avaluo:NUMBER | 
+latitud:DECIMAL | longitud:DECIMAL | tipo_tenencia:TEXT
+312000 Agricultura, Hacienda, Ambiente Anual (catastro multipropósito) Catastro rural multipropósito, impuesto predial municipios, titulación baldíos, ordenamiento territorial. Sí latitud:DECIMAL; longitud:DECIMAL; area_ha:DECIMAL Consumidor Web Services Sí IGAC / Instituto Geográfico Agustín Codazzi
+72 Secretaria de Agricultura y Minería Licencias_Ambientales
+Registro de licencias ambientales, permisos de 
+vertimiento, concesiones de agua y demás actos 
+administrativos ambientales expedidos por la CAM.
+12
+id_licencia:TEXT | numero:TEXT | tipo:TEXT | titular:TEXT | municipio:TEXT | 
+vereda:TEXT | latitud:DECIMAL | longitud:DECIMAL | fecha_expedicion:DATE | 
+estado:TEXT | actividad:TEXT | vigencia:DATE
+4840 Ambiente, Jurídica Continua (expedición actos) Control y seguimiento ambiental, reportes ANLA, gestión de recursos hídricos, IVC ambiental. Sí latitud:DECIMAL; longitud:DECIMAL Consumidor Web Services Sí CAM / Corporación Autónoma Regional del Alto Magdalena
+73 Secretaria de Agricultura y Minería Areas_Protegidas Catálogo de áreas protegidas del Huila inscritas en el RUNAP, incluyendo PNN, reservas forestales y DRMI. 11
+id_area:TEXT | nombre:TEXT | categoria:TEXT | municipio:TEXT | 
+hectareas:DECIMAL | entidad_admin:TEXT | fecha_declaratoria:DATE | 
+estado:TEXT | lat_centroide:DECIMAL | lon_centroide:DECIMAL | 
+cuerpo_agua:TEXT
+48 Ambiente, Planeación Eventual (declaratorias) Ordenamiento ambiental territorial, POT municipal, pagos por servicios ambientales, ecoturismo. Sí lat_centroide:DECIMAL; lon_centroide:DECIMAL; hectareas:DECIMAL Consumidor Web Services Sí MADS / Parques Nacionales Naturales de Colombia
+74 Secretaria de Agricultura y Minería Recursos_Hidricos
+Inventario de fuentes hídricas superficiales del Huila con 
+datos de concesiones, calidad y caudales registrados por 
+la CAM.
+10
+id_fuente:TEXT | nombre:TEXT | tipo:TEXT | municipio:TEXT | 
+longitud_km:DECIMAL | caudal_m3s:DECIMAL | calidad_iqa:TEXT | 
+concesiones_activas:NUMBER | lat_inicio:DECIMAL | lon_inicio:DECIMAL
+284 Ambiente Semestral (monitoreos CAM) Planificación hídrica, alertas sequía/inundación, cobros tasas por uso del agua, POT. Sí lat_inicio:DECIMAL; lon_inicio:DECIMAL Consumidor Web Services Sí CAM / IDEAM
+75 Secretaria de Agricultura y Minería Cuencas_Hidrograficas Registro de las cuencas y microcuencas hidrográficas del Huila con sus POMCA y estado de formulación. 9 id_cuenca:TEXT | nombre:TEXT | area_km2:DECIMAL | municipios:TEXT | estado_pomca:TEXT | entidad_admin:TEXT | lat_centroide:DECIMAL | lon_centroide:DECIMAL | cod_IDEAM:TEXT 124 Ambiente, Planeación Eventual (formulación POMCA) Ordenamiento de cuencas, protección nacimientos, POT municipal, pago por servicios ecosistémicos. Sí lat_centroide:DECIMAL; lon_centroide:DECIMAL; area_km2:DECIMAL Consumidor Web Services Sí CAM / IDEAM
+76 Secretaria de Agricultura y Minería Fauna
+Inventario de fauna silvestre del Huila con datos de 
+especies, hábitats y estado de conservación según listas 
+rojas UICN.
+9
+id_especie:TEXT | nombre_comun:TEXT | nombre_cientifico:TEXT | clase:TEXT 
+| estado_conservacion:TEXT | habitat:TEXT | endemismo:BOOLEAN | 
+municipio_presencia:TEXT | fuente:TEXT
+1840 Ambiente Anual (informes CAM) Política departamental de biodiversidad, control tráfico de especies, programas de conservación. Sí municipio_presencia (georreferenciación indirecta) Consumidor Web Services Sí
+CAM / Instituto de 
+Investigación de 
+Recursos Biológicos 
+Alexander von Humboldt
+77 Secretaria de Agricultura y Minería Flora Catálogo de flora silvestre del Huila con estado de conservación, distribución por municipio y ecosistemas. 9 id_especie:TEXT | nombre_comun:TEXT | nombre_cientifico:TEXT | familia:TEXT | estado_conservacion:TEXT | uso:TEXT | endemismo:BOOLEAN | municipio:TEXT | fuente:TEXT 2480 Ambiente Anual (informes CAM) Conservación de ecosistemas, silvicultura, permisos de aprovechamiento forestal, CAR. Sí municipio (georreferenciación indirecta) Consumidor Web Services Sí CAM / Instituto de Investigación de Recursos Biológicos Alexander von Humboldt
+78 Secretaría de Gobierno, seguridad y asuntos comunitarios Juntas_Accion_Comunal Registro de Juntas de Acción Comunal del departamento del Huila con reconocimiento jurídico vigente. 10 id_jac:TEXT | nombre:TEXT | municipio:TEXT | vereda_barrio:TEXT | nit:TEXT | presidente:TEXT | n_afiliados:NUMBER | estado:TEXT | acto_reconocimiento:TEXT | nivel:TEXT 2840 Gobierno Anual (renovaciones) Reconocimiento jurídico, convocatoria espacios de participación, proyectos comunitarios, SIJAC. Sí municipio y vereda (georreferenciación indirecta) Productor Web Services Sí Gobernación del Huila / MinInterior
+79 Secretaría de Gobierno, seguridad y asuntos comunitarios Organizaciones_Sociales Catálogo de organizaciones sociales, ESAL, cooperativas y entidades comunitarias con reconocimiento departamental. 9 id_org:TEXT | nombre:TEXT | nit:TEXT | tipo:TEXT | municipio:TEXT | objeto:TEXT | estado:TEXT | acto_reconocimiento:TEXT | n_miembros:NUMBER 1240 Gobierno, Planeación Semestral Reconocimiento jurídico, articulación política social, contratos con sector solidario. No N/A Productor Otro Sí Gobernación del Huila
+Mecanismo: Parámetro interno — Registro en sistema de inspección y 
+vigilancia. El registro de organizaciones sociales se gestiona en el 
+sistema interno de IVC de la Secretaría de Gobierno y se reporta 
+mediante archivo XLSX. No existe servicio web externo, Xroad, base de 
+datos Db link ni P2P.
+=== p4 ===
+80 Secretaría de Gobierno, seguridad y asuntos comunitarios Consejos_Territoriales Registro de Consejos Territoriales de Planeación, Consejos de Cultura, Consejos de Paz y otros espacios de participación formal. 8 id_consejo:TEXT | nombre:TEXT | tipo:TEXT | municipio:TEXT | n_miembros:NUMBER | estado:TEXT | acto_creacion:TEXT | vigencia:NUMBER 87 Gobierno, Planeación Anual Participación ciudadana en planeación, formulación Plan de Desarrollo, rendición de cuentas. No N/A Productor Otro Sí Gobernación del Huila
+Mecanismo: Parámetro interno — Actos administrativos y archivo XLSX. 
+Los consejos territoriales se crean mediante resolución y se registran en 
+archivo XLSX institucional. No existe servicio web, Xroad, base de datos 
+Db link ni P2P.
+81 Secretaría de Gobierno, seguridad y asuntos comunitarios Veedurias_Ciudadanas Registro de veedurías ciudadanas inscritas y reconocidas por la Gobernación del Huila conforme a la Ley 850/2003. 8 id_veeduria:TEXT | nombre:TEXT | municipio:TEXT | objeto:TEXT | responsable:TEXT | estado:TEXT | fecha_inscripcion:DATE | ambito:TEXT 187 Gobierno, Control Interno Continua (inscripciones) Control social de la gestión pública, transparencia, rendición de cuentas, participación ciudadana. No N/A Productor Otro Sí Gobernación del Huila
+Mecanismo: Parámetro interno — Registro físico y digital (archivo XLSX). 
+Las veedurías ciudadanas se inscriben mediante formulario físico y se 
+registran en archivo XLSX. No existe servicio web, Xroad, base de datos 
+Db link ni P2P.
+82 Secretaría de Gobierno, seguridad y asuntos comunitarios Organizaciones_Sociedad_Civil ESAL, organizaciones religiosas y comunales legalizadas en el Huila con acto de reconocimiento e inspección y vigilancia. 13
+NIT (TEXT), Nombre (TEXT), Tipo_Organizacion (CODE), Objeto_Social 
+(TEXT), Representante_Legal (TEXT), Municipio (CODE), Direccion (TEXT), 
+Telefono (TEXT), Acto_Reconocimiento (TEXT), Fecha_Reconocimiento 
+(DATE), Estado_Inspeccion (CODE), Ultima_Inspeccion (DATE), Observaciones 
+(TEXT)
+~3.800 Gobierno y Seguridad Semestral
+Registro de OSC, veedurías y asociaciones comunitarias. Interopera con MinInterior (SIJAC y RUNOF) 
+para reconocimiento jurídico. Alimenta los procesos de participación ciudadana, convocatorias y 
+seguimiento al CONPES de política pública.
+No N/A Productor Web Services No Gobernación del Huila / MinInterior
+La Secretaría de Gobierno registra y gestiona las organizaciones 
+sociales. | Medio: Integración con SIJAC-MinInterior y RUNOF-MinInterior 
+vía Web Service. Exportación XLSX para espacios de participación. 
+Integración sistema PQRSFD.
+83 Secretaría de Gobierno, seguridad y asuntos comunitarios Victimas_Conflicto_Armado Víctimas del conflicto armado (Ley 1448/2011): hecho victimizante, estado en RUV-UARIV y medidas de reparación. 14
+Cedula (TEXT), Nombre (TEXT), Hecho_Victimizante (CODE), 
+Municipio_Ocurrencia (CODE), Municipio_Residencia (CODE), Anio_Hecho 
+(NUMBER), Estado_RUV (CODE), Fecha_Inclusion_RUV (DATE), Sexo 
+(CODE), Etnia (CODE), Discapacidad (BOOLEAN), Medidas_Reparacion 
+(TEXT), Entidad_Atencion (CODE), Enfoque_Diferencial (TEXT)
+~95.000 Gobierno, UARIV Mensual
+Padrón de víctimas del conflicto armado del Huila. Interopera con el SNARIV (UARIV – Unidad para las 
+Víctimas) y con la RNI (Red Nacional de Información). Alimenta el PAT (Plan de Acción Territorial) y los 
+procesos de reparación. Dato sensible – uso restringido Ley 1448/2011.
+Sí
+Municipio_Residencia (CODE); 
+Municipio_Hecho (CODE); coordenada 
+centroide municipal (georreferenciación 
+indirecta)
+Consumidor Web Services No Gobernación del Huila / UARIV / MinInterior
+La UARIV produce el registro oficial de víctimas. La Gobernación lo 
+consume. | Medio: Integración con SNARIV-UARIV vía Web Service. RNI-
+UARIV integración. Archivo cifrado PAT. Acceso restringido con 
+autenticación. Reporte XML a UARIV.
+84 Secretaría de Gobierno, seguridad y asuntos comunitarios Comunidades_Etnicas Resguardos indígenas, territorios colectivos y pueblos étnicos del Huila con autoridad tradicional y área titulada. 12
+Codigo_Comunidad (CODE), Nombre (TEXT), Tipo_Comunidad (CODE), 
+Pueblo_Etnico (TEXT), Municipio (CODE), Area_Titulada_Ha (NUMBER), 
+Autoridad_Tradicional (TEXT), Resolucion_Constitucion (TEXT), 
+Fecha_Constitucion (DATE), N_Familias (NUMBER), Estado_Reconocimiento 
+(CODE), Coord_Centroide (TEXT)
+~180 Gobierno, MinInterior Anual
+Registro de comunidades indígenas, afrodescendientes, raizales y ROM del Huila con territorio, 
+resguardo y organización. Interopera con el MinInterior (Dirección de Asuntos Étnicos) y la ANT. 
+Alimenta los procesos de consulta previa y los programas PDET.
+Sí
+Latitud_Centroide_Resguardo (DECIMAL); 
+Longitud_Centroide_Resguardo 
+(DECIMAL); Area_Resguardo_Ha 
+(DECIMAL); Municipio (CODE)
+Consumidor Web Services No Gobernación del Huila / MinInterior / ANT
+MinInterior/ANT produce el registro de comunidades étnicas. | Medio: 
+Integración con MinInterior (Asuntos Étnicos) vía Web Service. ANT 
+shapefile resguardos. Exportación XLSX para procesos de consulta 
+previa. SIGOT-IGAC.
+85 Secretarìa General - TIC Sistemas_Informacion
+Inventario de sistemas de información y aplicativos que 
+soportan los procesos misionales y de apoyo de la 
+Gobernación del Huila.
+12
+id_sistema:TEXT | nombre:TEXT | proceso:TEXT | tipo:TEXT | proveedor:TEXT 
+| version:TEXT | tecnologia:TEXT | bd:TEXT | url:TEXT | estado:TEXT | 
+usuario_admin:TEXT | fecha_adquisicion:DATE
+42 TIC, Control Interno Semestral Arquitectura tecnológica MRAE, auditorías de seguridad, planes de contingencia, PETI. No N/A Productor Otro Sí Gobernación del Huila / MinTIC
+Mecanismo: Parámetro interno — Sistema CMDB/PETI institucional. El 
+catálogo de sistemas de información se gestiona en el CMDB del área 
+TIC. Reporte a MinTIC por formulario MSPI. No existe servicio web 
+externo, Xroad, base de datos Db link ni P2P.
+86 Secretarìa General - TIC Usuarios_Sistemas
+Registro de usuarios internos con acceso a los sistemas 
+de información institucionales, con roles y perfiles de 
+seguridad.
+9
+id_usuario:TEXT | cedula:TEXT | nombre:TEXT | dependencia:TEXT | 
+sistema:TEXT | perfil:TEXT | estado:TEXT | fecha_creacion:DATE | 
+ultimo_acceso:DATE
+3840 TIC Continua Control de acceso, auditorías de seguridad, MSPI, gestión de identidades. No N/A Productor Otro Sí Gobernación del Huila
+Mecanismo: Parámetro interno — Directorio activo con acceso restringido 
+(MSPI). El registro de usuarios se gestiona mediante directorio activo 
+institucional. No existe servicio web externo, Xroad, base de datos Db link 
+ni P2P.
+87 Secretarìa General - TIC Inventario_Tecnologico Inventario de activos tecnológicos (hardware, software, redes y comunicaciones) de la Gobernación del Huila. 12 id_activo:TEXT | tipo:TEXT | descripcion:TEXT | marca:TEXT | modelo:TEXT | serial:TEXT | dependencia:TEXT | estado:TEXT | valor_compra:NUMBER | fecha_adquisicion:DATE | garantia_hasta:DATE | proveedor:TEXT 4840 TIC, Hacienda Continua Gestión de activos TI, renovación tecnológica, inventario contable, PETI. No N/A Productor Otro Sí Gobernación del Huila
+Mecanismo: Parámetro interno — Sistema de inventario TI (CMDB) y 
+archivo XLSX. El inventario tecnológico se gestiona en el CMDB y se 
+exporta a XLSX para reportes. No existe servicio web, Xroad, base de 
+datos Db link ni P2P.
+88 Secretarìa General - TIC Servicios_Digitales
+Catálogo de servicios digitales y trámites en línea 
+ofrecidos por la Gobernación del Huila, alineado con el 
+SUIT y GovTech.
+10
+id_servicio:TEXT | cod_suit:TEXT | nombre:TEXT | dependencia:TEXT | 
+tipo:TEXT | canal:TEXT | tiempo_respuesta:NUMBER | costo:NUMBER | 
+estado:TEXT | url:TEXT
+87 TIC, todas las dependencias Semestral Mejora de servicios al ciudadano, Anti-Trámites, FURAG, reportes MinTIC y DAFP. No N/A Productor Web Services Sí Gobernación del Huila / DAFP
+89 Depto. Adm. Jurídico Entidades_Juridicas
+Entidades externas con relación jurídico-legal: contratistas, 
+demandantes, apoderados y entidades públicas 
+territoriales y nacionales.
+12
+NIT_CC (TEXT), Razon_Social (TEXT), Tipo_Persona (CODE), 
+Representante_Legal (TEXT), Direccion (TEXT), Municipio (CODE), Telefono 
+(TEXT), Email (TEXT), Tipo_Entidad (CODE), Estado (CODE), Fecha_Registro 
+(DATE), Observaciones (TEXT)
+~2.500 Depto. Jurídico, SIDEAP Mensual Alimenta el Sistema de Defensa Jurídica del Estado (SIDEAP). Interopera con el RUP (CCE) para validar contratistas y con el sistema SECOP II para cruce de datos de proponentes. Usada en módulos de contratación, procesos coactivos y gestión de demandas. No N/A Productor Web Services No Gobernación del Huila / CCE / AGN
+El Depto. Jurídico produce el registro de entidades con relación jurídica. | 
+Medio: Integración vía Web Service con SIDEAP (Sistema de Defensa 
+Jurídica del Estado) y SECOP II-CCE para validación de contratistas.
+90 Depto. Adm. Jurídico Procesos_Judiciales
+Procesos judiciales activos e históricos: radicado, juzgado, 
+partes, apoderado, cuantía, estado y fallo. Base del 
+sistema de defensa jurídica.
+15
+Radicado (TEXT), Tipo_Proceso (CODE), Juzgado (TEXT), Demandante 
+(TEXT), Demandado (TEXT), Apoderado (TEXT), Cuantia (NUMBER), 
+Fecha_Inicio (DATE), Estado (CODE), Fallo (TEXT), Riesgo_Juridico (CODE), 
+Dependencia_Afectada (CODE), Fiscal_Contingente (NUMBER), Fecha_Fallo 
+(DATE), Observaciones (TEXT)
+~1.800 Jurídico, Control Interno, Hacienda Semanal Fuente principal del sistema de defensa jurídica. Interopera con la Rama Judicial (Siglo XXI – CSIJ) y con el módulo de pasivos contingentes de Hacienda para cálculo del riesgo fiscal. Alimenta informes de transparencia y CHIP-CGN (cuenta pasivos contingentes). No N/A Productor Web Services No Gobernación del Huila / Consejo Superior de la Judicatura
+El Depto. Jurídico genera y administra los procesos judiciales propios. | 
+Medio: Integración con el sistema Siglo XXI (CSIJ) de la Rama Judicial 
+vía API REST. Reportes CHIP-CGN en formato XML.
+91 Despacho / Comunicaciones Actores_Gobernabilidad
+Actores estratégicos: alcaldes municipales, líderes 
+comunitarios, gremios, medios de comunicación y 
+entidades nacionales.
+11
+Codigo_Actor (CODE), Nombre_Entidad (TEXT), Tipo_Actor (CODE), Municipio 
+(CODE), Cargo_Rol (TEXT), Telefono (TEXT), Email (TEXT), Organizacion 
+(TEXT), Nivel_Influencia (CODE), Ultimo_Contacto (DATE), Estado (CODE)
+~1.200 Despacho, Comunicaciones Mensual Registro de actores institucionales, sociales y políticos clave para la gobernabilidad departamental: alcaldes, gremios, medios, comunidades. Alimenta el módulo de comunicaciones y el análisis de stakeholders del Despacho del Gobernador. No N/A Productor Otro No Gobernación del Huila
+Mecanismo: Parámetro interno — Sistema CRM institucional y archivo 
+XLSX. El registro de actores de gobernabilidad se gestiona en el CRM 
+del Despacho del Gobernador. No existe Web Service externo, Xroad, 
+base de datos Db link ni P2P.
+92 Secretaria de Desarrollo Económico y Turismo Establecimientos_Turisticos Prestadores de servicios turísticos: hoteles, agencias, operadores, guías, restaurantes y sitios de interés con RNT-MinCIT. 13 RNT (TEXT), Nombre (TEXT), Tipo_Prestador (CODE), Municipio (CODE), Direccion (TEXT), Telefono (TEXT), Email (TEXT), Categoria (CODE), Capacidad (NUMBER), Estado_RNT (CODE), Fecha_Inscripcion (DATE), Responsable (TEXT), URL (TEXT) ~2.800 Desarrollo Económico, Turismo Semestral Registro de prestadores de servicios turísticos con RNT (Registro Nacional de Turismo – MinCIT). Alimenta el Registro Nacional de Turismo a través del sistema SIPES. Interopera con COTELCO y el Fondo Nacional de Turismo (FONTUR) para programas de calidad. Insumo del Observatorio de Turismo del Huila. Sí Municipio (CODE); Latitud (DECIMAL); Longitud (DECIMAL); Direccion (TEXT) Consumidor Web Services No Gobernación del Huila / MinCIT / FONTUR
+El RNT-MinCIT produce el registro turístico. La Gobernación lo consume. 
+| Medio: Integración con SIPES-MinCIT vía Web Service (RNT). 
+Observatorio Turismo Huila dashboard. API FONTUR para programas de 
+calidad turística.
+93 Secretaria de Desarrollo Económico y Turismo Unidades_Productivas Empresas del Departamento: CIIU, tamaño (micro, pequeña, mediana, grande), empleo y ventas anuales. 12
+NIT_CC (TEXT), Razon_Social (TEXT), CIIU (CODE), Municipio 
+(CODE), Sector (CODE), Tamano_Empresa (CODE), N_Empleados 
+(NUMBER), Ventas_Anuales (NUMBER), Exportador (BOOLEAN), 
+Asociado_Gremio (BOOLEAN), Fecha_Registro (DATE), Estado 
+(CODE)
+~32.000
+Desarrollo 
+Económico, 
+Planeación
+Anual
+Registro de MiPymes y unidades productivas del Huila. Interopera con Cámara de Comercio (RUES), el 
+Ministerio de Comercio (SIREM) y el SENA para programas de formalización. Alimenta el Observatorio 
+de Desarrollo Económico y los programas de competitividad.
+Sí Municipio (CODE); Latitud (DECIMAL); Longitud (DECIMAL) Consumidor Web Services No
+Gobernación del 
+Huila / Cámara 
+Comercio Neiva / 
+MinCIT
+El RUES-Cámara de Comercio produce el registro de unidades 
+productivas. | Medio: Integración con RUES-Cámara Comercio vía Web 
+Service. API SIREM-MinComercio. Exportación XLSX para Observatorio 
+Económico y datos abiertos CSV.
+94 Secretaría de la  Mujer, Familia e Inclusión social Grupos_Poblacionales_Priorizados Grupos poblacionales priorizados: adultos mayores, discapacidad, primera infancia, mujeres vulnerables, LGBTIQ+. 12 Cedula (TEXT), Nombre (TEXT), Grupo_Poblacional (CODE), Municipio (CODE), Sexo (CODE), Edad (NUMBER), Condicion (TEXT), Programa_Beneficiario (CODE), Fecha_Ingreso (DATE), Estado (CODE), Observaciones (TEXT), Entidad_Atencion (CODE) ~145.000 Mujer y Familia, DPS, ICBF Semestral Registro de grupos poblacionales priorizados en política social (mujeres jefas de hogar, adultos mayores, personas con discapacidad, LGBTIQ+, migrantes). Interopera con el SISBÉN IV (DANE) para focalización. Alimenta los programas de la Secretaría de Mujer y el ICBF. Dato sensible. No N/A Productor Web Services No Gobernación del Huila / DANE / ICBF / MSPS
+La Secretaría de Mujer genera el registro de grupos poblacionales 
+priorizados. | Medio: Integración con SISBÉN IV-DANE vía API. 
+Integración ICBF para focalización de programas. Sistema MIAS-MSPS. 
+Archivo cifrado para reportes sectoriales.
+95 Secretaria de cultura Patrimonio_Cultural Patrimonio cultural material e inmaterial del Huila: BIC, PCI (fiestas, artesanías, gastronomía) con declaratoria. 13
+Codigo_Bien (CODE), Nombre (TEXT), Tipo_Bien_Cultural (CODE), Municipio 
+(CODE), Ubicacion (TEXT), Periodo (TEXT), Declaratoria (TEXT), 
+Fecha_Declaratoria (DATE), Entidad_Custodio (TEXT), Estado_Conservacion 
+(CODE), Coordenadas_GPS (TEXT), Fotografia (TEXT), Observaciones (TEXT)
+~580 Cultura, MinCultura Anual
+Inventario de bienes de patrimonio cultural (BIC) declarados y en proceso. Interopera con el 
+MinCulturas (SIPA – Sistema de Información del Patrimonio Cultural) y con la UIAF para alertas de 
+tráfico. Alimenta el Plan Especial de Manejo y Protección (PEMP) y el turismo cultural.
+Sí Latitud (DECIMAL); Longitud (DECIMAL); Municipio (CODE); Direccion (TEXT) Productor Web Services No Gobernación del Huila / MinCulturas
+La Secretaría de Cultura gestiona el inventario de patrimonio cultural. | 
+Medio: Integración con SIPA-MinCulturas vía Web Service. Exportación 
+KML/GeoJSON para geoportal institucional. XLSX datos abiertos cultura. 
+Integración SIGOT.
+96 Oficina de Gestión del Riesgo y Desastres Amenazas_Riesgo_Desastres Amenazas y escenarios de riesgo: sismo, inundación, deslizamiento, volcánico; nivel de amenaza y población expuesta. 12
+Codigo_Amenaza (CODE), Tipo_Amenaza (CODE), Municipio (CODE), Zona 
+(TEXT), Nivel_Amenaza (CODE), Frecuencia_Historica (NUMBER), 
+Poblacion_Expuesta (NUMBER), Infraestructura_Expuesta (TEXT), 
+Fuente_Tecnica (TEXT), Fecha_Estudio (DATE), URL_Mapa (TEXT), Estado 
+(CODE)
+~2.800 Gestión Riesgo, Planeación, UNGRD Anual Registro de amenazas naturales y antrópicas del departamento. Interopera con el SIGPAD (Sistema de Información para la Gestión del Riesgo – UNGRD) y el IDEAM. Alimenta los Planes Municipales y 
+Departamental de Gestión del Riesgo (PMGRD/PDGRD) y los sistemas de alerta temprana.
+Sí
+Latitud (DECIMAL); Longitud (DECIMAL); 
+Area_Afectada_Ha (DECIMAL); Municipio 
+(CODE); Vereda (TEXT)
+Productor Web Services No
+Gobernación del Huila / 
+UNGRD / IDEAM / 
+IGAC
+La Oficina de Gestión del Riesgo genera el registro de amenazas. | 
+Medio: Integración con SIGPAD-UNGRD vía Web Service. Alertas IDEAM 
+API (SAT). Intercambio shapefile/GeoJSON para SIG de riesgo. 
+Exportación KMZ para campo.
+=== p5 ===
+Consecutivo Área responsable de la tabla Nombre de la tabla Descripción de tabla Cantidad de atributos Atributos/Tipo Atributo Cantidad de registros Usuario Interno Frecuencia actualización del dato Aprovechamiento
+¿Hay datos 
+georreferenciados en los 
+atributos relacionados? 
+(Sí/No)
+Si la respuesta anterior fue 
+"Sí", por favor indique los 
+atributos de 
+georreferenciación.
+Productor 
+/Consumidor Medio de Intercambio
+Almacena la 
+Información en Base 
+de Datos? Si/No
+Entidad Origen
+1 Depto. Adm. Jurídico Tipos_actuacion_Jurìdica
+Contiene el catálogo de actuaciones jurídicas: demandas, 
+tutelas, acciones populares, procesos coactivos, 
+conciliaciones y conceptos jurídicos.
+7
+Codigo (CODE) | Nombre_Actuacion (TEXT) | Categoria 
+(CODE) | Marco_Legal (TEXT) | Tiempo_Respuesta_Dias 
+(NUMBER) | Estado (CODE) | Descripcion (TEXT)
+~45 Depto. Adm. Jurídico Anual
+APLICATIVOS MISIONALES: Sistema de gestión jurídica departamental (SIDEAP); módulo de registro 
+y seguimiento de actuaciones judiciales y prejudiciales. INTEROPERABILIDAD: SIDEAP-Ministerio de 
+Justicia (reporte de actuaciones al sistema nacional); Consejo de Estado (tipificación de actuaciones 
+según clasificación jurisprudencial). CASOS ESPECÍFICOS: (1) Clasificación estandarizada de cada 
+actuación jurídica para el cálculo del pasivo contingente fiscal; (2) Filtro en el módulo jurídico para 
+asignar el tiempo de respuesta legal según tipo de actuación; (3) Generación de estadísticas de 
+litigiosidad por tipo para el informe de gestión jurídica anual; (4) Parametrización de alertas 
+automáticas de vencimiento de términos procesales por tipo de actuación.
+No N/A Productor Otro Sí Gobernación del Huila / Consejo de Estado
+Mecanismo: Parámetro interno — Lista de valores en sistema jurídico 
+local. Catálogo distribuido como tabla de dominio en el módulo jurídico. 
+Actualización manual por el área Jurídica. No existe servicio web, Xroad, 
+base de datos Db link ni P2P.
+2 Depto. Adm. Jurídico Clasificaciòn_Riesgo_Jurìdico Contiene  la valoración del riesgo jurídico por proceso (alto, medio, bajo) e impacto fiscal contingente. 6 Codigo (CODE) | Nivel_Riesgo (CODE) | Descripcion (TEXT) | Probabilidad_Pct (NUMBER) | Impacto_Fiscal (NUMBER) | Color_Semaforo (CODE) ~12 Jurídico, Hacienda, Control Interno Anual
+APLICATIVOS MISIONALES: Sistema de gestión jurídica y módulo de pasivos contingentes 
+(Hacienda); dashboard de riesgo jurídico del Despacho del Gobernador. INTEROPERABILIDAD: 
+MHCP-CHIP (registro de provisiones de contingencias jurídicas en estados financieros); Contraloría 
+Departamental (auditorías al riesgo fiscal por litigios). CASOS ESPECÍFICOS: (1) Cálculo mensual 
+del pasivo contingente total (suma de cuantías por nivel de riesgo) para Hacienda; (2) Semáforo de 
+alerta (rojo/amarillo/verde) por proceso judicial para la Alta Dirección; (3) Decisión de provisionar 
+contablemente según probabilidad de condena (NIC-SP 19 Provisiones); (4) Informe de contingencias 
+jurídicas en la Nota Contable de los estados financieros del departamento.
+No N/A Productor Otro Sí Gobernación del Huila
+Mecanismo: Parámetro interno — Lista de valores en sistema jurídico 
+local. Catálogo de niveles de riesgo jurídico (alto/medio/bajo) mantenido 
+por el área Jurídica. No se intercambia con entidades externas. No existe 
+servicio web, Xroad, base de datos Db link ni P2P.
+3 Secretaría General Tipo_Bien_Estado Contiene el catálogo de tipos de bienes (inmueble, mueble, semoviente, intangible) y estados posibles. 6 Codigo (CODE) | Nombre_Estado (TEXT) | Tipo_Bien (CODE) | Descripcion (TEXT) | Aplica_Depreciacion (BOOLEAN) | Estado (CODE) ~20 Secretaría General, Hacienda, Control Interno Eventual
+APLICATIVOS MISIONALES: Sistema de inventario de bienes y activos (Secretaría 
+General/Hacienda); módulo de seguros institucionales; sistema contable SIIF. INTEROPERABILIDAD: 
+CGN (clasificación de estado de bienes para estados financieros bajo NIC-SP 17); Contraloría 
+Departamental (verificación del estado de bienes en auditorías físicas). CASOS ESPECÍFICOS: (1) 
+Clasificación estandarizada del estado de cada bien para calcular su valor razonable según NIC-SP; 
+(2) Filtro para identificar bienes en estado 'De Baja' y tramitar su retiro del inventario; (3) Priorización 
+de mantenimientos por estado 'Malo' o 'Regular' en el plan de mantenimiento anual; (4) Soporte para 
+la valoración de bienes en procesos de seguro colectivo y cobertura.
+No N/A Productor Otro Sí Gobernación del Huila / CGN
+Mecanismo: Parámetro interno — Lista de valores en sistema jurídico 
+local. Catálogo distribuido como tabla de dominio en el módulo jurídico 
+institucional. Actualización manual. No existe servicio web, Xroad, base 
+de datos Db link ni P2P con entidades externas.
+4 Secretaría General Catàlogo_Bienes_Servicios Contiene el catálogo estandarizado alineado con el Clasificador Único de Bienes y Servicios (CUBS-SECOP). 7 Codigo_UNSPSC (CODE) | Segmento (TEXT) | Familia (TEXT) | Clase (TEXT) | Producto (TEXT) | Descripcion (TEXT) | Estado (CODE) ~2.400 Contratación, todas las dependencias Semestral
+APLICATIVOS MISIONALES: Sistema de compras y contratación (módulo de solicitudes de pedido); 
+sistema SECOP II (codificación de objetos contractuales); módulo de presupuesto (clasificación de 
+gastos por bien/servicio). INTEROPERABILIDAD: CCE-SECOP II (obligatorio para clasificar objetos 
+en convocatorias públicas); CCE-Tienda Virtual del Estado Colombiano (compras por acuerdo marco 
+con código UNSPSC); MHCP (clasificación de gastos para ejecución presupuestal). CASOS 
+ESPECÍFICOS: (1) Obligatorio en SECOP II para toda convocatoria pública: cada proceso tiene un 
+código UNSPSC asignado; (2) Acceso a acuerdos marco de precios de CCE usando el código 
+UNSPSC del bien o servicio requerido; (3) Análisis de gasto por categoría de bien/servicio para la 
+elaboración del Plan Anual de Adquisiciones (PAA); (4) Comparación de precios de referencia del 
+mercado vs. precios pagados por la Gobernación.
+No N/A Consumidor Web Services Sí CCE / Colombia Compra Eficiente
+Descarga periódica del catálogo UNSPSC desde el portal CCE vía Web 
+Service o archivo XLSX. Actualización semestral conforme a la 
+Resolución 1520/2020 CCE.
+5 Secretarìa General – Archivo Tipologìas_Documentales
+Contiene las tipologías documentales producidas y 
+recibidas: actos administrativos, comunicaciones 
+oficiales, informes y contratos.
+7
+Codigo_Tipologia (CODE) | Nombre_Tipologia (TEXT) | 
+Categoria (CODE) | Soporte_Fisico (CODE) | 
+Tiempo_Retencion_Gestion_Anios (NUMBER) | 
+Tiempo_Retencion_Central_Anios (NUMBER) | 
+Disposicion_Final (CODE)
+~85
+Sec. General – 
+Archivo Central, SIGA, 
+todas las 
+dependencias
+Eventual (aprobación TRD ante 
+AGN)
+APLICATIVOS MISIONALES: Sistema de Gestión Documental SIGA; módulo de radicación y 
+distribución de documentos; sistema PQRSFD. INTEROPERABILIDAD: AGN (Tablas de Retención 
+Documental aprobadas con base en tipologías); DAFP (Modelo Integrado de Planeación y Gestión — 
+gestión documental); ICONTEC (auditorías ISO 9001: documentación del SIG clasificada por 
+tipología). CASOS ESPECÍFICOS: (1) Clasificación automática de documentos al momento de su 
+radicación en el SIGA; (2) Asignación del tiempo de retención (archivo de gestión/central/histórico) 
+según la TRD vigente; (3) Base para la digitalización prioritaria de series documentales con alto valor 
+histórico; (4) Soporte para auditorías de gestión documental del AGN y Contraloría en el cumplimiento 
+de la Ley 594/2000.
+No N/A Productor Otro Sí Gobernación del Huila / AGN
+Mecanismo: Parámetro interno — Lista de valores en sistema SIGA. 
+Catálogo de tipologías documentales aprobado mediante TRD ante el 
+AGN. Actualización por acto administrativo. No existe servicio web, 
+Xroad, base de datos Db link ni P2P.
+8 Secretaría General Dependencias
+Contiene el catálogo de dependencias, secretarías, 
+oficinas asesoras y despachos de la Gobernación del 
+Huila según el decreto de estructura orgánica.
+7
+id_dependencia:TEXT | nombre:TEXT | tipo:TEXT | 
+nivel:TEXT | dependencia_padre:TEXT | responsable:TEXT | 
+estado:TEXT
+48 Todas las dependencias Eventual (reestructuraciones) Clasificación de procesos SIG, asignación de personal, presupuesto por dependencia. No N/A Productor Otro Sí Gobernación del Huila
+Mecanismo: Publicación oficial en Gaceta Departamental (PDF) e 
+integración con SIGEP-DAFP vía Web Service para estructura orgánica. 
+Catálogo actualizado por decreto de reestructuración. No existe Xroad, 
+base de datos Db link ni P2P.
+10 Secretaría General – Serv. Ciudadano Tràmites_Servicios
+Contiene los trámites y servicios en el Sistema SUIT-
+DNP: nombre, requisitos, tiempo de respuesta, costo, 
+canal y normativa.
+8
+Codigo_SUIT (CODE) | Nombre_Tramite (TEXT) | 
+Dependencia (CODE) | Tipo (CODE) | Canal (CODE) | 
+Tiempo_Respuesta_Dias (NUMBER) | Costo (NUMBER) | 
+Estado (CODE)
+~87
+Sec. General – 
+Atención Ciudadana, 
+todas las 
+dependencias, 
+ciudadanía
+Semestral (actualización Anti-
+Trámites)
+APLICATIVOS MISIONALES: Portal web www.huila.gov.co (catálogo de trámites); sistema PQRSFD; 
+módulo de atención ciudadana; aplicación móvil institucional. INTEROPERABILIDAD: DAFP-SUIT 
+(publicación obligatoria de todos los trámites para la ciudadanía); Función Pública (programa Anti-
+Trámites para reducción de requisitos); DAFP-FURAG (indicadores de racionalización de trámites en 
+la política de transparencia). CASOS ESPECÍFICOS: (1) Publicación actualizada de requisitos, 
+costos y tiempos de respuesta de cada trámite en el SUIT; (2) Gestión del programa de 
+racionalización de trámites (eliminación de requisitos sin respaldo legal); (3) Análisis de demanda 
+ciudadana por trámite para priorizar la digitalización de los más solicitados; (4) Soporte para la 
+implementación de trámites en línea bajo el Decreto Ley 2106/2019 de transformación digital.
+No N/A Productor Web Services Sí Gobernación del Huila / DAFP
+Integración con SUIT-DAFP vía API REST para publicación de trámites. 
+Integración con portal web www.huila.gov.co. Reportes para el FURAG y 
+Anti-Trámites.
+11 Depto. Adm. Planeación Divisiones_Territoriales
+Contiene la división político-administrativa del Huila: 37 
+municipios, inspecciones, corregimientos y veredas con 
+códigos DANE.
+8
+Codigo_DIVIPOLA (CODE) | Nombre (TEXT) | Nivel (CODE) 
+| Padre_Cod (CODE) | Departamento (CODE) | Municipio 
+(CODE) | Corregimiento (TEXT) | Estado (CODE)
+~3.800
+Planeación, todos los 
+sistemas con ref. 
+territorial
+Eventual (actualización DANE)
+APLICATIVOS MISIONALES: Todos los sistemas institucionales con referencia geográfica; SIG 
+departamental; módulo de planeación territorial; sistema de matrícula SIMAT; sistema de salud 
+pública. INTEROPERABILIDAD: DANE-DIVIPOLA (fuente única oficial de codificación territorial para 
+toda la nación); IGAC (articulación catastral con división político-administrativa); CHIP-CGN (reporte 
+de ejecuciones por entidad territorial). CASOS ESPECÍFICOS: (1) Garantía de consistencia en la 
+codificación territorial en los 20+ sistemas institucionales; (2) Validación automática de que el código 
+municipio ingresado en cualquier formulario exista en DIVIPOLA; (3) Base para la distribución de 
+recursos SGP que se calculan por municipio con código DANE; (4) Referencia para la elaboración de 
+estadísticas departamentales desagregadas por municipio.
+Sí
+Latitud_Centroide (DECIMAL); 
+Longitud_Centroide (DECIMAL); 
+Cod_DANE (TEXT) — jerarquía 
+dptal/mpal/vereda
+Consumidor Web Services Sí DANE
+Descarga del catálogo DIVIPOLA-DANE vía API de datos abiertos DANE. 
+Actualización por cada censo o resolución DANE. Distribución interna 
+como tabla de dominio.
+12 Depto. Adm. Planeación Fuentes_Financiacion
+Contiene el catálogo de fuentes de financiación de 
+proyectos de inversión pública: SGP, SGR, recursos 
+propios, cooperación, crédito externo e interno. Define 
+restricciones y destinaciones específicas.
+8
+id_fuente:TEXT | codigo:TEXT | nombre:TEXT | tipo:TEXT | 
+entidad_otorgante:TEXT | normativa:TEXT | 
+restricciones:TEXT | vigencia:NUMBER
+48 Planeación, Hacienda, todas las secretarías Anual (actualización normativa)
+APLICATIVOS MISIONALES: Sistema presupuestal y de inversión; módulo de programación del Plan 
+Operativo Anual de Inversiones (POAI); sistema de seguimiento al Plan de Desarrollo. 
+INTEROPERABILIDAD: MHCP-SIIF (clasificación de fuentes para apropiaciones presupuestales); 
+DNP-SUIFP (fuentes de financiación en proyectos de inversión); SGR-GESPROY (fuentes de 
+regalías en proyectos). CASOS ESPECÍFICOS: (1) Garantía de que cada proyecto esté financiado 
+con la fuente correcta (SGP no puede usarse para SGR ni viceversa); (2) Análisis de la canasta de 
+financiación departamental para identificar dependencia de transferencias; (3) Elaboración del Marco 
+Fiscal de Mediano Plazo (MFMP) con proyección de fuentes a 10 años; (4) Verificación del 
+cumplimiento de destinaciones específicas por fuente (ej. SGP-Educación solo para educación).
+No N/A Productor Otro Sí Gobernación del Huila / MHCP / DNP
+Mecanismo: Parámetro interno — Lista de valores en sistema de 
+planeación. Catálogo de fuentes de financiación (SGP, SGR, propios, 
+crédito) actualizado anualmente con base en normativa MHCP/DNP. No 
+existe servicio web, Xroad, base de datos Db link ni P2P.
+13 Secretaría de Hacienda Rubros_Presupuestales
+Contiene el clasificador presupuestal de gastos e 
+ingresos de la Gobernaciòn del Huila: sección, programa, 
+subprograma, proyecto y objeto del gasto (Decreto 
+111/96).
+7
+Codigo (CODE) | Nombre (TEXT) | Tipo (CODE) | 
+Naturaleza (CODE) | Nivel (NUMBER) | Padre_Cod (CODE) 
+| Estado (CODE)
+~3.200 Hacienda, todas las secretarías Anual
+APLICATIVOS MISIONALES: Sistema SIIF Nación (módulo presupuestal); módulo de compromisos, 
+obligaciones y pagos; sistema de tesorería. INTEROPERABILIDAD: MHCP-SIIF (clasificador 
+presupuestal único nacional); CGN-CHIP (transmisión de ejecuciones presupuestales en formulario 
+CGR-1); Contraloría Departamental (auditorías de imputaciones presupuestales por rubro). CASOS 
+ESPECÍFICOS: (1) Clasificación correcta de gastos para evitar errores de imputación presupuestal; 
+(2) Generación del informe mensual de ejecución presupuestal por nivel de apropiación y rubro; (3) 
+Elaboración del decreto de traslados presupuestales entre rubros; (4) Base para el cálculo del 
+indicador de déficit o superávit presupuestal del departamento.
+No N/A Consumidor Web Services Sí MHCP / CGN
+Descarga del clasificador presupuestal MHCP vía portal oficial o API 
+CHIP-CGN. Cargue al SIIF Nación. Reportes CHIP-CGN en formato XML 
+mensual.
+14 Secretaría de Hacienda Tipos_Renta_Departamental
+Contiene los tipos de rentas departamentales: impuesto 
+al consumo, registro, vehículos, estampillas pro 
+hospitales y Universidad Surcolombiana.
+7
+Codigo (CODE) | Nombre_Renta (TEXT) | Tipo (CODE) | 
+Normativa (TEXT) | Tarifa (DECIMAL) | Periodicidad 
+(CODE) | Estado (CODE)
+~42 Hacienda – Rentas, Jurídico Eventual (Ordenanza)
+APLICATIVOS MISIONALES: Sistema de Rentas departamental; módulo de liquidación y recaudo de 
+impuestos; sistema de cobro coactivo. INTEROPERABILIDAD: DIAN (articulación para control de 
+evasión tributaria); MHCP-CHIP (reporte de ingresos tributarios propios por tipo de renta); DNP 
+(indicadores de esfuerzo fiscal para el índice de desempeño fiscal). CASOS ESPECÍFICOS: (1) 
+Configuración del sistema de Rentas para liquidar automáticamente cada impuesto departamental; (2) 
+Análisis de la composición del recaudo propio para evaluar la dependencia de transferencias; (3) 
+Cálculo del esfuerzo fiscal para el informe de Desempeño Fiscal del DNP; (4) Proyección de ingresos 
+propios para el presupuesto del siguiente año fiscal.
+No N/A Productor Otro Sí Gobernación del Huila / DIAN / MHCP
+Mecanismo: Parámetro interno — Lista de valores en CMDB/PETI 
+institucional. Catálogo de activos TI mantenido manualmente por el área 
+TIC y reportado a MinTIC mediante formulario MSPI. No existe servicio 
+web, Xroad, base de datos Db link ni P2P.
+16 Secretarìa de Hacienda – Pensiones Tipos_Pensiones_Regimen
+Contiene los tipos de pensión: RPM-Colpensiones, 
+Magisterio-FOMAG y régimen departamental con 
+mesadas y normas de reconocimiento.
+7
+Codigo (CODE) | Nombre_Regimen (TEXT) | Tipo_Pension 
+(CODE) | Entidad_Administradora (TEXT) | Normativa 
+(TEXT) | Edad_Requisito (NUMBER) | Estado (CODE)
+~9
+Sec. de Hacienda – 
+Pensiones, MHCP, 
+Colpensiones
+Eventual (reforma normativa 
+pensional)
+APLICATIVOS MISIONALES: Sistema de gestión pensional de la Gobernación; módulo de liquidación 
+de mesadas pensionales; sistema de pasivo pensional (FONPET). INTEROPERABILIDAD: MHCP-
+FONPET (reporte de pasivo pensional clasificado por régimen); Colpensiones (validación del tipo de 
+régimen al que pertenece cada pensionado); UGPP (verificación del régimen para control de doble 
+beneficio). CASOS ESPECÍFICOS: (1) Liquidación correcta de la mesada según el régimen (Decreto 
+546, régimen de transición, RPMPD); (2) Cálculo actuarial del pasivo pensional diferenciado por tipo 
+de régimen y proyección a 50 años; (3) Gestión de cuotas partes pensionales entre la Gobernación y 
+Colpensiones por empleados con doble vinculación; (4) Reporte al FONPET para la distribución de 
+recursos de ahorro pensional por régimen.
+No N/A Consumidor Otro Sí MHCP / Colpensiones
+Mecanismo: Parámetro interno — Lista de valores basada en normativa 
+MHCP/Colpensiones. Catálogo de regímenes pensionales actualizado 
+manualmente por el área de pensiones. No existe servicio web, Xroad, 
+base de datos Db link ni P2P.
+17 Depto. Adm. Contratación Tipos_Contrato_Modalidad Contiene el catálogo de tipos de contrato y modalidades de selección (Ley 80/93 y Ley 1150/07). 8
+Codigo (CODE) | Modalidad_Seleccion (TEXT) | 
+Tipo_Contrato (TEXT) | Umbral_Cuantia_SMMLV (NUMBER) 
+| Decreto_Base (TEXT) | Aplica_SECOP (BOOLEAN) | 
+Tiempo_Max_Dias (NUMBER) | Estado (CODE)
+~28 Contratación, todas las dependencias Eventual (normativa CCE)
+APLICATIVOS MISIONALES: Sistema de gestión contractual; módulo de elaboración de estudios 
+previos y pliegos de condiciones; sistema SECOP II. INTEROPERABILIDAD: CCE-SECOP II 
+(modalidad obligatoria en toda convocatoria pública); Contraloría Departamental (auditorías de 
+idoneidad de la modalidad usada); Procuraduría General (vigilancia del cumplimiento del régimen de 
+contratación). CASOS ESPECÍFICOS: (1) Selección automática de la modalidad correcta en el 
+sistema contractual según cuantía y objeto; (2) Validación de que la modalidad elegida cumple los 
+umbrales de cuantía del Decreto 1082/2015; (3) Generación del informe anual de contratación por 
+modalidad de selección para la Contraloría; (4) Soporte para la elaboración del Plan Anual de 
+Adquisiciones (PAA) clasificado por modalidad.
+No N/A Consumidor Otro Sí CCE / Colombia Compra Eficiente
+Mecanismo: Parámetro interno — Lista de valores en sistema de Rentas. 
+El catálogo de rentas departamentales se define mediante Ordenanza 
+departamental y se parametriza manualmente en el sistema de Rentas de 
+la Gobernación. No existe servicio web, Xroad, enlace de base de datos 
+ni conexión P2P.
+18 Oficina Control Interno Tipos_Documentos_SIG
+Contiene el catálogo de tipos de documentos del SIG: 
+procedimientos, instructivos, formatos, manuales y guías 
+(ISO 9001 y MIPG).
+7
+Codigo (CODE) | Nombre_Tipo (TEXT) | Descripcion (TEXT) 
+| Nivel_Control (CODE) | Requiere_Firma (BOOLEAN) | 
+Ciclo_Revision_Meses (NUMBER) | Estado (CODE)
+~18 Control Interno, todas las dependencias Eventual (NTCGP 1000)
+APLICATIVOS MISIONALES: Sistema de Gestión Documental SIGA (módulo SIG); módulo de 
+elaboración y control de documentos del sistema de calidad; plataforma de auditorías internas. 
+INTEROPERABILIDAD: DAFP-MIPG (documentos del SIG como evidencia en la autoevaluación 
+FURAG); ICONTEC (tipos de documentos auditados en la certificación ISO 9001:2015). CASOS 
+ESPECÍFICOS: (1) Clasificación automática de documentos elaborados por cada proceso 
+(procedimiento vs. instructivo vs. formato); (2) Control de versiones vigentes y obsoletas de 
+documentos del SIG en el SIGA; (3) Soporte para auditorías internas: verificación de que cada 
+proceso tenga los documentos requeridos según tipo; (4) Generación del listado maestro de 
+documentos del SIG por tipo para el informe de gestión documental.
+No N/A Productor Otro Sí Gobernación del Huila / DAFP
+Mecanismo: Parámetro interno — Lista de valores en sistema de 
+planeación. Catálogo de fuentes de financiación (SGP, SGR, propios, 
+crédito) actualizado anualmente con base en normativa MHCP/DNP. No 
+existe servicio web, Xroad, base de datos Db link ni P2P.
+20 Despacho / Comunicaciones Canales_Comunicacion
+Contiene los canales de comunicación pública: página 
+web, redes sociales, emisora, boletines y espacios de 
+participación ciudadana.
+7
+Codigo (CODE) | Canal (TEXT) | Tipo (CODE) | 
+Disponibilidad (TEXT) | Costo (CODE) | Accesibilidad_PcD 
+(BOOLEAN) | Estado (CODE)
+~12
+Despacho, Atención 
+Ciudadana, todas las 
+dependencias
+Semestral
+APLICATIVOS MISIONALES: Sistema PQRSFD (extranet.huila.gov.co); módulo de atención 
+ciudadana multicanal; portal web www.huila.gov.co; sistema de comunicaciones del Despacho. 
+INTEROPERABILIDAD: SUIT-DAFP (canales de atención publicados en el sistema de trámites); 
+DAFP-FURAG (indicadores de canales de atención ciudadana en la política de transparencia). 
+CASOS ESPECÍFICOS: (1) Enrutamiento automático de PQRSFD al canal correcto según el medio 
+de ingreso de la solicitud; (2) Cálculo del indicador de solicitudes atendidas por canal para análisis de 
+demanda ciudadana; (3) Ajuste de horarios de atención por canal según temporadas de alta 
+demanda (matrículas, contratación); (4) Informe de accesibilidad ciudadana para personas con 
+discapacidad conforme al Decreto 1166/2016.
+No N/A Productor Otro Sí Gobernación del Huila
+Mecanismo: Parámetro interno — Lista de valores en sistema SIGA. El 
+catálogo de documentos del SIG se mantiene por el área de Planeación-
+Control Interno y se actualiza mediante resolución interna alineada con la 
+NTCGP 1000:2009. No existe servicio web, Xroad, enlace de base de 
+datos ni conexión P2P.
+21 Oficina Control Disciplinario Tipos_Falta_Disciplinaria
+Contiene los tipos de faltas disciplinarias (gravísima, 
+grave, leve) y modalidades (Ley 734/2002 y Ley 
+1952/2019).
+7
+Codigo (CODE) | Nombre_Falta (TEXT) | Gravedad (CODE) 
+| Modalidad (CODE) | Sancion_Aplicable (TEXT) | Norma 
+(TEXT) | Estado (CODE)
+~120 Control Disciplinario, Jurídico, DAFP Eventual (reforma normativa)
+APLICATIVOS MISIONALES: Sistema de control disciplinario; módulo de expedientes disciplinarios; 
+sistema SIRI (Función Pública). INTEROPERABILIDAD: DAFP-SIRI (reporte de sanciones 
+ejecutoriadas con tipo de falta); Procuraduría General (vigilancia del proceso disciplinario por tipo de 
+falta); Contraloría General (coordinación en faltas con impacto fiscal). CASOS ESPECÍFICOS: (1) 
+Clasificación automática de la falta para determinar la sanción aplicable 
+(destitución/suspensión/multa); (2) Cálculo de términos de caducidad de la acción disciplinaria según 
+gravedad de la falta; (3) Generación de estadísticas de tipos de falta para el informe de gestión 
+disciplinaria ante el DAFP; (4) Reporte al SIRI de sanciones por tipo de falta para el registro nacional 
+de inhabilidades.
+No N/A Consumidor Otro Sí DAFP / Procuraduría General de la Nación
+Mecanismo: Parámetro interno — Lista de valores basada en Ley 
+1952/2019. Catálogo de faltas disciplinarias (gravísima/grave/leve) 
+mantenido por Control Disciplinario. No existe Web Service con 
+Procuraduría, Xroad, base de datos Db link ni P2P.
+22 Secretaria de Agricultura y Minería Actividades_Agropecuarias
+Contiene las actividades agrícolas, pecuarias, acuícolas y 
+mineras con codificación CIIU 4.0. Integrado con SIPSA y 
+MinAgricultura.
+7
+Codigo_CIIU (CODE) | Nombre_Actividad (TEXT) | Sector 
+(CODE) | Subsector (CODE) | Sistema_Produccion (TEXT) | 
+Rendimiento_Promedio (NUMBER) | Estado (CODE)
+~180 Agricultura, Planeación Anual
+APLICATIVOS MISIONALES: Sistema de asistencia técnica agropecuaria (EPSEA); módulo de 
+registro de productores y actividades; SIG departamental (mapa de vocación productiva). 
+INTEROPERABILIDAD: DANE-EVA (Encuesta Nacional Agropecuaria — reporte de actividades por 
+código CIIU); MADR-SIPSA (precios y estadísticas agropecuarias por actividad); ADR (proyectos de 
+desarrollo rural clasificados por actividad productiva). CASOS ESPECÍFICOS: (1) Clasificación 
+estandarizada de la actividad productiva de cada productor registrado; (2) Análisis del mapa 
+productivo del Huila (café, cacao, arroz, ganadería, piscicultura) por municipio; (3) Cálculo del PIB 
+agropecuario departamental en coordinación con el DANE; (4) Base para el diseño de cadenas 
+productivas priorizadas en el Plan de Desarrollo departamental.
+No N/A Consumidor Web Services Sí DANE / MADR
+Clasificación CIIU 4.0 descargada del portal DANE vía API. Exportación 
+XLSX para SIPSA y EVA-DANE. Actualización anual con base en 
+normativa DANE/MADR.
+23 Secretaria de Agricultura y Minería Cultivos
+Contiene el catálogo de cultivos transitorios y 
+permanentes del Huila con clasificación CIIU, parámetros 
+agronómicos y cadenas productivas.
+8
+id_cultivo:TEXT | nombre_comun:TEXT | 
+nombre_cientifico:TEXT | cod_ciiu:TEXT | tipo:TEXT | 
+ciclo_dias:NUMBER | rendimiento_ton_ha:DECIMAL | 
+cadena_productiva:TEXT
+87 Agricultura, Planeación Anual Estadísticas agropecuarias EVA, focalización EPSEA, programas productivos ADR. No N/A Productor Web Services Sí MADR / Gobernación del Huila
+Integración con SIPSA-DANE para estadísticas de cultivos vía descarga 
+API. Exportación XLSX para ADR y EVA-DANE. Actualización anual con 
+base en normativa MADR.
+24 Secretaria de Agricultura y Minería Cadenas_Productivas
+Contiene el catálogo de cadenas productivas priorizadas 
+en el Huila conforme a la política agropecuaria 
+departamental y el CONPES 3866.
+7
+id_cadena:TEXT | nombre:TEXT | eslabones:TEXT | 
+municipios_priorizados:TEXT | entidad_coordinadora:TEXT | 
+normativa:TEXT | estado:TEXT
+12 Agricultura, Planeación, Hacienda Cuatrienal (Plan de Desarrollo) Priorización de inversiones agropecuarias, articulación MADR-ADR, convocatorias Fondos Parafiscales. No N/A Productor Otro Sí MADR / Gobernación del Huila
+Mecanismo: Cargue de archivo plano (XLSX) articulado con MADR y 
+ADR. Catálogo actualizado cuatrienalmente con el Plan de Desarrollo. No 
+existe servicio web, Xroad, base de datos Db link ni P2P.
+25 Secrearia de vias e Infraestructura Materiales_Construccion
+Contiene el catálogo de materiales de construcción con 
+especificaciones técnicas y costos de referencia para 
+elaboración de presupuestos de obra.
+7
+id_material:TEXT | nombre:TEXT | unidad:TEXT | 
+especificacion:TEXT | precio_referencia:NUMBER | 
+categoria:TEXT | vigencia:NUMBER
+1240 Infraestructura Semestral (actualización precios) Elaboración de presupuestos de obra, revisión de APU, control de costos en contratos. No N/A Productor Otro Sí Gobernación del Huila / INVIAS
+Mecanismo: Cargue de archivo plano (XLSX) con precios de referencia 
+INVIAS actualizados semestralmente. Consulta a SINCO-INVIAS para 
+precios unitarios. No existe servicio web, Xroad, base de datos Db link ni 
+P2P.
+26 Secrearia de vias e Infraestructura Tipos_Intervenciòn_Vial
+Contiene las información de la intervención vial: 
+mantenimiento rutinario, periódico, rehabilitación, 
+mejoramiento y construcción.
+7
+Codigo (CODE) | Tipo_Intervencion (TEXT) | Descripcion 
+(TEXT) | Costo_Ref_Km (NUMBER) | Vida_Util_Anios 
+(NUMBER) | Normativa_INVIAS (TEXT) | Estado (CODE)
+~14
+Sec. Vías, 
+Infraestructura, 
+Planeación
+Eventual (Manual INVIAS)
+APLICATIVOS MISIONALES: Sistema de gestión vial departamental; módulo de programación de 
+mantenimientos; sistema de contratos de obra (Secretaría de Vías). INTEROPERABILIDAD: INVIAS 
+(Manual de Diseño Geométrico — estándar de tipos de intervención); Ministerio de Transporte 
+(indicadores de estado de red vial por tipo de intervención); Contraloría Departamental (auditorías 
+técnicas de contratos clasificados por tipo de intervención). CASOS ESPECÍFICOS: (1) Clasificación 
+automática de cada contrato de obra vial según el tipo de intervención; (2) Cálculo del costo por km 
+según tipo de intervención para el Plan Vial Departamental; (3) Análisis de la composición de 
+inversión vial (% mantenimiento vs. % pavimentación) por vigencia; (4) Generación del reporte al 
+Ministerio de Transporte sobre inversión vial departamental por tipo.
+No N/A Consumidor Otro Sí INVIAS / Ministerio de Transporte
+Mecanismo: Parámetro interno — Lista de valores en sistema de Control 
+Interno. El catálogo de tipos de auditoría es una tabla de dominio del 
+sistema de Control Interno alineada con el MIPG. Se actualiza 
+manualmente por el Jefe de Control Interno. No existe servicio web, 
+Xroad, enlace de base de datos ni conexión P2P.
+27 Sec. de Gobierno, seguridad y asuntos comunitarios Hechos_Victimizantes Contiene la información de los hechos victimizantes reconocidos en la Ley 1448/2011: desplazamiento, homicidio, secuestro, minas antipersonal. 7 Codigo (CODE) | Nombre_Hecho (TEXT) | Descripcion (TEXT) | Marco_Legal (TEXT) | Medida_Atencion (TEXT) | Medida_Reparacion (TEXT) | Estado (CODE) ~16 Gobierno, Planeación, Mujer, ICBF Eventual (Ley 1448)
+APLICATIVOS MISIONALES: Sistema de atención y reparación a víctimas; módulo de registro de 
+declaraciones; sistema del Plan de Acción Territorial (PAT). INTEROPERABILIDAD: UARIV-RNI 
+(reporte de casos por hecho victimizante al Registro Nacional); MinInterior (programas de retorno y 
+reubicación por tipo de hecho); DANE (estadísticas de victimización por hecho para análisis 
+departamental). CASOS ESPECÍFICOS: (1) Clasificación del hecho victimizante declarado en la toma 
+de declaración oficial; (2) Análisis de la composición de la población víctima del Huila por tipo de 
+hecho (68% desplazamiento); (3) Focalización de medidas de asistencia y reparación diferenciada 
+según el hecho victimizante; (4) Elaboración del capítulo de víctimas del Plan de Desarrollo con 
+metas por tipo de hecho.
+No N/A Consumidor Otro Sí UARIV / Unidad para las Víctimas
+Mecanismo: Parámetro interno — Lista de valores basada en Ley 
+1448/2011 (UARIV). Catálogo de hechos victimizantes aplicado como 
+parámetro en el sistema de atención a víctimas. No existe servicio web, 
+Xroad, base de datos Db link ni P2P.
+28 Secretaría de la  Mujer, Familia e Inclusión social Programas_Polìtica_Social Contiene los programas de política social: Colombia Mayor, Más Familias en Acción, De Cero a Siempre, Jóvenes en Acción, RESA. 8 Codigo (CODE) | Nombre_Programa (TEXT) | Objetivo (TEXT) | Poblacion_Objetivo (TEXT) | Fuente_Financiacion (CODE) | Normativa (TEXT) | Entidad_Lider (TEXT) | Estado (CODE) ~42 Mujer, Planeación, Salud, Educación, ICBF Cuatrienal (Plan Desarrollo)
+APLICATIVOS MISIONALES: Sistema de gestión social; módulo de seguimiento a programas de 
+política pública; sistema de focalización SISBÉN IV. INTEROPERABILIDAD: DNP-SISMEG (metas de 
+programas sociales en el seguimiento al Plan de Desarrollo); ICBF (articulación de programas de 
+primera infancia y familia); MinSalud-MIAS (programas de salud mental, nutrición e inclusión social). 
+CASOS ESPECÍFICOS: (1) Clasificación estandarizada de cada intervención social para evitar 
+duplicidades entre secretarías; (2) Focalización de beneficiarios de programas sociales usando el 
+puntaje SISBÉN IV; (3) Cálculo del indicador de cobertura de cada programa social para el SISMEG-
+DNP; (4) Base para el informe de política social en la rendición de cuentas ciudadana anual.
+No N/A Productor Otro Sí Gobernación del Huila / DNP
+Mecanismo: Parámetro interno — Lista de valores articulada con Plan de 
+Desarrollo. Catálogo de programas sociales actualizado cuatrienalmente 
+con el Plan de Desarrollo departamental. No existe servicio web, Xroad, 
+base de datos Db link ni P2P.
+29 Secretaría de Cultura Tipos_Bien_Cultural
+Contiene los tipos de bienes culturales (Ley 397/1997): 
+bien mueble, inmueble, patrimonio inmaterial (PCI), 
+documental y bibliográfico.
+7
+Codigo (CODE) | Nombre_Tipo (TEXT) | Categoria (CODE) 
+| Descripcion (TEXT) | Nivel_Proteccion (CODE) | Normativa 
+(TEXT) | Estado (CODE)
+~18 Cultura y Turismo, Planeación Eventual (Ley 1185/2008)
+APLICATIVOS MISIONALES: Sistema de inventario del patrimonio cultural; módulo de declaratorias y 
+PEMP; SIG cultural departamental. INTEROPERABILIDAD: MinCulturas-SIPA (clasificación oficial del 
+patrimonio cultural colombiano); ICANH (bienes arqueológicos declarados patrimonio nacional); 
+UNESCO (bienes inscritos en listas de patrimonio mundial e inmaterial). CASOS ESPECÍFICOS: (1) 
+No N/A Consumidor Otro Sí MinCulturas / Ministerio de las Culturas
+Mecanismo: Parámetro interno — Lista de valores basada en clasificación 
+UARIV (Ley 1448/2011). Catálogo de hechos victimizantes aplicado como 
+parámetro en el sistema de víctimas. Actualización por acto normativo. No 
+existe servicio web, Xroad, base de datos Db link ni P2P.
+Estructura de datos Información de Georreferenciación Intercambio de datos
+Observaciones
+GOBERNACIÓN DEL HUILA
+DATOS DE REFERENCIA
+=== p6 ===
+30 Of. Gestión Riesgo Desastres Tipos_Emergencia_Desastre
+Contiene los tipos de emergencias UNGRD: natural, 
+antrópico, tecnológico y sanitario. Normaliza reportes del 
+SNGRD.
+7
+Codigo (CODE) | Nombre_Tipo (TEXT) | Origen (CODE) | 
+Descripcion (TEXT) | Nivel_Amenaza (CODE) | 
+Protocolo_Respuesta (TEXT) | Estado (CODE)
+~24
+Gestión Riesgo, todas 
+las dependencias, 
+UNGRD
+Eventual (Ley 1523/2012)
+APLICATIVOS MISIONALES: Sistema de gestión del riesgo de desastres; módulo de activación de 
+planes de emergencia; sistema de alertas tempranas (SAT) departamental. INTEROPERABILIDAD: 
+UNGRD-SIGPAD (clasificación estándar de tipos de emergencia para el sistema nacional); IDEAM 
+(alertas meteorológicas clasificadas por tipo de amenaza); Cruz Roja Colombiana / DPSM (protocolos 
+de respuesta por tipo de emergencia). CASOS ESPECÍFICOS: (1) Activación del protocolo correcto 
+del Plan Departamental de Gestión del Riesgo según el tipo de emergencia; (2) Análisis histórico de 
+frecuencia y magnitud de emergencias por tipo en el Huila (ej. 60% inundaciones en La Plata y 
+Neiva); (3) Priorización de inversiones en gestión del riesgo según tipos de amenaza predominantes 
+por municipio; (4) Elaboración del informe de emergencias ante el UNGRD clasificado por tipo para el 
+Sistema Nacional de Gestión del Riesgo.
+No N/A Consumidor Otro Sí UNGRD / Gobernación del Huila
+Mecanismo: Parámetro interno — Lista de valores basada en norma 
+MinCulturas. El catálogo se basa en el Decreto 2941/2009 y la Ley 
+1185/2008 del MinCulturas. Se aplica como parámetro en el inventario de 
+Patrimonio Cultural. No existe Web Service activo con MinCulturas, 
+Xroad, enlace de base de datos ni P2P.
+31 Secretaría de Educación Programas_Educativos
+Contiene el catálogo de programas de educación formal 
+básica, media y no formal ofertados en el departamento, 
+según normativa MEN.
+7
+id_programa:TEXT | nombre:TEXT | nivel:TEXT | 
+modalidad:TEXT | normativa:TEXT | 
+intensidad_horas:NUMBER | grado_equivalencia:TEXT
+48 Educación Eventual (normativa MEN) Matrícula, diseño curricular, validación por ciclos, programas de educación para adultos. No N/A Productor Web Services Sí MEN / Gobernación del 
+Huila
+Integración con SIMAT-MEN vía Web Service para registro de programas 
+educativos. Exportación XLSX para municipios. Actualización por 
+resolución ministerial.
+34 Secretaría de Salud Entidades_Aseguradoras_Salud
+Contiene el catálogo de Entidades Promotoras de Salud 
+(EPS) y Administradoras de Régimen Subsidiado (ARS) 
+autorizadas para operar en el departamento del Huila, 
+con datos de cobertura, afiliación y estado de 
+habilitación. Fuente: MSPS-BDUA.
+10
+Codigo_SISPRO (CODE), Nombre_EPS (TEXT), 
+Tipo_Regimen (CODE), NIT (TEXT), Municipios_Cobertura 
+(TEXT), Estado_Autorizacion (CODE), 
+Resolucion_Habilitacion (TEXT), Fecha_Vigencia (DATE), 
+tipo_regimen:TEXT, n_afiliados:NUMBER, estado:TEXT | 
+fecha_autorizacion:DATE | rep_legal:TEXT
+~28 Salud, MSPS Semestral
+APLICATIVOS MISIONALES: Sistema de afiliaciones al régimen subsidiado; módulo de giro UPC a 
+EPS; Observatorio de Salud del Huila (cobertura por aseguradora). INTEROPERABILIDAD: MSPS-
+BDUA (validación de EPS autorizadas para la afiliación); ADRES (giro UPC diferenciado por EPS 
+según número de afiliados); Supersalud (auditorías IVC a EPS con base en padrón de aseguradoras 
+autorizadas). CASOS ESPECÍFICOS: (1) Validación automática de que cada nuevo afiliado sea 
+asignado solo a una EPS autorizada; (2) Cálculo mensual del giro de recursos UPC por EPS según 
+afiliados activos en el Huila; (3) Seguimiento a indicadores de calidad por EPS para el informe al 
+MSPS; (4) Identificación de EPS en proceso de liquidación para la reasignación de afiliados.
+No N/A Consumidor Web Services Sí MSPS / ADRES
+Lista oficial de EPS del MSPS descargada mensualmente del portal 
+BDUA. Actualización semestral. Integración con el sistema de afiliaciones 
+del régimen subsidiado.
+35 Secretarìa General - TIC Clasificacion_Activos_TI
+Contiene el catálogo de clasificación de activos 
+tecnológicos por tipo (hardware, software, 
+comunicaciones, servicios TI), criticidad y ciclo de vida. 
+Alineado con el MSPI-MinTIC y la norma ISO/IEC 27001.
+8
+Codigo (CODE) | Categoria_Activo (TEXT) | Tipo (CODE) | 
+Criticidad (CODE) | Vida_Util_Meses (NUMBER) | 
+Requiere_Licencia (BOOLEAN) | Nivel_Seguridad (CODE) | 
+Estado (CODE)
+~22 TIC, Control Interno, Hacienda Semestral
+APLICATIVOS MISIONALES: Sistema CMDB (Gestión de activos TI); Plan Estratégico de TI (PETI); 
+Modelo de Seguridad y Privacidad de la Información (MSPI-MinTIC). INTEROPERABILIDAD: MinTIC 
+(reporte del inventario TI en el MSPI para el Índice de Gobierno Digital); ICONTEC (auditorías de 
+continuidad del negocio ISO 22301 basadas en activos TI críticos). CASOS ESPECÍFICOS: (1) 
+Priorización de activos TI para la renovación tecnológica según criticidad y ciclo de vida; (2) 
+Identificación de activos críticos para el Plan de Continuidad del Negocio (PCN); (3) Cálculo del costo 
+del ciclo de vida de activos TI para el presupuesto anual de TIC; (4) Cumplimiento del indicador de 
+gestión de activos del MSPI en el Índice de Gobierno Digital.
+No N/A Productor Otro Sí Gobernación del Huila / MinTIC
+Mecanismo: Parámetro interno — Lista de valores en CMDB/PETI 
+institucional. Catálogo de activos TI mantenido manualmente por el área 
+TIC y reportado a MinTIC mediante formulario MSPI. No existe servicio 
+web, Xroad, base de datos Db link ni P2P.
+36 Secretarìa General - TIC Tipos_Servicio_Digital
+Contiene el catálogo de tipos de servicios digitales y 
+trámites en línea ofrecidos por la Gobernación del Huila, 
+clasificados por canal, tiempo de respuesta y nivel de 
+digitalización, alineado con el Decreto 2106/2019.
+8
+Codigo (CODE) | Nombre_Servicio (TEXT) | Tipo (CODE) | 
+Canal (CODE) | Tiempo_Respuesta_Dias (NUMBER) | 
+Nivel_Digitalizacion (CODE) | Requiere_Autenticacion 
+(BOOLEAN) | Estado (CODE)
+~87 TIC, todas las dependencias, DAFP Semestral
+APLICATIVOS MISIONALES: Portal www.huila.gov.co; sistema PQRSFD; app móvil institucional. 
+INTEROPERABILIDAD: SUIT-DAFP (clasificación de servicios digitales); DAFP-FURAG (indicadores 
+de digitalización); MinTIC-Índice de Gobierno Digital. CASOS ESPECÍFICOS: (1) Publicación del 
+catálogo de trámites digitales conforme al Decreto 2106/2019; (2) Análisis de demanda por tipo de 
+servicio para priorizar digitalización; (3) Cumplimiento del indicador FURAG en racionalización de 
+trámites; (4) Base para la estrategia de Gobierno Digital departamental. No N/A Productor Web Services Sí Gobernación del Huila / DAFP / MinTIC
+Integración con SUIT-DAFP vía Web Service para publicación de 
+servicios. Actualización semestral con base en normativa Anti-Trámites.
+38 Secretaría General Cargos_Planta_Personal
+Contiene el catálogo oficial de perfiles ocupacionales y 
+competencias laborales por cargo, segùn el Manual de 
+Funciones y Competencias Laborales de la Goberaciòn 
+adoptado por Ordenanza: código, denominación, grado, 
+nivel jerárquico, asignación básica, equivalencias CNSC y 
+dependencia asignada.
+8
+Codigo_Cargo (CODE) | Denominacion (TEXT) | 
+Codigo_Grado (CODE) | Nivel (CODE) | Dependencia_Tipo 
+(CODE) | Asignacion_Basica (NUMBER) | N_Cargos_Planta 
+(NUMBER) | Estado (CODE)
+~142
+Sec. General (RRHH), 
+Hacienda, CNSC, 
+DAFP
+Eventual (Ordenanza planta)
+APLICATIVOS MISIONALES: Sistema de nómina SIIF; sistema SIGEP (hoja de vida de servidores); 
+módulo de convocatorias y concursos de méritos. INTEROPERABILIDAD: DAFP-SIGEP (publicación 
+obligatoria de la planta de cargos vigente); CNSC (base para convocatoria a concursos de méritos); 
+MHCP (asignaciones básicas para el presupuesto de personal). CASOS ESPECÍFICOS: (1) 
+Liquidación automática de nómina asignando el salario correcto por denominación y grado; (2) 
+Publicación en SIGEP como requisito del Decreto Ley 019/2012 Anti-Trámites; (3) Elaboración de la 
+planta provisional (encargos en vacantes) conforme a Ley 909/2004; (4) Base para el cálculo del 
+límite de gasto de funcionamiento de la Ley 617/2000.
+No N/A Productor Web Services Sí Gobernación del Huila / DAFP / CNSC
+Integración con SIGEP-DAFP vía Web Service para publicación de planta 
+de cargos. Exportación XLSX para nómina y CNSC. Publicado en Gaceta 
+Departamental.
+39 Oficina Control Interno Tipos_Auditoria
+Contiene el catálogo de tipos de auditoría practicadas 
+por la Oficina de Control Interno: de gestión, financiera, 
+de sistemas, de cumplimiento, especial e integral. Base 
+para el Plan Anual de Auditorías alineado con el MIPG.
+6 Codigo (CODE) | Nombre_Auditoria (TEXT) | Tipo (CODE) | Ente_Auditor (TEXT) | Periodicidad (CODE) | Estado (CODE) ~28 Control Interno, Despacho, Contraloría Anual
+APLICATIVOS MISIONALES: Sistema de Control Interno (módulo de auditorías); plataforma de 
+seguimiento a planes de mejoramiento; sistema SIG. INTEROPERABILIDAD: DAFP-FURAG (tipos de 
+auditoría como insumo del informe de autoevaluación); Contraloría Departamental (coordinación de 
+tipos de auditoría para evitar duplicidades); ICONTEC (auditorías de certificación ISO 9001). CASOS 
+ESPECÍFICOS: (1) Programación del Plan Anual de Auditorías Internas clasificando por tipo; (2) 
+Determinación del equipo auditor y competencias según tipo de auditoría; (3) Generación del informe 
+ejecutivo de resultados clasificado por tipo para la Alta Dirección; (4) Alineación con el Plan de 
+Auditorías de la Contraloría para evitar duplicación.
+No N/A Productor Otro Sí Gobernación del Huila / DAFP / CGR
+Mecanismo: Parámetro interno — Lista de valores en sistema de Control 
+Interno. Actualización manual por el Jefe de Control Interno. Sin 
+integración automática con CGR o DAFP.
+40 Secretaría de Educación Grados_Nivel_Educacion
+Contiene el catálogo oficial de niveles y grados del 
+sistema educativo colombiano: preescolar, básica 
+primaria, básica secundaria y media vocacional, según la 
+Ley 115/1994 y la Ley 1804/2016 (De Cero a Siempre).
+7
+Codigo (CODE) | Nivel (TEXT) | Grado (TEXT) | Descripcion 
+(TEXT) | Edad_Tipica (TEXT) | Tipo_Certificado (TEXT) | 
+Estado (CODE)
+~15 Educación, SIMAT, ICFES, DANE Eventual (reforma normativa)
+APLICATIVOS MISIONALES: Sistema SIMAT (matrícula oficial por nivel/grado); módulo de 
+distribución de docentes; sistema de asignación de recursos SGP per cápita. INTEROPERABILIDAD: 
+MEN-SIMAT (clasificación oficial de matrícula por nivel y grado); DANE (estadísticas educativas por 
+grado para indicadores de cobertura); ICFES (resultados Pruebas Saber clasificados por grado). 
+CASOS ESPECÍFICOS: (1) Clasificación estandarizada de cada estudiante matriculado en SIMAT 
+por nivel/grado; (2) Cálculo del valor per cápita SGP por estudiante según nivel educativo; (3) 
+Análisis de tasas de repitencia y deserción por grado para políticas de permanencia; (4) Comparación 
+de resultados Saber entre grados para focalización de refuerzo pedagógico.
+No N/A Consumidor Web Services Sí MEN / Ministerio de Educación Nacional
+Clasificación oficial MEN descargada vía SIMAT-MEN. Lista de valores 
+para matrícula escolar. Actualización por reforma normativa educativa.
+41 Secretaría de Educación Tipos_Establecimiento_Educativo
+Contiene el catálogo de tipos de establecimientos 
+educativos oficiales del Huila: institución educativa, centro 
+educativo rural, escuela normal superior y establecimiento 
+de educación especial. Según codificación DANE-MEN.
+7
+Codigo (CODE) | Tipo_Establecimiento (TEXT) | Descripcion 
+(TEXT) | Niveles_Autorizados (TEXT) | Requiere_Rector 
+(BOOLEAN) | Requiere_Aprobacion_MEN (BOOLEAN) | 
+Estado (CODE)
+~8 Educación, SIMAT, DANE Eventual (normativa MEN)
+APLICATIVOS MISIONALES: Sistema SIMAT (clasificación de IE para matrícula); módulo de planta de 
+cargos directivos; sistema de infraestructura educativa. INTEROPERABILIDAD: MEN-SIMAT 
+(tipología de establecimientos para reportes nacionales); DANE (código de establecimiento según 
+tipo para estadísticas). CASOS ESPECÍFICOS: (1) Diferenciación de planta docente y directiva 
+según tipo de establecimiento; (2) Asignación de recursos SGP diferenciada para IE vs. CER; (3) 
+Habilitación de programas educativos según tipo de establecimiento y niveles autorizados; (4) 
+Soporte para la fusión o creación de establecimientos educativos.
+No N/A Consumidor Web Services Sí MEN / DANE
+Clasificación oficial MEN/DANE. Actualización por resolución ministerial o 
+decreto departamental de reorganización educativa.
+42 Secretaría de Salud Tipos_Programa_Salud_Publica
+Contiene el catálogo de programas y estrategias de 
+salud pública implementados en el Huila según el Plan 
+Territorial de Salud (PTS) 2024-2027, articulado con el 
+Plan Decenal de Salud Pública del MSPS.
+8
+Codigo (CODE) | Nombre_Programa (TEXT) | Objetivo 
+(TEXT) | Poblacion_Objetivo (TEXT) | EISP_Relacionado 
+(TEXT) | Fuente_Financiacion (CODE) | Entidad_Rectora 
+(TEXT) | Estado (CODE)
+~42 Salud, Planeación, MSPS, municipios Anual
+APLICATIVOS MISIONALES: Sistema de vigilancia epidemiológica (SIVIGILA local); módulo del PTS; 
+Observatorio de Salud del Huila. INTEROPERABILIDAD: MSPS-SISPRO (reporte de indicadores por 
+programa); INS-SIVIGILA (vigilancia de EISP según programa); ADRES (giro de recursos por 
+programa de salud pública). CASOS ESPECÍFICOS: (1) Focalización de intervenciones por municipio 
+según programas priorizados en el PTS; (2) Asignación de recursos SGP-Salud pública por 
+programa; (3) Generación de informes de cobertura de programas para rendición de cuentas al 
+MSPS; (4) Articulación con programas ICBF, MinSalud y MIAS para la atención primaria en salud.
+No N/A Productor Web Services Sí Gobernación del Huila / MSPS
+Integración con SISPRO-MSPS vía Web Service para reporte de 
+indicadores de programa. Actualización anual con el Plan Territorial de 
+Salud.
+44 Secretaria de Desarrollo Económico y Turismo Tipos_Prestador_Turistico
+Contiene el catálogo de tipos de prestadores de servicios 
+turísticos del departamento del Huila, según la 
+clasificación del Ministerio de Comercio, Industria y 
+Turismo (MinCIT) para el Registro Nacional de Turismo 
+(RNT).
+7
+Codigo_RNT (CODE) | Tipo_Prestador (TEXT) | Descripcion 
+(TEXT) | Requisitos_Habilitacion (TEXT) | Categoria (CODE) 
+| Normativa (TEXT) | Estado (CODE)
+~18 Desarrollo Económico, Turismo, MinCIT Eventual (normativa MinCIT)
+APLICATIVOS MISIONALES: Sistema de registro de prestadores turísticos; Observatorio de Turismo 
+del Huila; módulo de habilitación RNT. INTEROPERABILIDAD: MinCIT-SIPES (Registro Nacional de 
+Turismo — clasificación oficial de prestadores); FONTUR (programas de calidad turística por tipo de 
+prestador). CASOS ESPECÍFICOS: (1) Clasificación del tipo de prestador turístico para el registro en 
+el RNT del Huila; (2) Programación de visitas de verificación según tipo de prestador y requisitos; (3) 
+Análisis de la oferta turística departamental por tipo de prestador para el Observatorio; (4) 
+Articulación con ProColombia para la promoción turística diferenciada por tipo.
+No N/A Consumidor Web Services Sí MinCIT / Colombia Productiva
+Clasificación oficial MinCIT para el RNT. Actualización mediante 
+resolución ministerial. Descarga desde portal SIPES-MinCIT.
+45 Secretaria de Desarrollo Económico y Turismo Cadenas_Productivas
+Contiene el catálogo de cadenas productivas priorizadas 
+por la Gobernación del Huila conforme a la política 
+agropecuaria y de competitividad: café, cacao, arroz, 
+ganadería, piscicultura, turismo y minería. Alineado con el 
+CONPES 3866.
+8
+Codigo_Cadena (CODE) | Nombre_Cadena (TEXT) | 
+Eslabones (TEXT) | Municipios_Priorizados (TEXT) | 
+Entidad_Coordinadora (TEXT) | Normativa (TEXT) | 
+Meta_Cuatrienio (TEXT) | Estado (CODE)
+~12
+Desarrollo Económico, 
+Agricultura, 
+Planeación, ADR
+Cuatrienal (Plan Desarrollo)
+APLICATIVOS MISIONALES: Sistema de seguimiento al Plan de Desarrollo (componente económico); 
+módulo de proyectos productivos con ADR; Observatorio de Desarrollo Económico. 
+INTEROPERABILIDAD: MADR (política de cadenas productivas agroindustriales); ADR (proyectos de 
+desarrollo rural por cadena); DANE-EVA (estadísticas de producción por cadena). CASOS 
+ESPECÍFICOS: (1) Priorización de inversiones sectoriales según cadenas productivas priorizadas del 
+Huila; (2) Articulación con fondos parafiscales (FNC, FEDECACAO) para programas por cadena; (3) 
+Análisis de valor agregado por cadena para el PIB departamental; (4) Base para convocatorias de 
+asistencia técnica EPSEA diferenciada por cadena.
+No N/A Productor Otro Sí Gobernación del Huila / MADR / ADR
+Mecanismo: Parámetro interno — Lista de valores articulada con el Plan 
+de Desarrollo. Catálogo actualizado cuatrienalmente. No existe servicio 
+web, Xroad, base de datos Db link ni P2P.
+46 Sec. de Gobierno, seguridad y asuntos comunitarios Tipos_Organizacion_Social
+Contiene el catálogo de tipos de organizaciones sociales, 
+comunitarias y de participación ciudadana con 
+reconocimiento departamental: JAC, cooperativas, 
+asociaciones, veedurías, consejos comunitarios y 
+organizaciones étnicas.
+7
+Codigo (CODE) | Tipo_Organizacion (TEXT) | Marco_Legal 
+(TEXT) | Requiere_Personeria_Juridica (BOOLEAN) | 
+Entidad_Registradora (TEXT) | Beneficios (TEXT) | Estado 
+(CODE)
+~16 Gobierno, Planeación, ICBF, MinInterior Eventual (normativa)
+APLICATIVOS MISIONALES: Sistema de registro de organizaciones sociales (inspección y vigilancia); 
+módulo de participación ciudadana; sistema PQRSFD. INTEROPERABILIDAD: MinInterior-SIJAC 
+(organizaciones comunales); RUNOF-MinInterior (organizaciones formales); DAFP-FURAG 
+(indicadores de participación ciudadana). CASOS ESPECÍFICOS: (1) Clasificación del tipo de 
+organización para determinar el proceso de reconocimiento jurídico; (2) Diferenciación de 
+organizaciones para convocar espacios de participación según objeto; (3) Priorización de contratos 
+con el sector solidario según tipo de organización; (4) Soporte para auditorías de control de legalidad 
+a organizaciones.
+No N/A Productor Otro Sí Gobernación del Huila / MinInterior
+Mecanismo: Parámetro interno — Lista de valores en sistema de 
+inspección y vigilancia. Actualización manual por la Secretaría de 
+Gobierno. Sin integración automática con MinInterior.
+47 Secretaría de la  Mujer, Familia e Inclusión social Tipos_Poblacion_Vulnerable
+Contiene el catálogo de grupos poblacionales priorizados 
+en la política social del Huila: mujeres cabeza de familia, 
+adultos mayores, personas con discapacidad, LGBTIQ+, 
+migrantes, comunidades étnicas, menores en riesgo y 
+víctimas del conflicto.
+7
+Codigo (CODE) | Tipo_Poblacion (TEXT) | Descripcion 
+(TEXT) | Criterio_Focalizacion (TEXT) | Marco_Legal (TEXT) 
+| Entidad_Rectora (TEXT) | Estado (CODE)
+~20
+Mujer, Salud, 
+Educación, Gobierno, 
+ICBF, MSPS
+Cuatrienal (Plan Desarrollo)
+APLICATIVOS MISIONALES: Sistema de focalización de programas sociales; módulo de seguimiento 
+al Plan de Desarrollo (componente social); sistema SISBÉN IV. INTEROPERABILIDAD: DANE-
+SISBÉN IV (focalización de beneficiarios por tipo de población); ICBF (programas de primera infancia 
+y familia); MSPS-MIAS (estrategia de atención integral en salud). CASOS ESPECÍFICOS: (1) 
+Focalización diferenciada de programas sociales según tipo de población vulnerable; (2) Cálculo de 
+indicadores de cobertura de atención por tipo de población para el SISMEG; (3) Base para el análisis 
+interseccional de vulnerabilidades en el diagnóstico social departamental; (4) Articulación con 
+políticas públicas específicas (Ley 1618 discapacidad, Ley 1257 violencia género).
+No N/A Productor Otro Sí Gobernación del Huila / DANE / ICBF
+Mecanismo: Parámetro interno — Lista de valores articulada con Plan de 
+Desarrollo y normativa sectorial. Actualización cuatrienal. Sin integración 
+automática con DANE o ICBF.
+48 Secretaria de Agricultura y Minería Tipos_Tenencia_Tierra
+Contiene el catálogo de tipos de tenencia y acceso a la 
+tierra rural en el Huila: propietario con título, poseedor, 
+arrendatario, aparcero, usufructuario, comunero y 
+ocupante de baldío. Basado en el Censo Nacional 
+Agropecuario DANE.
+7
+Codigo (CODE) | Tipo_Tenencia (TEXT) | Descripcion 
+(TEXT) | Requiere_Titulo (BOOLEAN) | Normativa (TEXT) | 
+Implicacion_Catastral (TEXT) | Estado (CODE)
+~9 Agricultura, Planeación, ANT, IGAC Eventual (Censo Agropecuario)
+APLICATIVOS MISIONALES: Sistema de registro de productores rurales (EPSEA); módulo de predios 
+rurales; SIG departamental. INTEROPERABILIDAD: IGAC (catastro rural multipropósito por tipo de 
+tenencia); DANE-CNA (Censo Nacional Agropecuario estadísticas de tenencia); ANT (titulación de 
+baldíos según tipo de acceso a tierra). CASOS ESPECÍFICOS: (1) Clasificación del tipo de tenencia 
+para identificar elegibilidad en programas de titulación ANT; (2) Análisis de la estructura de propiedad 
+rural del Huila para políticas de acceso a tierra; (3) Priorización de programas de formalización predial 
+según tipo de tenencia; (4) Soporte para el Catastro Rural Multipropósito en los municipios del Huila.
+No N/A Consumidor Web Services Sí DANE / ANT / IGAC
+Clasificación basada en el Censo Nacional Agropecuario DANE y 
+normativa ANT. Actualización cada censo agropecuario. Integración vía 
+Web Service con catastro IGAC.
+49 Secrearia de vias e Infraestructura Tipos_Via_Departamental
+Contiene el catálogo de clasificación de vías según el 
+nivel de red: primaria (INVIAS), secundaria 
+(departamento), terciaria (municipios/INVIAS) y urbana. 
+Incluye tipo de superficie, estado general y prioridad de 
+intervención.
+8
+Codigo (CODE) | Nivel_Red (TEXT) | Tipo_Superficie 
+(CODE) | Entidad_Administradora (TEXT) | Norma_Diseno 
+(TEXT) | Velocidad_Diseno_Kmh (NUMBER) | Estado_Tipico 
+(CODE) | Estado (CODE)
+~14
+Vías e Infraestructura, 
+Planeación, INVIAS, 
+municipios
+Eventual (normativa INVIAS)
+APLICATIVOS MISIONALES: Sistema de inventario vial departamental; módulo del Plan Vial 
+Departamental; SIG vial. INTEROPERABILIDAD: INVIAS-SINCO (clasificación oficial de la red vial 
+nacional); MinTransporte (indicadores de la red vial por nivel); IGAC (cartografía vial por nivel de red). 
+CASOS ESPECÍFICOS: (1) Clasificación correcta de cada tramo para determinar la entidad 
+administradora responsable del mantenimiento; (2) Diferenciación de fuentes de financiación por nivel 
+de red (INVIAS para primaria, departamento para secundaria); (3) Análisis del índice de condición vial 
+por nivel de red para el Plan Vial; (4) Reporte al Ministerio de Transporte sobre inversión vial 
+departamental por nivel de red.
+No N/A Consumidor Otro Sí INVIAS / Ministerio de Transporte
+Mecanismo: Cargue de archivo plano (XLSX) — Clasificación oficial 
+INVIAS. Actualización según Manual de Diseño Geométrico. Sin 
+integración automática con INVIAS.
+50 Secretaría de Cultura Tipos_Manifestacion_Cultural
+Contiene el catálogo de tipos de manifestaciones del 
+patrimonio cultural inmaterial del Huila: tradiciones orales, 
+artes del espectáculo, usos sociales, conocimientos 
+tradicionales, técnicas artesanales y espacios culturales. 
+Basado en la Convención UNESCO 2003.
+7
+Codigo (CODE) | Tipo_Manifestacion (TEXT) | Descripcion 
+(TEXT) | Comunidad_Portadora (TEXT) | Nivel_Proteccion 
+(CODE) | Normativa (TEXT) | Estado (CODE)
+~8 Cultura, Turismo, MinCulturas, UNESCO Eventual (declaratorias)
+APLICATIVOS MISIONALES: Sistema de inventario de patrimonio cultural inmaterial; módulo de 
+declaratorias y salvaguarda; SIG cultural departamental. INTEROPERABILIDAD: MinCulturas-SIPA 
+(registro nacional de manifestaciones culturales inmateriales); UNESCO (lista representativa de 
+patrimonio inmaterial); ICANH (investigación de manifestaciones indígenas). CASOS ESPECÍFICOS: 
+(1) Clasificación de cada manifestación para asignar el nivel de protección y programa de 
+salvaguarda; (2) Gestión del Plan de Salvaguarda del Joropo y otras manifestaciones patrimoniales 
+del Huila; (3) Articulación con programas de turismo cultural diferenciado por tipo de manifestación; 
+(4) Soporte para candidaturas a la lista del patrimonio inmaterial de la UNESCO.
+No N/A Productor Otro Sí Gobernación del Huila / MinCulturas
+Mecanismo: Parámetro interno — Lista de valores basada en Convención 
+UNESCO 2003 y normativa MinCulturas. Actualización por declaratoria 
+oficial. Sin integración automática.
+51 Of. Gestión Riesgo Desastres Niveles_Alerta_Riesgo
+Contiene el catálogo de niveles de alerta del sistema de 
+alertas tempranas (SAT) del Huila: verde (monitoreo), 
+amarillo (alerta), naranja (preparación) y rojo 
+(emergencia). Alineado con el SIGPAD-UNGRD y el 
+IDEAM.
+8
+Codigo (CODE) | Nivel_Alerta (TEXT) | Color_Semaforo 
+(CODE) | Descripcion (TEXT) | Acciones_Inmediatas (TEXT) 
+| Actores_Activar (TEXT) | Normativa (TEXT) | Estado 
+(CODE)
+~6
+Gestión Riesgo, 
+Gobernador, UNGRD, 
+IDEAM, municipios
+Eventual (actualización UNGRD)
+APLICATIVOS MISIONALES: Sistema de alertas tempranas (SAT) departamental; módulo de 
+activación del PDGRD; dashboard de emergencias del Despacho. INTEROPERABILIDAD: UNGRD-
+SIGPAD (niveles de alerta del sistema nacional); IDEAM (alertas meteorológicas e hidrológicas por 
+nivel); Cruz Roja / DPSM (protocolos de respuesta por nivel de alerta). CASOS ESPECÍFICOS: (1) 
+Activación del protocolo de respuesta correcto según nivel de alerta declarado; (2) Notificación 
+automatizada a alcaldes y secretarías según el nivel de alerta vigente; (3) Umbral de activación del 
+Fondo de Gestión del Riesgo departamental para emergencias naranja y roja; (4) Integración con el 
+sistema de comunicaciones de emergencias para difusión ciudadana por nivel.
+Sí
+Municipio_Afectado (CODE) → 
+centroide IGAC; Zona_Riesgo 
+(TEXT); Lat_Zona (DECIMAL); 
+Lon_Zona (DECIMAL)
+Productor Web Services Sí Gobernación del Huila / UNGRD / IDEAM
+Integración con SIGPAD-UNGRD vía Web Service para niveles de alerta. 
+Alertas IDEAM recibidas por API. Notificación por SAT departamental en 
+tiempo real.

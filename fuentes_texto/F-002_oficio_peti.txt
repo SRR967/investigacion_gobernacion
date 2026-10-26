@@ -1,0 +1,83 @@
+
+=== p1 ===
+Secretaría General2026SAL00064319
+Neiva, Julio 27 de 2026
+Señor(a):
+JESUS  SANTIAGO RAMON  RAMOS
+Cra 8 con cll1 sur casa 18
+Tel: 3222123876
+Suaza / Huila
+Asunto: Respuesta a su comunicación de Radicado No. 2026PQR00040471, Asunto 
+"Información PETI 2026", y Fecha: 24/07/2026
+Cordial saludo.
+En atención a su comunicación y al interés manifestado en el Plan Estratégico de 
+Tecnologías de la Información (PETI) 2026 de la Gobernación del Huila, agradecemos el 
+tiempo dedicado al análisis del documento y la consulta formulada, y en relación a su 
+inquietud, nos permitimos realizar las siguientes precisiones:
+La herramienta OTRS constituye la plataforma institucional que soporta la operación de 
+la Mesa de Ayuda TIC de la Gobernación del Huila y se encuentra alineada con las 
+buenas prácticas de ITIL (Information Technology Infrastructure Library) para la Gestión 
+de Servicios de Tecnologías de la Información (ITSM). En este sentido, OTRS permite 
+administrar el ciclo de vida de los incidentes y requerimientos tecnológicos, garantizando 
+su registro, clasificación, priorización, asignación, diagnóstico, escalamiento, 
+seguimiento, resolución y cierre, así como la conservación de la trazabilidad y del historial 
+de atención de cada caso.
+De acuerdo con los lineamientos de ITIL, la Mesa de Ayuda constituye el punto único de 
+contacto entre los usuarios y el Grupo de Tecnología. Para cumplir esta función, la 
+organización puede disponer de diferentes canales de comunicación, tales como el 
+correo electrónico, la atención telefónica o los portales de servicios; sin embargo, la 
+gestión operativa de los incidentes y solicitudes debe realizarse mediante una 
+herramienta especializada de gestión de servicios, función que en la Gobernación del 
+Huila en la actualidad es desempeñada por OTRS.
+Radicado: 
+Fecha: 2026-07-27
+2026PQR00040471
+Al contestar, por favor cite estos datos
+2026CS059622-1
+=== p2 ===
+Secretaría General2026SAL00064319
+En este contexto, el correo electrónico institucional constituye uno de los canales 
+habilitados para la recepción de solicitudes de los usuarios. Una vez recibida la solicitud, 
+esta es registrada en OTRS de manera automática o manual en los casos que 
+corresponda, y conforme al procedimiento operativo establecido, convirtiéndose en un 
+ticket que es administrado durante todo su ciclo de vida dentro de la plataforma.
+Respecto al flujograma contenido en el procedimiento de la Mesa de Ayuda TIC, es 
+importante precisar que este representa la secuencia funcional de las actividades y las 
+interacciones entre los actores del proceso, sin pretender describir el funcionamiento 
+interno de las herramientas tecnológicas que soportan su ejecución. En consecuencia, 
+aunque el diagrama evidencie el correo electrónico como un mecanismo de interacción 
+con el usuario, ello no significa que la gestión del servicio se realice por este medio; por 
+el contrario, la administración, control, seguimiento, medición y cierre de los casos se 
+efectúan mediante la plataforma OTRS, conforme a las prácticas recomendadas por ITIL 
+para la Gestión de Incidentes y la Gestión de Solicitudes de Servicio.
+En respuesta concreta a sus preguntas:
+1. ¿Cuál es el papel que desempeña la herramienta OTRS dentro del proceso 
+operativo de la Mesa de Ayuda TIC?
+Respuesta: OTRS es la herramienta de Gestión de Servicios de TI (ITSM) que soporta 
+la operación de la Mesa de Ayuda bajo los principios de ITIL. A través de esta plataforma 
+se administran los incidentes y solicitudes de servicio durante todo su ciclo de vida, 
+permitiendo mantener la trazabilidad de las actuaciones realizadas, controlar los tiempos 
+de atención, realizar el seguimiento de los acuerdos de nivel de servicio (SLA), generar 
+indicadores para la mejora continua y consolidar la base histórica de conocimiento de la 
+Mesa de Ayuda.
+2. ¿OTRS es la plataforma donde se gestionan los tickets derivados de las 
+solicitudes recibidas por correo electrónico, o el correo electrónico constituye el 
+mecanismo principal para la gestión de los requerimientos?
+Respuesta: OTRS es la plataforma donde se gestionan los tickets derivados de las 
+solicitudes recibidas a través del correo electrónico y de los demás canales habilitados 
+por la Mesa de Ayuda. El correo electrónico constituye únicamente un medio para la 
+=== p3 ===
+Secretaría General2026SAL00064319
+recepción de las solicitudes; la gestión integral de los requerimientos, incidentes y demás 
+casos se realiza dentro de OTRS, garantizando la trazabilidad, el seguimiento y el control 
+del servicio conforme a las buenas prácticas de ITIL.
+Esperamos que estas precisiones contribuyan a una adecuada interpretación del PETI y 
+sean de utilidad para el desarrollo de su investigación académica.
+Agradecemos nuevamente su interés en los procesos de gestión de tecnologías de la 
+información de la Gobernación del Huila y quedamos atentos a cualquier inquietud 
+adicional.
+Cordialmente,
+Revisó: Yesinith Varela Bonilla
+Proyectó: Brayan Alexander Beleño Garcia
+ADRIANA MARCELA VALENCIA CARDONA
+Secretaria General

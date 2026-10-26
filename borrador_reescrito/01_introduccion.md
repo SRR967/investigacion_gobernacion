@@ -67,7 +67,7 @@ Diseñar una propuesta de interoperabilidad de datos para los trámites de la Go
 - Ratificar la pregunta y los objetivos (P-018).
 - Exportar el CSV del SUIT (P-035).
 
-**Versión anterior:** `historial/01_introduccion_2026-10-21_tramites_v2.md`.
+**Versión anterior:** en git (`git log -- borrador_reescrito/01_introduccion.md`).
 
 **Documentos y términos explicados:**
 - **Interoperabilidad:** que los sistemas se pasen datos entre sí, para que la entidad consulte la información en vez de pedirla al ciudadano.

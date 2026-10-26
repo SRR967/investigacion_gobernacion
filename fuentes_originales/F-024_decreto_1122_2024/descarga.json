@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "id": "F-024",
+  "slug": "decreto_1122_2024",
+  "archivo": "fuentes_originales/F-024_decreto_1122_2024/decreto_1122_2024.htm",
+  "texto": "fuentes_texto/F-024_decreto_1122_2024.txt",
+  "url_origen": "https://normograma.icfes.gov.co/compilacion/docs/decreto_1122_2024.htm",
+  "url_final": "https://normograma.icfes.gov.co/compilacion/docs/decreto_1122_2024.htm",
+  "fecha_consulta": "2026-10-25",
+  "sha256": "c86776b8cd5f033aae9a935f089add4ef50967ba9629f95782763f557139bc2b",
+  "bytes": 60956,
+  "tipo": "html",
+  "nombre_original": "decreto_1122_2024.htm",
+  "content_type": "text/html",
+  "via": "urllib",
+  "last_modified_servidor": "Tue, 15 Apr 2025 15:13:34 GMT",
+  "paginas": 1,
+  "paginas_ocr": [],
+  "advertencias": []
+}

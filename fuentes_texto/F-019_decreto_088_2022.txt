@@ -1,0 +1,1500 @@
+
+=== p1 ===
+
+
+		Compilación Jurídica del MINTIC - Decreto 88 de 2022
+
+																	Inicio
+
+																	Decreto Único del Sector TIC
+
+																	Normativa del Sector TIC
+
+																	Herramientas de búsqueda
+
+																	Documentos para comentar
+
+																	Novedades
+
+															Inicio
+															Decreto Único del Sector TIC
+															Compilación normativa del Sector TIC
+															Procesos de asignación de espectro radioeléctrico
+															Herramientas de búsqueda
+															Índice por temas misionales
+															Normativa organizacional MINTIC
+															Normativa común a las entidades públicas
+															Jurisprudencia
+															Doctrina
+															Novedades
+															Documentos para comentar
+
+																		keyboard_backspace
+																		Inicio
+
+																	Documento
+
+																		keyboard_backspace
+																		Inicio
+
+																	Documento
+
+																Decreto 88 de 2022
+
+																	Ocultar anotaciones
+
+																				download
+
+																		Buscar
+																		search
+
+																		Índice
+																		developer_guide
+
+DECRETO 88 DE 2022
+
+(enero 24)
+
+Diario Oficial No. 51.927 de 24 de enero de 2022
+
+MINISTERIO DE TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES
+
+<Consultar la vigencia de esta norma directamente en los artículos que modifica y/o adiciona>
+
+Por el cual se adiciona el Título 20 a la Parte 2 del Libro 2 del Decreto único Reglamentario del Sector de Tecnologías de la Información y las Comunicaciones, Decreto 1078 de 2015, para reglamentar los artículos 3o, 5o y 6o de la Ley 2052 de 2020, estableciendo los conceptos, lineamientos, plazos y condiciones para la digitalización y automatización de trámites y su realización en línea.
+
+EL PRESIDENTE DE LA REPÚBLICA DE COLOMBIA, 
+
+en ejercicio de sus facultades constitucionales y legales, en especial las que le confiere el numeral 11 del artículo 189 de la Constitución Política y los artículos 3o, 5o y 6o de la Ley 2052 de 2020,
+
+CONSIDERANDO:
+
+Que la Constitución Política en su artículo 2o establece entre los fines esenciales del Estado “(...) servir a la comunidad, promover la prosperidad general y garantizar la efectividad de los principios, derechos y deberes consagrados en la Constitución (...)”. 
+
+Que la Ley 962 de 2005, “por la cual se dictan disposiciones sobre racionalización de trámites y procedimientos administrativos de los organismos y entidades del Estado y de los particulares que ejercen funciones públicas o prestan servicios públicos”, consagra como uno de sus principios rectores el fortalecimiento tecnológico, según el cual corresponde al Departamento Administrativo de la Función Pública, en coordinación con el Ministerio de Comunicaciones, hoy Ministerio de Tecnologías de la Información y las Comunicaciones, incentivar el uso de medios tecnológicos integrados que permitan articular la actuación de la administración para disminuir los tiempos y costos de la realización de los trámites por parte de los administrados. 
+
+Que según el Decreto Ley 19 de 2012, “por el cual se dictan normas para suprimir o reformar regulaciones, procedimientos y trámites innecesarios existentes en la Administración Pública”, las autoridades tienen la responsabilidad de garantizar la celeridad en las actuaciones administrativas y para ello deben incentivar el uso de las tecnologías de la información y las comunicaciones a efectos de que los procesos administrativos se adelanten con diligencia, dentro de los términos legales y sin dilaciones injustificadas; y deben adoptar las decisiones administrativas en el menor tiempo posible. 
+
+Que el Decreto Ley 19 de 2012 le asignó al Departamento Administrativo de la Función Pública, con el apoyo del Departamento Administrativo de la Presidencia de la República y el Ministerio de Tecnologías de la Información y las Comunicaciones, la formulación de la política pública de racionalización de trámites, que deberá atender, por lo menos, a los siguientes principios: 
+
+“(...) 1. Racionalizar, a través de la simplificación, estandarización, eliminación, optimización y automatización, los trámites y procedimientos administrativos y mejorar la participación ciudadana y la transparencia en las actuaciones administrativas, con las debidas garantías legales. 
+
+2. Facilitar el acceso a la información y ejecución de los trámites y procedimientos administrativos por medios electrónicos, creando las condiciones de confianza en el uso de los mismos. 
+
+3. Contribuir a la mejora del funcionamiento interno de las entidades públicas que cumplan una función administrativa, incrementando la eficacia y la eficiencia de las mismas mediante el uso de las tecnologías de la información, cumpliendo con los atributos de seguridad jurídica propios de la comunicación electrónica. 
+
+Que conforme al principio de “masificación del gobierno en línea”, hoy Gobierno Digital, consagrado en el numeral 8 del artículo 2o de la Ley 1341 de 2009, “por la cual se definen principios y conceptos sobre la sociedad de la información y la organización de las Tecnologías de la Información y las Comunicaciones (TIC), (...)”, “(...) las entidades públicas deberán adoptar todas las medidas necesarias para garantizar el máximo aprovechamiento de las Tecnologías de la Información y las Comunicaciones (TIC) en el desarrollo de sus funciones. El Gobierno nacional fijará los mecanismos y condiciones para garantizar el desarrollo de este principio. Y en la reglamentación correspondiente establecerá los plazos, términos y prescripciones, no solamente para la instalación de las infraestructuras indicadas y necesarias, sino también para mantener actualizadas y con la información completa los medios y los instrumentos tecnológicos. (...)”. 
+
+Que en virtud del numeral 2 del artículo 17 de la Ley 1341 de 2009, el Ministerio de Tecnologías de la Información y las Comunicaciones tiene entre sus objetivos “(...) 2. Promover el uso y apropiación de las Tecnologías de la Información y las Comunicaciones entre los ciudadanos, las empresas, el Gobierno y demás instancias nacionales, como soporte del desarrollo social, económico y político de la Nación”. 
+
+Que de acuerdo con el artículo 2.2.9.1.2.1 del Decreto 1078 de 2015, “por medio del cual se expide el Decreto único Reglamentario del sector de Tecnologías de la Información y las Comunicaciones”, la Política de Gobierno Digital será definida por el Ministerio de Tecnologías de la Información y las Comunicaciones y se desarrollará a través de componentes y habilitadores transversales que, acompañados de lineamientos y estándares, permitirán el logro de propósitos que generarán valor público en un entorno de confianza digital a partir del aprovechamiento de las TIC. 
+
+Que según el mismo artículo 2.2.9.1.2.1, los habilitadores transversales de la Política de Gobierno Digital, son los elementos fundamentales de Seguridad de la Información, Arquitectura y Servicios Ciudadanos Digitales, que permiten el desarrollo de los componentes y el logro de los propósitos de dicha Política. 
+
+Que el artículo 147 de la Ley 1955 de 2019, “por la cual se expide el Plan Nacional de Desarrollo 2018-2022 “Pacto por Colombia, Pacto por la equidad””, señala la obligación de las entidades estatales del orden nacional de incorporar en sus respectivos planes de acción el componente de transformación digital, siguiendo los estándares que para este propósito defina el MinTIC. De acuerdo con el mismo precepto, los proyectos estratégicos de transformación digital se orientarán entre otros, por los principios de interoperabilidad, vinculación de las interacciones entre el ciudadano y el Estado a través del Portal Único del Estado colombiano, y empleo de políticas de seguridad y confianza digital. 
+
+Que por disposición de los artículos 9o, 10 y 15 del Decreto Ley 2106 de 2019 “por el cual se dictan normas para simplificar, suprimir y reformar trámites, procesos y procedimientos innecesarios existentes en la administración pública”, el Ministerio de Tecnologías de la Información y las Comunicaciones definirá los estándares para la prestación gratuita de los Servicios Ciudadanos Digitales base y administrará el Portal Único del Estado Colombiano. Así mismo, se establece que el servicio ciudadano digital de interoperabilidad será prestado por la Agencia Nacional Digital. 
+
+Que por disposición del artículo 3o de la Ley 2052 de 2020, “por medio de la cual se establecen disposiciones transversales a la rama ejecutiva del nivel nacional y territorial y a los particulares que cumplan funciones públicas y/o administrativas, en relación con la racionalización de trámites y se dictan otras disposiciones”, (...) “El Gobierno nacional, definirá los siguientes conceptos: Automatización, Digitalización, Cadena de trámites, Estampilla electrónica, Formulario Único, Interoperabilidad, Racionalización de trámites, Registros públicos y Trámite”, por lo cual surge la necesidad de establecer tales definiciones. 
+
+Que por mandato del artículo 5o de la Ley 2052 de 2020, las autoridades pertenecientes a la Rama Ejecutiva del nivel nacional y territorial, así como los particulares que cumplan funciones públicas y/o administrativas, deben automatizar y digitalizar la gestión interna de los trámites que adelanten siguiendo los lineamientos y criterios establecidos por el Departamento Administrativo de la Función Pública y el Ministerio de Tecnologías de la Información y las Comunicaciones. 
+
+Que según el artículo 6o de la Ley 2052 de 2020, los trámites que se creen a partir de la expedición de dicha ley deberán realizarse totalmente en línea, y, para los trámites existentes antes de la entrada en vigor de dicha ley y que no puedan realizarse totalmente en línea, se determinarán los plazos y condiciones por parte del Ministerio de Tecnologías de la Información y las Comunicaciones. 
+
+Que para la determinación de los lineamientos, plazos y condiciones para la digitalización y automatización de trámites y su realización en línea, se adoptan plazos y lineamientos diferenciados para las entidades territoriales que no cuenten con la infraestructura tecnológica o la conectividad requerida. 
+
+Que de acuerdo con lo establecido en el artículo 2o, literal d) de la Ley 80 de 1989, el Archivo General de la Nación Jorge Palacios Preciado tiene como función “(...) formular, orientar, coordinar y controlar la política nacional de archivos, acorde con el Plan Nacional de Desarrollo y los aspectos económicos, sociales, culturales, científicos y tecnológicos de los archivos que hagan parte del Sistema Nacional de Archivos”. 
+
+Que el Capítulo IV de la Ley 1437 de 2011, autoriza la utilización de medios electrónicos en el proceso administrativo en particular en lo referente al documento público en medios electrónicos (Art. 55), el archivo electrónico de documentos (Art. 56), el expediente electrónico (Art. 59 modificado por la Ley 2080 de 2021, art. 11), la recepción de documentos electrónicos por parte de las autoridades (Art. 61) y la prueba de recepción y envío de mensajes de datos (Art. 62), los cuales se enmarcan dentro de las responsabilidades que le competen al Archivo General de la Nación Jorge Palacios Preciado como ente rector de la política archivística del Estado. 
+
+Que por lo anterior, se requiere expedir los lineamientos, plazos y condiciones para la digitalización y automatización de trámites y su realización en línea. 
+
+Que en cumplimiento de los artículos 3o y 8o la Ley 1437 de 2011, y de lo dispuesto por el artículo 2.1.2.1.14, del Decreto 1081 de 2015, “por medio del cual se expide el Decreto Reglamentario Único del Sector Presidencia de la República”, este proyecto fue publicado en la sede electrónica del Ministerio de Tecnologías de la Información y las Comunicaciones. 
+
+En mérito de lo expuesto, 
+
+DECRETA: 
+
+ARTÍCULO 1o. Adiciónese el Título 20 a la Parte 2 del Libro 2 del Decreto Único Reglamentario del Sector de Tecnologías de la Información y las Comunicaciones, Decreto 1078 de 2015 el cual quedará así:
+
+TÍTULO 20 
+
+CONCEPTOS, LINEAMIENTOS, PLAZOS Y CONDICIONES TÉCNICAS TRANSVERSALES PARA LA DIGITALIZACIÓN Y AUTOMATIZACIÓN  DE TRÁMITES Y SU REALIZACIÓN EN LÍNEA 
+
+Artículo 2.2.20.1. Objeto. El presente título reglamenta las disposiciones antitrámites a que se refieren los artículos 3o, 5o y 6o de la Ley 2052 de 2020, a través del establecimiento de conceptos, lineamientos, plazos, condiciones técnicas transversales para la digitalización y automatización de los trámites y su realización en línea con el fin de facilitar, agilizar y garantizar el acceso al ejercicio de los derechos de las personas y el cumplimiento de sus obligaciones para con el Estado por medios digitales. 
+
+Artículo 2.2.20.2. Ámbito de aplicación. Serán sujetos obligados las autoridades de la Rama Ejecutiva del nivel nacional y territorial y los particulares que cumplan funciones públicas y/o administrativas. Para los efectos del presente título a ellos se les dará el nombre de autoridades. 
+
+Artículo 2.2.20.3. Definiciones generales. Para efectos de lo establecido en este título, se tendrán en cuenta las siguientes definiciones: 
+
+1. Automatización: Se refiere a la capacidad de un sistema para ejecutar una serie de tareas, de gestión interna de la autoridad, que soporta el trámite, las cuales originalmente son realizadas por seres humanos y pasan a ser ejecutadas de manera autónoma por una máquina o un sistema de información digital. 
+
+2. Cadena de trámites: Conjunto de trámites a cargo de diferentes autoridades, relacionados entre sí, a partir de los requisitos, o que son establecidos como requisito, para obtener el producto de un trámite creado o autorizado por la ley. 
+
+3. Digitalización: Se refiere al uso de medios digitales con intervención humana para el desarrollo de tareas o procesos relacionados con la gestión interna de los trámites de las autoridades (registro, procesamiento, almacenamiento, consulta, acceso y disposición de datos). 
+
+4. Desmaterialización: Es la disposición en formato digital o electrónico, de documentos físicos producto de un trámite, o de certificados, constancias, paz y salvos o carnés, que se emiten respecto de cualquier situación de hecho o de derecho de un particular, los cuales deben cumplir con el Principio de Equivalencia Funcional, previsto en la Ley 527 de 1999. 
+
+5. Estampilla electrónica: Es un documento que se emite, paga, adhiere o anula de forma electrónica, y es como extremo impositivo un gravamen que se causa a cargo de una persona por la prestación de un servicio, con arreglo a lo previsto en la ley y en las reglas territoriales sobre sujetos activos y pasivos, hechos generadores, bases gravables, tarifas, exenciones y destino de su recaudo, las cuales también sirven como medio de comprobación, pues es el documento idóneo para acreditar el pago del servicio recibido o del impuesto causado, al igual que el cumplimiento de una prestación de hacer en materia de impuestos. 
+
+6. Estandarización de trámites: Es el proceso que desarrollan las autoridades responsables de reglamentar o emitir lineamientos sobre trámites modelo, para definir los documentos, requisitos, condiciones, validaciones, formularios únicos y cualquier tipo de requerimiento necesario para acceder al trámite, los cuales deberán ser de obligatoria observancia por parte de las entidades responsables de su implementación, sin que exista la posibilidad de incluir pasos o requisitos adicionales a los establecidos por la autoridad responsable de la reglamentación o del lineamiento. 
+
+7. Formulario único: Es una herramienta para estandarizar trámites modelo y reportes, en formato físico y/o digital, el cual tiene un diseño estructurado único, consta de campos que se deben diligenciar cuyo objetivo es recolectar datos para iniciar y/o ejecutar diferentes procesos por parte de una o más autoridades. 
+
+8. Interoperabilidad: Es la capacidad de las organizaciones para intercambiar información y conocimiento en el marco de sus procesos de negocio para interactuar hacia objetivos mutuamente beneficiosos, con el propósito de facilitar la entrega de servicios digitales a ciudadanos, empresas y a otras entidades. 
+
+9. Otro Procedimiento Administrativo (OPA): Es el conjunto de requisitos, pasos o acciones dentro de un proceso misional, que determina una autoridad o particular que ejerce funciones administrativas para permitir el acceso gratuito, de los ciudadanos, usuarios o grupos de interés, a los beneficios derivados de programas o estrategias, cuya creación, adopción e implementación es potestativa de la entidad. 
+
+10. Racionalización de trámites: Es la implementación de acciones normativas, administrativas y tecnológicas orientadas a simplificar, estandarizar, eliminar u optimizar los trámites existentes, reduciendo costos de transacción entre los particulares y el Estado. 
+
+11. Registro Público: Es el acto a través del cual una persona natural o jurídica en virtud de una obligación legal, inscribe, anota o certifica de manera presencial o virtual, hechos, actos o situaciones jurídicas ante una autoridad, la cual, produce efectos jurídicos respecto a sus derechos u obligaciones. El registro debe relacionarse con un proceso misional de la entidad y consolidarse en un sistema de información digital o una base de datos, atendiendo las disposiciones del derecho fundamental a la protección de datos personales y al acceso a la información pública. El registro deberá permitir la expedición de una constancia con la información allí contenida por medios digitales. 
+
+12. Reporte: Es la obligación creada o facultada por la ley para presentar datos, información o documentos por parte de un particular, entidad pública o particular que cumple función pública, ante las autoridades, para efecto de consolidación, análisis estadístico, monitoreo, seguimiento, evaluación, inspección, vigilancia o control por parte de la autoridad receptora de la información. 
+
+13. Trámite: Es el conjunto de requisitos, pasos o acciones, regulados por el Estado, dentro de un proceso misional, que deben efectuar los ciudadanos, usuarios o grupos de interés ante una entidad u organismo de la administración pública o particular que cumple funciones públicas o administrativas, para hacer efectivo un derecho, ejercer una actividad o cumplir con una obligación prevista o autorizada por la ley. 
+
+14. Trámite Modelo: Es un trámite cuya estandarización está a cargo de una autoridad administrativa del orden nacional, el cual debe ser implementado por diferentes autoridades administrativas, de conformidad con los lineamientos establecidos en la definición de estandarización de trámites del presente decreto. 
+
+Artículo 2.2.20.4. Lineamientos para digitalización y automatización de trámites (Anexo 1). Las autoridades deberán adoptar y aplicar la Guía de digitalización y automatización de trámites contenida en el Anexo 1 del presente decreto con el fin de facilitar, agilizar y garantizar el acceso al ejercicio de los derechos de las personas por medios digitales, el cumplimiento de sus obligaciones, combatir la corrupción y fomentar la competitividad. 
+
+PARÁGRAFO 1o. Los lineamientos para la digitalización y automatización de trámites contenidos en el Anexo 1 serán actualizados y publicados en la sede electrónica del MinTIC cuando así lo determine este a través de las sucesivas versiones de cada uno de dichos documentos y previo informe del equipo técnico de la Dirección de Gobierno Digital y del Departamento Administrativo de la Función Pública. 
+
+PARÁGRAFO 2o. Para garantizar la igualdad en el acceso a la administración, las autoridades deberán asegurar mecanismos suficientes y adecuados de acceso gratuito a los medios electrónicos en sus sedes físicas, además de contar con personal que apoye y guíe en el trámite digital al ciudadano que así lo requiera. 
+
+Artículo 2.2.20.5. Integración de los lineamientos de digitalización y automatización de trámites con las políticas de gobierno digital y de racionalización de trámites. Los lineamientos expedidos en el presente decreto y en el Anexo 1 de esta misma norma, para la digitalización y automatización de los trámites, se deberán implementar por las autoridades de manera articulada con la Política de Gobierno Digital regulada en el Título 9, Parte 2, Libro 2, del presente decreto, y, entre otros, con los lineamientos y estándares señalados en el marco de arquitectura, en el modelo de seguridad y privacidad, en el modelo de servicios ciudadanos digitales, los referidos a las sedes electrónicas, expedidos por el Ministerio de Tecnologías de la Información y las Comunicaciones, así como, los señalados en la política de racionalización de trámites y la guía metodológica para la racionalización de trámites expedida por el Departamento Administrativo de la Función Pública. 
+
+Artículo 2.2.20.6. Condiciones generales para digitalizar y automatizar los trámites existentes antes de la entrada en vigor de la Ley 2052 de 2020. Los procesos de digitalización y automatización de trámites se sujetarán a las siguientes condiciones generales en función del grupo de entidades en la que se encuentre cada autoridad: 
+
+1. Los plazos contarán a partir del día siguiente de la publicación en el Diario Oficial. 
+
+2. Las autoridades tendrán hasta el 31 de enero de 2022, a fin de realizar las actividades de planeación requeridas para digitalizar y automatizar sus trámites. 
+
+3. Las entidades territoriales podrán solicitar ampliación de los plazos o y modificación de los lineamientos de manera motivada. Para estas, los plazos aquí contenidos estarán sujetos a las condiciones de conectividad, infraestructura y tecnologías requeridas y a la disponibilidad de presupuesto. 
+
+4. La digitalización y automatización en cada autoridad se llevará a cabo de manera gradual de la siguiente manera: 
+
+4.1. Bloque de trámites 1: 30% de los trámites de la autoridad (de mayor prioridad). 
+
+4.2. Bloque de trámites 2: 30% de los trámites de la autoridad (de prioridad intermedia). 
+
+4.3. Bloque de trámites 3: 40% de los trámites de la autoridad (de menor prioridad). 
+
+5. Para determinar los trámites de cada uno de los 3 bloques, cada autoridad deberá adelantar un ejercicio de priorización, de manera que el bloque 1 deberá incluir los trámites de mayor prioridad, el bloque 2 los trámites de prioridad intermedia y el bloque 3 los trámites de menor prioridad. El criterio para priorizar es el nivel de demanda del trámite en términos del número de solicitudes por año y mayor impacto en los ciudadanos (a mayor demanda e impacto mayor prioridad). 
+
+PARÁGRAFO. En caso de que una entidad cuente con trámites que generen un alto impacto presupuestal y una consecuencia económica y social importante, podrán utilizar estos criterios como un parámetro de priorización adicional. 
+
+Artículo 2.2.20.7. Plazos para digitalizar y automatizar los trámites existentes antes de la entrada en vigor de la Ley 2052 de 2020. Las autoridades deberán implementar las actividades establecidas en el presente decreto dentro de los siguientes plazos:
+
+1. Plazos para digitalizar trámites por parte de autoridades nacionales
+
+Grupo de entidades (según su naturaleza jurídica) Bloque 1: 30% de trámites Bloque 1+2: 60% de trámites Bloque 1+2:+3: 100% de trámites 
+
+Departamentos Administrativos, Ministerios, Empresas Industriales y Comerciales del Estado, sociedades de Economía Mixta, Institutos Científicos y Tecnológicos 14 meses (Hasta febrero/2023) 26 meses (Hasta febrero/2024) 39 mese (Hasta marzo/2025) 
+
+Unidades Administrativas Especiales, Superintendencias, Agencias Estatales de Naturaleza especial, Establecimientos Públicos, Empresas de Servicios Públicos 15 meses (Hasta marzo/2023) 27 meses (Hasta marzo/2024) 41 meses (Hasta mayo/2025) 
+
+Empresas Sociales del Estado, Entidades de Naturaleza Jurídica Especial, Otras Entidades de la Rama Ejecutiva 22 meses (Hasta octubre/2023) 39 meses (Hasta marzo/2025) 57 meses (Hasta septiembre/2026) 
+
+2. Plazos para automatizar trámites por parte de autoridades nacionales 
+
+Grupo de entidades (según su naturaleza jurídica) Bloque 1: 30% de trámites Bloque 1+2: 60% de trámites Bloque 1+2:+3: 100% de trámites 
+
+Departamentos Administrativos, Ministerios, Empresas Industriales y Comerciales del Estado, Sociedades de Economía Mixta, Institutos Científicos y Tecnológicos 22 meses (Hasta octubre/2023) 39 meses (Hasta marzo/2025) 57 meses (Hasta septiembre/2026) 
+
+Unidades Administrativas Especiales, Superintendencias, Agencias Estatales de Naturaleza especial, Establecimientos Públicos, Empresas de Servicios Públicos. 23 meses (Hasta noviembre/2023) 40 meses (Hasta abril/2025) 58 meses (Hasta octubre/2026) 
+
+Empresas Sociales del Estado, Entidades de Naturaleza Jurídica Especial, Otras Entidades de la Rama Ejecutiva 37 meses (Hasta enero/2025) 62 meses (Hasta febrero/2027) 85 meses (Hasta octubre/2029) 
+
+3. Plazos para digitalizar trámites por parte de autoridades territoriales 
+
+Grupo de entidades (según su naturaleza jurídica) Bloque 1: 30% de trámites Bloque 1+2: 60% de trámites Bloque 1+2:+3: 100% de trámites 
+
+Alcaldía-Avanzado, Gobernaciones, Unidades Administrativas Especiales, Distrito Capital 77 meses (Hasta mayo/2028) 115 meses (Hasta julio/2031) 147 meses (Hasta marzo/2034) 
+
+Alcaldía- Básico, Alcaldía-Intermedio, Establecimientos Públicos- Avanzado, Empresas Industriales y Comerciales-Avanzado, Empresas Sociales del Estado-Avanzado, Sociedades de Economía Mixta -Avanzado, Empresas de Servicios Públicos-Avanzado, Instituciones Universitarias, Áreas Metropolitanas 51 meses (Hasta marzo/2026 81 meses (Hasta septiembre/2028) 108 meses (Hasta diciembre/2030) 
+
+Empresas Sociales del Estado-Básico, Establecimientos Públicos-Básico, Empresas de Servicios Públicos-Básico, Empresas Sociales del Estado-Intermedio, Establecimientos Públicos-Intermedio, Empresas de Servicios Públicos-Intermedio, Instituciones Prestadoras de Servicios de Salud, Otras Entidades Descentralizadas 26 meses (Hasta febrero/2024) 44 meses (Hasta agosto/2025) 63 meses (Hasta marzo/2027) 
+
+4. Plazos para automatizar trámites por autoridades territoriales 
+
+Grupo de entidades (según su naturaleza jurídica) Bloque 1: 30% de trámites Bloque 1+2: 60% de trámites Bloque 1+2:+3: 100% de trámites 
+
+Alcaldía-Avanzado, Gobernaciones, Unidades Administrativas Especiales, Distrito Capital 104 meses (Hasta agosto/2030) 147 meses (Hasta marzo/2034) 184 meses (Hasta abril/2037) 
+
+Alcaldía-Básico, Alcaldía-Intermedio, 
+Establecimientos Públicos-Avanzado, Empresas Industriales y Comerciales-Avanzado, Empresas Sociales del Estado-Avanzado, Sociedades de Economía Mixta-Avanzado, Empresas de Servicios Públicos-Avanzado, Instituciones Universitarias, Áreas Metropolitanas 71 meses (Hasta noviembre/2027 107 meses (Hasta noviembre/2030) 138 meses (Hasta junio/2033) 
+
+Empresas Sociales del Estado-Básico, Establecimientos Públicos-Básico, Empresas de Servicios Públicos-Básico, Empresas Sociales del Estado-Intermedio, Establecimientos Públicos-Intermedio, Empresas de Servicios Públicos-Intermedio, Instituciones Prestadoras de Servicios de Salud, Otras Entidades Descentralizadas 42 meses (Hasta junio/2025) 68 meses (Hasta agosto/2027) 93 meses (Hasta septiembre/2029) 
+
+PARÁGRAFO 1o. Sin perjuicio del cumplimiento de los plazos establecidos en normas especiales, los particulares que cumplan funciones públicas y/o administrativas, deberán digitalizar y automatizar sus trámites en un término que no supere el plazo máximo señalado para las entidades territoriales. Dichos trámites deberán estar registrados en el Sistema Único de Información de Trámites (SUIT). 
+
+PARÁGRAFO 2o. Los plazos para la implementación de la estampilla electrónica serán los establecidos en el artículo 13 de la Ley 2052 de 2020. 
+
+Artículo 2.2.20.8. Trámites que no puedan digitalizarse o automatizarse en su totalidad. Aquellos trámites que por su naturaleza no puedan digitalizarse o automatizarse totalmente, se entenderá que cumplen con la obligación del artículo 5o de la Ley 2052 de 2020 cuando se encuentren digitalizados y automatizados todos los pasos que sean susceptibles de ello. Corresponderá a cada autoridad reportar dicha cuestión. 
+
+Las autoridades podrán transformar o migrar el resultado o los requisitos de trámites de otras entidades a través del servicio ciudadano de interoperabilidad, cuando la naturaleza del mismo lo permita. 
+
+Artículo 2.2.20.9. Trámites nuevos. Cuando las autoridades pretendan crear nuevos trámites, el Departamento Administrativo de la Función Pública, en el marco del proceso de aprobación de trámites creados o autorizados por la ley, solicitará a la autoridad responsable del trámite garantizar el cumplimiento del artículo 6o de la Ley 2052 de 2020 para el momento de la implementación de este. 
+
+PARÁGRAFO. Aquellos trámites que por su naturaleza no puedan hacerse totalmente en línea, se entenderá que cumplen con la obligación establecida en el artículo 6o de la Ley 2052 de 2020, cuando se encuentren en línea todos los pasos a realizar por los ciudadanos que sean susceptibles de ello al momento de su implementación. 
+
+Artículo 2.2.20.10. Gestión documental, seguridad y privacidad en el proceso de digitalización y automatización de trámites. Las autoridades deberán disponer de un Sistema de Gestión Documental Electrónica de Archivos (SGDEA) asegurando que todo documento electrónico generado en el proceso de digitalización y automatización cuente con las características de autenticidad, integridad, fiabilidad y disponibilidad, y, a su vez que haga parte del expediente electrónico. Las autoridades deberán contar con la capacidad necesaria para almacenar y procesar los datos digitalizados y/o automatizados. 
+
+La emisión, recepción y gestión de comunicaciones, que se dé en el proceso de digitalización y automatización del trámite, deberá asegurar un adecuado tratamiento archivístico y estar debidamente alineado con la gestión documental electrónica y de archivo electrónico o digital de la entidad. 
+
+Las autoridades deben generar estrategias de preservación digital que garanticen la disponibilidad y acceso a largo plazo de los documentos electrónicos de archivo, conforme a los instrumentos, principios y procesos archivísticos fijados por el Archivo General de la Nación. 
+
+PARÁGRAFO 1o. En todo el proceso de digitalización y automatización se deberá garantizar el cumplimiento de las normas de seguridad digital emitidas por el Ministerio de Tecnologías de la Información y las Comunicaciones. 
+
+PARÁGRAFO 2o. En todo el proceso de digitalización y automatización se deberá garantizar el cumplimiento de las normas de protección de datos personales contenidas en la Ley 1581 de 2012 y las normas que la desarrollan, modifican o adicionan, y de la Ley 1712 de 2014 y las normas que la desarrollan, modifican o adicionan.
+
+PARÁGRAFO 3o. Trámites en carpeta ciudadana digital. Las autoridades deberán crear, diseñar o adecuar los mecanismos técnicos que permitan la vinculación de los trámites con el servicio de carpeta ciudadana digital en los términos establecidos en el artículo 12 de la Ley 2052 de 2020. Así mismo, deberán propender para que los ciudadanos puedan acceder a estos a través del servicio de carpeta ciudadana digital. 
+
+PARÁGRAFO 4o. En los casos en que los sujetos obligados realicen recolección, procesamiento o tratamiento de datos personales, deberán adoptar medida de responsabilidad demostrada para garantizar el debido tratamiento de dicha información, dichas medidas deben ser apropiadas, efectivas, útiles, eficientes y demostrables. 
+
+Artículo 2.2.20.11. Recursos. Las autoridades atenderán con cargo a su presupuesto los gastos por infraestructura, integración y operación que demande el proceso de digitalización y automatización de los trámites, respetando el Marco de Gasto de Mediano Plazo. 
+
+ARTÍCULO 2o. VIGENCIA. El presente decreto rige a partir de su publicación en el Diario Oficial, y adiciona el Título 20 a la Parte 2 del Libro 2 del Decreto Único Reglamentario del sector de Tecnologías de la Información y las Comunicaciones, Decreto 1078 de 2015. 
+
+Publíquese y cúmplase. 
+
+Dado en Bogotá, D. C., a 24 de enero de 2022. 
+
+IVÁN DUQUE MÁRQUEZ. 
+
+El Ministro de Hacienda y Crédito Público, 
+
+José Manuel Restrepo Abondano. 
+
+La Ministra de Tecnología de la Información y las Comunicaciones, 
+
+Carmen Ligia Valderrama Rojas. 
+
+La Ministra de Cultura, 
+
+Angélica María Mayolo Obregón. 
+
+El Director del Departamento Administrativo de la Función Pública, 
+
+Nerio José Alvis Barranco
+
+ANEXO 1. 
+
+GUÍA DE DIGITALIZACIÓN Y AUTOMATIZACIÓN DE TRÁMITES. 
+
+Tabla de contenido
+
+1. Criterios generales
+
+1.1. Objetivo
+
+1.2. Glosario
+
+1.3. Principios
+
+1.3.1. Diseño centrado en el usuario
+
+1.3.2. Mejora continua
+
+1.3.3. Experiencia del ciudadano
+
+1.3.4. Simplificar
+
+1.3.5. No duplicidad
+
+1.3.6. Agilidad
+
+1.3.7. Seguridad y privacidad de la información
+
+1.3.8. Digital por defecto
+
+1.3.9. En línea por defecto
+
+1.3.10. Reutilizar
+
+1.3.11. Cooperación
+
+1.3.12. Gestión del conocimiento
+
+2. Digitalización y automatización de trámites, OPA y CAIP
+
+2.1. Transformación digital y automatización de trámites, OPA y servicios de consulta de acceso a información
+
+2.1.1. Trámites y OPA totalmente digitales
+
+2.1.2. Trámites, OPA, y servicios de consulta de acceso de información totalmente automatizado
+
+2.2. Diseño centrado en el usuario
+
+2.2.1. Comprensión explícita de los usuarios
+
+2.2.2. Los nuevos servicios que se generen deben ser iterados
+
+2.2.3. La experiencia de usuario debe ser completa
+
+2.2.4. Adopción de perspectivas y habilidades multidisciplinares
+
+2.3. Proceso de digitalización /automatización
+
+2.3.1. Diagrama del proceso de digitalización y automatización
+
+2.3.2. Fase 1 - autodiagnóstico
+
+1. Establecer línea base de trámites, OPA y CAIP
+
+2. Realizar / actualizar la planeación general de digitalización y/o automatización de trámites, OPA y CAIP
+
+2.3.3. Fase 2 - Diseño del trámite, OPA y CAIP digitalizado / automatizado
+
+3. Digitalización / automatización del trámite, OPA y CAIP
+
+4. Establecer requerimientos técnicos
+
+2.3.4. Fase 3 - Implementación y pruebas
+
+5. Implementación del trámite, OPA y CAIP digital / automatizado
+
+2.3.5. Fase 4 - Operación del trámite, OPA y CAIP
+
+1. Operación del trámite, OPA y CAIP digitalizado / automatizado
+
+2.4. Atributos de calidad
+
+2.4.1. Usabilidad
+
+2.4.2. Interoperabilidad
+
+2.4.3. Disponibilidad
+
+2.4.4. Seguridad
+
+2.4.5. Accesibilidad
+
+2.4.6. Neutralidad
+
+2.4.7. Calidad de la información
+
+2.5. Herramientas y técnicas para la digitalización de trámites, OPA y CAIP
+
+2.5.1. Técnicas automatización
+
+2.5.1.1. Gestión por procesos de negocio
+
+2.5.1.2. Automatización de procesos digitales – DPA
+
+2.5.1.3. Automatización robótica de procesos - RPA
+
+2.5.1.4. Inteligencia artificial (AI)
+
+2.5.1.5. Automatización inteligente (IA)
+
+2.6. Otros documentos y guías de referencia
+
+Ministerio de Tecnologías de la Información y las Comunicaciones
+
+Viceministerio de Economía Digital
+
+Dirección de Gobierno Digital
+
+Equipo de trabajo
+
+Aura María Cifuentes - directora de gobierno digital
+
+Arlington Fonseca Lemus - equipo de política dirección de gobierno digital
+
+Juan Pablo Salazar Hoyos - equipo de política dirección de gobierno digital
+
+Marco Emilio Sánchez Acevedo - equipo de política dirección de gobierno digital
+
+Jairo Alberto Riascos Muñoz - equipo técnico de gobierno digital
+
+Samuel Antonio Peña Navarro - equipo técnico de gobierno digital
+
+Francisco Javier Moreno Bustos - equipo técnico de gobierno digital
+
+Versión
+Observaciones
+
+Versión 1
+Junio 2021 
+
+Comentarios, sugerencias o correcciones pueden ser enviadas al correo electrónico: gobiernodigital@mintic.gov.co
+
+Documento de Gobierno Digital
+
+Este documento de la Dirección de Gobierno Digital se encuentra bajo una Licencia Creative Commons Atribución 4.0 Internacional.
+
+Tabla de ilustraciones
+
+Ilustración 1. Conceptos principales
+
+Ilustración 2. Fases del proceso de digitalización / automatización de trámites, OPA o CAIP
+
+Ilustración 3. Proceso de digitalización /automatización
+
+Ilustración 4. Subproceso Establecer Línea base de Trámites, OPA o CAIP
+
+Ilustración 5. Subproceso de Digitalización / Automatización del Trámite
+
+Ilustración 6 Implementación del trámite, OPA o CAIP Digitalizado /automatizado
+
+Ilustración 7 Operación del trámite, OPA y CAIP
+
+1. CRITERIOS GENERALES. 
+
+1.1. OBJETIVO. 
+
+Definir los aspectos técnicos mínimos que se deben tener en cuenta para implementar por parte de los sujetos obligados, la digitalización y automatización de los trámites, otros procedimientos administrativos, OPA y consultas de acceso a información pública, CAIP, para facilitar, agilizar, optimizar y garantizar el acceso por parte de los usuarios a través de canales digitales a la oferta del Estado.
+
+1.2. GLOSARIO. 
+
+Al partir de las definiciones dadas en el decreto que reglamenta los artículos 3o., 5o. y 6o. de la Ley 2052 de 2020 y que establece los conceptos, lineamientos, plazos, condiciones para la automatización y digitalización de trámites y su realización en línea, del cual este anexo hace parte integral, se complementa con las siguientes definiciones:
+
+Consulta de acceso a la información pública, CAIP: Información contenida en bases de datos o repositorios digitales relacionadas con trámites u otros procedimientos administrativos de las autoridades a la cual puede acceder la ciudadanía de manera digital, inmediata y gratuita para el ejercicio de un derecho, una actividad u obligación, que puede ser accedida por el titular o un tercero utilizando o no un mecanismo de autenticación según sea la tipología de la información de que se trate.
+
+Formato digital: La representación codificada como bytes de un objeto digital, la cual define reglas sintácticas y semánticas que permiten el mapeo o correspondencia de un modelo de información a una cadena de bits y viceversa.
+
+Otro procedimiento administrativo, OPA: Conjunto de requisitos, pasos o acciones dentro de un proceso misional que determina una entidad u organismo de la administración pública o particular que ejerce funciones administrativas para permitir el acceso gratuito de los ciudadanos, usuarios o grupos de interés a los beneficios derivados de programas o estrategias cuya creación, adopción e implementación es potestativa de la entidad<1>.
+
+Trámite u OPA digitalizado: Trámite u OPA cuya solicitud, procesamiento, almacenamiento, consulta, acceso y disposición de datos, a lo largo de todo el proceso al interior de sujeto obligado, se realiza por medios digitales de conformidad a los estándares y lineamientos definidos por MinTIC y el DAFP que apliquen y que están vigentes.
+
+Trámites, OPA o CAIP automatizados: Son aquellos trámites, OPA o CAIP cuya gestión al interior del sujeto obligado se realiza haciendo uso de tecnologías de la información y las comunicaciones, sin requerir la intervención humana.
+
+Trámite y OPA en línea: Es el trámite, OPA o CAIP dispuesto por una autoridad a través de las sedes electrónicas y del Portal único del Estado colombiano www.gov.co, el cual puede ser realizado por el solicitante a través de las tecnologías de la información y las comunicaciones.
+
+Usuario: Se refiere a toda persona que acude a un sujeto obligado para realizar un trámite, OPA o CAIP y que puede corresponder a ciudadanos, extranjeros, organizaciones e instituciones o dependencias públicas.
+
+1.3. PRINCIPIOS. 
+
+La digitalización y automatización de trámites, OPA, CAIP, se desarrollará conforme a los principios que rigen la función y los procedimientos administrativos consagrados en los artículos 209 de la Constitución Política, 3o. de la Ley 489 de 1998, 3o. de la Ley 1437 de 2011, 2o. y 3o. de la Ley 1712 de 2014, así como los que orientan el sector TIC establecidos en el artículo 2o. de la Ley 1341 de 2009, y en particular los siguientes:
+
+1.3.1. DISEÑO CENTRADO EN EL USUARIO. 
+
+Este principio busca que los sujetos obligados diseñen trámites, OPA o CAIP pensando en las necesidades del usuario, con el objetivo de brindarle una mejor experiencia, mayor satisfacción, y un mínimo esfuerzo mientras éste interactúa con el Estado a través de medios digitales.
+
+Este principio busca promover la usabilidad de un trámite, OPA o CAIP a través de la valiosa información que puede ofrecer un usuario al ser este el experto en su propia experiencia.
+
+Para esto se debe partir de generar un contexto adecuado para que cualquier usuario que acceda a un trámite, OPA o CAIP, pueda tener toda la información a su disposición, además, se debe promover el diseño visual y establecer un canal de comunicación entre el usuario y la entidad para poder recibir retroalimentación y realizar ajustes respecto a las oportunidades de mejora identificadas.
+
+1.3.2. MEJORA CONTINUA. 
+
+Los sujetos obligados centrarán su esfuerzo en la mejora continua de los servicios prestados al usuario (trámites, OPA o CAIP), siempre buscando los medios o metodologías que les permitan planificar y organizar, los procesos internos, la tecnología y las personas, procurando mantener la evolución permanente de la interacción del usuario con el Estado, apalancado en las tecnologías de la información y las comunicaciones.
+
+1.3.3. EXPERIENCIA DEL CIUDADANO. 
+
+En el sector público la experiencia ciudadana es el conjunto de las percepciones de un ciudadano después de interactuar racional, física, emocional y/o psicológicamente con el Estado, considerando para ello la articulación de aspectos fundamentales como: el recorrido del ciudadano en el acceso a la oferta institucional, bien sea para acceder a información, realizar de un trámite, ejercer control social o participar en la gestión de la entidad; los puntos de contacto entre ciudadanos y entidades públicas, y los canales por medio de los cuales se desarrolla esta experiencia.
+
+Este principio busca que el servicio que se ofrece al ciudadano sea diseñado en forma integral en todos los momentos de la relación de los ciudadanos con las entidades públicas y para garantizar que los servicios del Estado sean prestados de forma adecuada y respondan efectivamente a las necesidades y exigencias de la ciudadanía en un marco de transparencia, participación y garantía de derechos.
+
+Con el propósito de alcanzar el mejoramiento continuo del servicio, las autoridades deben implementar mecanismos de evaluación de la calidad del servicio para que, una vez finalizado el trámite, OPA o consulta de acceso a información pública, el usuario o solicitante podrá retroalimentar respecto a su experiencia y la atención recibida durante cada una de las etapas. Para ello, las entidades podrán utilizar la. herramienta de medición de experiencia del servicio desarrollada por el Departamento Administrativo de la Función Pública.
+
+1.3.4. SIMPLIFICAR. 
+
+Simplificación o racionalización de trámites corresponde a las actividades implementadas por parte de las entidades responsables de la reglamentación o implementación de trámites que buscan disminuir costos, tiempos, requisitos, pasos, procedimientos y procesos o mejorar canales de atención, entre otros, para facilitar el acceso de los ciudadanos. Usuarios o grupos de interés a sus derechos, el ejercicio de actividades y el cumplimiento de obligaciones.
+
+Principio que complementa lo indicado en el decreto 2106 del 2019 y en la guía metodológica para la racionalización de trámites<2>, respecto de la importancia de reducir al máximo los requisitos, pasos, actividades, documentos e información requeridos para atender una solicitud de un usuario. Se debe simplificar en todo aquello que no sea indispensable o no agregue valor público<3>.
+
+Además, debe advertirse que el Decreto-Ley 019 del 2012, establece en materia de simplicidad, que los “trámites establecidos por las autoridades deberán ser sencillos, eliminarse toda complejidad necesaria y los requisitos que exijan a los particulares deberán ser racionales y proporcionales a los fines que se persigue cumplir”.
+
+1.3.5. NO DUPLICIDAD. 
+
+Una sola vez. Esto significa asegurar que las actividades, datos, documentos y demás requisitos del lado del usuario y de los sujetos obligados se realicen, registren o soliciten una sola vez.
+
+En el caso que el mismo documento se solicite para más de un trámite, al evitar la duplicidad, la entidad deberá establecer mecanismos y procesos que le permitan garantizar la completitud de los expedientes de archivo e incorporando elementos descriptivos que permitan el tratamiento de los documentos durante todo el ciclo de vida.
+
+Conforme con el artículo 9o. del Decreto-Ley 19 del 2012, se debe tener en cuenta que “cuando se esté adelantando un trámite ante la administración, se prohíbe exigir actos administrativos, constancias, certificaciones o documentos que ya reposen en la entidad ante la cual se está tramitando la respectiva actuación”. Así mismo, de acuerdo con el artículo 15 del mismo Decreto-Ley las “entidades públicas y las privadas que cumplan funciones públicas o presten servicios públicos pueden conectarse gratuitamente a los registros públicos que llevan las entidades encargadas de expedir los certificados de existencia y representación legal de las personas jurídicas, los certificados de tradición de bienes inmuebles, naves, aeronaves y vehículos y los certificados tributarios, en las condiciones y con las seguridades requeridas que establezca el reglamento. La lectura de la información obviará la solicitud del certificado y servirá de prueba bajo la anotación del funcionario que efectúe la consulta”. Lo anterior sin perjuicio de garantizar la completitud de los expedientes de archivo y la verificación de su validez.
+
+1.3.6. AGILIDAD. 
+
+Eliminar las demoras y cuellos de botella reduciendo los tiempos de atención y respuesta al usuario. Para esto se debe hacer uso de herramientas y técnicas de TI que aseguren el flujo ágil de las actividades, disposición de la información y los procesos de validación que se requieran.
+
+1.3.7. SEGURIDAD Y PRIVACIDAD DE LA INFORMACIÓN. 
+
+Busca que los sujetos obligados implementen controles de seguridad de la información en los sistemas de información y la infraestructura que soportan sus trámites con el fin de preservar la confidencialidad, integridad, disponibilidad y privacidad de los datos, documentos, expedientes, y demás elementos de información.
+
+1.3.8. DIGITAL POR DEFECTO. 
+
+Todo trámite que se cree por parte de los sujetos obligados debe nacer totalmente digital para todos los procesos internos, siguiendo lo establecido en los artículos 2.2.20.8 y 2.2.20.9 del decreto que reglamenta los artículos 3o., 5o. y 6o. de la Ley 2052 de 2020 y en el presente anexo que hace parte integral del decreto.
+
+1.3.9. EN LÍNEA POR DEFECTO. 
+
+Todo trámite que se cree por parte de los sujetos obligados debe nacer totalmente en línea de cara a los usuarios, siguiendo lo establecido en los artículos 2.2.20.8 y 2.2.20.9 del decreto que reglamenta los artículos 3o., 5o. y 6o. de la Ley 2052 de 2020 y en el presente anexo.
+
+1.3.10. REUTILIZAR. 
+
+Los sujetos obligados deben propender por implementar soluciones de digitalización y/o automatización basadas en componentes, con el propósito de reutilizar<4> componentes en más de un trámite.
+
+1.3.11. COOPERACIÓN. 
+
+Los sujetos obligados deben propender por la cooperación con otros sujetos obligados, mediante la compartición de soluciones, códigos fuente, componentes de solución, entre otros, de forma que permitan reducir costos y tiempos de implementación.
+
+1.3.12. GESTIÓN DEL CONOCIMIENTO. 
+
+Los sujetos obligados deben implementar procedimientos, mecanismos y controles que permitan asegurar que el conocimiento generado durante los procesos de digitalización y automatización de trámites, OPA y CAIP quede documentado de manera estructurada y organizada, haciendo uso de las buenas prácticas disponibles para este fin, con el objetivo de asegurar su preservación, distribución y uso en procesos posteriores por parte de los colaboradores; en este sentido aplican principalmente todas las actividades orientadas a potenciar, desarrollar y compartir el conocimiento de las personas de la organización y de la organización en sí misma.
+
+La gestión del conocimiento implica administrar el conocimiento tácito (intangible) y explícito (tangible) en las entidades para mejorar los productos y servicios que ofrece, su desempeño y los resultados de gestión.
+
+La gestión del conocimiento se ha convertido en un mecanismo para el fortalecimiento de la capacidad y el desempeño institucional.
+
+2. DIGITALIZACIÓN Y AUTOMATIZACIÓN DE TRÁMITES, OPA Y CAIP. 
+
+La transformación digital implica cambiar los métodos de trabajo tradicionales en donde la mayoría de las actividades se desarrollan analógicamente, incorporando a ellas herramientas de digitalización y/o automatización de procesos y gestión de documentos electrónicos, haciendo uso de las tecnologías de la información y las comunicaciones. Es así como el proceso de digitalización y/o automatización vincula a la gestión de procesos, herramientas de digitalización, gestores documentales, gestores de activos digitales y herramientas de intercambio de documentos, a fin de recorrer el camino hacia la digitalización y/o automatización de procesos asociados a los trámites, OPA y CAIP, mejorando la comunicación entre el usuario y las entidades, así como también la interoperabilidad.
+
+2.1. TRANSFORMACIÓN DIGITAL Y AUTOMATIZACIÓN DE TRÁMITES, OPA Y SERVICIOS DE CONSULTA DE ACCESO A INFORMACIÓN. 
+
+Los sujetos obligados deben tener en cuenta lo establecido en el anexo 5 de la Resolución 02893 del 2020 expedida por el Ministerio de Tecnologías de la Información y las Comunicaciones (guía técnica de integración de trámites, OPA y CAIP, al Portal Único del Estado Colombiano www.gov.co) en donde se establecen los niveles de transformación digital de los trámites, OPA y CAIP respecto a las actividades e interacciones que debe realizar el usuario. En este capítulo se complementa la caracterización de la digitalización y automatización respecto la gestión interna que ejecutan las entidades, donde se procesa la solicitud realizada por el usuario, para finalmente generar la respuesta que corresponda.
+
+La digitalización y automatización de trámites, OPA y CAIP debe incluir la totalidad de las actividades que sean susceptibles de digitalizar y/o automatizar.
+
+2.1.1. TRÁMITES Y OPA TOTALMENTE DIGITALES. 
+
+Estos se dan cuando la entidad realiza por medios digitales la totalidad de las actividades internas para procesar la solicitud del usuario, desde que se recibe la solicitud hasta la entrega del resultado.
+
+En casos excepcionales pueden existir actividades que hacen parte del proceso, que por su naturaleza no es viable que se desarrollen a través de medios digitales como, por ejemplo: las visitas técnicas o la toma de muestras de materiales.
+
+2.1.2. TRÁMITES, OPA, Y SERVICIOS DE CONSULTA DE ACCESO DE INFORMACIÓN TOTALMENTE AUTOMATIZADO. 
+
+Para alcanzar este nivel el trámite, OPA o CAIP, además de estar totalmente digitalizado, el sujeto obligado debe ejecutar de forma automatizada todas las actividades del trámite, OPA o CAIP que se realizan al interior de la entidad y que sean susceptibles de automatizar para generar la respuesta al usuario. Estas actividades deben ser ejecutadas haciendo uso de tecnologías, principalmente de la información y las comunicaciones, sin requerir la intervención humana.
+
+De igual manera el sujeto obligado debe propender por la ejecución de los trámites, implementando analítica para la mejora de procesos en los casos que aplique, generando los resultados de manera automática al usuario sin esperar la solicitud de grupos de interés (no por demanda) en los servicios que sean de interés para este.
+
+2.2. DISEÑO CENTRADO EN EL USUARIO. 
+
+Cómo podrá ver el lector a lo largo de esta guía, el enfoque centrado en el usuario es predominante. Este enfoque ha sido considerado prioritario a lo largo del mundo en el diseño de instrumentos de políticas públicas y este tipo de guías no deberían ser la excepción.
+
+El capítulo no pretende ser una receta única, sino por el contrario busca fomentar la reflexión frente a la pertinencia de partir desde los usuarios para promover mejoras al interior de las entidades públicas. En este sentido, a continuación, se resaltan cuatro principios claves aplicables al proceso que se busca abordar en este documento, teniendo presente que además se deben atender los lineamientos que en la materia establezcan el DAFP y MinTIC.
+
+2.2.1. COMPRENSIÓN EXPLÍCITA DE LOS USUARIOS. 
+
+Antes de comenzar el proceso de digitalización y automatización de un trámite, se deben conocer primero las necesidades y comportamientos de los usuarios y sus objetivos, qué tareas deben realizar, pero también sus contextos y realidades. Muchas veces en el sector público se comienza por la solución sin identificar plenamente el problema y a quiénes afecta, y esta práctica hace que se generen reprocesos y se inviertan más recursos de los necesarios.
+
+Es importante asegurar el entendimiento de toda la diversidad de los usuarios de manera inclusiva. Para lograr una comprensión explícita de los usuarios es importante hablar con ellos en su contexto, escuchar de primera mano sus testimonios, para esto se recomienda hacer uso de herramientas como: entrevistas, grupos focales, encuestas y sondeos, entre otros. Se sugiere consultar la guía de caracterización de ciudadanos, usuarios y grupos de interés<5>.
+
+2.2.2. LOS NUEVOS SERVICIOS QUE SE GENEREN DEBEN SER ITERADOS. 
+
+La primera versión que se tenga al momento de digitalizar y/o automatizar trámites debe ser puesta a prueba y ser evaluada con usuarios para asegurar que la solución que se desarrolla resuelve el problema. Contar con espacios donde los usuarios puedan interactuar con prototipos del trámite en su nueva versión digitalizada y/o automatizada permitirá identificar oportunidades de mejora para contar una versión más robusta al momento de lanzarla.
+
+Los enfoques centrados en los usuarios no presentan procesos lineales, por el contrario, se llevan a cabo por medio de ciclos de iteración, es decir, en etapas o fases que se suceden y se retroalimentan. El aprendizaje obtenido en cada ciclo debe ser usado como insumo para realizar ajustes y mejoras. Esto significa que los requisitos no son inamovibles, sino que deben refinarse y actualizarse como resultado de lo que se va aprendiendo de los usuarios, tareas y contextos de uso y de su evaluación. Para lograr esto es indispensable hacer prototipos.
+
+2.2.3. LA EXPERIENCIA DE USUARIO DEBE SER COMPLETA. 
+
+Muchas veces en políticas públicas se involucra al usuario solo al final del proceso para validar que lo que ya se hizo le funciona, esto puede hacer que se incurran en más gastos y más tiempo en caso de que lo que se diseñó no cumpla con las expectativas y necesidades de los usuarios. Para esto se deben diseñar momentos de interacción y requerimientos relacionados con las expectativas, actitudes, experiencia y motivaciones del usuario de una forma global. El usuario es un experto en su propia experiencia y esto debe aprovecharse.
+
+2.2.4. ADOPCIÓN DE PERSPECTIVAS Y HABILIDADES MULTIDISCIPLINARES. 
+
+El desarrollo de nuevos y mejorados trámites, OPA y CAIP, debe ser un esfuerzo colaborativo que implique a diferentes miembros de la organización. Así, el equipo de diseño debe incluir perfiles técnicos, pero también otros especializados en diseño de interacción, soporte al usuario, etc.
+
+2.3. PROCESO DE DIGITALIZACIÓN /AUTOMATIZACIÓN. 
+
+En la actualidad, gracias a las tecnologías de la información y las comunicaciones, implementar un sistema para gestionar los trámites, OPA y CAIP en las entidades se torna más sencillo, en ese sentido, cuanto mejor calidad tiene la información, mayor es la eficacia que se consigue. Digitalizar y/o automatizar un trámite, OPA o CAIP, debe iniciar desde el análisis de los procesos que se hacen al interior del sujeto obligado para identificar los pasos o actividades susceptibles a transformarse digitalmente.
+
+Para digitalizar y/o automatizar procesos asociados a trámites, OPA o CAIP, se deben considerar entre otros, los siguientes elementos y aspectos:
+
+1. Los objetivos que se quieren alcanzar: deben ser concretos, ambiciosos pero alcanzables y medibles para poder cotejar el resultado con el objetivo inicialmente planteado.
+
+2. Los recursos que se necesitan: se requiere una definición completa de los recursos materiales, tecnológicos y humanos que se necesitarán.
+
+3. Los plazos que se deben cumplir: para lograr el objetivo final es necesario establecer metas.
+
+4. Comprensión completa del funcionamiento del trámite, OPA o CAIP de la entidad.
+
+5. Identificar los documentos de archivo asociados a cada trámite, OPA o CAIP y la información que es necesario incluir en dichos documentos, así como los metadatos que deberían crearse junto a él, de acuerdo con el proceso de gestión documental, la guía para la gestión de documentos y expedientes electrónicos<6> y conforme a los lineamientos dados por el Archivo General de la Nación.
+
+6. Definir e implementar la forma y la estructura para crear, mantener, usar e incorporar al sistema de gestión documental los documentos de archivo, las acciones encaminadas a su eliminación o preservación y las tecnologías que tienen que usarse en cada caso, conforme a los lineamientos dados por el Archivo General de la Nación.
+
+7. Integrar el ciclo de vida de los documentos en la gestión administrativa del trámite, OPA o CAIP, asegurando la conformación y archivo de los expedientes, cuando proceda. El expediente debe reflejar la secuencia de las actividades realizadas dentro de una misma actuación o trámite.
+
+8. Identificar el impacto positivo que la digitalización y/o automatización genera en la · eficacia de los procesos y pasos del trámite, OPA o CAIP y la interacción e integración de estos.
+
+9. Generar la orientación de la entidad hacia el usuario y hacia sus objetivos y garantizar el uso de lenguaje claro en toda la información dirigida a los usuarios.
+
+10. Optimizar y racionalizar el uso de los recursos tanto humanos como tecnológicos con criterios de eficacia para la prestación funcional del trámite, OPA o CAIP al usuario.
+
+11. Generar una visión más amplia y global de la entidad y de sus relaciones internas e interacciones externas, al facilitar que la información esté al alcance de todos (interoperabilidad).
+
+12. Identificar tareas repetitivas susceptibles a ser automatizadas.
+
+13. Identificar los componentes que se podrían reutilizar de trámites, OPA o CAIP previamente digitalizados o automatizados.
+
+14. Identificar componentes o soluciones desarrolladas por otros sujetos obligados para digitalizar o automatizar trámites, OPA o CAIP que puedan ser de utilidad o se puedan incorporar.
+
+15. Documentar las lecciones aprendidas, las herramientas y nuevo conocimiento que haya sido generado durante la digitalización y/o automatización de trámites, OPA o CAIP, para que sirvan de referencia en nuevos proyectos o procesos de digitalización/automatización.
+
+Para el proceso de digitalización y/o automatización de trámites, OPA o CAIP, de manera integral debe tener en cuenta, entre otros, los siguientes elementos:
+
+Servicios ciudadanos digitales: Teniendo en cuenta que, en la medida en la que las entidades tengan mayor avance en cuanto a la transformación digital de trámites, OPA o CAIP de acuerdo con lo indicado en el numeral 5o. del anexo 5 de la Resolución 2893 del 2020<7>, estas podrán suplir las necesidades del usuario por medios digitales, para ello se debe propender por hacer uso de los servicios ciudadanos digitales básicos, aplicados a los trámites, OPA y CAIP como se indica a continuación:
+
+ Servicio ciudadano de autenticación digital<8>: a través de la vinculación de este servicio, el sujeto obligado garantiza los niveles de privacidad y acceso restringido a los trámites, OPA y CAIP, según sea determinado.
+
+ Servicio ciudadano de interoperabilidad<9>: mecanismo a través del cual el sujeto obligado simplifica las solicitud y flujo de información mediante el intercambio de datos de manera estandarizada y segura con otras entidades.
+
+ Servicio ciudadano de carpeta ciudadana<10>: como parte del proceso de digitalización y/o automatización de trámites, OPA o CAIP, el sujeto obligado debe determinar si aplica e implementa lo necesario para disponer los resultados del trámite, OPA o CAIP en la carpeta ciudadana digital y de esta manera habilitar el acceso a estos documentos de manera controlada al usuario.
+
+Marco legal regulatorio y normativo: Como un eje transversal dentro del proceso de digitalización y/o automatización, las autoridades deben aplicar la normativa vigente que regule el trámite, OPA y CAIP; así como la relacionada con la implementación de la política de gobierno digital y la política de gestión documental y administración de archivos.
+
+Gestión de procesos e información: Los sujetos obligados deben identificar las necesidades de intercambio, consumo y producción de información, tanto dentro de la misma entidad como hacia otras entidades. Así mismo, deben identificar, diseñar, ejecutar, documentar, medir, monitorear, controlar y mejorar los procesos asociados a los trámites, OPA o CAIP, para generar resultados alineados con los objetivos estratégicos de la entidad, de forma que al digitalizar y/o automatizar procesos se agregue valor e innovación a los trámites, OPA o CAIP, y procesos de extremo a extremo, lo que se refleja en una eficiencia administrativa y mejores resultados en la prestación de servicios a los usuarios.
+
+Gestión documental y de datos: Las entidades deben implementar mecanismos que les permitan realizar la gestión y preservación de los documentos, archivos y datos durante todo el ciclo el de vida de los mismos, incorporándolos al sistema de gestión de documentos electrónicos de archivo, SGDEA, conforme a las disposiciones dadas por el Archivo General de la Nación.
+
+A su vez, se debe tener en cuenta las políticas para el intercambio de documentos entre entidades y de estas hacia el usuario. Con base en lo anterior, la digitalización y automatización de trámites, OPA o CAIP deberá atender la Política de Gestión Documental de acuerdo con lo establecido por el Decreto 1080 de 2015 en los artículos 2.8.2.5.6. y siguientes.
+
+Tecnología y sistemas de información: El sujeto obligado debe definir la arquitectura requerida para la digitalización y automatización de trámites, OPA o CAIP, la cual integra la recolección de información del usuario (Solicitud), Sistemas de información que permiten el procesamiento de los datos (Gestión de la solicitud), persistencia, consulta y recuperación de información (Almacenamiento y preservación), intercambio de información interna y externa (Interoperabilidad), acceso a la información por parte de los interesados (Entrega de resultado). La arquitectura debe estar alineada con el Marco de referencia de Arquitectura Empresarial<11> y las iniciativas de digitalización y automatización deben incorporarse en el PETI institucional.
+
+Personas, capacidad y cultura: Es necesario que los sujetos obligados vinculen durante todo el proceso de digitalización y/o automatización a los servidores públicos y grupos de interés, con el propósito de atender expectativas y desarrollar una cultura que facilite la implementación, apropiación y uso de los trámites, OPA o CAIP digitalizados y/o automatizados.
+
+Para el desarrollo e implementación de trámites, OPA o CAIP digitalizados y/o automatizados, el sujeto obligado debe incluir dentro de sus metodologías de gestión de cambio, la identificación de los factores que la impactarán incluyendo la cultura, personas y recursos, en tal sentido, la entidad en la gestión de cambio deberá incluir los siguientes aspectos:
+
+– Planificación del cambio
+
+– Implementación del cambio
+
+– Evaluación y seguimiento del cambio
+
+– Estrategias de sensibilización, capacitación, formación y fortalecimiento de capacidades y competencias
+
+A su vez la gestión del cambio de los sujetos obligados, deben estar articulada o alineada con los procesos de formación y capacitación, de tal forma que desde allí se cierren las brechas y fortalezcan las actividades de desarrollo e implementación del servicio.
+
+Otros aspectos a tener en cuenta: en el proceso de digitalización y/o automatización de trámites, OPA o CAIP, es importante además considerar:
+
+ La integración del sistema de gestión teniendo en cuenta todos los procesos y actividades de la entidad incluyendo los requisitos legales.
+
+ El compromiso y apoyo por parte de la alta dirección de la entidad.
+
+ Hay que asegurar que los sistemas de información para digitalización y/o automatización de trámites, OPA o CAIP sean diseñados específicamente o adaptados a las necesidades del usuario como centro de la interacción con la entidad.
+
+ Determinar los documentos generados de cada trámite, OPA o CAIP, que testimonien las actividades realizadas; identificando: tipología, soporte y formato, las necesidades de gestión y control y del riesgo que implica su ausencia.
+
+ Para el desarrollo de los sistemas de información y herramientas requeridas para la digitalización y/o automatización de trámites, OPA o CAIP, se deben aplicar buenas prácticas de industria, adaptar modelos probados conforme a las necesidades y características propias de la entidad, teniendo en cuenta los cambios tecnológicos, normativos o administrativos.
+
+Es importante tener en cuenta que en los procesos para la digitalización y/o automatización de trámites, OPA o CAIP debe generar capacidades que permitan orquestar la transformación digital, la gestión documental y el intercambio de información en los sujetos obligados, siempre orientado a soportar sus procesos y su estrategia.
+
+2.3.1. DIAGRAMA DEL PROCESO DE DIGITALIZACIÓN Y AUTOMATIZACIÓN. 
+
+A continuación, se presenta el diagrama del proceso para llevar a cabo la digitalización y/o automatización de cada trámite, OPA o CAIP, el cual está compuesto por cuatro fases:
+
+Ilustración 2. Fases del proceso de digitalización / automatización de trámites, OPA o CAIP.
+
+2.3.2. FASE 1 - AUTODIAGNÓSTICO. 
+
+En esta fase se busca establecer la línea base, es decir, contar con el inventario de trámites, OPA o CAIP del sujeto obligado, e identificar la demanda de cada uno de ellos para priorizar y organizar grupos o bloques de trámites de acuerdo con lo establecido en el artículo 2.2.20.7 del Decreto 1078 de 2015 y de esta forma identificar cuáles se deben digitalizar o automatizar según los plazos allí establecidos, y formular la planeación general de digitalización y/o automatización a alto nivel con relación a los trámites, OPA o CAIP priorizados para su transformación.
+
+Este autodiagnóstico debe involucrar activamente todas las áreas o dependencias que tienen alguna relación o interactúan con el trámite, OPA o CAIP, o con la información que se requiere, produce, transforma o almacena mediante el trámite, OPA o CAIP. Las áreas o dependencias son quienes cuentan con la mayor cantidad de información frente al estado actual de trámite, OPA o CAIP y pueden ofrecer valiosas ideas para su identificación y posterior digitalización y/o automatización. El autodiagnóstico debe ser retroalimentado por los usuarios finales, quienes pueden identificar necesidades y oportunidades de mejora de los trámites, OPA o CAIP que no se encuentren digitalizados o automatizados.
+
+Cabe resaltar que las iniciativas o proyectos de digitalización y/o automatización de trámites, OPA o CAIP deben incorporarse en el plan estratégico de tecnologías de información (PETI) de cada entidad, de forma que estos esfuerzos se encuentren alineados con la estrategia institucional. Así mismo, aquellos que redunden en un beneficio directo a los ciudadanos como reducción de tiempo de obtención, eliminación de la presencialidad de los ciudadanos en las oficinas, posibilidad de pago en línea, a su vez deben registrarse como acciones de racionalización en el marco de la estrategia de racionalización del plan anticorrupción y de atención al ciudadano.
+
+Ilustración 3. Proceso de digitalización /automatización.
+
+2.3.2.1. ESTABLECER LÍNEA BASE DE TRÁMITES, OPA Y CAIP. 
+
+Las instituciones estatales prestan una variada oferta institucional de trámites, OPA o CAIP al usuario, cuyos procesos pueden ser digitalizados y/o automatizados. El establecer una línea base que suministre un listado de dichos procesos es de vital importancia para establecer un esquema de trabajo estructurado que permita enfocarse a los trámites, OPA o CAIP que generan el mayor valor al público objetivo.
+
+Ilustración 4. Subproceso establecer línea base de trámites, OPA o CAIP.
+
+2.3.2.1.1. OBTENER EL INVENTARIO DE TRÁMITES, OPA Y CAIP. 
+
+Como insumo se debe utilizar el inventario de trámites que debe estar registrado en el sistema único de información de trámites, SUIT, según lo definido en la política de racionalización de trámites. Todos los trámites de las entidades deben estar inscritos en el SUIT y contar con su respectiva validación y aprobación. Para estas actividades, la dirección de participación, transparencia y servicio al ciudadano del Departamento Administrativo de la Función Pública, cuenta con guías, matrices y asesorías para las entidades que lo requieran.
+
+En caso de que un trámite no se encuentre registrado en el SUIT, se debe establecer su origen legal y se deberá surtir el procedimiento de aprobación de trámites creados o autorizados por ley según el numeral 2 del artículo 1 de la Ley 962 de 2005, modificado por el artículo 39 del Decreto Ley 019 de 2012, y su posterior inscripción en el SUIT, para lo cual se deberá seguir lo definido en la normativa vigente.
+
+La racionalización de trámites permite aumentar la eficacia y eficiencia administrativa de las entidades, y aportan principalmente a la generación de valor público, sin embargo, es el sujeto obligado, con base en el criterio de 'volumen de solicitudes', quien determinará el orden y prioridad en que se intervienen los trámites, OPA o CAIP. En la caracterización de los trámites, OPA o CAIP es importante establecer si en la actualidad los procesos asociados a estos cuentan con algún nivel de digitalización y/o automatización.
+
+Los procesos de racionalización con respecto a los de digitalización y/o automatización no son excluyentes sino complementarios, la racionalización de trámites está orientada a la implementación de acciones normativas, administrativas y tecnológicas, que faciliten a los usuarios su interacción con las entidades públicas, reduciendo costos, tiempos, pasos, requisitos o la necesidad de asistir presencialmente a una entidad para acceder a la oferta institucional; las acciones relacionadas con digitalización y/o automatización que se vean reflejadas en beneficios para los usuarios, se constituirán en acciones de racionalización de trámites.
+
+Aquellas acciones relacionadas con la digitalización y/o automatización que no representen un beneficio directo a los usuarios en la reducción de costos de transacción en su relación con el Estado, no se consideran acciones de racionalización de trámites.
+
+Independientemente si la motivación inicial es racionalizar o digitalizar y/o automatizar, son acciones complementarias, para realizar una buena digitalización y/o automatización se debe considerar refinar el trámite, OPA o CAIP, y para una buena racionalización se deben considerar los cambios aportados por las herramientas tecnológicas, sin embargo, este documento se centra en la digitalización y/o automatización como una forma de optimizar el trámite, OPA o CAIP y facilitar su acceso.
+
+Los procesos de racionalización demandan tiempo y recursos; dentro del establecimiento de la línea base, es importante establecer el estado de racionalización del trámite, es decir, identificar si este ha sido revisado, si se ha analizado la modificación, si se ha implementado parcialmente o si el trámite ha sido racionalizado y no amerita intervención. De estar en un estado de intervención, en el plan de trabajo se debe incluir las acciones de racionalización pertinentes al trámite, preferiblemente según la guía de metodológica para la racionalización de los trámites del DAFP<12>.
+
+2.3.2.1.2. ESTABLECER LOS TRÁMITES, OPA Y CAIP PARA DIGITALIZAR Y/O AUTOMATIZAR. 
+
+Los procesos de digitalización y/o automatización demandan actividades y recursos que deben organizarse de forma tal que se prioricen los trámites, OPA o CAIP que tengan un mayor volumen de solicitudes. Si bien las entidades dentro del SUIT cuentan con una priorización sugerida calculada con criterios propios de la herramienta, el estado actual, estrategia y objetivos de cada entidad es particular por lo que se debe realizar una priorización utilizando el criterio de “mayor volumen de solicitudes”, es decir, los de mayor demanda por parte de los usuarios.
+
+Para priorizar la digitalización y/o automatización de trámites, OPA o CAIP se debe tener en cuenta, como único criterio, el volumen o cantidad de solicitudes que se reciben en un año, contado desde enero 1o. a diciembre 31.
+
+Realizar la priorización de los trámites, OPA o CAIP para digitalizar y/o automatizar
+
+La priorización permite enfocar los esfuerzos en los trámites, OPA o CAIP que tengan mayor volumen de solicitudes.
+
+El resultado está dado por la suma aritmética de los resultados de evaluación de cada trámite, OPA o CAIP respecto a su volumen de solicitudes recibidas, donde se establece un orden según el puntaje obtenido siendo los más solicitados, lo primeros en iniciar el proceso de digitalización y/o automatización.
+
+Una vez realizada la priorización de los trámites, OPA y CAIP para digitalizar y/o automatizar, se establece el alcance determinando cuáles de éstos van a ser intervenidos, conforme a los porcentajes establecidos en el artículo 2.2.20.7 del Decreto 1078 de 2015, y se define el listado de trámites, OPA y CAIP que se van a transformar en el ciclo de digitalización y/o automatización. El resultado es el listado de trámites, OPA y CAIP priorizados. Los no intervenidos en el ciclo actual de automatización/digitalización deberán incluirse en los siguientes ciclos de automatización /digitalización.
+
+2.3.2.2. REALIZAR/ACTUALIZAR LA PLANEACIÓN GENERAL DE DIGITALIZACIÓN Y/O AUTOMATIZACIÓN DE TRÁMITES, OPA Y CAIP. 
+
+Con el listado priorizado se establece el orden de trabajo para la digitalización y/o automatización, donde se determina el alcance de digitalización y/o automatización de los trámites, OPA o CAIP, conforme a los porcentajes establecidos en el artículo 2.2.20.7 del Decreto 1078 de 2015, donde se definen las fechas de inicio y fin del proceso para la transformación de cada trámite, OPA y CAIP.
+
+El detalle de actividades para la implementación de cada uno de los trámites, OPA o CAIP, que se van a transformar, se desarrolla en el paso 2.3.3.2.6 elaboración del cronograma de implementación, el cual debe estar alineado con el plan de acción de que trata artículo 74 de la Ley 1474 de 2011 y el artículo 2.2.22.3.14 del Decreto 1083 de 2018 <sic>.
+
+2.3.3. FASE 2 - DISEÑO DEL TRÁMITE, OPA Y CAIP DIGITALIZADO/AUTOMATIZADO. 
+
+En esta fase, para cada uno de los trámites priorizados para digitalizar y/o automatizar. Se debe realizar un análisis de diferentes aspectos que impactan la operación del trámite, OPA o CAIP, tales como los grupos de interés a los que va dirigido, los canales sobre los cuales se brindará el trámite, OPA o CAIP, los resultados esperados, las reglas de negocio que afectan el trámite, las interacciones necesarias tanto internas como externas, el proceso asociado al trámite, OPA o CAIP, los componentes, flujos de información, ciclo de vida de los. documentos en cada trámite, OPA o CAIP, documentos y metadatos, así como también elaborar tos requerimientos técnicos. realizar un análisis de viabilidad de su implementación, documentar la arquitectura del trámite, OPA o CAIP y generar el cronograma de implementación para cada uno de ellos. Así pues, mientras la planeación general indica el orden en que se intervienen los trámites, OPA o CAIP, el cronograma de implementación es particular de cada trámite intervenido, permitiendo poder trabajar de forma paralela de acuerdo con los recursos designados por el sujeto obligado.
+
+El plan de implementación debe estar articulado con las iniciativas y proyectos de los planes de la política de gobierno digital, los cuales deben estar integrados en el PETI<13> del sujeto obligado.
+
+2.3.3.1. DIGITALIZACIÓN/AUTOMATIZACIÓN DEL TRÁMITE, OPA Y CAIP. 
+
+Este proceso se realiza de forma iterativa, siguiendo el orden de prioridad y alcance de las actividades del proyecto. No es necesario que este proceso se haga de forma secuencial, es decir, si se cuenta con recursos disponibles se podría trabajar de forma paralela dos o más trámites. OPA o CAIP.
+
+Ilustración 5. Subproceso de digitalización/automatización del trámite.
+
+2.3.3.1.1. IDENTIFICAR LOS GRUPOS DE INTERÉS PARA EL TRÁMITE, OPA Y CAIP. 
+
+Un interesado o grupo de interés es un individuo, grupo u organización que es impactada directa o indirectamente por el resultado de un trámite, OPA y CAIP. Estos tienen un interés, necesidad o expectativa sobre el trámite, OPA o CAIP que debe ser atendida.
+
+Los grupos de interés para un trámite, OPA o CAIP se pueden catalogar así:
+
+ Usuarios del trámite, OPA o CAIP: ciudadanos, extranjeros, organizaciones e instituciones o dependencias públicas o privadas.
+
+ Entidades que interactúan durante o con el resultado del trámite, OPA o CAIP, ya sea que provee servicios o los consume.
+
+ Entes que controlan el trámite, OPA o CAIP.
+
+La interacción con estos grupos de interés permitirá identificar las oportunidades de mejora en los trámites, OPA o CAIP y además recibir retroalimentación una vez se cuente con un trámite, OPA o CAIP digitalizado y/o automatizado que pueda ser probado. Se deben promover espacios de discusión que permitan identificar las necesidades de los diferentes grupos de interés con el propósito de tomar decisiones acertadas con relación a la transformación de trámites, OPA o CAIP.
+
+2.3.3.1.2. ESTABLECER CANALES DIGITALES POR LOS CUALES SE OFRECERÁ EL TRÁMITE, OPA Y CAIP. 
+
+Digitalización para mejorar la eficiencia, cobertura, calidad y oportunidad en la entrega del servicio
+
+Con el propósito de mejorar la cobertura y calidad del trámite, OPA o CAIP, hacerlo eficiente y mejorar la oportunidad de entrega del mismo, se deben definir los canales a través de los cuales se va a brindar el trámite, OPA o CAIP, por ejemplo, a través del portal único del Estado colombiano www.gov.co y la sede electrónica del sujeto obligado, aplicativo para dispositivos móviles, redes sociales<14>, entre otros, y los horarios de atención para cada uno.
+
+Es importante resaltar conforme a la caracterización de usuarios, que se debe considerar la generación de beneficios mediante la digitalización y/o automatización del trámite, OPA o CAIP a todos los grupos de usuarios, incluyendo a aquellos de tercera edad y bajo conocimiento en sistemas de información.
+
+2.3.3.1.3. DOCUMENTAR MODELO, REGLAS DE NEGOCIO Y RESULTADOS ESPERADOS (VISUALIZAR EL TRÁMITE, OPA Y CAIP, FUNCIONADO(SIC) DE MANERA DIGITAL/AUTOMATIZADO). 
+
+En este punto se busca que el sujeto obligado establezca cómo espera que el trámite, OPA o CAIP opere tras el proceso de digitalización y/o automatización, para ello se deben considerar algunos aspectos como, las expectativas de los usuarios y el valor que se desea generar con la transformación del trámite, OPA o CAIP, la cantidad de solicitudes por unidad de tiempo, tiempo de ejecución, así como los requisitos principales, la mejora de la experiencia que se pretende brindar al usuario, el producto o servicio resultante, los componentes de información más relevantes y la identificación de los pasos del proceso del trámite, OPA o CAIP susceptibles a la digitalización y/o automatización. De igual manera también se deben incluir aquellos aspectos que puedan impactar su operación.
+
+Procesos susceptibles de digitalización y/o automatización
+
+En cuanto a aquellos pasos, fases o tareas que son susceptibles a digitalización y/o automatización, usualmente tienen algunas de las siguientes características:
+
+ Repetitivas y operativas.
+
+ Que no requieren toma de decisiones.
+
+ Manuales.
+
+ Que requieren impresión o uso de papel.
+
+ Que demandan mucho tiempo.
+
+ Susceptibles a errores humanos.
+
+Documentar reglas de negocio para tener en cuenta y que afectan el trámite, OPA o CAIP
+
+Estos cinco puntos nos ayudan a identificar las reglas de negocio para dar solución a un problema:
+
+ Es repetitiva: decisiones que se toman día a día en la organización.
+
+ Es objetiva: decisiones tomadas con base a parámetros objetivos y que se aplican de manera general y no particular.
+
+ Es determinista: al aplicar la regla con las mismas entradas se obtiene las mismas salidas.
+
+ Es operacional: decisiones que se toman día a día en tiempo real y están asociadas a la operatividad del negocio.
+
+ Es un punto único de determinación: la decisión se toma de forma centralizada y, por lo tanto, gobernada en un único punto con un único responsable establecido, que puede ser una persona o un cuerpo colegiado.
+
+Con esto en mente se pueden identificar las reglas de negocio que afectan al trámite, OPA o CAIP teniendo en cuenta lo siguiente:
+
+- Reglas que afectan el entorno del trámite, OPA o CAIP: arquitectura, servicios, bus de servicios, interacción con otros sistemas, entre otros.
+
+- Reglas organizacionales: documentación específica, controles internos y requisitos específicos de la entidad, mejoras prácticas, entre otros.
+
+- Reglas normativas: temas regulatorios que debe cumplir el trámite, OPA o CAIP: decretos, acuerdos, leyes, políticas, entre otros.
+
+- Reglas éticas: información sensible, identidad de género, entre otros.
+
+2.3.3.1.4. IDENTIFICAR Y ANALIZAR INTERACCIONES INTERNAS. 
+
+A partir de los requisitos legales del trámite, OPA o CAIP y el diseño de los procesos internos de la entidad se deben identificar de manera detallada dentro de los flujos, los requerimientos de documentos e información que provee la misma entidad y que es necesaria para procesar la solicitud hasta generar el resultado de la misma; para esto, se deben tener en cuenta los principios definidos en esta guía.
+
+Identificar el área dueña o responsable de proveer los documentos y/o información requerida, como está almacenada, avance en la digitalización /automatización de trámites, OPA o CAIP, formatos y/o medios en que está disponible, nivel de confidencialidad y privacidad definido, tablas de retención documental que aplican, mecanismo actual para acceder a estos documentos e información, estado actual de cumplimiento de los atributos de calidad y seguridad de esta información, y demás aspectos que consideren pertinentes.
+
+Lo anterior como insumo para analizar alternativas de simplificación y digitalización de estos flujos y proveer de manera estructurada los requisitos relacionados y que deben atenderse el diseño del proceso de manera digital.
+
+Durante el diseño de los mecanismos y herramientas para realizar trámite, OPA o CAIP digitalizado y/o automatizado, se debe considerar y coordinar al interior de la entidad con las áreas correspondientes, asegurando que en la implementación, los flujos internos de documentos e información se realicen totalmente por medios digitales; para esto es importante coordinar con las áreas o dependencias identificadas desde las etapas tempranas del proceso de digitalización y/o automatización, lo que a su vez podría implicar modificaciones o fortalecimiento a los sistemas internos existentes o desarrollo de nuevas funcionalidades.
+
+2.3.3.1.5. IDENTIFICAR Y ANALIZAR INTERACCIONES EXTERNAS. 
+
+Con base en los requisitos legales y el diseño del trámite, OPA o CAIP se deben identificar los documentos e información requeridos al usuario durante la solicitud y momentos posteriores a esta pero previos a la respuesta. Con base en esto, el sujeto obligado debe verificar de estos documentos e información cuales ya tiene disponible; de igual manera, se debe identificar de la información y documentos requeridos al usuario cuales corresponden a otras entidades de acuerdo con la competencia.
+
+Con base en lo anterior, se debe coordinar con cada una de las entidades externas generadoras de estos documentos, la habilitación de los servicios digitales de intercambio de documentos e información (Interoperabilidad), para este proceso se deben tener en cuenta los lineamientos de Lenguaje Común de Intercambio<15> y del Marco de Interoperabilidad<16> generados por MinTIC, esto con el propósito de evitar pedir nuevamente la información con la que ya se cuenta del usuario.
+
+El dominio semántico del marco de interoperabilidad dispuesto por MinTIC<17>, permite garantizar que, en el momento de intercambiar datos, el significado de la información sea exacto y el mismo para todas las partes interesadas. De igual manera, permite que las entidades del Estado colombiano puedan estandarizar, gestionar y administrar su información.
+
+El lenguaje común de intercambio de información es el estándar nacional definido y administrado por el Ministerio de Tecnologías de la Información y las Comunicaciones que facilita el intercambio de información entre las entidades públicas con el propósito de mejorar los servicios digitales dirigidos a los usuarios y empresas, fortaleciendo los procesos de interoperabilidad y la eficiencia del Estado<18>.
+
+Para los casos en los cuales el trámite, OPA o CAIP tiene costo por parte de los usuarios, se deben implementar mecanismos de pago por medios digitales, atendiendo los aspectos legales vigentes y las políticas de cada entidad.
+
+2.3.3.1.6. IDENTIFICAR LOS COMPONENTES Y FLUJOS DE INFORMACIÓN INTERNOS. 
+
+Se deben establecer los componentes de información y sus flujos internos que se requieran e identificar aquellos documentos o datos que se tienen disponibles, con el fin de evitar solicitarle dicha información al usuario, sino obtenerla del sistema de información respectivo, a través de un mecanismo digital para el intercambio. En la identificación se debe tener en cuenta adicionalmente los formatos, protocolos, canales de intercambio y esquemas de almacenamiento y recuperación de información, que haya establecido el sujeto obligado y que permitan cumplir con los objetivos del trámite, OPA o CAIP.
+
+2.3.3.1.7. ANALIZAR Y REDISEÑAR LOS PROCESOS DIGITALES DEL TRÁMITE, OPA Y CAIP. 
+
+En este punto se debe hacer uso de la documentación actual del proceso asociado al trámite, OPA o CAIP que se pretende digitalizar o automatizar. Con base en esta documentación y tomando como insumo los análisis realizados en las etapas inmediatamente anteriores, se busca que el sujeto obligado realice el refinamiento de dicho proceso teniendo en cuenta como se espera que opere después de haber sido transformado hacia la digitalización y/o automatización.
+
+Se debe establecer aquellas tareas o actividades del proceso del trámite, OPA o CAIP que van a ser digitalizadas o automatizadas en su versión transformada, adicionalmente relacionar el sistema de información candidato si se cuenta con él, documentar las salidas y entradas para cada una de las actividades, la duración de cada actividad, área, dependencia o rol responsable de la ejecución de cada actividad.
+
+2.3.3.1.7.1. DIGITALIZAR Y AUTOMATIZAR ACTIVIDADES Y CONTROLES. 
+
+Dada la importancia de controlar el proceso asociado al trámite, OPA o CAIP, también se debe identificar las actividades de control que se vayan a ser digitalizadas o automatizadas.
+
+2.3.3.1.7.2. IDENTIFICAR CAPACIDADES Y COMPETENCIAS NECESARIAS PARA VIABILIZAR LA DIGITALIZACIÓN. 
+
+Es fundamental que se identifique cuáles son las capacidades que a nivel institucional que se deben desarrollar o fortalecer para poder brindar adecuadamente el trámite, OPA o CAIP digitalizado y/o automatizado, adicionalmente es importante que se definan aquellas competencias con las que los funcionarios deben contar para realizar las actividades con relación al trámite, OPA o CAIP digitalizado y/o automatizado de manera armónica, evitando así traumas en la prestación de este.
+
+El sujeto obligado debe reducir las brechas que le impidan avanzar de manera ágil y estructurada en la transformación digital de los trámites, OPA o CAIP, lo que comprende las capacidades institucionales, competencias del talento humano, elementos tecnológicos y aspectos legales o normativos que impacten la estructura de procesos internos relacionados con el trámite, OPA o CAIP que se pretende transformar.
+
+2.3.3.1.7.3. GESTIÓN DOCUMENTAL. 
+
+Se deben determinar los elementos que garantizan las características de autenticidad, integridad, fiabilidad disponibilidad y usabilidad de los documentos producidos, recibidos y gestionados en cada trámite, OPA o CAIP, dando cumplimiento a lo establecido en el programa de gestión documental, PGD, de la entidad, para ello se debe tener en cuenta los siguientes aspectos básicos:
+
+– Determinar los diferentes tipos de documentos que hacen parte del trámite, OPA o CAIP.
+
+– Definir los diferentes elementos que conforman la estructura de los documentos (contenido, datos de validación, autenticación y metadatos).
+
+– Definir las actividades de creación, recepción, producción y organización de la información y los documentos que hacen parte del trámite, OPA o CAIP.
+
+– Definir los elementos para los formatos digitales y formularios electrónicos dispuestos en el trámite, OPA o CAIP.
+
+– Definir las actividades para la conformación de expedientes electrónicos y cuando proceda expedientes híbridos.
+
+– Definir tos requisitos de consulta y acceso a los documentos y expedientes.
+
+– Definir las condiciones de los documentos y expedientes para garantizar la preservación digital a largo plazo.
+
+– Determinar las tareas o actividades que requieran para que el sistema de gestión de documentos electrónicos de archivo, SGDEA<19> sea el soporte que permita asegurar el adecuado tratamiento archivístico de los documentos que hacen parte del trámite OPA y CAIP digitalizado y/o automatizado.
+
+– Se requiere de la participación activa de los líderes o responsables de gestión documental en las diferentes fases desarrollas para la validación del cumplimiento del marco normativo y de las políticas en materia de gestión de documentos bajo los parámetros establecidos por el Archivo General de la Nación.
+
+2.3.3.2. ESTABLECER REQUERIMIENTOS TÉCNICOS. 
+
+A continuación, se describen algunos aspectos que se deben tener en cuenta en la elaboración de los requerimientos funcionales y no funcionales del trámite, OPA o CAIP que se desea digitalizar y/o automatizar.
+
+2.3.3.2.1. DEFINIR REQUERIMIENTOS DEL TRÁMITE, OPA O CAIP A DIGITALIZAR O AUTOMATIZAR. 
+
+El proceso de digitalización y/o automatización de trámites, OPA o CAIP, contiene un componente técnico muy importante para lo cual se deben contemplar mejoras, construcción de nuevos módulos o inclusive la adquisición de nuevas aplicaciones y/o sistemas de información. El marco de referencia de arquitectura empresarial<20> orienta a las entidades en el diseño de soluciones que soporten de forma adecuada los procesos y procedimientos de la entidad para ofrecer mejores servicios a los usuarios.
+
+La digitalización de cara al usuario puede facilitar la interacción con el Estado, sin embargo, al interior de las entidades también impacta reduciendo costos, tiempo y errores, optimizando los procesos, eliminando los procesos manuales y reduciendo la intervención humana.
+
+Teniendo en cuenta la particularidad de cada trámite, OPA o CAIP, se debe realizar un ejercicio de levantamiento de requerimientos, los cuales son necesarios para acotar el alcance del proceso de digitalización y/o automatización a implementar, e identificar si el sujeto obligado cuenta con sistemas de información que soporte algunos de los requerimientos identificados para digitalizar y/o automatizar, y realizar el análisis de la adopción o desarrollo de un sistema de información que lo soporte.
+
+Una vez se hayan identificado las acciones de mejora en su estrategia de racionalización de trámites se debe proceder a definir los requerimientos funcionales y no funcionales que debe resolver el sistema que se va a adecuar y/o implementar para habilitar su digitalización y/o automatización, a continuación se describen algunos de los principales aspectos que se deben tener en cuenta en la definición de los requerimientos, considerando los grupos de interés y las expectativas que para cada uno de ellos deben ser atendidas.
+
+2.3.3.2.1.1. REQUERIMIENTOS FUNCIONALES. 
+
+Un requerimiento funcional define una función del sistema de software o sus componentes. Para este caso una función es descrita como un conjunto de entradas, comportamientos y salidas que deben tener los sistemas que administrarán los trámites, OPA o CAIP.
+
+A continuación, enumeran algunos de los aspectos que se deben tener en cuenta para definir los requerimientos funcionales que debe atender el sistema de información que soportará el trámite, OPA o CAIP. Describir la manera con la cual el sistema:
+
+- Identificación de actores que participarán en el trámite, OPA o CAIP.
+
+- Identificar los escenarios.
+
+- Da cumplimiento a los aspectos y requisitos legales relacionados con el trámite, OPA o CAIP que se va a digitalizar y/o automatizar.
+
+- Atiende las necesidades y expectativas de los grupos de interés (usuarios, otras entidades, entes de control, otras áreas de la entidad etc.).
+
+- Priorizar y viabilizar las actividades que son susceptibles de digitalización y/o automatización, teniendo en cuenta lo establecido en el capítulo de niveles de digitalización.
+
+- Priorizar y viabilizar la generación de documentos en formatos digitales, a través de los mecanismos apropiados, de acuerdo con las recomendaciones establecidas por el Archivo General dela Nación. 
+
+- Establecer mecanismos digitales o automáticos para operar los flujos de información o documentos al interior de la organización.
+
+- Establecer mecanismos digitales o automáticos para operar los flujos de información o documentos desde y hacia otras entidades, habilitar servicios de interoperabilidad de consumos y/o exposición.
+
+- Establecer los mecanismos necesarios para vincular los documentos resultantes de los trámites, OPA o CAIP con el sistema de gestión de documentos electrónicos de archivo, SGDEA, de acuerdo con lo determinado en el modelo de requisitos para la gestión de documentos electrónicos de archivo de la entidad para garantizar la autenticidad, integridad, fiabilidad y disponibilidad de los documentos de acuerdo con la política de gestión documental definida por la entidad.
+
+2.3.3.2.1.2. REQUERIMIENTOS NO FUNCIONALES. 
+
+Los requerimientos no se refieren directamente a las funciones específicas que entrega el sistema, sino a las propiedades emergentes de éste como la fiabilidad, la respuesta en el tiempo y la capacidad de almacenamiento. De forma alternativa, definen las restricciones del sistema como la capacidad de los dispositivos de entrada/salida y la representación de datos que se utiliza en la interfaz del sistema que soporta los trámites, OPA o CAIP.
+
+Los sistemas de información y/o aplicaciones deben asegurar la preservación de la información, documentos y expedientes y cumplir con requerimientos no funcionales que impliquen el cumplimiento de criterios de calidad como los siguientes:
+
+- Los sistemas de información deben ser interoperables y permitir la exposición y consumo de información al interior y exterior de la entidad.
+
+- Deben ser transaccionales para poder brindar respuestas en tiempo real a las solicitudes que se generen.
+
+- Deben estar disponibles para cumplir con los tiempos de respuestas adecuados de acuerdo con la normatividad asociada.
+
+- Deben ser escalables para adaptarse al crecimiento continuo de transacciones y usuarios.
+
+- Deben ser tolerantes a fallos.
+
+- Deben preservar la confidencialidad, integridad y autenticidad de la información de acuerdo con el modelo de seguridad definido en la política de gobierno digital.
+
+- Deben cumplir con los requisitos de usabilidad y accesibilidad.
+
+- Dar cumplimiento a los aspectos y requisitos legales relacionados con el trámite, OPA o CAIP que se va a digitalizar y/o automatizar.
+
+- Deben asegurar la preservación de la información, documentos y expedientes de conformidad con lo establecido por el AGN y los requisitos no funcionales establecidos en el modelo de requisitos para a gestión de documentos electrónicos.
+
+2.3.3.2.2. ESTABLECER ALCANCE Y DISEÑO DE LOS SISTEMAS PARA DIGITALIZAR/AUTOMATIZAR EL TRÁMITE, OPA Y CAIP. 
+
+Teniendo la identificación de los sistemas de información requeridos y sus requisitos técnicos de implementación, se debe acotar el alcance, medio e interacción de los distintos sistemas, su flujo de trabajo principales y secundarios.
+
+Se deben establecer trazas de los intercambios entre sistemas que permitan monitorear y auditar los puntos de interacción de los sistemas internos.
+
+Con el fin de lograr la automatización de procesos que intenta superar restricciones físicas en un trámite, OPA o CAIP mediante la aplicación de nuevas tecnologías, se deben definir alternativas de automatización de procesos como metodologías BPMS (Business Process Management Suite) o inteligencia artificial, Machine Learning, entre otras.
+
+Identificar alternativas para digitalizar o automatizar el trámite, OPA y CAIP
+
+Realizar un análisis de las herramientas y/o sistemas necesarios respecto a su disponibilidad de uso para la implementación del trámite, OPA o CAIP digitalizado y/o automatizado. Se pueden considerar sistemas existentes, sistemas disponibles en el mercado y desarrollo a la medida.
+
+2.3.3.2.3. IDENTIFICAR SI CUENTA CON SISTEMAS DE INFORMACIÓN QUE SOPORTAN LOS REQUERIMIENTOS PARA DIGITALIZAR/AUTOMATIZAR EL TRÁMITE, OPA Y CAIP (ACTUALES Y NUEVOS). 
+
+Con base en los requerimientos funcionales y no funcionales planteados, se debe identificar si el sujeto obligado cuenta actualmente con sistemas de información que soporten dichas funcionalidades y atributos de calidad descritos en la sección: 2.4. Atributos de calidad.
+
+De no contar con los sistemas de información necesarios para dar cumplimiento a los requerimientos, se debe realizar un estudio de las plataformas tecnologías(sic) existentes en el mercado que puedan suplir esas necesidades; de lo contrario, si dada la naturaleza del trámite, OPA o CAIP, este posee requerimientos especiales, los cuales no son soportados por alguno de los sistemas de información disponibles en el mercado o la personalización de esos sistemas de información requieren de recursos considerables o la complejidad técnica para ello es alta, se debe analizar la alternativa de desarrollar un sistema de información a la medida.
+
+Establecer los requerimientos de infraestructura para la operación del trámite, OPA o CAIP digitalizado y/o automatizado
+
+Después de la identificación de las soluciones que harán parte de la arquitectura del trámite, OPA o CAIP se deben establecer los componentes de infraestructura faltantes para determinar y gestionar su plan de adquisición según el cumplimiento de los requisitos informáticos que soporten los requerimientos no funcionales.
+
+2.3.3.2.4. DISEÑAR/REFINAR ARQUITECTURA DEL TRÁMITE, OPA Y CAIP A DIGITALIZAR/AUTOMATIZAR. 
+
+Se debe diseñar en el caso de que no exista o refinar, si existe, la arquitectura necesaria para soportar el flujo de trabajo del trámite, OPA o CAIP, considerando el aprovechamiento de la existencia de elementos con que cuente el sujeto obligado que pueden estar soportando otros trámites, OPA o CAIP con las consideraciones que implica la inclusión de un nuevo trámite, OPA o CAIP, respetando los atributos de calidad de la sección 2.4.
+
+En importante resaltar que según lineamiento del MRAE<21>, se debe evaluar como primera opción la posibilidad de prestar o adquirir los bienes y servicios asociados a la infraestructura tecnológica haciendo uso de la nube (pública, privada o híbrida), para atender las necesidades de la entidad.
+
+2.3.3.2.5. VALIDAR QUE LA ARQUITECTURA DE LA ENTIDAD SOPORTA LA ARQUITECTURA DEL TRÁMITE, OPA Y CAIP PROPUESTA Y DEFINIR AJUSTES. 
+
+En este punto, se debe validar si la arquitectura propuesta para el trámite, OPA o CAIP cumple con las restricciones técnicas, principios y lineamientos establecidos en la arquitectura de la entidad.
+
+En caso de no cumplir con algunos de los elementos establecidos en la arquitectura de la entidad, se debe realizar los ajustes necesarios a la arquitectura del trámite, OPA o CAIP, para que estas sean consistentes, articuladas, y se reduzca el riesgo en la implementación. Para ello el proceso se remite a la sección Establecer los requerimientos del trámite, OPA o CAIP a digitalizar, para iniciar un nuevo ciclo que permita la correcta validación de la arquitectura de la entidad.
+
+Actualizar repositorio de la arquitectura del trámite, OPA y CAIP
+
+Toda vez que existan cambios en la arquitectura inicial estos deben de ser documentados, versionados y almacenados para tener el diseño de la arquitectura actualizado respecto a la implementación real y brindar un mejor mantenimiento, refinación y/o evolución de la AE.
+
+2.3.3.2.6. ELABORAR CRONOGRAMA DE IMPLEMENTACIÓN. 
+
+La implementación de la digitalización y/o automatización del trámite, OPA o CAIP, además del uso de herramientas tecnológicas puede conllevar cambios en los flujos de trabajo en virtud del mismo uso de las herramientas, así pues, tiene un impacto en el uso tanto de funcionarios como de usuarios que participan en el proceso.
+
+Además, el establecer los componentes en la infraestructura, la puesta a punto de los sistemas de información incluidos, el refinamiento de los procesos o procedimientos asociados al trámite, OPA o CAIP, la gestión documental y de datos, el cumplimiento del marco legal, regulatorio y normativo, así como los requerimientos de seguridad de la información, es importante establecer un plan de capacitación / formación que permita a los diversos usuarios una transición a los cambios que origina el proceso de digitalización /automatización.
+
+Cuando sea requerido contar con acuerdos, permisos, contratos, ajustes normativos y otros actos administrativos al interior o exterior de la entidad, es necesario incluir actividades de seguimiento y considerar los tiempos de ejecución de las mismas en los cronogramas, para que en la ejecución del plan sigan su proceso normal.
+
+Es importante determinar actividades de control asociadas a la obtención de componentes que se deben preparar, adquirir y/o desarrollar, para identificar con suficiente antelación inconvenientes en la materialización de dichos recursos. Los componentes desarrollados y/o adquiridos deben de someterse a pruebas simulando las condiciones de operación, independientemente de las pruebas que se realizan en la implementación del trámite, OPA o CAIP.
+
+Se debe considerar la realización un plan de riesgos que permita evaluar riesgos asociados a la implementación del trámite, OPA o CAIP.
+
+Toda vez que la digitalización y automatización son formas de racionalización tecnológica, si como resultado de estas se obtiene un beneficio directo al usuario en términos de reducción de costos de transacción, las acciones asociadas deben hacer parte de la estrategia anual de racionalización en el marco del plan anticorrupción. En todo caso las acciones de digitalización y automatización deben estar consideradas en el plan estratégico de tecnologías de la información, PETI.
+
+La implementación de los planes debe considerar los plazos establecidos en el artículo (2.2.20.7) del Decreto 1078 de 2015.
+
+2.3.4. FASE 3 - IMPLEMENTACIÓN Y PRUEBAS. 
+
+2.3.4.1. IMPLEMENTACIÓN DEL TRÁMITE, OPA Y CAIP DIGITAL/AUTOMATIZADO. 
+
+En esta fase se debe materializar el cronograma de implementación producto de la fase anterior, para ello se debe realizar las actividades que se describen a continuación:
+
+Ilustración 6. Implementación del trámite, OPA o CAIP digitalizado/automatizado.
+
+2.3.4.1.1. IMPLEMENTACIÓN DEL TRÁMITE, OPA Y CAIP DIGITALIZADO Y/O AUTOMATIZADO. 
+
+Se debe ejecutar el cronograma de implementación y realizar las acciones necesarias para materializar el trámite, OPA o CAIP transformado, dichas acciones deben contemplar los elementos analizados en la fase 2 del proceso de digitalización y/o automatización de trámites, OPA o CAIP, es decir que la implementación del trámite, OPA o CAIP transformado debe propender por hacer uso de los servicios ciudadanos digitales disponibles, dar cumplimiento al marco legal, regulatorio y normativo que aplique al trámite, OPA o CAIP, garantizar la seguridad de la información, realizar el refinamiento y la gestión de los procesos asociados al trámite, OPA o CAIP, implementar las integraciones con sistemas de gestión documental y otros sistemas de información tanto internos como externos, disponer de la infraestructura necesaria y validar que la implementación respete los atributos de calidad descritos en la sección 2.4.
+
+Además, respecto a la interacción con los usuarios, se deben ejecutar los planes de capacitación o formación para desarrollar o fortalecer las competencias necesarias en los servidores públicos para facilitar la transición hacia la transformación digital del trámite, OPA o CAIP.
+
+2.3.4.1.2. IMPLEMENTAR LOS COMPONENTES DE SOFTWARE DE ACUERDO CON EL DISEÑO Y ALCANCE ESTABLECIDOS. 
+
+En este paso teniendo a disposición los componentes necesarios para la implementación de la digitalización y/o automatización del trámite, OPA o CAIP en los sistemas con los que cuenta la entidad, se procede a la instalación de los componentes, su parametrización, la implementación de las políticas de seguridad asociadas al trámite, OPA o CAIP y alineadas a el modelo de seguridad y privacidad de información, MSPI<22>.
+
+Implementar los componentes de plataforma requeridos para la operación. 
+
+La implementación de componentes de plataforma se presenta en los trámites, OPA o CAIP en los que en su flujo de trabajo requieran integración con plataformas, servicios, componentes externos y no administrados por el sujeto obligado. Al ser componentes externos deben ser implementados bajo las políticas de seguridad determinadas al proveedor y a las establecidas en el MSPI<23>.
+
+Las integraciones, servicios de infraestructura de nube privada o pública, componentes externos y otros servicios deben seguir los lineamientos de los acuerdos marco de precios<24> de estar disponibles y su desempeño debe ser monitoreado y evaluado según el acuerdo de nivel de servicio asociado al contrato.
+
+2.3.4.1.3. COORDINAR CON LAS PARTES INTERESADAS LA IMPLEMENTACIÓN DE LO REQUERIDO CON PROCESOS INTERNOS Y/O CON OTRAS ENTIDADES.  
+
+En este punto es de importancia realizar la articulación con todos las partes interesadas, tanto internas como externas que estén involucradas o tengan alguna responsabilidad en la implementación de algunos de los componentes de la solución que soporta el trámite, OPA o CAIP digitalizado y/o automatizado, lo que puede incluir integraciones internas entre los sistemas de información del sujeto obligado, así como también los acuerdos necesarios con otras entidades para poder interoperar cumpliendo con los requisitos normativos, administrativos y tecnológicos.
+
+Adicionalmente se debe desarrollar los planes de capacitación o formación, los cuales también se deben plantear en el cronograma de implementación en caso de ser requeridos, con el propósito de generar o fortalecer las competencias en los servidores públicos, en virtud de la necesidad de operar adecuadamente y sin traumatismo el trámite, OPA o CAIP transformado hacia la digitalización y/o automatización.
+
+De las partes interesadas, es de especial importancia el mantener informados, en los espacios destinados para tal fin, a los patrocinadores del proyecto.
+
+2.3.4.1.4. INTEGRACIÓN A GOV.CO. 
+
+Se debe realizar la integración del trámite, OPA o CAIP digitalizado y/o automatizado con el portal único del Estado colombiano www.Gov.co, para lo cual se debe aplicar lo dispuesto en la Resolución 2893 de 2020<25> expedida por el Ministerio de Tecnologías de la Información y las Comunicaciones, en particular el anexo 5<26> y anexo 5.1<27>.
+
+2.3.4.1.5. EJECUCIÓN DE PRUEBAS FUNCIONALES, DE CARGA Y DE VULNERABILIDAD. 
+
+Es fundamental realizar en un ambiente de pruebas o QA, las pruebas necesarias para asegurar que todas las funcionalidades requeridas han sido implementadas, y corregir o ajustar las desviaciones que se presenten, así como también realizar pruebas de carga para garantizar la disponibilidad del trámite, OPA o CAIP digitalizado y/o automatizado cuando se presenten picos de demanda.
+
+De igual manera se deben llevar a cabo los análisis de vulnerabilidad y hacking ético, y tomar las medidas necesarias en caso de hallazgos, con el propósito de garantizar la autenticidad, integridad de la información en todas las fases del ciclo de vida del trámite, OPA o CAIP y dar cumplimiento a los lineamientos del MSPI<28>.
+
+En la fase de pruebas se debe involucrar todas las áreas que vayan a interactuar con los nuevos procesos, no solo a los equipos técnicos sino también a los líderes funcionales y a los usuarios de la información. Esto permitirá identificar si la información que fluye o se genera a través del trámite, OPA o CAIP, cuenta con los requisitos técnicos, los requerimientos no funcionales y la completitud requerida.
+
+2.3.4.1.6. PUESTA EN PRODUCCIÓN. 
+
+En este punto se debe garantizar que se cuenta con la infraestructura necesaria en ambiente de producción para que el trámite, OPA o CAIP digitalizado y/o automatizado opere de manera correcta, garantizando su disponibilidad a pesar de las fluctuaciones en su demanda.
+
+Se sugiere como primera opción hacer uso de servicios de infraestructura tecnológica basados en nube, dando cumplimiento a los lineamientos del modelo de arquitectura empresarial, MAE<29> y haciendo uso de los acuerdos marco de precios<30> para optimizar el uso de los recursos públicos.
+
+Adicionalmente se deben ejecutar actividades tendientes a lograr la estabilización del sistema en ambiente de producción en el menor tiempo posible, esto incluye el monitoreo, control e identificación de aspectos a mejorar en el sistema recientemente implementado, relacionados con temas funcionales, de desempeño, capacidad, seguridad y experiencia de usuario; los cuales deben ser implementados de manera ágil a fin de asegurar que el trámite, OPA o CAIP digitalizado y/o automatizado cumpla de manera satisfactoria las necesidades y, expectativas de los usuarios.
+
+2.3.5. FASE 4 - OPERACIÓN DEL TRÁMITE, OPA Y CAIP. 
+
+En esta fase el trámite, OPA o CAIP digitalizado o automatizado entra en operación, sin embargo, es muy importante establecer los mecanismos para poder recolectar datos sobre la disponibilidad, eficiencia, uso y desempeño, entre otros, con el fin de identificar oportunidades de mejora y realizar una optimización frecuente del trámite, OPA o CAIP digitalizado y/o automatizado.
+
+Ilustración 7. Operación del trámite, OPA y CAIP.
+
+2.3.5.1. OPERACIÓN DEL TRÁMITE, OPA Y CAIP DIGITALIZADO/AUTOMATIZADO. 
+
+En esta fase, el trámite, OPA o CAIP digitalizado y/o automatizado ha sido implementado y se encuentra en operación, para el sujeto obligado es importante conocer si dicho trámite, OPA o CAIP tiene el uso esperado y cumple con las expectativas de la ciudadanía y de la entidad, razón por la cual es necesario contar con información sobre el uso y apropiación del trámite, OPA o CAIP, los tiempos de ejecución, porcentaje de usuarios que terminan el trámite, OPA o CAIP o que desisten en algún punto, pasos complejos o que requieren de más información, entre otros.
+
+Por otra parte, es de vital importancia realizar la adecuada comunicación a todas las partes interesadas, sobre la implementación realizada, a fin de dar a conocer y promover el uso del trámite, OPA o CAIP digitalizado y/o automatizado.
+
+2.3.5.1.1. MONITOREO Y CONTROL DE TRÁMITE, OPA Y CAIP. 
+
+Métricas e indicadores de la disponibilidad y eficiencia del proceso digital/automatizado
+
+Se debe establecer las métricas o indicadores para medir y hacer seguimiento a la disponibilidad del trámite, OPA o CAIP digitalizado y/o automatizado, los tiempos de ejecución, contar con logs con el registro de las acciones realizadas por los usuarios y de los errores en procesamiento, así como el instrumento para recolección de la información necesaria para evaluar dichos indicadores.
+
+2.3.5.1.2. RECOLECTAR INFORMACIÓN DE USO Y DESEMPEÑO EN LA OPERACIÓN DEL TRÁMITE, OPA Y CAIP. 
+
+Dada la importancia de entender el uso y desempeño del trámite, OPA o CAIP digitalizado y/o automatizado, y con el propósito de realizar mejora continua sobre el mismo, se recomienda la implementación de un tablero de control para facilitar el monitoreo de los indicadores definidos. El tablero de control debe ser implementado preferiblemente en una herramienta de BI o haciendo uso del sistema de información que el sujeto obligado considere más apropiada para ese fin.
+
+2.3.5.1.3. ITERAR CICLO DE MEJORA CONTINUA. 
+
+Con la información recolectada sobre el trámite, OPA o CAIP digitalizado y/o automatizado, es posible identificar oportunidades de mejora sobre la operación actual, con este insumo se debe planear la implementación de las mejoras, con las cuales se busca optimizar los tiempos de ejecución, aumentar la calidad de la información o instrucciones brindadas a los usuarios del trámite, OPA o CAIP, aumentar el nivel de digitalización o automatización del trámite, OPA o CAIP, mejorar la experiencia de usuario, entre otros.
+
+Los procesos centrados en los usuarios, como es el caso de este que se propone en esta guía, no son procesos lineales donde se identifica un problema y se genera una única solución, la invitación aquí es a probar, aprender y adaptarse de manera que cada vez se ajusten mejor las soluciones a las necesidades de los usuarios. Se recomienda habitar espacios para recibir retroalimentación de quienes hacen uso y se benefician de los trámites, OPA o CAIP digitalizados y/o automatizados que ofrece la entidad, tanto a nivel interno como con usuarios externos.
+
+2.3.5.1.4. OTROS ASPECTOS PARA TENER EN CUENTA. 
+
+Aunque sobrepasan el alcance de esta guía de forma complementaria se recomienda investigar y aplicar según se considere relevante los siguientes aspectos relacionados a la digitalización /automatización del trámite, OPA o CAIP.
+
+– Gestión del cambio y cultura de la organización.
+
+– Requisitos legales relacionados con el TT y SS a digitalizar/automatizar.
+
+– Marco de referencia de arquitectura, MRAE.
+
+– Buenas prácticas en la gestión de proyectos.
+
+– Buenas prácticas de gobierno de TI.
+
+– Buenas prácticas de gestión de riesgos.
+
+– Política de racionalización de trámites.
+
+– Simplificación de procesos.
+
+Adicional a lo anterior, para efectos de dar cumplimiento a los plazos definidos en el artículo 2.2.20.7 del Decreto 1078 de 2015, se deberá tener en cuenta el nivel de preparación para la transformación digital del municipio en el que se encuentre clasificado el sujeto obligado, como se señala a continuación:
+
+Avanzado: entidades que se encuentran en alguno de los 124 municipios con mayores niveles de:
+
+ Ingresos municipales
+
+ Número de habitantes
+
+ Porcentaje de hogares con acceso a internet
+
+ Densidad poblacional
+
+ Puntaje en índice de desempeño institucional
+
+ Puntaje en índice de desempeño fiscal
+
+Intermedio: entidades que se encuentran en alguno de los 416 municipios con niveles intermedios de:
+
+ Ingresos municipales
+
+ Número de habitantes
+
+ Porcentaje de hogares con acceso a internet
+
+ Densidad poblacíonal
+
+ Puntaje en índice de desempeño institucional
+
+ Puntaje en índice de desempeño fiscal
+
+Básico: entidades que se encuentra n en alguno de los 561 municipios con bajos niveles de:
+
+ Ingresos municipales
+
+ Número de habitantes
+
+ Porcentaje de hogares con acceso a internet
+
+ Densidad poblacional
+
+ Puntaje en índice de desempeño institucional
+
+ Puntaje en índice de desempeño fiscal
+
+La descripción completa de la metodología utilizada, para establecer los diferentes niveles de clasificación de entidades se encuentra en el documento “plazos para la digitalización y automatización de trámites”, elaborado por MinTIC y que se encuentra anexo a la memoria justificativa del Decreto por medio del cual adiciona el título 20 Decreto 1078 de 2015.
+
+La lista con la clasificación de cada una de las entidades según su nivel (avanzado, intermedio y básico) serán publicadas y actualizadas a través de la sede electrónica del MinTIC.
+
+2.4. ATRIBUTOS DE CALIDAD. 
+
+Los siguientes son los atributos de calidad que se deben tener en cuenta desde los aspectos legales, procedimentales, organizacionales y técnicos, a fin de garantizar el cumplimiento de los niveles establecidos para cada uno de ellos. Se entiende por calidad el conjunto de características de un producto, trámite o servicio que satisface las necesidades de sus grupos de interés y es conforme a las especificaciones de diseño.
+
+El conjunto de atributos de calidad que el sujeto obligado debe acreditar para la digitalización y/o automatización de trámites, OPA o CAIP en materia de accesibilidad, usabilidad, seguridad, disponibilidad, neutralidad e interoperabilidad, adicionales a las dispuestas en la Ley 1712 del 2014<31>, en la Resolución MinTIC 1519 del 2020<32> y en la Resolución MinTIC 2893 del 2020<33>, son las que se describen a continuación:
+
+2.4.1. USABILIDAD. 
+
+Con el propósito de brindar una adecuada experiencia de usuario durante la ejecución de trámites, OPA o CAIP digitalizados y/o automatizados, se debe incorporar lo dispuesto en el kit guía de usabilidad<34> definido por MinTIC, y lo establecido en el anexo 5.1 de la Resolución MinTIC 2893 de 2020<35>; adicionalmente se deben asegurar como mínimo los siguientes criterios en el diseño de la interfaz de usuario:
+
+ Todos los trámites, OPA o CAIP digitalizados y/o automatizados se deben poder acceder desde la sección de trámites y servicios, desde el mapa de sitio de la sede electrónica de la entidad y a través del buscador interno de la sede electrónica de la entidad; adicionalmente deben ser fácilmente indexados por los motores de búsqueda.
+
+ El trámite, OPA o CAIP digitalizado y/o automatizado debe mantener el diseño ordenado y limpio, debe incorporar tecnología responsive de forma que los contenidos puedan ser visualizados adecuadamente en todo tipo de dispositivos; debe transmitir de forma clara y efectiva la información sobre sus fases o etapas, tiempo de procesamiento, costos, requisitos, documentación adicional, entre otros, utilizando un lenguaje claro, adoptando la guía de lenguaje claro para servidores públicos de Colombia<36>. Adicionalmente debe incorporar en los campos de captura de información una ayuda clara y sencilla que oriente al usuario en su diligenciamiento (Tooltips), y proporcionar mensajes de confirmación cuando se requieran sobre las acciones que el usuario realice.
+
+* Nota: los lineamientos del anexo 5.1 de la Resolución 2893 aplican los procesos digitales que están expuestos al exterior del sujeto obligado para interacción de los usuarios; los aspectos de diseño gráfico para los procesos digitales al interior de la entidad no están obligados a cumplir con lo dispuesto en el anexo en mención. Sin embargo, se recomienda hacer uso de los aspectos de usabilidad en las interfaces de usuario interno.
+
+2.4.2. INTEROPERABILIDAD. 
+
+Los sujetos obligados responsables de la implementación de los trámites, OPA o CAIP digitalizados y/o automatizados deben contar con un plan de estandarización de los servicios de intercambio de información, ajustado al estándar definido en el lenguaje común de intercambio de información<37>, el cual da la provisión de los procesos, aplicaciones e infraestructura con las capacidades necesarias para intercambiar, integrar, compartir información con otras entidades.
+
+2.4.3. DISPONIBILIDAD. 
+
+Disponibilidad de la información: se refiere a la seguridad que la información puede ser recuperada en el momento que se necesite, esto es, evitar su pérdida o bloqueo, bien sea por ataque doloso, mala operación accidental o situaciones fortuitas o de fuerza mayor<38>.
+
+El sujeto obligado debe determinar y asegurar el nivel de disponibilidad requerido para todos los trámites, OPA o CAIP digitalizados y/o automatizados, el cual debe ser igual o superior al 98% mensual, en concordancia con el análisis de criticidad de los todos los trámites, OPA o CAIP, ofrecidos en atención al análisis de riesgos que realice la entidad.
+
+2.4.4. SEGURIDAD. 
+
+En línea con lo establecido en el anexo 3 de la Resolución 1519 del 24 de agosto del 2020 y los anexos 1, 2 y 5 de la Resolución 2893 del 30 de diciembre del 2020 los sujetos obligados tendrán que adoptar medidas de seguridad que permitan preservar la confidencialidad, integridad, disponibilidad y privacidad de los datos y las tecnologías (software, hardware, conectividad) que intervienen en la digitalización y/o automatización de trámites, OPA o CAIP con el objetivo de mitigar riesgos cibernéticos, como filtración de datos personales o sensibles, denegación de servicio, acceso no autorizado entre otros.
+
+Además, y de manera general deben:
+
+- Adoptar o implementar un sistema de gestión de seguridad de la información, conforme con las buenas prácticas internacionales; en especial el modelo de seguridad y privacidad de la información (MSPI) recomendado por la dirección de gobierno digital del Ministerio de Tecnologías de la Información y las Comunicaciones.
+
+- Los sujetos obligados del orden nacional y territorial, en caso de incidentes cibernéticos graves o muy graves, conforme con los criterios de su política de gestión de incidentes de seguridad de la información, deberán reportarlos a más tardar dentro de las 24 horas siguientes a su detección al CSIRT-Gobierno. Para el resto de los sujetos obligados, deberán reportarlos al ColCERT del Ministerio de Defensa Nacional.
+
+Adicional a lo anterior y de manera específica, los sujetos obligados deberán implementar los siguientes controles en la digitalización y/o automatización de trámites, OPA o CAIP:
+
+1. Implementar controles de seguridad durante todo el ciclo de vida de desarrollo del trámite, OPA o CAIP.
+
+2. Exigir medidas de seguridad al proveedor del hosting (políticas de seguridad robustas y un nivel de madurez en seguridad optimizado).
+
+3. Aplicar mecanismos de hardening para eliminar configuraciones y credenciales por defecto, además de deshabilitar métodos HTTP peligrosos como put, delete, trace y restringir en lo posible la administración remota.
+
+4. Proteger la integridad del código, mediante la validación exhaustiva de inputs, variables post y get (no enviar parámetros sensibles a través del método get), cookies (habilitar atributos de seguridad como Secure y HttpOnly); la sanitización de los parámetros de entrada; es decir, que cuando se reciba la información de dichas variables se eliminen etiquetas, saltos de línea, espacios en blanco y otros caracteres especiales que comúnmente conforman un script, la restricción de formatos y tamaños de subidas de archivos; la sanitización y escape de variables en el código; la verificación estándar de las políticas las cabeceras como Content-Security-Policy (CSP), X-Content-Type-Options, X-Frame-Options, X-XSS-Protection, StrictTransport-Security (HSTS), Public-Key-Pins (HPKP) Referrer-Policy, FeaturePolicy; y la verificación y comprobación del token de CSRF (cuando aplique).
+
+5. Ejecutar monitoreos de seguridad las aplicaciones que soportan los trámites, OPA o CAIP, entre otras, las siguientes acciones: escaneo de archivos infectados, escaneo de vulnerabilidades, análisis de patrones para detectar acciones sospechosas, verificación contra listas negras, monitoreo del tráfico para detectar ataques de denegación de servicios.
+
+6. Exigir mecanismos de autenticación dentro de los trámites, OPA o CAIP a través de la creación de contraseñas fuertes y solicitar renovaciones periódicas de las mismas, mecanismos de captcha accesibles o auto detectable, y/o limitar la tasa de intentos de login, y/o mecanismos de IA que puedan identificar el comportamiento del usuario; garantizando la accesibilidad de persona con discapacidad, esto de acuerdo con las siguientes disposiciones.
+
+6.1. Para la autenticación digital se deberán atender lo dispuesto sobre firma electrónica y digital contenidas en la Ley 527 de 1999 y sus normas reglamentarias, o las normas que la modifiquen, deroguen o subroguen.
+
+6.2. Para realizar el proceso de autenticación digital se deberán verificar los atributos digitales de una persona cuando se adelanten trámites, OPA o CAIP a través de medios digitales, afirmando que dicha persona es quien dice ser. El proceso debe generar un ambiente que habilite a los usuarios acceso a los trámites, OPA o CAIP de la entidad por medios electrónicos, con plenas garantías de confianza y seguridad.
+
+6.2.1. Para el proceso de autenticación digital las entidades deben identificar y determinar el riesgo y grado de confianza requerido para sus procesos, y de esta forma elegir el mecanismo de autenticación más acorde a la necesidad, el proceso de autenticación digital debe obedecer a uno de los cuatro niveles de autenticación definidos en la guía de lineamientos de los servicios ciudadanos digitales<39> y clasificados según la confianza y garantía que ofrecen del más bajo al más alto.
+
+ Bajo: Ofrece un nivel de confianza mínimo en el proceso de autenticación digital. Se emplea cuando el riesgo que conlleva una autentificación errónea es mínimo. Para este nivel las credenciales de usuario estarán asociadas al correo electrónico del usuario, una contraseña de acuerdo con el estándar NIST SP 800-63B de un solo factor OTP.
+
+ Medio: Ofrece cierto nivel de confianza en el proceso de autenticación digital. Se emplea cuando el riesgo que conlleva una autentificación errónea es moderado. Para este nivel las credenciales de usuario estarán asociadas al ID del usuario, datos obtenidos en la identificación, correo electrónico, teléfono, dirección, una contraseña de acuerdo con el estándar NIST SP 800-63B de un solo factor OTP, preguntas y respuestas reto, mecanismos de factor múltiple de autenticación de acuerdo con el estándar NIST SP 800-63B Multi-Factor Cryptographic Software y NIST SP 800-63B Multi-Factor.
+
+ Alto: Ofrece una gran confianza en el proceso de autenticación digital. Se emplea cuando el riesgo que conlleva una autentificación errónea implica un riesgo considerable. Para este nivel las credenciales de usuario estarán asociadas al uso de certificados digitales.
+
+ Muy alto: Ofrece más confianza en el proceso de autenticación digital. Se emplea cuando el riesgo que conlleva una autentificación errónea implica un riesgo muy elevado. Para este nivel las credenciales de usuario estarán asociadas al uso a los mecanismos que disponga la Registraduría Nacional del Estado Civil en el marco de sus funciones.
+
+7. Mantener actualizado el software, frameworks y plugins de las aplicaciones que soportan los trámites, OPA o CAIP.
+
+8. Ocultar y restringir páginas de acceso administrativo.
+
+9. Restringir la escritura de archivos desde la web a través de la asignación de permisos de solo lectura.
+
+10. Incluir dentro de las políticas de copias de respaldo la Información de los trámites, OPA o CAIP.
+
+11. Almacenar trazas o logs de auditoría de los eventos de seguridad, logins, y procesos propios de los trámites, OPA o CAIP.
+
+12. Garantizar conexiones seguras a través de uso de certificados de seguridad (HTTPS para la confianza de usuarios) y cifrado en la estructura de las peticiones para portales transaccionales (trámites, OPA o CAIP), para evitar la manipulación de parámetros en las peticiones.
+
+13. Implementar mensajes genéricos de error, que no revelen información acerca de la tecnología usada, excepciones o parámetros que dispararon el error específico, los cuales deberán ser comprensibles por parte de las personas, incluyendo la accesibilidad para las personas con discapacidad.
+
+14. Proteger el binario de la aplicación, a través de métodos de ofuscación que impidan realizar procedimientos de ingeniería inversa (reversing) para analizar la lógica de la aplicación.
+
+15. Revisar las recomendaciones de seguridad en la guía de desarrollo seguro de aplicaciones y servicios web seguros de la Open Web Application Security Project (OWASP).
+
+16. Implementar en los servidores los controles necesarios (hardware o software) de protección de acceso y de ataques como Cross-site scripting, SQL injection o Denial-of-service, entre otros.
+
+17. Incorporar validación de formularios tanto del lado del cliente como del lado del servidor.
+
+18. Implementar monitoreos de seguridad sobre la plataforma tecnológica que soporta los trámites, OPA o CAIP (escaneo de vulnerabilidades, escaneo de archivos infectados, análisis de patrones para detectar acciones sospechosas, verificación contra listas negras, monitoreo del tráfico para detectar ataques de denegación de servicios) y realizar las acciones de mitigación correspondientes.
+
+19. Implementar sistemas antivirus, para garantizar medidas contra infecciones de malware a los archivos administrados en un trámite, OPA o CAIP digitalizado y/o automatizado.
+
+20. Controlar el escalamiento de privilegios en los sistemas operativos, servidor web y bases de datos que hacen parte de la infraestructura del trámite, OPA o CAIP.
+
+2.4.5. ACCESIBILIDAD. 
+
+El trámite, OPA o CAIP digitalizado y/o automatizado deberá cumplir con el estándar AA de la W3C (WCAG – Web Content Accessibility Guidelines) disponibles en https://www.w3c.es/estandares/ de conformidad con las directrices de accesibilidad web dispuestas en el anexo 1<40> de la Resolución MinTIC 1519 del 2020<41>, y adoptar los siguientes como mínimo:
+
+Los contenidos del trámite, OPA o CAIP digitalizado y/o automatizado deben poder ser leídos a través de herramientas para lectura magnificada o lector de pantalla que faciliten el acceso a los contenidos por parte de las personas con discapacidad visual; para ello se debe contar con una barra de accesibilidad visible, en la que se pueda modificar el contraste, reducir o aumentar la letra, entre otros. En caso de que el trámite, OPA o CAIP digitalizado y/o automatizado contenga contenidos audiovisuales estos deben tener subtítulos o “Closed Caption”. Adicionalmente, los trámites, OPA o CAIP digitalizados y/o automatizados deben funcionar de una forma predecible por sus usuarios, ser intuitivos y llevar una secuencia lógica.
+
+2.4.6. NEUTRALIDAD. 
+
+Todos los trámites, OPA o CAIP digitalizados y/o automatizados deben estar dispuestos e implementados con independencia de los navegadores, sistemas operativos y dispositivos utilizados por el usuario para accederlos sin afectar su experiencia.
+
+2.4.7. CALIDAD DE LA INFORMACIÓN. 
+
+La calidad de la información dispuesta en los trámites, OPA o CAIP digitalizados y/o automatizados deben cumplir con las características dispuestas en la Ley 1712 del 2014, en la Resolución MinTIC 1519 del 2020, Resolución 2853 de 2020<42> y las normas que las modifiquen o complementen.
+
+2.4.8. CALIDAD DE LOS DOCUMENTOS. 
+
+Todo documento creado y recibido debe contar con las características de autenticidad, integridad, fiabilidad y usabilidad. A su vez debe hacer parte de un expediente, el cual debe administrarse bajo la política de gestión documental establecida en la entidad. Tanto los documentos y expedientes deben cumplir con las características definidas en el Decreto 1080 de 2015 y demás normatividad emitida por el archivo general de la nación.
+
+2.5. HERRAMIENTAS Y TÉCNICAS PARA LA DIGITALIZACIÓN DE TRÁMITES, OPA Y CAIP. 
+
+2.5.1. TÉCNICAS AUTOMATIZACIÓN. 
+
+A continuación, se listan algunos de los mecanismos con los cuales se puede realizar la automatización de procesos asociados a trámites, OPA o CAIP:
+
+2.5.1.1. GESTIÓN POR PROCESOS DE NEGOCIO. 
+
+Es una metodología que define como se orquestan los datos, usuarios y sistemas de información a través de los procesos de negocio y permite estandarizar los flujos de trabajo.
+
+2.5.1.2. AUTOMATIZACIÓN DE PROCESOS DIGITALES, DPA. 
+
+Es un método utilizado para automatizar una o más tareas involucradas en un proceso de negocio, ayuda a agilizar los procesos, generar una mayor productividad, reducir costos, simplificar el trabajo y mejorar la colaboración. También simplifican las integraciones con otros sistemas de información mediante el uso de API.
+
+Las plataformas de este tipo están diseñadas para permitir diseñar flujos de trabajo sin necesidad de codificación, aunque es posible automatizar procesos digitales mediante código.
+
+El uso de DPA no significa necesariamente que se automaticen procesos enteros, en muchos casos, los procesos suelen estar parcialmente automatizados, por lo que en algunos casos sigue siendo necesaria alguna forma de interacción humana.
+
+DPA Deep
+
+Tiene como objetivo la transformación y mejora de los procesos de negocio complejos, se requiere programadores de alto perfil, el foco es resolver la automatización de procesos profundos, concretos y especialmente complejos dentro de la organización.
+
+DPA Wide
+
+Se requiere personal menos técnico, el término hace referencia a las plataformas “Low-Code”, cuyo uso está especialmente diseñado para la automatización de procesos por parte de los usuarios de negocio, sin la necesidad de conocimientos de programación.
+
+2.5.1.3. AUTOMATIZACIÓN ROBÓTICA DE PROCESOS, RPA. 
+
+Es una tecnología que emula la interacción del usuario con programas informáticos, operando principalmente a nivel de interfaz gráfica. Es fácilmente configurable por los usuarios de negocio, es muy útil para automatizar procesos bien definidos, repetitivos, de gran volumen y basados en reglas.
+
+Los RPA utilizan la interfaz de usuario para capturar datos y manipular las aplicaciones de la misma manera como lo harían los humanos, son capaces de interactuar o integrarse con otros sistemas para realizar variedad de tareas repetitivas.
+
+2.5.1.4. INTELIGENCIA ARTIFICIAL (AI). 
+
+Las soluciones basadas en inteligencia artificial (AI) complementan la ejecución de los procesos de negocio proporcionando capacidades cognitivas y de aprendizaje, lo que permite realizar toma de decisiones sin intervención humana. Dichas soluciones posibilitan el reconocimiento de imágenes y sonidos, hacer análisis semánticos, analizar comportamientos, entre otros, así como también mediante Machine Learning, se habilita la capacidad de interactuar con personas e incluso con otros robots.
+
+2.5.1.5. AUTOMATIZACIÓN INTELIGENTE (IA). 
+
+La unión de tecnologías de automatización robótica de procesos (RPA) e inteligencia artificial (AI) es denominada automatización inteligente (IA), la cual combina la ejecución de tareas de RPA con las capacidades de análisis y aprendizaje automático y las tecnologías cognitivas como visión computarizada, procesamiento de lenguaje natural, lógica parcial, entre otros, lo que a su vez facilita organizar el trabajo en equipos combinado de bots y humanos. La automatización inteligente tiene un gran potencial para automatizar tareas no rutinarias que involucran intuición, juicio, creatividad, persuasión o resolución de problemas.
+
+Cabe resaltar que las tecnologías previamente mencionadas, se pueden combinar para lograr implementar trámites, OPA o CAIP totalmente automatizados.
+
+2.6. OTROS DOCUMENTOS Y GUÍAS DE REFERENCIA. 
+
+ Decreto 620 de 2020. Disponible en: http://www.suin-juriscol.gov.co/viewDocument.asp?id=30039155
+
+ Resolución 2160 de 2020. Disponible en: https://gobiernodigital.mintic.gov.co/692/articles-161273_Resolucion_2160_2020.pdf
+
+Anexo 1 de la Resolución 2160 de 2020. Disponible en https://gobiernodigital.mintic.gov.co/692/articles-161274_Anexo1_Resolucion_2160_2020.pdf
+
+Anexo 2 de la Resolución 2160 de 2020. Disponible en https://gobiernodigital.mintic.gov.co/692/articles-161275_Anexo2_Resolucion_2160_2020.pdf
+
+ Resolución 2893 de 2020. Disponible https://gobiernodigital.mintic.gov.co/692/articles-161263_Resolucion_2893_2020.pdf
+
+ Resolución 1519 de 2020. Disponible https://gobiernodigital.mintic.gov.co/692/articles-160770_resolucion_1519_2020.pdf
+
+ Resolución 500 de 2021. Disponible https://gobiernodigital.mintic.gov.co/seguridadyprivacidad/portal/
+
+ Modelo de seguridad y privacidad. Disponible https://gobiernodigital.mintic.gov.co/seguridadyprivacidad/portal/
+
+ Marco de Referencia de Arquitectura Empresarial. Disponible https://www.mintic.gov.co/arquitecturati/630/w3-channel.html 
+
+Decreto 1080 de 2015: Decreto Único Reglamentario del Sector Cultura. Que incluye disposiciones relacionadas con la gestión de la información y el archivo. Por medio del cual se expide el Decreto Único Reglamentario del Sector Cultura. Este decreto recopila los decretos 2578 de 2012, 2609 de 2012, 1515 de 2013, 2758 de 2013, 1100 de 2014, 029 de 2015, 103 de 2015 y 106 de 2015. Título II, capítulo V. Modelo de requisitos para un SGDEA.
+
+https//www.archivogeneral.gov.co/sites/default/files/Estructura_Web/5_Consulte/Recursos/Publicacionees/ModeloDeRequisitosSistemaDeGestionElectronicos.pdf
+
+Requisitos mínimos de digitalización: https://www.archivogeneral.gov.co/sites/default/files/Estructura_web/5_Consulte/RecursosPublicacionees/V4_Ficha_Dgitalizacion.pdf
+
+Implementación de un SGDEA: https://www.archivogeneral.gov.co/sites/default/files/Estructura_Web/5_Consulte/Recursos/Publicacionees/V16_Guia_SGDEA.pdf
+
+Ley 594 de 2000. Ley General de Archivos. Disponible en: http//fwww suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/1663152
+
+Ley 1581 de 2012. Ley de Protección de Datos Personales. Disponible en: http//www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/1684507
+
+Ley 1712 de 2014. Ley de Transparencia y del Derecho de Acceso a la Información Pública Nacional. Disponible en: http//www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leves/1687091
+
+Decreto 1080 de 2015. Decreto Reglamentario Único del Sector Cultura. Disponible en: http://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Decretos/30019898
+
+Decreto 2106 de 2019. Normas para simplificar, suprimir y reformar trámites, procesos y procedimientos innecesarios existentes en la administración pública. Disponible en: http://www suin-juriscol.gov.co/viewDocument.asp?ruta=Decretos/30038501
+
+Ley 2080 de 2021. Reforma el Código de Procedimiento Administrativo y de lo Contencioso Administrativo. Disponible en: http·//www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/30040345
+
+Modelo de requisitos para la implementación de un sistema de gestión de documentos electrónicos de archivo. 2019. 25 p. Disponible en: https://www.archivogeneral.gov.co/sites/default/files/Estructura_Web/5_Consulte/Recursos/Publicacionees/ModeloDeRequisitosSistemaDeGestionElectronicos.pdf
+
+Requisitos mínimos de digitalización. 2018. 6 p. Disponible en: https//www.archivogeneral gov.co/sites/default/files/Estructura_web/5_Consulte/Recursos/Publicacionees/V4_Ficha_Digitalizacion.pdf
+
+Guía de implementación de un sistema de gestión de documentos electrónicos de archivo SGDEA. 2020. 78 p. Disponible en: https//www.archivogeneral.gov.co/sites/default/files/Estructura_Web/5_Consulte/Recursos/Publicacionees/V16_Guia_SGDEA.pdf
+
+MINTIC. Guía para la gestión de documentos y expedientes electrónicos. 2018. 129 p. Disponible en: https//www.archivogeneral.gov.co/sites/default/files/Estructura_Web/5_Consulte/Recursos/Publicacionees/DocumentoOficialV1_GuiaDocumentoYExpedicnteElectronico26_ENE%202018_v3.pdf
+
+Modelo de gestión documental y administración de archivos. 2020. 110 p. Disponible en: https://www.archivogeneral.gov.co/sites/default/files/Estructura_Web/5_Consulte/Recursos/Publicacionees/V3_MGDA-min.pdf
+
+NTC-ISO 30300. Información y documentación. Sistemas de gestión para registros. Fundamentos y vocabulario. 2013. 19 p. Disponible en: https://tienda.icontec.org/sectores/generalidades-terminologia-normalizaciondocumentacion/vocabularios/generalidades-terminologia-normalizaciondocumentacion-vocabularios/gp-informacion-y-documentacion-sistemas-de-gestion-para-registros-fundamentos-y-vocabulario-ntc-iso30300-2013
+
+ICONTEC. GTC-ISO-TR 26122. Información y documentación. Análisis de procesos de trabajo para registros. 2014. 17 p. Disponible en: https://tienda.icontec.org/gp-informacion-y-documentacion-analisis-de-procesos-de-trabajo-para-registros-gtciso-tr26122-2014.html
+
+ICONTEC. NTC-ISO 15489-1. Información y documentación. Gestión de registros. Parte 1: conceptos y principios. 2017. 26 p. Disponible en: https://tienda.icontec.org/gp-informacion-y-documentacion-gestion-de-registros-parte-1-conceptos-y-principiosntc-iso15489-1-2017.html
+
+ICONTEC. NTC-ISO-TR 18128. Información y documentación. Evaluación del riesgo para procesos y sistemas de registros. 2016. 42 p. Disponible en: https://tienda.icontec.org/gp-informacion-y-documentacion-evaluacion-del-riesgopara-procesos-y-sistemas-de-registros-ntc-iso-tr18128-2016.html
+
+<NOTAS DE PIE DE PÁGINA>.  
+
+1. Glosario. Función pública.
+
+2. (sic)
+
+3. Entiéndase por valor público la relación con el desarrollo social, la gobernanza, la garantía de derechos, la satisfacción de necesidades, la prestación de servicios de calidad y el mejoramiento de las condiciones de vida de la sociedad. No sólo es hacer uso de las tecnologías, sino cómo las tecnologías ayudan a resolver problemas reales.
+
+4. https://www.researchgate.net/publication/236868092_Reuse_Design_Principles
+
+5. Guía de caracterización de ciudadanos, usuarios y grupos de interés.
+
+6. G. INF. 07 Guía para la gestión de documentos y expedientes electrónicos.
+
+7. Anexo 5.0 Guía de integración de trámites, OPA y CAIP.
+
+8. Decreto 620 del 2020 numeral 1.2 artículo 2.2.17.2.1.1.
+
+9. Decreto 620 del 2020 numeral 1.1 artículo 2.2.17.2.1.1.
+
+10. Decreto 620 del 2020 numeral 1.3 artículo 2.2.17.2.1.1.
+
+11. https://www.mintic.gov.co/arquitecturati/630/w3-propertyvalue-8118.html
+
+12. Guía para la racionalización de trámites.
+
+13. Guía para la construcción del PETI.
+
+14. Circular 01 2019 Presidencia.
+
+15. Lenguaje común de intercambio.
+
+16. Marco de interoperabilidad.
+
+17. Marco de interoperabilidad.
+
+18. Guía de uso del lenguaje común de intercambio de información y conceptos generales.
+
+19. Guía de implementación de un SGDEA. Archivo General de la Nación.
+
+20. Marco de referencia de arquitectura empresarial.
+
+21. Marco de referencia de arquitectura. MinTIC.
+
+22. El modelo de seguridad y privacidad de la información, MSPI
+
+23. El modelo de seguridad y privacidad de la información, MSPI.
+
+24. Acuerdos marco de precios.
+
+25. Resolución 2893 de 2020.
+
+26. Anexo 5 Resolución 2893 de 2020.
+
+27. Anexo 5.1 Resolución 2893 de 2020.
+
+28. Modelo de seguridad y privacidad de la información, MSPI.
+
+29. Modelo de arquitectura empresarial.
+
+30. Acuerdos marco.
+
+31. Ley 1712 de 2014.
+
+32. Resolución 1519 2020.
+
+33. Resolución 2893 2020.
+
+34. Kit guía usabilidad.
+
+35. Anexo 5.1 Res_2893_2020. Guía diseño gráfico integración Trámites, OPA y Consultas de acceso a información pública.
+
+36. DNP. Programa nacional del servicio al ciudadano. Lenguaje claro.
+
+37. Lenguaje común de intercambio de información. Documentos y manuales.
+
+38. Manual de gobierno digital. Implementación de la Política de Gobierno Digital.
+
+39. Guía de lineamientos de servicios ciudadanos digitales.
+
+40. Anexo 1. Resolución MinTIC 1519 del 2020. Directrices de accesibilidad web.
+
+41. Resolución 1519 de 24 de agosto de 2020.
+
+42. Resolución 2893 de 2020.
+
+													Compilación Jurídica Ministerio de Tecnologías de la Información y Comunicaciones
+
+													ISBN : 978-958-57279-2-2
+
+													Última actualización: 
+
+													Control de versiones
+
+													Créditos y reserva de derechos de autor
+
+												  Ministerio de Tecnologías de la Información y Comunicaciones- DRA © 2024
+
+Ministerio de Tecnologías de la Información y las Comunicaciones
+
+													Edificio Murillo Toro Cra. 8a entre calles 12A y 12B Bogotá, Colombia - Código Postal 111711.
+
+													Teléfono Conmutador: +57 601 344 34 60 - Línea Gratuita: 01-800-0914014
+
+													Línea Anticorrupción: 01-800-0912667
+
+													Correo Institucional: 
+													minticresponde@mintic.gov.co
+
+													Denuncias por actos de corrupción:
+													soytransparente@mintic.gov.co
+
+													Notificaciones judiciales:
+
+														notificacionesjudiciales@mintic.gov.co
+
+														notificacionesjudicialesfontic@mintic.gov.co
+
+													Horario de Atención Presencial:
+
+													Lunes a viernes de 8:30 a.m - 4:30 p.m Jornada Continua
+
+													© Copyright 2021 - Todos los derechos reservados Gobierno de Colombia
+
+														ministerio_tic
+
+														@ministerio_tic
+
+														@ministerio_tic
+
+														@Ministerio_TIC
+
+														MinisterioTIC
+
+														@ministeriotic
+
+														+573212173083l
+
+Política de privacidad y condiciones de uso 
+
+Contacto 
+
+Mapa del sitio
+
+							×
+
+						Contraste | Modo oscuro
+
+						Reducir letra (16px)
+
+						Aumentar letra (16px)
+
+							Centro de relevo 
+
+Volver arriba
+

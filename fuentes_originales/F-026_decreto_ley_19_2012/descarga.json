@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "id": "F-026",
+  "slug": "decreto_ley_19_2012",
+  "archivo": "fuentes_originales/F-026_decreto_ley_19_2012/Decreto_19_de_2012.pdf",
+  "texto": "fuentes_texto/F-026_decreto_ley_19_2012.txt",
+  "url_origen": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=45322",
+  "url_final": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=45322",
+  "fecha_consulta": "2026-10-25",
+  "sha256": "0b97a3e23ae045298baccb549417c19119dac4bd4e3dfb83987de33615322a60",
+  "bytes": 314652,
+  "tipo": "pdf",
+  "nombre_original": "Decreto_19_de_2012.pdf",
+  "content_type": "application/pdf",
+  "via": "curl (almacén de certificados de macOS)",
+  "last_modified_servidor": "Mon, 26 Oct 2026 04:51:04 GMT",
+  "paginas": 62,
+  "paginas_ocr": [],
+  "advertencias": []
+}

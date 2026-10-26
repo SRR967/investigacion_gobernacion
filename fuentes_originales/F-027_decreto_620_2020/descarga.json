@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "id": "F-027",
+  "slug": "decreto_620_2020",
+  "archivo": "fuentes_originales/F-027_decreto_620_2020/decreto_0620_2020.htm",
+  "texto": "fuentes_texto/F-027_decreto_620_2020.txt",
+  "url_origen": "https://normograma.mintic.gov.co/mintic/compilacion/docs/decreto_0620_2020.htm",
+  "url_final": "https://normograma.mintic.gov.co/mintic/compilacion/docs/decreto_0620_2020.htm",
+  "fecha_consulta": "2026-10-25",
+  "sha256": "c6d5e9ecda7df079c6ef355ed9d8ab20f99dcd7c2a11274cb8cb53dd41da2913",
+  "bytes": 110335,
+  "tipo": "html",
+  "nombre_original": "decreto_0620_2020.htm",
+  "content_type": "text/html",
+  "via": "urllib",
+  "last_modified_servidor": "Mon, 02 Mar 2026 17:21:45 GMT",
+  "paginas": 1,
+  "paginas_ocr": [],
+  "advertencias": []
+}

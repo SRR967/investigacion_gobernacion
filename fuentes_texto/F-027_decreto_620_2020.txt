@@ -1,0 +1,611 @@
+
+=== p1 ===
+
+
+		Compilación Jurídica del MINTIC - Decreto 620 de 2020
+
+																	Inicio
+
+																	Decreto Único del Sector TIC
+
+																	Normativa del Sector TIC
+
+																	Herramientas de búsqueda
+
+																	Documentos para comentar
+
+																	Novedades
+
+															Inicio
+															Decreto Único del Sector TIC
+															Compilación normativa del Sector TIC
+															Procesos de asignación de espectro radioeléctrico
+															Herramientas de búsqueda
+															Índice por temas misionales
+															Normativa organizacional MINTIC
+															Normativa común a las entidades públicas
+															Jurisprudencia
+															Doctrina
+															Novedades
+															Documentos para comentar
+
+																		keyboard_backspace
+																		Inicio
+
+																	Documento
+
+																		keyboard_backspace
+																		Inicio
+
+																	Documento
+
+																Decreto 620 de 2020
+
+																	Ocultar anotaciones
+
+																				download
+
+																		Buscar
+																		search
+
+																		Índice
+																		developer_guide
+
+DECRETO 620 DE 2020
+
+(mayo 2)
+
+Diario Oficial No. 51.302 de 2 de mayo de 2020
+
+MINISTERIO DE TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES
+
+Por el cual se subroga el título 17 de la parte 2 del libro 2 del Decreto 1078 de 2015, para reglamentarse parcialmente los artículos 53, 54, 60, 61 y 64 de la Ley 1437 de 2011, los literales e), j) y literal a) del parágrafo 2 del artículo 45 de la Ley 1753 de 2015, el numeral 3 del artículo 147 de la Ley 1955 de 2019, y el artículo 9o del Decreto 2106 de 2019, estableciendo los lineamientos generales en el uso y operación de los servicios ciudadanos digitales.
+
+EL PRESIDENTE DE LA REPÚBLICA DE COLOMBIA, 
+
+en ejercicio de sus facultades constitucionales y legales, en especial las que le confiere el numeral 11 del artículo 189 de la Constitución Política y los artículos 64 de la Ley 1437 de 2011, 45 de la Ley 1753 de 2015 y 147 de la Ley 1955 de 2019,
+
+CONSIDERANDO:
+
+Que la Constitución Política en su artículo 2o establece como uno de los fines esenciales del Estado “(...) servir a la comunidad, promover la prosperidad general y garantizar la efectividad de los principios, derechos y deberes consagrados en la Constitución (...)”.
+
+Que conforme al principio de “masificación del gobierno en línea” hoy Gobierno Digital, consagrado en el numeral 8 del artículo 2o de la Ley 1341 de 2009, las entidades públicas deberán adoptar todas las medidas necesarias para garantizar el máximo aprovechamiento de las Tecnologías de la Información y las Comunicaciones (TIC) en el desarrollo de sus funciones.
+
+Que en virtud del artículo 17 de la Ley 1341 de 2009 “por la cual se definen principios y conceptos sobre la sociedad de la información y la organización de las Tecnologías de la Información y las Comunicaciones (TIC) (...)”, modificado por el artículo 13 de la Ley 1978 de 2019, el Ministerio de Tecnologías de la Información y las Comunicaciones tiene· entre sus objetivos “(...) 2. Promover el uso y apropiación de las Tecnologías de la Información y las Comunicaciones entre los ciudadanos, las empresas, el Gobierno y demás instancias nacionales como soporte del desarrollo social, económico y político de la Nación”.
+
+Que la Ley 1437 de 2011, “por la cual se expide el Código de Procedimiento Administrativo y de lo Contencioso Administrativo”, a través de sus artículos 53, 54, 60, 61 y 64 faculta al Gobierno nacional para definir los estándares y protocolos que deberán cumplir las autoridades para incorporar en forma gradual los medios electrónicos en los procedimientos administrativos, entre los que se cuentan los relativos a sede electrónica, recepción de documentos y registro para el uso de medios electrónicos.
+
+Que de conformidad con el artículo 266 de la Constitución Política modificado por el Acto Legislativo 02 de 1 de julio de 2015 en concordancia con el Decreto Ley 2241 de 1986 y el Decreto Ley 1010 de 2000, corresponde a la Registraduría Nacional del Estado Civil ejercer, entre otras, la dirección y organización de las elecciones, el registro civil y la identificación de las personas.
+
+Que la Ley 1581 de 2012, “por la cual se dictan disposiciones generales para la protección de datos personales”, desarrolla el derecho constitucional que tienen todas las personas a conocer, actualizar y rectificar la información personal que se haya recogido en las bases de datos o archivos y señala, en los artículos 10, 11, 12 y 13, entre otros asuntos, las condiciones bajo las cuales las entidades públicas pueden hacer tratamiento de datos personales y pueden suministrar información en ejercicio de sus funciones legales.
+
+Que el artículo 45 de la Ley 1753 de 2015, “por la cual se expide el Plan Nacional de Desarrollo 2014-2018 “Todos por un nuevo país”, atribuye al Ministerio de Tecnologías de la Información y las Comunicaciones (MinTIC), en coordinación con las entidades responsables de cada uno de los trámites y servicios, la función de definir y expedir los estándares, modelos, lineamientos y normas técnicas para la incorporación de las TIC, que deberán ser adoptados por las entidades estatales, incluyendo, entre otros, autenticación electrónica, integración de los sistemas de información de trámites y servicios de las entidades estatales con el Portal del Estado Colombiano, y la interoperabilidad de datos como base para la estructuración de la estrategia. Según el mismo precepto, se podrá ofrecer a todo ciudadano el acceso a una carpeta ciudadana electrónica.
+
+Que de acuerdo con el artículo 2.2.9.1.2.1 del Decreto 1078 de 2015, “por medio del cual se expide el Decreto Único Reglamentario del sector de Tecnologías de la Información y las Comunicaciones”, la Política de Gobierno Digital será definida por MinTIC y se desarrollará a través de componentes y habilitadores transversales que, acompañados de lineamientos y estándares, permitirán el logro de propósitos que generarán valor público en un entorno de confianza digital a partir del aprovechamiento de las TIC. 
+
+Que según el mismo artículo 2.2.9.1.2.1, los habilitadores transversales de la Política de Gobierno Digital, son los elementos fundamentales de Seguridad de la Información, Arquitectura y Servicios Ciudadanos Digitales, que permiten el desarrollo de los componentes y el logro de los propósitos de dicha Política. 
+
+Que el artículo 2o de la Ley 1955 de 2019 establece que el documento denominado “Bases del Plan Nacional de Desarrollo 2018-2022: Pacto por Colombia, pacto por la equidad”, hace parte integral de esta ley. Que en las “Bases del Plan Nacional de Desarrollo 2018-2022”: Pacto por Colombia, pacto por la equidad en el pacto VII “por la transformación digital de Colombia: Gobierno, empresas y hogares conectados con la era del conocimiento”, se incorpora como objetivo la promoción de la digitalización y automatización masiva de trámites, a través de la implementación e integración de los servicios ciudadanos digitales, (carpeta ciudadana, autenticación electrónica e interoperabilidad de los sistemas del Estado), de forma paralela a la definición y adopción de estándares tecnológicos, al marco de arquitectura TI, a la articulación del uso de la tecnología, y todo lo anterior en el marco de la seguridad digital. 
+
+Que el artículo 147 de la Ley 1955 de 2019 señala la obligación de las entidades estatales del orden nacional, de incorporar en sus respectivos planes de acción el componente de transformación digital, siguiendo los estándares que para este propósito defina el MinTIC. De acuerdo al mismo precepto, los proyectos estratégicos de transformación digital se orientarán entre otros, por los principios de interoperabilidad, vinculación de las interacciones entre el ciudadano y el Estado a través del Portal único del Estado colombiano, y empleo de políticas de seguridad y confianza digital. 
+
+Que el artículo 147 de la Ley 1955 de 2019 indica que aquellos trámites y servicios que se deriven de los principios enunciados podrán ser ofrecidos tanto por personas jurídicas privadas. como públicas, incluyendo a la entidad que haga las veces de articulador de servicios ciudadanos digitales, o la que defina el MinTIC para tal fin. 
+
+Que el artículo 35 de la Ley 1341 de 2009, modificado por el artículo 22 de la Ley 1978 de 2019, atribuye al Fondo Único de Tecnologías de la Información y las Comunicaciones la función de financiar planes, programas y proyectos para promover el desarrollo de contenidos, aplicaciones digitales y emprendimientos para la masificación de la provisión de trámites y servicios del Estado, que permitan implementar las políticas de Gobierno Digital y de Transformación Digital Pública. 
+
+Que el artículo 9o del Decreto 2106 de 2019 “por el cual se dictan normas para simplificar, suprimir y reformar trámites, procesos y procedimientos innecesarios existentes en la administración pública, señala que para lograr mayor nivel de eficiencia en la administración pública y una adecuada interacción con los ciudadanos y usuarios, garantizando el derecho a la utilización de medios electrónicos, las autoridades deberán integrarse y hacer uso del modelo de Servicios Ciudadanos Digitales: Este mismo artículo dispone que el Gobierno nacional prestará gratuitamente los Servicios Ciudadanos Digitales base y se implementarán por parte de las autoridades de conformidad con los estándares que establezca el MinTIC. 
+
+Que se requiere reglamentar los servicios ciudadanos digitales base con el propósito de dar soluciones y procesos transversales que brinden al Estado capacidades y eficiencias para su transformación digital y para lograr una adecuada interacción con el ciudadano, garantizando el derecho a la utilización de medios electrónicos ante la administración pública. 
+
+En mérito de lo expuesto, 
+
+DECRETA: 
+
+ARTÍCULO 1o. Subróguese el título 17 de la parte 2 del libro 2 del Decreto Único Reglamentario del sector de Tecnologías de la Información y las Comunicaciones, Decreto 1078 de 2015 el cual quedará así:
+
+“TÍTULO 17 
+
+LINEAMIENTOS GENERALES EN EL USO Y OPERACIÓN DE LOS SERVICIOS 
+
+CIUDADANOS DIGITALES 
+
+CAPÍTULO 1 
+
+Disposiciones Generales 
+
+Artículo 2.2.17.1.1. Objeto. El presente título reglamenta parcialmente los artículos 53, 54, 60, 61 y 64 de la Ley 1437 de 2011, los literales e), j) y el parágrafo 2 del artículo 45 de la Ley 1753 de 2015, el numeral 3 del artículo 147 de la Ley 1955 de 2019, y el artículo 9o del Decreto 2106 de 2019, estableciendo los lineamientos generales en el uso y operación de los servicios ciudadanos digitales. 
+
+Artículo 2.2.17.1.2. Ámbito de aplicación. Serán sujetos obligados a la aplicación del presente título, todos los organismos y entidades que conforman las ramas del Poder Público en sus distintos órdenes, sectores y niveles, los órganos autónomos e independientes del Estado, y los particulares, cuando cumplan funciones administrativas o públicas. 
+
+Artículo 2.2.17.1.3. Identificación por medios digitales. La identificación por medios digitales, a través de la cédula de ciudadanía digital y por biometría se regirá por las disposiciones que para tal efecto expida la Registraduría Nacional del Estado Civil, en el marco de sus competencias. 
+
+Artículo 2.2.17.1.4. Definiciones generales. Para efectos de lo establecido en este título, se tendrán en cuenta las siguientes definiciones: 
+
+1. Autenticidad: Es el atributo generado en un mensaje de datos, cuando existe certeza sobre la persona que lo ha elaborado, emitido, firmado, o cuando exista certeza respecto de la persona a quien se atribuya el mensaje de datos. 
+
+2. Articulador: Es la Agencia Nacional Digital, que será la encargada de proveer y gestionar de manera integral los servicios ciudadanos digitales, además de apoyar técnica y operativamente al Ministerio de Tecnologías de la Información y las Comunicaciones para garantizar el pleno funcionamiento de tales servicios. 
+
+3. Cédula de ciudadanía digital. Es el equivalente funcional de la cédula de ciudadanía, expedida por la Registraduría Nacional del Estado Civil. 
+
+4. Disponibilidad: Es la propiedad de la información que permite que ésta sea accesible y utilizable cuando se requiera. 
+
+5. Documento electrónico: Es la información generada, enviada, recibida, almacenada o comunicada a través de medios electrónicos. 
+
+6. Guía de lineamientos de los servicios ciudadanos digitales: Es el documento expedido y publicado por el Ministerio de Tecnologías de la Información y las Comunicaciones, el cual incluye las condiciones necesarias que el articulador debe cumplir con el fin de garantizar la correcta prestación de los servicios ciudadanos digitales. 
+
+7. Guía para vinculación y uso de los servicios ciudadanos digitales: Es el documento expedido y publicado por el Ministerio de Tecnologías de la Información y las Comunicaciones destinado a las autoridades referidas en el artículo 2.2.17.1.2. de este Decreto, que indica cuáles son las condiciones necesarias y los pasos que deben realizar para la preparación, adecuación, integración, uso y apropiación de los servicios ciudadanos digitales, a través de los cuales podrán integrar a sus sistemas de información los mecanismos de autenticación digital, interoperabilidad, carpeta ciudadana digital y vincularlos al Portal único del Estado colombiano. 
+
+8. Integridad: Es la condición que garantiza que la información consignada en un mensaje de datos ha permanecido completa e inalterada, salvo la adición autorizada de algún endoso o de algún cambio que sea inherente al proceso de comunicación, archivo o presentación. 
+
+9. Marco de interoperabilidad: Es la estructura de trabajo común donde se alinean los conceptos y criterios que guían el intercambio de información. Define el conjunto de principios, recomendaciones y directrices que orientan los esfuerzos políticos, legales, organizacionales, semánticos y técnicos de las entidades, con el fin de facilitar el intercambio seguro y eficiente de información. 
+
+10. Mecanismos de autenticación: Para efectos del presente decreto son las firmas digitales o electrónicas que al ser utilizadas por su titular permiten atribuirle la autoría de un mensaje de datos. Lo anterior, sin perjuicio de la autenticación notarial. 
+
+11. Prestadores de servicios ciudadanos digitales: Entidades pertenecientes al sector público o privado, quienes, mediante un esquema coordinado y administrado por el Articulador, pueden proveer los servicios ciudadanos digitales a ciudadanos y empresas, siempre bajo los lineamientos, políticas, guías, que expida el Ministerio de Tecnologías de la Información y las Comunicaciones. 
+
+12. Registro de usuario: Es el proceso mediante el cual las personas naturales o jurídicas se incorporan a los servicios ciudadanos digitales como usuarios. 
+
+13. Servicios ciudadanos digitales: Es el conjunto de soluciones y procesos transversales que brindan al Estado capacidades y eficiencias para su transformación digital y para lograr una adecuada interacción con el ciudadano, garantizando el derecho a la utilización de medios electrónicos ante la administración pública. Estos servicios se clasifican en servicios base y servicios especiales. 
+
+14. Usuario de servicios ciudadanos digitales: Es la persona natural, nacional o extranjera, o la persona jurídica, de naturaleza pública o privada; que haga uso de los servicios ciudadanos digitales.
+
+Artículo 2.2.17.1.5. Actores involucrados. La prestación de los servicios ciudadanos digitales involucra la participación de los siguientes actores: 
+
+1. Los usuarios de los servicios ciudadanos digitales. 
+
+2. Los organismos y entidades establecidos en el artículo 2.2.17.1.2 de este decreto. 
+
+3. El Articulador. 
+
+4. Los prestadores de servicios ciudadanos digitales. 
+
+5. El Ministerio de Tecnologías de la Información y las Comunicaciones. 
+
+6. Las autoridades que en el marco de sus funciones constitucionales y legales ejerzan vigilancia y control sobre las actividades que involucran la prestación de los servicios ciudadanos digitales.· 
+
+Artículo 2.2.17.1.6. Principios. Además de los principios previstos en el artículo 209 de la Constitución Política, en el artículo 2o de la Ley 1341 de 2009, en el artículo 3o de la Ley 1437 de 2011, en el artículo 4o de la Ley 1581 de 2012 y los atinentes a la Política de Gobierno Digital contenidos en el artículo 2.2.9.1.1.3 del capítulo 1 del título 9 de la parte 2 del libro 2 del Decreto 1078 de 2015 la prestación de los servicios ciudadanos digitales se orientará por los siguientes principios: 
+
+1. Accesibilidad inclusiva: Los servicios ciudadanos digitales ofrecidos contarán con las características necesarias para que toda la población en general pueda acceder a ellos, en especial la población en situación de discapacidad o vulnerabilidad, conforme a lo establecido en la Ley 1618 de 2013 por medio de la cual se establecen las disposiciones para garantizar el pleno ejercicio de los derechos de las personas con discapacidad. 
+
+2. Escalabilidad: La prestación de los servicios ciudadanos digitales asegurará en todo momento que, ante el crecimiento de la demanda de usuarios, sea posible mantener los mismos niveles de servicio en cuanto a su operación y seguridad. 
+
+3. Gratuidad: El acceso de los usuarios a los servicios ciudadanos digitales base será gratuito. 
+
+4. Libre elección y portabilidad: Los usuarios tendrán el derecho a escoger el prestador de servicios ciudadanos digitales de su preferencia y a trasladarse entre prestadores de servicios, conservando los mismos derechos y las características mínimas de los servicios ciudadanos digitales base definidos en la Guía de lineamientos de los servicios ciudadanos digitales. La migración de datos de los usuarios de un prestador de servicios ciudadanos digitales a otro, en caso de requerirse, no podrá representar costo alguno para los usuarios. En los mercados en los cuales participen los prestadores de servicios ciudadanos digitales se deberá garantizar la libre competencia y la neutralidad tecnológica. 
+
+5. Privacidad por diseño y por defecto: La privacidad y la seguridad deben hacer parte del diseño, arquitectura y configuración predeterminada del proceso de gestión de información y de las infraestructuras que lo soportan, para lo cual desde antes que se recolecte información y durante todo el ciclo de vida de la misma, se deben adoptar medidas preventivas de diversa naturaleza (tecnológica, organizacional, humana, procedimental) para evitar vulneraciones al derecho a la privacidad o a la confidencialidad de la. información, así como fallas de seguridad o indebidos tratamientos de datos personales. 
+
+6. Seguridad, privacidad y circulación restringida de la información: Toda la información de los usuarios que se genere, almacene, transmita o trate en el marco de los servicios ciudadanos digitales deberá ser protegida y custodiada bajo los más estrictos esquemas de seguridad digital y privacidad con miras a garantizar la autenticidad, integridad, disponibilidad, confidencialidad, el acceso y circulación restringida de la información, de conformidad con lo estipulado en el habilitador transversal de seguridad de la información de la Política de Gobierno Digital. 
+
+7. Usabilidad: En el diseño y configuración de los servicios ciudadanos digitales se propenderá porque su uso sea de fácil manejo para todos los usuarios. 
+
+CAPÍTULO 2 
+
+Características de los servicios ciudadanos digitales 
+
+SECCIÓN 1 
+
+GENERALIDADES DE LOS SERVICIOS CIUDADANOS DIGITALES 
+
+Artículo 2.2.17.2.1.1. Servicios ciudadanos digitales. Los servicios ciudadanos digitales se clasifican en servicios base y servicios especiales. 
+
+1. Servicios ciudadanos digitales base: Son servicios que se consideran fundamentales para brindarle al Estado las capacidades en su transformación digital, estos son: 
+
+1.1. Servicio de interoperabilidad: Es el servicio que brinda las capacidades necesarias para garantizar el adecuado flujo de información e interacción entre los sistemas de información de las entidades, permitiendo el intercambio, la integración y la compartición de la información, con el propósito de facilitar el ejercicio de sus funciones constitucionales y legales, acorde con los lineamientos del marco de interoperabilidad. 
+
+1.2. Servicio de autenticación digital: Es el procedimiento que utilizando mecanismos de autenticación, permite verificar los atributos digitales de una persona cuando adelanten trámites y servicios a través de medios digitales. Además, en caso de requerirse, permite tener certeza sobre la persona que ha firmado un mensaje de datos, o la persona a la que se atribuya el mismo en los términos de la Ley 527 de 1999 y sus normas reglamentarias, o las normas que la modifiquen, deroguen o subroguen, y sin perjuicio de la autenticación notarial. 
+
+1.3. Servicio de carpeta ciudadana digital: Es el servicio que le permite a los usuaríos de servicios ciudadanos digitales acceder digitalmente de manera segura, confiable y actualizada al conjunto de sus datos, que tienen o custodian las entidades señaladas en el artículo 2.2.17.1.2. Adicionalmente, este servicio podrá entregar las comunicaciones o alertas, que las entidades. señaladas tienen para los usuarios, previa autorización de estos; 
+
+2. Servicios ciudadanos digitales especiales: Son servicios que brindan soluciones que por sus características realizan nuevas ofertas de valor y son adicionales a los servicios ciudadanos digitales base, o bien, corresponden a innovaciones que realizan los prestadores de servicio a partir de la autorización dada por el titular de los datos y de la integración a los servicios ciudadanos digitales base, bajo un esquema coordinado por el Articulador. 
+
+SECCIÓN 2 
+
+ACCESO, PRESTACIÓN Y CONDICIONES PARA LOS PRESTADORES DE SERVICIO, ACUERDOS ENTRE LOS ACTORES 
+
+Artículo 2.2.17.2.2.1. Acceso a los servicios ciudadanos digitales base. El Gobierno nacional garantizará el acceso a los servicios ciudadanos digitales base a través del Articulador, o de iniciativas coordinadas por este. 
+
+Artículo 2.2.17.2.2.2. Prestación del servicio ciudadano digital de interoperabilidad. El servicio de interoperabilidad para las entidades del Estado será prestado de forma exclusiva por el Articulador. 
+
+Los prestadores de servicios ciudadanos digitales podrán conectarse con la plataforma de interoperabilidad del Estado, de conformidad con las condiciones que para tal efecto defina el Ministerio de Tecnologías de la Información y las Comunicaciones. 
+
+Artículo 2.2.17.2.2.3. Prestación de los servicios ciudadanos digitales de autenticación digital y carpeta ciudadana digital. 
+
+El servicio ciudadano de carpeta ciudadana digital será prestado por el Articulador y por los prestadores de servicios ciudadanos digitales que se encuentren conectados con la plataforma de interoperabilidad del Estado, de conformidad con las condiciones que para tal efecto defina el Ministerio de Tecnologías de la Información y las Comunicaciones. 
+
+El servicio ciudadano digital de autenticación digital será prestado de conformidad con las disposiciones sobre firma electrónica y digital contenidas en la Ley 527 de 1999 y sus normas reglamentarias, o las normas que la modifiquen, deroguen o subroguen, siguiendo los lineamientos que para tal efecto señale el Ministerio de Tecnologías de la Información y las Comunicaciones en el marco de sus competencias. 
+
+Artículo 2.2.17.2.2.4. Condiciones mínimas para el servicio de autenticación digital. Para la prestación del servicio de autenticación digital se deberán atender las disposiciones sobre firma electrónica y digital contenidas en la Ley 527 de 1999 y sus normas reglamentarias, o las normas que la modifiquen, deroguen o subroguen. 
+
+PARÁGRAFO. El Ministerio de Tecnologías de la Información y las Comunicaciones, establecerá las condiciones mínimas para el servicio de carpeta ciudadana digital e interoperabilidad. 
+
+Artículo 2.2.17.2.2.5. Vinculación a los servicios ciudadanos digitales. Las entidades señaladas en el artículo 2.2.17.1.2 del presente decreto, deberán vincularse a los servicios ciudadanos digitales a través de la Guía que emita el Ministerio de Tecnologías de la Información y las Comunicaciones, en los términos establecidos en el artículo 2.2.17.7.1 de este decreto. 
+
+CAPÍTULO 3 
+
+Condiciones de uso, vigencia de los servicios ciudadanos digitales y modelo de gobernabilidad 
+
+Artículo 2.2.17.3.1. Uso de los servicios ciudadanos digitales. Las autoridades a las que se refiere el artículo 2.2.17.1.2 del presente decreto deberán implementar los servicios ciudadanos digitales. Su desarrollo se hará de conformidad con la gradualidad definida en el artículo 2.2.17.7.1 del presente decreto. 
+
+Artículo 2.2.17.3.2. Política de uso y aprovechamiento de los servicios ciudadanos digitales. Corresponde al Ministerio de Tecnologías de la Información y las Comunicaciones fijar la política de uso y aprovechamiento de los servicios ciudadanos digitales en el marco del desarrollo de la Política de Gobierno Digital. 
+
+Artículo 2.2.17.3.3. Vigilancia y control de las actividades involucradas en la prestación de los servicios ciudadanos digitales. Sin perjuicio de los establecido en el numeral 8 del artículo 2.2.17.4.1 la vigilancia y control de las actividades involucradas en la prestación de los servicios ciudadanos digitales se realizará por cada uno de los organismos del Estado que en el marco de sus competencias tenga que conocer de una o varias de las actividades involucradas en la prestación de tales servicios 
+
+CAPÍTULO 4 
+
+Derechos y obligaciones de los actores 
+
+Artículo 2.2.17.4.1 Obligaciones del Ministerio de Tecnologías de la Información y las Comunicaciones. De conformidad con el numeral 2, literal a) del artículo 18 de la Ley 1341 de 2009, y con el fin de garantizar el acceso y la implantación de las Tecnologías de la Información y las Comunicaciones, desde la puesta en marcha de los servicios ciudadanos digitales, el Ministerio de Tecnologías de la Información y las Comunicaciones realizará las siguientes actividades: 
+
+1. Expedir y publicar: i) La Guía de lineamientos de los servicios ciudadanos digita les; y ii) La Guía para vinculación y uso de los servicios ciudadanos digitales. 
+
+2. Realizar el seguimiento a la prestación de los servicios ciudadanos digitales por parte del Articulador. 
+
+3. Monitorear los indicadores de calidad del Articulador. 
+
+4. Diseñar y desarrollar estrategias de comunicación y difusión que permitan dar a conocer los beneficios, condiciones, derechos, obligaciones y deberes y· demás información relacionada con el uso de los servicios ciudadanos digitales. 
+
+5. Verificar que las entidades públicas cumplan con los lineamientos de la sede electrónica, definidos en el presente título, para efectos de su integración con los servicios ciudadanos digitales. 
+
+6. En el marco de sus competencias y funciones revisar el cumplimiento de las obligaciones a cargo del Articulador de los servicios ciudadanos digitales. 
+
+7. En virtud del artículo 18.2. la Ley 1341 de 2009, realizar el control de las actividades relacionadas con la prestación de servicios ciudadanos digitales. 
+
+Artículo 2.2.17.4.2. Obligaciones del Articulador. Con el objetivo de facilitar el acceso a los servicios ciudadanos digitales, el Articulador realizará las siguientes actividades: 
+
+1. Coordinar las interacciones con los distintos actores involucrados en la prestación de los servicios ciudadanos digitales. 
+
+2. Prestar el servicio de interoperabilidad para las entidades del Estado. Para ello, realizará las actividades señaladas en el artículo 2.2.17.4.6 de este decreto. 
+
+3. Proponer para aprobación del Ministerio de Tecnologías de la Información y las Comunicaciones los aspectos técnicos a formalizar en la Guía para vinculación y uso de los servicios ciudadanos digitales: 
+
+4. Prestar los servicios ciudadanos digitales cuando se requiera. 
+
+5. Celebrar los acuerdos necesarios con las entidades públicas y particulares que desempeñen funciones públicas para que estas puedan vincularse e implementar en sus sistemas de información los servicios ciudadanos digitales. 
+
+6. Administrar los servicios de información necesarios para la integración y unificación de la entrada a los servicios ciudadanos digitales. 
+
+7. Administrar en coordinación con el Ministerio de Tecnologías de la Información y las Comunicaciones el directorio de servicios de intercambio de información. 
+
+8. Monitorear los indicadores de calidad y uso de los servicios ciudadanos digitales. 
+
+9. Tramitar y responder las peticiones, quejas, reclamos y solicitudes de información que le presenten los actores del sistema en materia de servicios ciudadanos digitales y que sean de su competencia. 
+
+10. Asistir a todas las reuniones a las que sea convocado por el Ministerio de Tecnologías de la Información y las Comunicaciones para hacer seguimiento a sus labores. 
+
+11. Generar reportes de prestación del servicio, conforme lo disponga la Guía de lineamientos de los servicios ciudadanos digitales. 
+
+12. Diseñar y desarrollar en coordinación con el Ministerio de Tecnologías de la Información y las Comunicaciones estrategias de comunicación y difusión que permitan dar a conocer los riesgos asociados a la implementación de los servicios ciudadanos digitales. 
+
+13. Comunicar al Ministerio de Tecnologías de la Información y las Comunicaciones la forma en que se estén prestando los servicios ciudadanos digitales, entre otros, comunicar el cumplimiento o incumplimiento de los estándares de seguridad, privacidad, acceso, neutralidad tecnológica, o cualquier otra circunstancia requerida por el Ministerio de Tecnologías de la Información y las Comunicaciones, en el marco de la ejecución del modelo de servicios ciudadanos digitales. 
+
+14. Presentar al Ministerio de Tecnologías de la Información y las Comunicaciones los informes necesarios sobre el nivel de implementación de los servicios ciudadanos digitales por parte de los sujetos obligados, atendiendo al plazo de gradualidad establecido en el artículo 2.2.17.7.1 de este Decreto. 
+
+15. Comunicar a los prestadores de servicios ciudadanos digitales las modificaciones o actualizaciones de la Guía para vinculación y uso de los servicios ciudadanos digitales. 
+
+Artículo 2.2.17.4.3. Obligaciones comunes de los prestadores de servicios ciudadanos digitales. Los prestadores de servicios ciudadanos digitales deberán cumplir las siguientes obligaciones: 
+
+1. Cumplir durante toda la vigencia de la operación los lineamientos establecidos por el Ministerio de Tecnologías de la Información y las Comunicaciones, así como los estándares de seguridad, privacidad, acceso, neutralidad tecnológica y continuidad en el servicio y las condiciones acordadas con sus usuarios y entidades públicas vinculadas, sin imponer o cobrar servicios que no hayan sido aceptados expresamente por el usuario. En caso de presentarse cambios en los lineamientos fijados por el Ministerio de Tecnologías de la Información y las Comunicaciones, se informará a los prestadores de servicios ciudadanos digitales sobre el particular. 
+
+2. Coordinar con el Articulador el intercambio y la circulación oportuna, segura y eficiente de la información de los servicios ciudadanos digitales, respetando las disposiciones contenidas en la Ley 1581 de 2012 o las normas que la modifiquen, deroguen o subroguen. 
+
+3. Atender las peticiones, quejas, reclamos y solicitudes de información que presenten los usuarios y las entidades que hacen uso de los servicios ciudadanos digitales, así como los requerimientos que efectúen autoridades administrativas o judiciales en el marco de sus competencias. 
+
+4. Reportar al Articulador y a las autoridades competentes, las anomalías que se registren en la prestación de los servicios ciudadanos digitales. 
+
+5. Diseñar y ejecutar estrategias de apropiación de los servicios ciudadanos digitales en coordinación con el Articulador y el Ministerio de Tecnologías de la Información y las Comunicaciones. 
+
+6. Suministrar servicios de soporte a los usuarios y garantizar los niveles de servicio adecuados a la prestación de los servicios ciudadanos digitales. 
+
+7. Implementar sistemas de gestión de seguridad y controles que permitan disminuir y gestionar el riesgo asociado a la integridad, confidencialidad y disponibilidad de la información para lo cual adoptarán el cumplimiento de estándares de amplio reconocimiento nacionales o internacionales de acuerdo con los lineamientos del Modelo de Seguridad y Privacidad de la información de la política de Gobierno Digital. 
+
+8. Garantizar el acceso a la información que sea necesaria para adelantar las acciones de monitoreo y control permanente por parte del Articulador. Lo anterior; atendiendo a lo establecido en la Ley 1581 de 2012 o las normas que la modifiquen, deroguen o subroguen. 
+
+9. Contar con las herramientas suficientes y adecuadas para garantizar la disponibilidad de los servicios ciudadanos digitales. 
+
+10. Contar con la infraestructura necesaria para dar cobertura a los servicios ciudadanos digitales. 
+
+11. Garantizar las características necesarias y señaladas en la guía de lineamientos de los servicios ciudadanos digitales, para que toda la población en general pueda acceder a los servicios ciudadanos digitales ofertados, en especial la población en situación de discapacidad o vulnerabilidad. 
+
+12. Realizar los ajustes técnicos necesarios cuando se presenten actualizaciones en los lineamientos establecidos por el Ministerio de Tecnologías de la Información y las Comunicaciones 
+
+Artículo 2.2.17.4.4. Obligaciones especiales de los prestadores del servicio de Autenticación Digital. Los prestadores del servicio de autenticación digital deberán cumplir las obligaciones especiales señaladas por el Ministerio de Tecnologías de la Información y las Comunicaciones en aplicación de las disposiciones sobre firma electrónica y digital contenidas en la Ley 527 de 1999 y sus normas reglamentarias, o las normas que la modifiquen, deroguen o subroguen. 
+
+Artículo 2.2.17.4.5. Obligaciones especiales de los prestadores de servicio de carpeta ciudadana digital. Los prestadores de servicios de carpeta ciudadana digital deberán cumplir las siguientes obligaciones especiales: 
+
+1. Disponer de los mecanismos que permitan al menos las siguientes funcionalidades: 
+
+1.1. Consumir los servicios de información relacionados con el conjunto de datos de los usuarios del servicio. 
+
+1.2. Presentar a los usuarios de forma consolidada los resultados de las consultas realizadas. 
+
+2. Permitir, previa aceptación de los términos y condiciones de uso y una vez otorgada la autorización para el tratamiento de datos personales, el ingreso al servicio de carpeta ciudadana digital por parte de los usuarios mediante los mecanismos de autenticación entregados por el prestador del servicio de autenticación digital. 
+
+3. Contar con las herramientas suficientes y adecuadas para garantizar la disponibilidad del servicio. 
+
+4. Contar con la infraestructura necesaria para dar cobertura a los servicios. 
+
+Artículo 2.2.17.4.6. Obligaciones especiales del Articulador en la prestación del servicio de interoperabilidad. El Articulador como prestador del servicio de interoperabilidad deberá cumplir las siguientes obligaciones especiales: 
+
+1. Acompañar a las entidades señaladas en el artículo 2.2.17.1.2 en la creación, diseño, implementación o adecuaciones técnicas de los trámites y servicios que sus sistemas de información expondrán en los servicios ciudadanos digitales y que cumplan con el Marco de interoperabilidad. 
+
+2. Disponer en su plataforma los servicios de interoperabilidad que las entidades públicas tengan actualmente implementados o que fueron publicados en la plataforma de interoperabilidad del Estado colombiano y deben dar cumplimiento del requisito del nivel tres (3) de madurez, de conformidad con lo dispuesto en el Marco de interoperabilidad. 
+
+3. Apoyar la configuración, habilitación y exposición de los servicios de intercambio de información que podrán ser consumidos por los sujetos señalados en artículo 2.2.17.1.2 del presente decreto. 
+
+4. Mediar y coordinar el intercambio de información entre los sujetos señalados en artículo 2.2.17.1.2 del presente decreto, integrando los servicios habilitados o expuestos, de conformidad con las reglas y políticas definidas en el Marco de interoperabilidad. 
+
+Artículo 2.2.17.4.7. Obligaciones de los sujetos obligados. Los sujetos a los que se refiere el artículo 2.2.17.1.2 del presente decreto tendrán a su cargo las siguientes obligaciones, en cuanto a servicios ciudadanos digitales: 
+
+1. Actualizar en el Sistema Único de Información de Trámites (SUIT) del Departamento Administrativo de la Función Pública (DAFP) los trámites u otros proce dimientos administrativos en los cuales se haga uso de los servicios ciudadanos digitales, donde se informe claramente a los ciudadanos, usuarios o grupos de interés los pasos que deben adelantar para acceder a estos servicios. 
+
+2. Analizar los riesgos inherentes a cada trámite de acuerdo con los lineamientos dados en la Guía para la vinculación y uso de los servicios ciudadanos digitales. 
+
+3. Definir las reglas y políticas que deben ser consideradas por el prestador de servicio en el intercambio y composición de la información de un servicio o trámite determinado. Lo anterior, atendiendo los lineamientos del Marco de Referencia de Arquitectura Empresarial para la Gestión de TI en el Estado, el Modelo de seguridad y privacidad de la información, así como del Marco de interoperabilidad, para que las· entidades que requieran esta información en sus procesos puedan exponer o consumir servicios según corresponda. 
+
+4. Hacer uso de los servicios de intercambio de información publicados con el objeto de optimizar sus procesos, automatizar los trámites y servicios y recibir o acceder a la información que comparte el usuario de servicios ciudadanos digitales para integrarlos dentro de un trámite o actuación de la entidad. 
+
+5. Firmar electrónicamente los documentos que así lo requieran, haciendo uso de los mecanismos otorgados para tal efecto, por el articulador o el prestador de servicios ciudadanos digitales, al funcionario respectivo. 
+
+6. Concertar con el Articulador los esquemas de soporte al usuario de servicios ciudadanos digitales de tal manera que los casos que competan a la prestación de servicios ciudadanos digitales sean escalados adecuadamente, sin perjuicio de los niveles de servicios y soporte que le competen a la entidad pública en el marco de la administración de sus sistemas de información. 
+
+7. Presentar las peticiones, quejas, reclamos y solicitudes de información ante el Articulador, cuando se presenten desviaciones en la calidad o anomalías en los servicios recibidos. 
+
+8. Incluir los mecanismos de interoperabilidad necesarios que permitan hacer más ágiles y eficientes los trámites y servicios evitando solicitar información a ciudadanos y empresas a la que puedan acceder, consultar o solicitar a otra entidad. De igual forma, deberán usar el servicio de interoperabilidad para el intercambio de información con otras entidades. 
+
+Artículo 2.2.17.4.8. Deberes de los usuarios de los servicios ciudadanos digitales. Los usuarios de los servicios ciudadanos digitales tendrán, como mínimo, los siguientes deberes: 
+
+1. Informarse acerca de las condiciones del servicio a través de los términos y condiciones de los mismos y realizar el correspondiente registro. 
+
+2. Registrarse ante un prestador de servicios ciudadanos digitales. 
+
+3. Mantener actualizados sus datos de registro. 
+
+4. Custodiar los mecanismos de autenticación y hacer un buen uso de los servicios ciudadanos digitales. 
+
+5. Aceptar los términos y condiciones para hacer uso de los servicios ciudadanos digitales. 
+
+6. No ceder o transferir los derechos y/o obligaciones derivados de los términos y condiciones aprobados. 
+
+7. Velar por el buen uso de la información a la que tenga acceso a través de los servicios ciudadanos digitales. 
+
+8. No incurrir en conductas señaladas como prohibidas en la Ley 1273 de 2009. 
+
+Artículo 2.2.17.4.9. Derechos de los usuarios de los servicios ciudadanos digitales. Los usuarios de los servicios ciudadanos digitales tendrán derecho a: 
+
+1. Registrarse de manera gratuita eligiendo el prestador de servicios. ciudadanos digitales de su preferencia. 
+
+2. Aceptar, actualizar y revocar las autorizaciones para recibir información y comunicaciones electrónicas desde las entidades públicas de su elección a través de los servicios ciudadanos digitales. 
+
+3. Interponer peticiones, quejas, reclamos y solicitudes de información en relación con la prestación de los servicios ciudadanos digitales. 
+
+4. Elegir y cambiar libremente el prestador de servicios cuando proceda. 
+
+5. Solicitar en cualquier momento, y a través de cualquiera de los medios de atención al usuario, su retiro de la plataforma de servicios, en cuyo caso podrá solicitar su información al prestador de servicios a través del medio idóneo aprobado por el Ministerio de Tecnologías de la Información y las Comunicaciones. 
+
+CAPÍTULO 5 
+
+Tratamiento de datos personales, seguridad y privacidad de la información 
+
+Artículo 2.2.17.5.1. Responsable y encargado del tratamiento. Los prestadores de servicios ciudadanos digitales serán responsables del tratamiento de los datos personales que los ciudadanos le suministren directamente. Asimismo, serán los encargados del tratamiento de los datos que otras entidades les proporcionen. 
+
+En cada caso, los prestadores de servicios ciudadanos digitales deberán cumplir los deberes que les corresponden como responsables o encargados, establecidos en la Ley 1581 de 2012 o las normas que la modifiquen, deroguen o subroguen, sin perjuicio de las obligaciones que se establecen en el presente título. 
+
+La prestación de servicios ciudadanos digitales se encuentra sometida al cumplimiento de los establecido en la Ley 1581 de 2012 o las normas que la modifiquen, deroguen o subroguen. 
+
+Artículo 2.2.17.5.2. Evaluación del impacto de tratamiento de datos personales. Antes de dar inicio a la prestación de los servicios ciudadanos digitales, los prestadores de servicios ciudadanos digitales deberán evaluar el impacto de las operaciones de dichos servicios en el tratamiento de datos personales, incluyendo como mínimo lo siguiente: 
+
+1. Una descripción detallada de las operaciones de tratamiento de datos personales que involucran la prestación de los servicios ciudadanos digitales y de los fines del tratamiento. 
+
+2. Una evaluación de la necesidad y la proporcionalidad de las operaciones de tratamiento con respecto a su finalidad. 
+
+3. Una evaluación de los riesgos específicos para los derechos y libertades de los titulares de los datos personales. 
+
+4. Las medidas previstas para afrontar los riesgos, incluidas garantías, medidas de seguridad, tecnologías y mecanismos que garanticen la protección de datos personales, pudiendo realizar diseño de software, teniendo en cuenta los derechos e intereses legítimos de los titulares de los datos y de otras personas eventualmente afectadas. 
+
+Los resultados de esta evaluación, junto con las medidas para mitigar los riesgos, serán tenidos en cuenta e implementados como parte de la aplicación del fundamento de privacidad por diseño y por defecto. 
+
+Artículo 2.2.17.5.3. Responsabilidad demostrada y programa integral de gestión de datos personales. Los prestadores de servicios ciudadanos digitales deberán adoptar medidas apropiadas, efectivas y verificables que le permitan demostrar el correcto cumplimiento de las normas sobre tratamiento de datos personales. Para el efecto, deben crear e implementar un Programa Integral de Gestión de Datos Personales (PIGDP), como mecanismo operativo para garantizar el debido tratamiento de los datos personales. 
+
+El Programa Integral de Gestión de Datos Personales (PIGDP) debe cumplir los lineamientos de la Superintendencia de Industria y Comercio, en particular, la guía para la implementación de la responsabilidad demostrada (accountability) de dicha entidad. 
+
+Todo lo anterior de conformidad a los límites que impone la Ley de Protección de Datos de Carácter Personal, Ley 1581 de 2012, el cumplimiento de las funciones constitucionales, legales y reglamentarias de cada autoridad pública y/o particular que cumpla funciones públicas, y los límites que impone la Ley de Transparencia y del Derecho de Acceso a la Información Pública Nacional, Ley 1712 de 2014, o las normas que la modifiquen, deroguen o subroguen. 
+
+Artículo 2.2.17.5.4. Oficial de protección de datos. De conformidad con el artículo 2.2.2.25.4.4. del Decreto 1074 de 2015, todo responsable y encargado del tratamiento de datos deberá designar a una persona o área que asuma la función de protección de datos personales, quien dará trámite a las solicitudes de los Titulares para el ejercicio de los derechos a que se refiere la Ley 1581 de 2012 y del Capítulo 25 del Decreto 1074 de 2015; y quien deberá, además de cumplir los lineamientos de la Superintendencia de Industria y Comercio, en particular, la guía para la implementación de la responsabilidad demostrada (accountability) de dicha entidad, realizar las siguientes actividades en cuanto a los datos de los usuarios de los servicios ciudadanos digitales: 
+
+1. Velar por el respeto de los derechos de los titulares de los datos personales respecto del tratamiento de datos que realice el prestador de servicios ciudadanos digitales. 
+
+2. Informar y asesorar al prestador de servicios ciudadanos digitales en relación con las obligaciones que les competen en virtud de la regulación colombiana sobre privacidad y tratamiento de datos personales. 
+
+3. Supervisar el cumplimiento de lo dispuesto en la citada regulación y en las políticas de tratamiento de información del prestador de servicios ciudadanos digitales, así como del principio de responsabilidad demostrada. 
+
+4. Prestar el asesoramiento que se le solicite acerca de la evaluación de impacto relativa a la protección de datos. 
+
+5. Atender los lineamientos y requerimientos que le haga la Delegatura de Protección de Datos Personales de la Superintendencia de Industria y Comercio o quien haga sus veces. 
+
+Todo lo anterior de conformidad a los límites que impone la Ley de Transparencia y del Derecho de Acceso a la Información Pública Nacional, Ley 1712 de 2014. 
+
+Artículo 2.2.17.5.5. Privacidad por diseño y por defecto. Los prestadores de servicios ciudadanos digitales deberán atender las buenas prácticas y principios desarrollados en el ámbito internacional en relación con la protección y tratamiento de datos personales, los cuales se refieren a la privacidad por diseño y a la evaluación del impacto de la privacidad. Conforme a ello, la protección de la privacidad y de los datos además del cumplimiento de la normativa, exige un modo de operar de las organizaciones que involucra sistemas de información, modelos, prácticas de negocio, diseño físico, infraestructura e interoperabilidad, el cual garantiza la privacidad al ciudadano y a las empresas en relación con la recolección, uso, almacenamiento, divulgación y disposición de los mensajes de datos para los servicios ciudadanos digitales gestionados por el prestador de servicios. 
+
+Para ello los prestadores de servicios ciudadanos digitales deberán tener en cuenta los siguientes lineamientos:
+
+1. Realizar y actualizar las evaluaciones de impacto del tratamiento de los datos personales y el Programa Integral de Gestión de Datos Personales ante cambios que generen riesgos de privacidad. 
+
+2. Incorporar prácticas y procesos de desarrollo necesarios destinados a salvaguardar la información personal de los individuos a lo largo del ciclo de vida de un sistema, programa o servicio. 
+
+3. Mantener las prácticas y procesos de gestión adecuados durante el ciclo de vida de los datos que son diseñados para asegurar que los sistemas de información cumplen con los requisitos, políticas y preferencias de privacidad de los ciudadanos. 
+
+4. Adoptar las medidas necesarias para preservar la seguridad, confidencialidad e integridad de la información personal durante el ciclo de vida de los datos, desde su recolección original, a través de su uso, almacenamiento, circulación y supresión al final del ciclo de vida. 
+
+5. Asegurar la infraestructura, sistemas de TI y prácticas de negocios que interactúan o implican el uso de cualquier información o dato personal, siendo sujeta a verificación independiente por parte de todas las partes interesadas, incluyendo clientes, usuarios y organizaciones afiliadas. 
+
+Artículo 2.2.17.5.6. Seguridad de la información y Seguridad Digital. Los actores que traten información en el marco del presente título deberán contar con una estrategia de seguridad y privacidad de la información, seguridad digital y continuidad de la prestación del servicio, en la cual, deberán hacer periódicamente una evaluación del riesgo de seguridad digital, que incluya una identificación de las mejoras a implementar en su Sistema de Administración del Riesgo Operativo. Para lo anterior, deben contar con normas, políticas, procedimientos, recursos técnicos, administrativos y humanos necesarios para gestionar efectivamente el riesgo. En ese sentido, deben adoptar los lineamientos para la gestión de la seguridad de la información y seguridad digital que emita el Ministerio de Tecnologías de la Información y las Comunicaciones. 
+
+Artículo 2.2.17.5.7. Limitación al uso de la información. Los datos personales y los datos de los usuarios enviados a través del servicio ciudadano digital de interoperabilidad y en general la información generada, producida, almacenada, enviada o compartida en la prestación de los servicios ciudadanos digitales, no podrán ser objeto de comercialización, ni de explotación económica de ningún tipo, salvo autorización expresa del titular de los datos y de conformidad con los límites que impone la Ley de Protección de Datos de Carácter Personal, Ley 1581 de 2012. 
+
+CAPÍTULO 6 
+
+Reglamentación parcial del artículo 60 del Capítulo IV del Título III de la Ley 1437 de 2011 
+
+Artículo 2.2.17.6.1. Sede electrónica. En virtud del artículo 60 de la Ley 1437 de 2011, la sede electrónica es la dirección electrónica de titularidad, administración y gestión de cada autoridad competente, dotada de las medidas jurídicas, organizativas y técnicas que garanticen calidad, seguridad, disponibilidad, accesibilidad, neutralidad e interoperabilidad de la información y de los servicios. 
+
+Los sujetos señalados en el artículo 2.2.17.1.2. de este decreto deberán integrar a la sede electrónica, las interacciones digitales existentes como trámites, servicios, ejercicios de participación, acceso a la información, colaboración y control social, entre otros. Asimismo, las nuevas interacciones ciudadano-Estado nacerán digitales y se integrarán a esta dirección electrónica, acogiendo las demás disposiciones que establece el ordenamiento jurídico colombiano sobre la atención al ciudadano por otros canales. 
+
+Los diversos canales digitales oficiales dispuestos por cada autoridad deberán estar integrados a la sede electrónica. 
+
+Artículo 2.2.17.6.2. Sede electrónica compartida. La sede electrónica compartida será el Portal único del Estado a través de la cual la ciudadanía accederá a los contenidos, procedimientos, servicios y trámites disponibles por las autoridades, a partir del uso de los servicios ciudadanos digitales base. 
+
+El Ministerio de Tecnologías de la Información y las Comunicaciones generará los lineamientos y evaluará el cumplimiento requerido para la integración de sedes electrónicas a la sede electrónica compartida. 
+
+Artículo 2.2.17.6.3. Procedimiento para el registro de usuarios por medios electrónicos. Los usuarios deberán registrarse para tener acceso a los servicios ciudadanos digitales. 
+
+En dicho proceso registrarán la información mínima necesaria para adelantar el proceso y la aceptación expresa de los términos y condiciones de uso y operación del servicio. Para dicho registro se seguirá las disposiciones sobre firma electrónica y digital contenidas en la Ley 527 de 1999 y sus normas reglamentarias, o las normas que la modifiquen, deroguen o subroguen. 
+
+Artículo 2.2.17.6.4. Expedición de mecanismos de autenticación digital a usuarios. Como resultado del proceso de registro se otorgará al usuario de servicios ciudadanos digitales un mecanismo de firma siguiendo las disposiciones sobre firma electrónica y digital contenidas en la Ley 527 de 1999 y sus normas reglamentarias, o las normas que la modifiquen, deroguen, así como los lineamientos definidos por el Ministerio de Tecnologías de la Información y las Comunicaciones que se incorporarán en la Guía de lineamientos de los servicios ciudadanos digitales. 
+
+Artículo 2.2.17.6.5. Registro de documentos electrónicos. Los sujetos señalados en el artículo 2.2.17.1.2. de este Decreto deberán disponer los servicios de registro de documentos electrónicos, accedidos a través de la sede electrónica, para la recepción y remisión de peticiones, escritos y documentos. 
+
+Los sistemas de información que soportan la sede electrónica deberán garantizar la disponibilidad e integridad de la información y la correcta gestión documental electrónica, en los términos de la Ley 594 de 2000 y sus decretos reglamentarios, en los distintos procedimientos y trámites electrónicos. Asimismo, deberán: 
+
+1. Admitir documentos electrónicos correspondientes a los servicios, procedimientos y trámites que se especifiquen, los cuales podrán ser aportados por el ciudadano utilizando los servicios de la sede electrónica u otros medios electrónicos. Los documentos se podrán presentar todos los días del año durante las veinticuatro horas. 
+
+2. Disponer en la sede electrónica la relación actualizada de las peticiones, escritos y documentos recibidos incluyendo la fecha y hora de recepción. 
+
+3. Asignar un número consecutivo a las comunicaciones recibidas o producidas, dejando constancia de la fecha y hora de recibo o de envío, con el propósito de oficializar el trámite y cumplir con los términos de vencimiento que establezca la ley y hacer seguimiento a todas las actuaciones recibidas y enviadas. 
+
+4. Enviar automáticamente por el mismo medio un mensaje acusando el recibo y registro de las peticiones, escritos o documentos de que se trate, en el que constarán los datos proporcionados por los ciudadanos, la fecha y hora de presentación y el número consecutivo de radicación asignado. 
+
+5. Recibir los documentos anexos a la correspondiente solicitud, mensaje o comunicación. El registro electrónico generará mensajes que acrediten la entrega de estos documentos. 
+
+6. Distribuir electrónicamente en los términos que establezca la entidad para cada trámite, los documentos registrados al destinatario o destinatarios o entidad responsable de atender el trámite correspondiente. 
+
+7. Utilizar formatos o formularios preestablecidos para la presentación de documentos electrónicos normalizados, correspondientes a los servicios y trámites que se especifiquen en el sistema. 
+
+8. Incorporar el calendario oficial de la entidad con fecha y hora, los días hábiles y los declarados inhábiles. 
+
+9. Posibilitar la interconexión de todas las dependencias de la entidad para el acceso a la información por medios electrónicos. 
+
+10. Adecuar un nivel de interoperabilidad entre los registros electrónicos y otros sistemas diferentes establecidos por las entidades públicas para atender otros trámites o requerimientos especiales.
+
+CAPÍTULO 7 
+
+Disposiciones Finales 
+
+Artículo 2.2.17.7.1. Gradualidad. De conformidad con el artículo 64 de la Ley 1437 de 2011, las autoridades y particulares a que se refiere el artículo 2.2.17.1.2 del presente Decreto deberán implementar los servicios ciudadanos digitales y la sede electrónica conforme a los lineamientos dados en este título, dentro de los siguientes plazos: 
+
+1. Las entidades públicas de la rama ejecutiva del orden nacional y los particulares que desempeñen funciones públicas tendrán un plazo de nueve (9) meses contados a partir de la publicación de la Guía para la vinculación y uso de los servicios ciudadanos digitales, por parte del Ministerio de Tecnologías de la Información y las Comunicaciones. 
+
+2. Las entidades públicas del orden territorial y las demás a las que se refiere el artículo 2.2.17.1.2 implementarán el modelo en función de su disponibilidad presupuestal. 
+
+3. El plazo de registro de los funcionarios públicos será el mismo que se definió para la implementación de los servicios ciudadanos digitales según el orden nacional o territorial de la entidad a la que presta sus servicios. 
+
+4. En caso de que cuenten con implementaciones cuyas funcionalidades sean similares a las de los servicios ciudadanos digitales, estas deberán elaborar un plan de migración o integración de acuerdo con los lineamientos establecidos para tal fin, dentro del plazo de implementación que a cada una le corresponde. 
+
+PARÁGRAFO. En Virtud del principio de colaboración, las entidades públicas del orden nacional y/o territorial, y las demás a las que se refiere el artículo 2.2.17.1.2 del presente Decreto, diseñarán y adaptarán los proyectos de tecnologías de la información para que se integren con los servicios ciudadanos digitales. 
+
+La política de Gobierno Digital es un mandato normativo, en consecuencia, corresponde su cumplimiento por virtud de las propias normas. 
+
+Artículo 2.2.17.7.2. Recursos. Las entidades públicas del orden nacional y/o territorial atenderán con sus propios recursos la infraestructura, integración y operación al modelo de servicios ciudadanos digitales. 
+
+Con cargo al presupuesto del Fondo único de Tecnologías de la Información y las Comunicaciones se podrá atender la implementación y operación de los servicios ciudadanos digitales base para las entidades que hagan parte del Presupuesto General de la Nación, de acuerdo con las disponibilidades presupuestales y cupo en el Marco de Gasto de Mediano Plazo del sector de las comunicaciones.
+
+El Ministerio de Tecnologías de la Información y las Comunicaciones establecerá los mecanismos de financiación y cofinanciación de la implementación, operación e integración a los servicios ciudadanos digitales base. 
+
+Los establecimientos públicos acordarán con el Fondo único de Tecnologías de la Información y las Comunicaciones la financiación de la implementación y operación de los servicios ciudadanos digitales base”. 
+
+PARÁGRAFO. Lo dispuesto en el presente decreto, no constituye autorización para que las entidades que hacen parte del Presupuesto General de la Nación modifiquen su techo de gastos de personal y en todo caso, deberá atenderse de acuerdo con la disponibilidad de recursos asignados en la presente vigencia. 
+
+ARTÍCULO 2o. IMPLEMENTACIÓN DE LAS MEDIDAS DE LOS ARTÍCULOS 2.2.17.4.1 Y 2.2.17.7.1. El Ministerio publicará la Guía de lineamientos de los servicios ciudadanos digitales y la Guía para vinculación y uso de los servicios ciudadanos digitales, a las que se refiere el artículo 2.2.17.4.1 que se subroga en virtud del presente decreto, dentro de los seis (6) meses siguientes a la expedición de este decreto. 
+
+Las entidades públicas del orden territorial y las demás a las que se refiere el artículo 2.2.17.1.2 implementarán los servicios ciudadanos digitales y la sede electrónica, según lo dispuesto en el artículo 2.2.17.7.1 que se subroga en virtud del presente decreto, dentro de los dieciocho (18) meses siguientes a la expedición de este decreto, en función de su disponibilidad presupuestal. 
+
+ARTÍCULO 3o. VIGENCIA Y SUBROGACIÓN. El presente Decreto rige a partir de su publicación en el Diario Oficial, y subroga el título 17 de la parte 2 del libro 2 del Decreto Único Reglamentario del sector de Tecnologías de la Información y las Comunicaciones, Decreto 1078 de 2015. 
+
+Publíquese y cúmplase. 
+
+Dado en Bogotá, D. C., a 2 de mayo de 2020. 
+
+IVÁN DUQUE MÁRQUEZ 
+
+El Ministro de Hacienda y Crédito Público, 
+
+Alberto Carrasquilla Barrera. 
+
+La Ministra de Tecnologías de la Información y las Comunicaciones, 
+
+Sylvia Cristina Constaín Rengifo. 
+
+El Director del Departamento Administrativo de la Función Pública, 
+
+Fernando Antonio Grillo Rubiano. 
+
+													Compilación Jurídica Ministerio de Tecnologías de la Información y Comunicaciones
+
+													ISBN : 978-958-57279-2-2
+
+													Última actualización: 
+
+													Control de versiones
+
+													Créditos y reserva de derechos de autor
+
+												  Ministerio de Tecnologías de la Información y Comunicaciones- DRA © 2024
+
+Ministerio de Tecnologías de la Información y las Comunicaciones
+
+													Edificio Murillo Toro Cra. 8a entre calles 12A y 12B Bogotá, Colombia - Código Postal 111711.
+
+													Teléfono Conmutador: +57 601 344 34 60 - Línea Gratuita: 01-800-0914014
+
+													Línea Anticorrupción: 01-800-0912667
+
+													Correo Institucional: 
+													minticresponde@mintic.gov.co
+
+													Denuncias por actos de corrupción:
+													soytransparente@mintic.gov.co
+
+													Notificaciones judiciales:
+
+														notificacionesjudiciales@mintic.gov.co
+
+														notificacionesjudicialesfontic@mintic.gov.co
+
+													Horario de Atención Presencial:
+
+													Lunes a viernes de 8:30 a.m - 4:30 p.m Jornada Continua
+
+													© Copyright 2021 - Todos los derechos reservados Gobierno de Colombia
+
+														ministerio_tic
+
+														@ministerio_tic
+
+														@ministerio_tic
+
+														@Ministerio_TIC
+
+														MinisterioTIC
+
+														@ministeriotic
+
+														+573212173083l
+
+Política de privacidad y condiciones de uso 
+
+Contacto 
+
+Mapa del sitio
+
+							×
+
+						Contraste | Modo oscuro
+
+						Reducir letra (16px)
+
+						Aumentar letra (16px)
+
+							Centro de relevo 
+
+Volver arriba
+

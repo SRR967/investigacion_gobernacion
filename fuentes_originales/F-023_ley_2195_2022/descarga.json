@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "id": "F-023",
+  "slug": "ley_2195_2022",
+  "archivo": "fuentes_originales/F-023_ley_2195_2022/Ley_2195_de_2022.pdf",
+  "texto": "fuentes_texto/F-023_ley_2195_2022.txt",
+  "url_origen": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=175606",
+  "url_final": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=175606",
+  "fecha_consulta": "2026-10-25",
+  "sha256": "54a14695cc0f2d1a874d5ba0fb92f82035e8b546180d0fb9a66869bd80e1c23b",
+  "bytes": 184005,
+  "tipo": "pdf",
+  "nombre_original": "Ley_2195_de_2022.pdf",
+  "content_type": "application/pdf",
+  "via": "curl (almacén de certificados de macOS)",
+  "last_modified_servidor": "Mon, 26 Oct 2026 04:50:56 GMT",
+  "paginas": 21,
+  "paginas_ocr": [],
+  "advertencias": []
+}

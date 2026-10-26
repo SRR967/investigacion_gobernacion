@@ -19,7 +19,7 @@ Códigos de salida: 0 ok · 2 argumentos · 3 dominio no permitido (pedir confir
 · 4 duplicado (mismo SHA-256) · 5 tipo bloqueado · 6 descarga fallida / demasiado grande.
 """
 import argparse, datetime, hashlib, html.parser, json, os, re, shutil, subprocess, sys, tempfile
-import urllib.error, urllib.parse, urllib.request, zipfile
+import ssl, urllib.error, urllib.parse, urllib.request, zipfile
 import xml.etree.ElementTree as ET
 
 RAIZ = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir))
@@ -80,13 +80,97 @@ def nombre_desde_respuesta(resp, url):
     return sanear_nombre(urllib.parse.urlparse(url).path.rsplit("/", 1)[-1])
 
 
+CURL = "/usr/bin/curl"
+UA = "Mozilla/5.0 (investigacion-academica)"
+EXT_POR_TIPO = {"application/pdf": ".pdf", "text/csv": ".csv", "text/html": ".html", "application/json": ".json"}
+
+
+def completar_extension(nombre, content_type):
+    if not os.path.splitext(nombre)[1]:
+        ext = EXT_POR_TIPO.get((content_type or "").split(";")[0].strip().lower())
+        if ext:
+            return nombre + ext
+    return nombre
+
+
+def error_de_certificado(e):
+    r = getattr(e, "reason", e)
+    return isinstance(r, ssl.SSLCertVerificationError) or "CERTIFICATE_VERIFY_FAILED" in str(e)
+
+
+def _cabeceras(texto):
+    """Último bloque de cabeceras HTTP de la salida de curl."""
+    bloques = [b for b in re.split(r"\r?\n\r?\n", texto.strip()) if b.startswith("HTTP/")]
+    if not bloques:
+        return 0, {}
+    lineas = bloques[-1].splitlines()
+    estado = int(lineas[0].split()[1])
+    cab = {}
+    for l in lineas[1:]:
+        if ":" in l:
+            k, v = l.split(":", 1)
+            cab[k.strip().lower()] = v.strip()
+    return estado, cab
+
+
+def curl_obtener(url, destino, limite_bytes, extra, confirmado):
+    """Alternativa cuando Python no valida el certificado de un sitio (cadena incompleta):
+    curl usa el almacén de certificados de macOS y la verificación SIGUE ACTIVA (nunca -k).
+    Las redirecciones se siguen a mano, comprobando el dominio en cada salto.
+    destino=None: solo cabeceras."""
+    if not os.path.exists(CURL):
+        salir(6, "No se pudo verificar el certificado y curl no está disponible.")
+    actual = url
+    for _ in range(6):
+        host = urllib.parse.urlparse(actual).hostname
+        if not confirmado and not host_permitido(host, extra):
+            salir(3, f"Dominio no permitido automáticamente: {host}. Pide confirmación a Santiago.")
+        cmd = [CURL, "-s", "--proto", "=http,https", "--max-time", "180", "-A", UA, "--max-redirs", "0"]
+        if destino:
+            cmd += ["-D", "-", "-o", destino, "--max-filesize", str(limite_bytes)]
+        else:
+            cmd += ["-I"]
+        r = subprocess.run(cmd + [actual], capture_output=True)
+        if r.returncode == 63:
+            salir(6, "El archivo supera el límite de tamaño.")
+        if r.returncode != 0:
+            salir(6, f"curl falló (código {r.returncode}) al pedir {actual}")
+        estado, cab = _cabeceras(r.stdout.decode("latin1"))
+        if 300 <= estado < 400 and cab.get("location"):
+            actual = urllib.parse.urljoin(actual, cab["location"])
+            continue
+        if estado >= 400 or estado == 0:
+            salir(6, f"HTTP {estado} al pedir {actual}")
+        return actual, cab
+    salir(6, "Demasiadas redirecciones.")
+
+
+def nombre_desde_cabeceras(cab, url):
+    m = re.search(r"filename\*?=(?:UTF-8'')?\"?([^\";]+)", cab.get("content-disposition", ""), re.I)
+    base = sanear_nombre(m.group(1)) if m else sanear_nombre(urllib.parse.urlparse(url).path.rsplit("/", 1)[-1])
+    return completar_extension(base, cab.get("content-type"))
+
+
+def descargar_con_curl(url, carpeta, max_mb, extra, confirmado):
+    tmp = os.path.join(carpeta, "descarga.tmp")
+    final, cab = curl_obtener(url, tmp, int(max_mb * 1024 * 1024), extra, confirmado)
+    nombre = nombre_desde_cabeceras(cab, final)
+    if os.path.splitext(nombre)[1].lower() in EXT_BLOQUEADAS:
+        os.remove(tmp)
+        salir(5, f"Extensión bloqueada: {nombre}")
+    destino = os.path.join(carpeta, nombre)
+    os.replace(tmp, destino)
+    return destino, nombre, {"final_url": final, "content_type": cab.get("content-type"),
+                             "last_modified": cab.get("last-modified"), "via": "curl (almacén de certificados de macOS)"}
+
+
 def tipo_real(ruta):
     with open(ruta, "rb") as f:
         cab = f.read(4096)
     for mg in MAGIC_BLOQUEADOS:
         if cab.startswith(mg):
             return "BLOQUEADO"
-    if cab.startswith(b"%PDF"):
+    if b"%PDF-" in cab[:1024]:  # el estándar PDF admite bytes antes de la marca
         return "pdf"
     if cab[:2] == b"PK":
         try:
@@ -191,6 +275,8 @@ def extraer(ruta, tipo, destino_txt):
         p.feed(open(ruta, encoding="utf8", errors="replace").read())
         texto = "\n=== p1 ===\n" + re.sub(r"\n\s*\n+", "\n\n", "".join(p.partes))
     elif tipo == "texto":
+        if os.path.getsize(ruta) > 5 * 1024 * 1024:
+            return None, [], ["Archivo de texto o datos grande (más de 5 MB): no se copió a fuentes_texto; el análisis se hace sobre el original."]
         texto = "\n=== p1 ===\n" + open(ruta, encoding="utf8", errors="replace").read()
     else:
         return None, [], [f"Tipo '{tipo}': no se extrajo texto automáticamente."]
@@ -226,8 +312,10 @@ def descargar(url, carpeta, max_mb, extra, confirmado):
     try:
         resp = abrir.open(req, timeout=60)
     except (urllib.error.URLError, TimeoutError, ValueError) as e:
+        if error_de_certificado(e):
+            return descargar_con_curl(url, carpeta, max_mb, extra, confirmado)
         salir(6, f"No se pudo descargar: {e}")
-    nombre = nombre_desde_respuesta(resp, resp.geturl())
+    nombre = completar_extension(nombre_desde_respuesta(resp, resp.geturl()), resp.headers.get("Content-Type"))
     if os.path.splitext(nombre)[1].lower() in EXT_BLOQUEADAS:
         salir(5, f"Extensión bloqueada: {nombre}")
     limite = int(max_mb * 1024 * 1024)
@@ -257,6 +345,14 @@ def consultar(url):
     try:
         resp = urllib.request.urlopen(req, timeout=30)
     except (urllib.error.URLError, TimeoutError, ValueError) as e:
+        if error_de_certificado(e):
+            final, cab = curl_obtener(url, None, 0, set(), True)
+            tam = cab.get("content-length")
+            print(json.dumps({"ok": True, "url_final": final, "dominio": urllib.parse.urlparse(final).hostname,
+                              "nombre": nombre_desde_cabeceras(cab, final), "content_type": cab.get("content-type"),
+                              "bytes": int(tam) if tam and tam.isdigit() else None,
+                              "last_modified_servidor": cab.get("last-modified"), "via": "curl"}, ensure_ascii=False, indent=2))
+            sys.exit(0)
         salir(6, f"No se pudo consultar: {e}")
     tam = resp.headers.get("Content-Length")
     print(json.dumps({"ok": True, "url_final": resp.geturl(), "dominio": urllib.parse.urlparse(resp.geturl()).hostname,
@@ -319,7 +415,7 @@ def main():
                 "texto": os.path.relpath(txt, raiz) if os.path.exists(txt) else None,
                 "url_origen": url_origen, "url_final": meta.get("final_url"), "fecha_consulta": hoy(),
                 "sha256": digest, "bytes": os.path.getsize(ruta), "tipo": tipo, "nombre_original": nombre,
-                "content_type": meta.get("content_type"), "last_modified_servidor": meta.get("last_modified"),
+                "content_type": meta.get("content_type"), "via": meta.get("via", "urllib"), "last_modified_servidor": meta.get("last_modified"),
                 "paginas": paginas, "paginas_ocr": ocr_pag, "advertencias": adv}
         json.dump(info, open(os.path.join(carpeta, "descarga.json"), "w", encoding="utf8"), ensure_ascii=False, indent=2)
 

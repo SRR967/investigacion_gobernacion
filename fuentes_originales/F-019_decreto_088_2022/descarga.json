@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "id": "F-019",
+  "slug": "decreto_088_2022",
+  "archivo": "fuentes_originales/F-019_decreto_088_2022/decreto_0088_2022.htm",
+  "texto": "fuentes_texto/F-019_decreto_088_2022.txt",
+  "url_origen": "https://normograma.mintic.gov.co/mintic/compilacion/docs/decreto_0088_2022.htm",
+  "url_final": "https://normograma.mintic.gov.co/mintic/compilacion/docs/decreto_0088_2022.htm",
+  "fecha_consulta": "2026-10-25",
+  "sha256": "36a84df8994511e761231ad7a9708ee4b62e7b533d746ba62bd01595ff0b4892",
+  "bytes": 224404,
+  "tipo": "html",
+  "nombre_original": "decreto_0088_2022.htm",
+  "content_type": "text/html",
+  "via": "urllib",
+  "last_modified_servidor": "Mon, 02 Mar 2026 17:21:12 GMT",
+  "paginas": 1,
+  "paginas_ocr": [],
+  "advertencias": []
+}

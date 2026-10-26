@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "id": "F-020",
+  "slug": "decreto_612_2018",
+  "archivo": "fuentes_originales/F-020_decreto_612_2018/Decreto_612_de_2018.pdf",
+  "texto": "fuentes_texto/F-020_decreto_612_2018.txt",
+  "url_origen": "https://www1.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=85742",
+  "url_final": "https://www1.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=85742",
+  "fecha_consulta": "2026-10-25",
+  "sha256": "fe24fb91ebd03ea2ea66ebacec55a4cd909dbc17c3ee90d04c2469a7c6bc8c21",
+  "bytes": 79250,
+  "tipo": "pdf",
+  "nombre_original": "Decreto_612_de_2018.pdf",
+  "content_type": "application/pdf",
+  "via": "curl (almacén de certificados de macOS)",
+  "last_modified_servidor": "Mon, 26 Oct 2026 04:50:50 GMT",
+  "paginas": 4,
+  "paginas_ocr": [],
+  "advertencias": []
+}

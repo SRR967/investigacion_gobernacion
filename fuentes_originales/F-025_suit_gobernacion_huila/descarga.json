@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "id": "F-025",
+  "slug": "suit_gobernacion_huila",
+  "archivo": "fuentes_originales/F-025_suit_gobernacion_huila/48fq-mxnm.csv",
+  "texto": "fuentes_texto/F-025_suit_gobernacion_huila.txt",
+  "url_origen": "https://www.datos.gov.co/resource/48fq-mxnm.csv?%24where=nombre_de_la_entidad%3D%27GOBERNACI%C3%93N%20DE%20HUILA%27&%24limit=5000",
+  "url_final": "https://www.datos.gov.co/resource/48fq-mxnm.csv?%24where=nombre_de_la_entidad%3D%27GOBERNACI%C3%93N%20DE%20HUILA%27&%24limit=5000",
+  "fecha_consulta": "2026-10-25",
+  "sha256": "6b6ef176ef37c8857ea16af61a59e7924ca5c12608de28f486cc062a64285258",
+  "bytes": 589744,
+  "tipo": "texto",
+  "nombre_original": "48fq-mxnm.csv",
+  "content_type": "text/csv; charset=UTF-8",
+  "via": "urllib",
+  "last_modified_servidor": "Tue, 22 Feb 2022 16:55:02 GMT",
+  "paginas": 1,
+  "paginas_ocr": [],
+  "advertencias": []
+}

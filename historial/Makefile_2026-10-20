@@ -1,4 +1,0 @@
-all:
-	mkdir -p build && tectonic -X compile --synctex --outdir build main.tex
-clean:
-	rm -rf build

@@ -1,0 +1,21 @@
+{
+  "ok": true,
+  "id": "F-001",
+  "slug": "oficio_condonacion",
+  "archivo": "fuentes_originales/F-001_oficio_condonacion/respuestaGobernacion.pdf",
+  "texto": "fuentes_texto/F-001_oficio_condonacion.txt",
+  "url_origen": null,
+  "url_final": null,
+  "fecha_consulta": "2026-10-26",
+  "sha256": "b91fda7bf224b326672c6a70383b502070c53cf6fb12aab27a49a4975db8183a",
+  "bytes": 432133,
+  "tipo": "pdf",
+  "nombre_original": "respuestaGobernacion.pdf",
+  "content_type": null,
+  "last_modified_servidor": null,
+  "paginas": null,
+  "paginas_ocr": [],
+  "advertencias": [
+    "No se pudo compilar el extractor de texto (swiftc no disponible: [Errno 2] No such file or directory: 'swiftc'). El original se conserva sin texto extraído."
+  ]
+}

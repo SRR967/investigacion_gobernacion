@@ -1,0 +1,21 @@
+{
+  "ok": true,
+  "id": "F-003",
+  "slug": "tesis_cobit",
+  "archivo": "fuentes_originales/F-003_tesis_cobit/PROYECTO_ULTIMATUS (7).pdf",
+  "texto": "fuentes_texto/F-003_tesis_cobit.txt",
+  "url_origen": null,
+  "url_final": null,
+  "fecha_consulta": "2026-10-26",
+  "sha256": "a91a5e4eb63ffb05bb500bdde1e8c874c9f8a4faf10fbff4e1221897e63be17d",
+  "bytes": 48632713,
+  "tipo": "pdf",
+  "nombre_original": "PROYECTO_ULTIMATUS (7).pdf",
+  "content_type": null,
+  "last_modified_servidor": null,
+  "paginas": null,
+  "paginas_ocr": [],
+  "advertencias": [
+    "No se pudo compilar el extractor de texto (swiftc no disponible: [Errno 2] No such file or directory: 'swiftc'). El original se conserva sin texto extraído."
+  ]
+}

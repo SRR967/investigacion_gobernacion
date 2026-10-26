@@ -167,7 +167,11 @@ def extraer(ruta, tipo, destino_txt):
         tmp = tempfile.mkdtemp(prefix="extraer_")
         binario = os.path.join(tmp, "extraer_texto")
         fuente = os.path.join(RAIZ, "herramientas", "extraer_texto.swift")
-        comp = subprocess.run(["swiftc", "-O", "-o", binario, fuente], capture_output=True, text=True)
+        try:
+            comp = subprocess.run(["swiftc", "-O", "-o", binario, fuente], capture_output=True, text=True)
+        except OSError as e:
+            shutil.rmtree(tmp, ignore_errors=True)
+            return None, [], [f"No se pudo compilar el extractor de texto (swiftc no disponible: {e}). El original se conserva sin texto extraído."]
         if comp.returncode != 0:
             return None, [], ["No se pudo compilar el extractor de texto: " + comp.stderr[-300:]]
         r = subprocess.run([binario, ruta, destino_txt], capture_output=True, text=True)

@@ -1,0 +1,21 @@
+{
+  "ok": true,
+  "id": "F-006",
+  "slug": "informe_seguimiento_2026_06",
+  "archivo": "fuentes_originales/F-006_informe_seguimiento_2026_06/INFORME_DE_SEGUIMIENTO_PLAN_DE_DESARROLLO_CORTE_JUNIO_2026.pdf",
+  "texto": null,
+  "url_origen": null,
+  "url_final": null,
+  "fecha_consulta": "2026-10-26",
+  "sha256": "64406f65d9b1d63cdb4ec23d80351410f273ce901d4d48efe23500c5ce3b7b0f",
+  "bytes": 3225063,
+  "tipo": "pdf",
+  "nombre_original": "INFORME_DE_SEGUIMIENTO_PLAN_DE_DESARROLLO_CORTE_JUNIO_2026.pdf",
+  "content_type": null,
+  "last_modified_servidor": null,
+  "paginas": null,
+  "paginas_ocr": [],
+  "advertencias": [
+    "No se pudo compilar el extractor de texto (swiftc no disponible: [Errno 2] No such file or directory: 'swiftc'). El original se conserva sin texto extraído."
+  ]
+}

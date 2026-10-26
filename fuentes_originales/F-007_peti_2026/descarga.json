@@ -1,0 +1,21 @@
+{
+  "ok": true,
+  "id": "F-007",
+  "slug": "peti_2026",
+  "archivo": "fuentes_originales/F-007_peti_2026/1. PETI_2026 V1 (1).pdf",
+  "texto": null,
+  "url_origen": null,
+  "url_final": null,
+  "fecha_consulta": "2026-10-26",
+  "sha256": "2010768ff24951281cc17e708508e2a68be2eb36f54689d060aa2b45a2d6582f",
+  "bytes": 4611683,
+  "tipo": "pdf",
+  "nombre_original": "1. PETI_2026 V1 (1).pdf",
+  "content_type": null,
+  "last_modified_servidor": null,
+  "paginas": null,
+  "paginas_ocr": [],
+  "advertencias": [
+    "No se pudo compilar el extractor de texto (swiftc no disponible: [Errno 2] No such file or directory: 'swiftc'). El original se conserva sin texto extraído."
+  ]
+}

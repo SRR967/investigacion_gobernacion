@@ -2,3 +2,6 @@ build/
 *.aux
 *.log
 *.synctex.gz
+
+# Originales de fuentes: pesados e inmutables; integridad por SHA-256 en fuentes_originales/manifiesto.md
+fuentes_originales/**/*.pdf

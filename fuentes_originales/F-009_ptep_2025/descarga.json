@@ -1,0 +1,21 @@
+{
+  "ok": true,
+  "id": "F-009",
+  "slug": "ptep_2025",
+  "archivo": "fuentes_originales/F-009_ptep_2025/Programa de Transparencia y Ética Pública- Ptep 2025.pdf",
+  "texto": null,
+  "url_origen": null,
+  "url_final": null,
+  "fecha_consulta": "2026-10-26",
+  "sha256": "cefaf388ab4effab88f7553631afde1662cdb981c41a81dd2fe2899e4e027e6b",
+  "bytes": 12877194,
+  "tipo": "pdf",
+  "nombre_original": "Programa de Transparencia y Ética Pública- Ptep 2025.pdf",
+  "content_type": null,
+  "last_modified_servidor": null,
+  "paginas": null,
+  "paginas_ocr": [],
+  "advertencias": [
+    "No se pudo compilar el extractor de texto (swiftc no disponible: [Errno 2] No such file or directory: 'swiftc'). El original se conserva sin texto extraído."
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "ok": true,
+  "id": "F-005",
+  "slug": "proyecto_ordenanza",
+  "archivo": "fuentes_originales/F-005_proyecto_ordenanza/Proyecto_de_Ordenanza_Plan_de_Desarrollo_Por_Un_Huila_Grande_2024-2027.pdf",
+  "texto": "fuentes_texto/F-005_proyecto_ordenanza.txt",
+  "url_origen": null,
+  "url_final": null,
+  "fecha_consulta": "2026-10-26",
+  "sha256": "1851bcd382dbc3a71d906f80270f3d788c5a798a427e35d930040718e9ccad0f",
+  "bytes": 7246065,
+  "tipo": "pdf",
+  "nombre_original": "Proyecto_de_Ordenanza_Plan_de_Desarrollo_Por_Un_Huila_Grande_2024-2027.pdf",
+  "content_type": null,
+  "last_modified_servidor": null,
+  "paginas": null,
+  "paginas_ocr": [],
+  "advertencias": [
+    "No se pudo compilar el extractor de texto (swiftc no disponible: [Errno 2] No such file or directory: 'swiftc'). El original se conserva sin texto extraído."
+  ]
+}

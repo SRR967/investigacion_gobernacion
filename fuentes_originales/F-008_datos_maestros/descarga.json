@@ -1,0 +1,21 @@
+{
+  "ok": true,
+  "id": "F-008",
+  "slug": "datos_maestros",
+  "archivo": "fuentes_originales/F-008_datos_maestros/GOBERNACION_DEL_HUILA-Datos_Maestros-De_Referencia.pdf",
+  "texto": "fuentes_texto/F-008_datos_maestros.txt",
+  "url_origen": null,
+  "url_final": null,
+  "fecha_consulta": "2026-10-26",
+  "sha256": "e815f5d15aef0f8d86f72a044389d7a03586d21c660fe1715c6f2c75c4f9d41b",
+  "bytes": 667133,
+  "tipo": "pdf",
+  "nombre_original": "GOBERNACION_DEL_HUILA-Datos_Maestros-De_Referencia.pdf",
+  "content_type": null,
+  "last_modified_servidor": null,
+  "paginas": null,
+  "paginas_ocr": [],
+  "advertencias": [
+    "No se pudo compilar el extractor de texto (swiftc no disponible: [Errno 2] No such file or directory: 'swiftc'). El original se conserva sin texto extraído."
+  ]
+}

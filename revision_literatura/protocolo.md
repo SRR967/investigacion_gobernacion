@@ -1,6 +1,6 @@
 # Protocolo de la revisión de literatura
 
-Estado: **propuesta, pendiente de aprobación de Santiago** · Creado: 2026-10-21 · Propuesta: 2026-10-28
+Estado: **aprobado por Santiago el 2026-10-28** («empieza a buscar») · Creado: 2026-10-21
 Lo completa el agente `investigador-de-literatura` ANTES de buscar. Una vez fechado y aprobado por Santiago, no se cambia sin dejar constancia (sección «Cambios al protocolo»).
 
 Tema de trabajo (la pregunta del estudio sigue en borrador, D-017): la interoperabilidad de datos como medio para que una entidad pública deje de pedir al ciudadano documentos que ella misma tiene o puede consultar.
@@ -39,6 +39,20 @@ Registro de cada búsqueda ejecutada:
 
 | Base o buscador | Cadena de búsqueda | Fecha de búsqueda | Resultados | Observaciones |
 |---|---|---|---|---|
+| Consensus | definition of government interoperability e-government | 2026-10-28 | 10 | Ronda 1 |
+| Consensus | administrative burden citizens learning compliance psychological costs | 2026-10-28 | 0 (límite de tasa; repetida abajo) | Ronda 1 |
+| Consensus | once-only principle e-government implementation | 2026-10-28 | 0 (límite de tasa; cubierta por SciSpace y la búsqueda siguiente) | Ronda 1 |
+| SciSpace | How has the once-only principle been implemented in European e-government and what results or challenges have been reported? | 2026-10-28 | 10 | Ronda 1 |
+| Consensus | administrative burden in policy implementation learning, compliance and psychological costs | 2026-10-28 | 9 | Ronda 1 |
+| SciSpace | What does research on interoperability in Latin American governments, especially Colombia, report about data exchange between public agencies for citizen services? | 2026-10-28 | 10 | Ronda 1 |
+| Web | BID "El fin del trámite eterno" ciudadanos burocracia gobierno digital Roseth 2018 pdf | 2026-10-28 | 10 enlaces; 1 documento | Ronda 1 |
+| Web | European Interoperability Framework implementation strategy COM(2017) 134 … | 2026-10-28 | 9 enlaces; 1 documento | Ronda 1 |
+| Web | MinTIC Marco de Interoperabilidad para Gobierno Digital versión 2019 documento (y variante con pdf) | 2026-10-28 | 10 enlaces; 3 documentos | Ronda 1 |
+| Consensus | barriers to interoperability and information sharing in local government | 2026-10-28 | 10 | Ronda 1 |
+| SciSpace | Does digitalization of public services actually reduce administrative burden on citizens, or can it shift or increase burdens? | 2026-10-28 | 10 | Ronda 1 |
+| Consensus | once-only principle reduce administrative burden citizens data reuse public administrations | 2026-10-28 | 10 | Ronda 1 |
+| Web | interoperabilidad trámites gobernación OR alcaldía Colombia tesis maestría reducción de requisitos documentos ciudadano | 2026-10-28 | 9 enlaces; 1 documento | Ronda 1 |
+| Web | scielo interoperabilidad gobierno digital Colombia entidades territoriales artículo | 2026-10-28 | 9 enlaces; 2 documentos | Ronda 1 |
 
 ## 4. Cambios al protocolo
 

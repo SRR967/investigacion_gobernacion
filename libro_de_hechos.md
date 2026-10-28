@@ -176,6 +176,7 @@ Verificación del 2026-10-20: texto de los PDF obtenido por extracción automát
 | D-015 | Se vacía la Introducción (planteamiento, pregunta, justificación, objetivos, alcance y organización) y se dejan solo marcas de pendiente; se retiran del documento el título, las palabras clave y la alineación con el Producto 4599017 heredados del tema descartado | Pedido expreso del autor; la pregunta propuesta no lo convence | 2026-10-21 |
 | D-016 | Cambio de enfoque del problema: de la falta de iniciativa de trámites en el PETI (refutada por H-076) a la solicitud de documentos que la entidad ya posee, según el diagnóstico del propio PTEP 2026 (H-077). La brecha se mantiene | Aprobado por Santiago: el problema lo reconoce la propia entidad y no depende de plazos ni de diferencias de redacción entre planes | 2026-10-21 |
 | D-007 | Los PDF escaneados se leen con OCR (macOS Vision); un hecho obtenido por OCR se anota como tal y se ratifica con el original antes de citarlo textualmente | No hay herramientas de OCR instaladas; Vision viene con macOS | 2026-10-20 |
+| D-017 | La Introducción (planteamiento, pregunta, objetivos y justificación, versión 3) se conserva como borrador de trabajo; no se corrige ni se aprueba ahora. Las objeciones del auditor (informe 4) quedan abiertas y se retoman cuando la investigación aporte los datos que faltan | Criterio del autor: con hechos tan preliminares no es factible cerrar la introducción ni los objetivos | 2026-10-28 |
 
 ## E. Pendientes
 

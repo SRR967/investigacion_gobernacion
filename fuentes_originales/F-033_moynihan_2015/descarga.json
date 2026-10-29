@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "id": "F-033",
+  "slug": "moynihan_2015",
+  "archivo": "fuentes_originales/F-033_moynihan_2015/muu009.pdf",
+  "texto": null,
+  "url_origen": "https://digitalgovernmenthub.org/wp-content/uploads/2022/07/muu009.pdf",
+  "url_final": "https://digitalgovernmenthub.org/wp-content/uploads/2022/07/muu009.pdf",
+  "fecha_consulta": "2026-10-29",
+  "sha256": "e9337ebfc92c2984cbed8c9264fada8ea2ab1ffbb395c4988116d64ce8fa846c",
+  "bytes": 412563,
+  "tipo": "pdf",
+  "nombre_original": "muu009.pdf",
+  "content_type": null,
+  "via": "urllib",
+  "last_modified_servidor": null,
+  "paginas": null,
+  "paginas_ocr": [],
+  "advertencias": [
+    "No se pudo compilar el extractor de texto (swiftc no disponible: [Errno 2] No such file or directory: 'swiftc'). El original se conserva sin texto extraído."
+  ]
+}

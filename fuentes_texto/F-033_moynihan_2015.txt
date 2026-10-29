@@ -1,0 +1,1533 @@
+=== p1 ===
+                                                                                                    JPART 25:43–69
+
+
+
+
+Administrative Burden: Learning,
+Psychological, and Compliance Costs in
+Citizen-State Interactions
+Donald Moynihan,* Pamela Herd,* Hope Harvey†
+*University of Wisconsin–Madison; †Harvard University
+
+
+
+
+                                                                                                                     Downloaded from https://academic.oup.com/jpart/article/25/1/43/885957 by guest on 03 October 2022
+ABSTRACT
+
+
+      This article offers two theoretical contributions. First, we develop the concept of administra-
+      tive burden as an important variable in understanding how citizens experience the state.
+      Administrative burden is conceptualized as a function of learning, psychological, and com-
+      pliance costs that citizens experience in their interactions with government. Second, we
+      argue that administrative burden is a venue of politics, that is, the level of administrative
+      burden placed on an individual, as well as the distribution of burden between the state
+      and the individual, will often be a function of deliberate political choice rather than simply
+      a product of historical accident or neglect. The opaque nature of administrative burdens
+      may facilitate their use as forms of “hidden politics,” where significant policy changes occur
+      without broad political consideration. We illustrate this argument via an analysis of the
+      evolution of Medicaid policies in the state of Wisconsin. Across three Governorships, the
+      level of burden evolved in ways consistent with the differing political philosophies of each
+      Governor, with federal actors playing a secondary but important role in shaping burden in
+      this intergovernmental program. We conclude by sketching a research agenda centered on
+      administrative burden.
+
+
+Introduction
+Our experience of government is shaped through the burdens we encounter in our
+interactions with the state. These burdens are an important yet understudied part
+of governance, since they affect whether citizens succeed in accessing services (did
+I get what I want?), whether public policies succeed (did a program reach the targeted
+group?), and the perceptions of government (was I treated fairly and with respect?).
+     Aspects of administrative burden are explored in different streams of research,
+such as studies of red tape, political sociology, street-level bureaucracy, policy feed-
+back, and program take-up. But across prior work there is not a broad or common
+conceptualization of administrative burden. In the first section of this article, we artic-
+ulate administrative burden as composed of learning costs, psychological costs, and
+compliance costs that citizens face in their interactions with government. Accounting
+
+Address correspondence to the author at dmoynihan@lafollette.wisc.edu
+
+doi:10.1093/jopart/muu009
+Advance Access publication February 27, 2014
+© The Author 2014. Published by Oxford University Press on behalf of the Journal of Public Administration Research
+and Theory, Inc. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com.
+=== p2 ===
+44   Journal of Public Administration Research and Theory
+
+
+
+     for administrative burden alters the unit of analysis in citizen-state interactions,
+     emphasizing those factors that make the experience of the citizen more or less oner-
+     ous. For some interactions burdens may be low, and for some they may be high, and in
+     many cases burdens are in place to serve legitimate public values. Understanding why
+     such burdens occur, and how they shape the experience of the state should be central
+     questions in the study of public administration.
+           In addition to conceptualizing administrative burden, a second goal of the article
+     is to examine the relationship between burden and politics. We argue that the creation
+     and reduction of burden, as well as the distribution of burden between the state and
+     the individual, is a venue where politics plays out. The preferences of political actors
+
+
+
+
+                                                                                                   Downloaded from https://academic.oup.com/jpart/article/25/1/43/885957 by guest on 03 October 2022
+     about a policy will in turn shape what they perceive as the appropriate level of burden
+     in that policy area—for example, proponents of welfare programs are more apt to seek
+     to reduce burdens and increase access, whereas opponents will favor heavier burdens.
+     We support this claim using a case study of the evolution of burden in one policy area
+     (Medicaid) in the state of Wisconsin. The case also illustrates a second claim, which is
+     that administrative burdens form an important part of the “hidden politics” that char-
+     acterize contemporary battles about the role of the state (Hacker 2004; Thompson
+     2012). Policymakers will alter burdens as an alternative or complement to more overt
+     forms of political activity. The attractiveness of administrative burdens as a form a
+     “policymaking by other means” (Lineberry 1977) is tied to their opacity. The details
+     of administration that give rise to burden may be largely invisible to the public and
+     even most policymakers, their impact poorly understood. Changes to burdens may be
+     presented as technical fixes without any specific policy intent, or to serve values widely
+     supported or perceived as apolitical (Edelman 1985).
+           We conclude the article by considering the research questions raised by the pres-
+     ence of administrative burden in citizen-state interactions. Such interactions com-
+     municate lessons to citizens, signaling their standing and expectations about their
+     political engagement (Soss 1999). Such lessons, in turn, impact the political participa-
+     tion of citizens (Bruch, Marx-Freere, and Soss 2010). Administrative burdens there-
+     fore mediate how citizens experience the state as a positive or negative force, frame
+     how they understand their relationship with it, and influence how citizens engage in
+     civic actions. Burdens are consequential in other ways. They matter to whether citi-
+     zens access services to which they are entitled and desire. If policies fail to reach their
+     intended targets because of burdens, this undermines their potential to achieve their
+     goals. Burdens also matter to normative and empirical discussions of how the state
+     mediates equity, since some groups of citizens may be more or less targeted by bur-
+     dens, or more or less able to manage burdens. These divisions are especially important
+     in the context of race, class, and gender differences.
+
+
+     CONCEPTUALIZING ADMINISTRATIVE BURDEN
+     The term “administrative burden” may evoke images of business regulation, or basic
+     bureaucratic encounters such as renewing ones driving license. But any context in
+     which the state regulates private behavior or structures how individuals seek pub-
+     lic services is a venue to study the burdens imposed in that process. For example,
+     in the area of immigration, US citizenship applications require complex paperwork,
+=== p3 ===
+                                                     Moynihan et al.   Administrative Burden   45
+
+
+
+demanding documentation, application fees, English proficiency, and knowledge of
+US history. Approximately half of individuals eligible for US naturalization do not
+apply (Fix, Passel, and Sucher, 2003), and surveys suggest that administrative burdens
+are partly responsible (Gonzalez-Barrera et al. 2013).
+     Education is another policy area where burdens matter. Take the example of college
+attendance. High-achieving low-income students face learning costs that their better-
+advised high-income peers do not. Lacking knowledge on likely financial aid benefits, or
+their eligibility for application-fee waivers, low-income students are less likely to apply
+to selective institutions that would actually cost them less (Hoxby and Avery 2012).
+Experiments show that overcoming these learning costs has a large effect on whether
+
+
+
+
+                                                                                                    Downloaded from https://academic.oup.com/jpart/article/25/1/43/885957 by guest on 03 October 2022
+students apply for and eventually attend college. The provision of help in completing
+applications among those applying for federal financial aid for postsecondary schooling
+resulted in dramatic increases in applications and actual college enrollment (Bettinger
+et al. 2012). Another experiment provided students information packets that included
+a summary of appropriate schools given their academic achievement, the net costs of
+different colleges for students at different income levels, and a voucher for free college
+applications. Low-income students receiving this treatment were 46% more likely to
+attend a selective institution than a control group (Hoxby and Turner 2012).
+     The ability of citizens to exercise democratic rights by voting is another area
+where burdens matter. Historically, burdens such as literacy tests, applied on racial
+lines, have been used to deliberately limit access to ballots (Keyssar 2001). Although
+the contemporary version of this debate focuses on voter identification requirements
+(Hale and McNeal 2010), the less-contentious burdens imposed by voter registration
+processes also matter. Relative to states where voters must register weeks before the
+election, states that allow voters to register on election day have higher turnout rates
+of between 3% and 7% (Burden et al. 2014).
+     Common to these examples are individuals seeking access to basic public services
+central to their identity and capacities as citizens, and encountering different types of
+costs that are not just a nuisance, but have a material effect on citizens and policy goals.
+To systematically identify and understand the effect of such burdens in different areas
+of policy implementation, we need to be able to define them, a task we turn to next.
+
+
+Defining Administrative Burden
+Administrative burden has been previously defined as an individual’s experience of
+policy implementation as onerous (Burden et al. 2012). This simple definition sig-
+nals that burdens are distinct from rules, pointing instead to the costs that individu-
+als experience in their interactions with the state. Here, building on prior work (e.g.,
+Currie 2006; Hernanz, Malherbet and Pellizzari 2004; Orbach 2006; Remler, Rachlin,
+and Glied 2001), we briefly identify broad categories of costs that constitute admin-
+istrative burden (see table 1), offering more detailed examples of these costs in the
+context of social programs below.
+     Learning costs arise from engaging in search processes to collect information about
+public services, and assessing how they are relevant to the individual. Psychological
+costs include the stigma of applying for or participating in a program with negative
+perceptions, a sense of loss of power or autonomy in interactions with the state, or the
+=== p4 ===
+46   Journal of Public Administration Research and Theory
+
+
+
+     Table 1
+     The Components of Administrative Burden
+     Type of Cost                                      Application to Social Policy
+     Learning costs                   Citizens must learn about the program, whether they are
+                                        eligible, the nature of benefits, and how to access services.
+     Psychological costs              Citizens face stigma of participating in an unpopular program,
+                                        as well as the loss of autonomy and increase in stress arising
+                                        from program processes.
+     Compliance costs                 Citizens must complete applications and reenrollments, provide
+                                        documentation of their standing, and avoid or respond to
+                                        discretionary demands.
+
+
+
+
+                                                                                                         Downloaded from https://academic.oup.com/jpart/article/25/1/43/885957 by guest on 03 October 2022
+     stresses of dealing with administrative processes. Compliance costs are the burdens of
+     following administrative rules and requirements. For example, for those applying to a
+     program for services, these are the costs of completing forms, or providing documen-
+     tation of status. For individuals or businesses being regulated by government, these
+     are the costs of complying with regulation.
+
+
+     Cognitive and Social Psychological Aspects of Burden
+     Our framing of administrative burden as costs may infer a rational approach where
+     citizens weigh costs against expected benefits. But research from behavioral economics
+     warns us that individuals often do not make decisions in this fashion (for an overview
+     see Baicker, Congdon, and Mullainathan 2012; Shafir 2013). The impact of burdens
+     depends upon on how individuals construe the world, not on objective measures of
+     costs and benefits. This construal is shaped by contextual factors that frame burdens
+     and interact with individual psychological processes, including cognitive biases that
+     may generate disproportionate response to burden. This basic insight explains why
+     burdens that seem minor and defensible when designed by the administrator may exert
+     dramatic effects when experienced by citizens.
+          Behavioral economics also helps to identify particular cognitive biases that make
+     burdens more consequential (Shafir 2013). Individuals have biases in perceiving risk and
+     probability, which in turn alter their willingness to overcome administrative burdens. For
+     example, someone who thinks they will not become sick will be less likely to make the
+     effort to overcome the burdens involved in enrolling in health insurance. Individuals also
+     tend to overvalue the status quo of their situation, even if a different state is objectively
+     superior. This implies that how institutions structure the default choice individuals face
+     will have significant effects. For example, changing the default on private savings plan
+     from nonparticipation to participation has a large effect on take-up rates (Choi et al.
+     2004). Individuals have biases in temporal planning, favoring the present and discount-
+     ing the future. Avoiding burdens in the present may therefore be preferred even at the
+     expense of significant long-term net benefits. Another bias arises from choice overload
+     or decisional conflict, which occurs when individuals feel overwhelmed by a multiplicity
+     of choice, resulting in indecision, the selection of defaults, or poor decisions. This sug-
+     gests the virtue of presenting citizens with simple and limited choices.
+=== p5 ===
+                                                                   Moynihan et al.      Administrative Burden        47
+
+
+
+     Work from social psychology points to other micro-foundational aspects of
+behavior relevant to understanding burden. Individuals have a basic need for auton-
+omy over their self and actions (Deci and Ryan 1985). In processes where the state
+imposes burdens, it acts as a source of extrinsic direction. The more forceful that
+direction and the more at odds with the individual’s intrinsic preferences, the greater
+the sense of loss of autonomy, which in turn will lower willingness to participate in
+and satisfaction with the process. Social psychology also points to the importance of
+procedural justice (Lind and Tyler 1988). Individuals care as much or more about the
+process of their interactions with the state as they do about the outcome. This implies
+that procedures perceived as consistent, fair, and equitable are fundamentally impor-
+
+
+
+
+                                                                                                                          Downloaded from https://academic.oup.com/jpart/article/25/1/43/885957 by guest on 03 October 2022
+tant to citizens.
+     If behavioral economics elucidates why small burdens can be a big deal, social psy-
+chology suggests that violating basic psychological needs of autonomy and respectful
+treatment exacerbates burdens. These insights align well with observational research
+in policy feedback studies, which shows how citizens value processes seen as respect-
+ful and empowering, but respond negatively to processes that are seen as unfair and
+demeaning (Bruch, Marx-Freere, and Soss 2010; Soss 1999). Cross-national compari-
+sons of citizen trust in government find that fair and equitable processes matter more
+than assessments of government performance (Van Ryzin 2011).
+
+
+ADMINISTRATIVE BURDEN IN SOCIAL POLICIES
+The study of administrative burden is relatively rare in the field of public administra-
+tion, even in literatures centered on citizens-state interactions (e.g., citizen participa-
+tion, coproduction, or customer-service). In red tape research, an obvious corollary,
+the primary focus has been on how rules affect the experience of administrative
+employees (Bozeman and Feeney 2011; Moynihan and Herd 2010).1 Attention to
+the ways in which rules or administrative discretion reduces access to programs is
+most prominent at the intersection of public administration and social policy (e.g.,
+Brodkin and Majmundar 2010; Fossett and Thompson 2006), reflecting a broader
+concern with issues of “bureaucratic disentitlement” (Lipsky 1984) and how this
+relates to matter of equity (Piven and Cloward 1971). This section reviews social
+policy research in the United States that provides examples of burdens and efforts to
+reduce them.
+
+
+1      Although much of what we discuss as administrative burden might be understood colloquially as red tape,
+it is important to respect the careful and valuable conceptual development in red tape research that has taken
+place in the last 20 years, and we seek here to distinguish these related concepts. As noted above, the first main
+distinction is the population studied, with red tape traditionally focusing on employees, not citizens. A second
+and more important conceptual distinction is that dominant definition of red tape excludes rules that exert
+a compliance burden but still have a legitimate purpose (Bozeman 2000, 12). In considering the definition
+of red tape, Bozeman and Feeney (2011, 48) note that: “Red tape is bad. It is not an aid to accountability or
+legitimacy or a means of ensuring participation. Rules that appropriately hold organizations accountable may
+not be popular with the people constrained by them, but they are not red tape.” By contrast, we assume that
+administrative burdens will often serve legitimate purposes and are not inherently bad. A third important
+distinction with red tape research is that while it focuses on the compliance burden generated by rules, we argue
+that this is just one component of a broader experience of burden, falling into the category of compliance costs.
+=== p6 ===
+48   Journal of Public Administration Research and Theory
+
+
+
+          Compared to the near 100% take-up for universal programs like Social Security
+     and Medicare, estimates of take-up rates by eligible beneficiaries of means-tested
+     programs are much lower: 40%–60% for Supplemental Social Insurance (Elder
+     and Powers 2006); two-thirds for the Supplemental Nutrition Assistance Program
+     (SNAP, frequently referred to as food stamps) (Food and Nutrition Service 2007);
+     30%–60% of unemployment insurance benefits (Kroft 2008); 50%–70% for Medicaid
+     (Sommers et al. 2012); and 75% for the Earned Income Tax Credit (EITC) (Plueger
+     2009). Although Aid to Families with Dependent Children (AFDC) had an esti-
+     mated take-up rate of between 77%–86%, participation rates declined dramatically
+     after 1990s welfare reform, so that its successor, Temporary Assistance for Needy
+
+
+
+
+                                                                                             Downloaded from https://academic.oup.com/jpart/article/25/1/43/885957 by guest on 03 October 2022
+     Families (TANF) had a much lower take-up rate of between 42 to 52% (ASPE
+     2007, II-19). The central difference between universal and means-tested programs
+     is that the latter programs must do more to distinguish between the eligible and
+     ineligible, and in creating administrative processes to do so, they impose higher
+     levels of burdens.
+
+
+     Learning Costs
+     The effects of learning costs on take-up in social policy have been inferred in vari-
+     ous ways. One approach is to document lack of knowledge about a program by its
+     target population. Individuals are frequently unaware of a program, whether they
+     qualify, what is required to do so, and the size of the benefits at stake. Individual
+     knowledge varies across programs, but even for relatively prominent and valuable
+     programs such as the EITC, surveys have found that 43% of those eligible were
+     unaware of the program, 33% believed incorrectly they were ineligible, and that
+     respondents significantly underestimated benefits (Bhargava and Manoli 2011).
+     About half of eligible nonparticipants for job training programs (Heckman and
+     Smith 2003) and SNAP (Bartlett, Burstein, and Hamilton 2004) believe they are
+     not eligible. Surveys of nonparticipants indicate that they would apply for pro-
+     grams if they knew for certain they were eligible (Bartlett, Burstein, and Hamilton
+     2004).
+         Learning costs have also been evoked to explain the negative effects of other
+     variables on take-up, such as living further from administrative centers (Warlick
+     1982), having lower education, or language barriers (Heckman and Smith 2003).
+     Learning costs also help to explain why those already in one program become
+     more likely to access other services (Currie and Gruber 1996), since applying
+     to one program can generate knowledge about others. Association with groups
+     such as unions, or aid from private actors such as tax-preparers, has been
+     shown to increase take-up (Budd and McCall 1997; Kopczuk and Pop-Eleches
+     2007), as these third parties reduce learning costs by directly providing relevant
+     information.
+         Some research has directly measured the effect of providing additional infor-
+     mation. The Internal Revenue Service sends reminders about the EITC to those
+     who appear to be eligible, which has been shown to generate a 41% jump in take-
+     up among initial nonclaimants (Bhargava and Manoli 2011). One field experiment
+     found that additional reminders increased eligible claims even further. The same
+=== p7 ===
+                                                   Moynihan et al.   Administrative Burden   49
+
+
+
+experiment also showed that simpler reminders and providing basic benefit infor-
+mation generated a greater return than more complex reminders, or reminders that
+lacked benefit information (Bhargava and Manoli 2011). Another field experiment
+found that informing individuals about their eligibility for SNAP raised participa-
+tion rates (Daponte, Sanders, and Taylor 1999).
+
+
+Psychological Costs
+Different streams of research point to the way in which psychological costs can emerge
+in the provision of social benefits. Economists have pointed to the stigma of partici-
+
+
+
+
+                                                                                                  Downloaded from https://academic.oup.com/jpart/article/25/1/43/885957 by guest on 03 October 2022
+pating in unpopular programs (Moffitt 1983). Research from political science and
+political sociology provides a logic for why programs serving the poor are unpopular,
+with recipients characterized as ‘undeserving’ (Horan and Austin 1974; Katz 1986;
+Piven and Cloward 1971). This is in stark contrast to programs of a more universal
+nature, such as Social Security, where the broader based of beneficiaries are perceived
+of as ‘deserving’ (Mettler 2011).
+     Individuals may opt out of participating in unpopular programs to avoiding
+damaging their self-identity, or the negative treatments they believe are associated
+with participation (Stuber and Schlesinger 2006). For example, the stigma of using
+foodstamps (as opposed to discount coupons) at a grocery store is a consequence
+of political perceptions of the program. In a survey of likely eligible individuals not
+receiving food stamp benefits 27% said they would not apply (Bartlett, Burstein, and
+Hamilton 2004). Why not? Many preferred to not be dependent upon what were seen
+as government handouts. Many also reported a desire for others not to observe them
+shopping with food stamps, know they had financial needs, or a desire to avoid going
+to the welfare office.
+     If an individual chooses to participate in a program, administrative practices
+can reinforce the effect of stigma. In particular, interactions with the state may be
+experiences of power, or more precisely, the loss of personal autonomy. As the inter-
+action is experienced as degrading, intrusive, and directive, it erodes the basic need
+for autonomy. Processes to receive benefits may require evidence of oneself or one’s
+behavior before the state that is normally reserved for citizens under suspicion of
+lawbreaking, and may communicate that the claimant is being judged in moral terms.
+Historically, benefits to single mothers have often been conditioned on case workers
+judgment that claimants were providing suitable homes, which could be examined via
+unannounced “midnight raids” (Piven and Cloward 1971). Echoes of such extreme
+examples remain in parts of the contemporary welfare system. For example, finger-
+printing applicants lowers food stamp application completion (Bartlett, Burstein,
+and Hamilton 2004), and some US states have attempted to require urine testing
+for drugs as a requirement for the receipt of benefits. The questions claimants face
+may force them to provide what they see as private and unnecessary information,
+such as sexual behavior or the income of cohabitants (Brodkin 1992; Soss 1999).
+A sense of subservience and loss of autonomy is furthered when claimants feel they
+must artificially alter their identify to be successful, contorting themselves into what
+they perceive as the caseworker’s image of the appropriate client (Lipsky 1980; Soss
+1999), or participate in requirements whose purpose they disagree with. For example,
+=== p8 ===
+50   Journal of Public Administration Research and Theory
+
+
+
+     participants may view job-training programs as offering few skills enabling them to
+     move out of poverty, but feel little choice but to participate (Dias and Maynard-
+     Moody 2007).
+          Other aspects of citizen-state interactions may more subtly reinforce messages
+     of power and standing. For example, Goodsell (1977) notes that government wait-
+     ing spaces tend to be systematically designed to communicate symbols to those who
+     use them. Even, the simple act of waiting communicates that the state believes that
+     individuals’ time is of little value (Lipsky 1980). Such spaces may also be charac-
+     terized by few amenities, the use of security, and partitions between claimants and
+     case workers, further communicating the limited standing of the claimant (Soss
+
+
+
+
+                                                                                                Downloaded from https://academic.oup.com/jpart/article/25/1/43/885957 by guest on 03 October 2022
+     1999).
+          Studies of welfare programs illustrate how the state may communicate that the
+     individual lacks the capacity to determine how to live their lives, and must conform to
+     externally imposed processes and directives. Qualitative accounts find welfare claim-
+     ants acutely aware of the disempowering effects of such processes, and their relative
+     lack of autonomy in the interaction, resulting in a sense frustration, powerlessness,
+     and degradation (Dias and Maynard-Moody 2007; Lipsky 1980; Soss 1999). One
+     largely unexamined aspect of psychological costs is the stresses they impose on claim-
+     ants. In situations where the individual depends upon the state for vital resources—for
+     example, the provision of health services, income, immigration status—uncertainty
+     about the receipt of those benefits, as well as frustrations in the process of seeking
+     may elevate stresses among individuals. Although there is extensive evidence that car-
+     egiving of the old, sick, and disabled is associated with higher stress and consequent
+     poor health (Pinquart and Sörensen 2003), there has been little effort to examine to
+     what degree that stress is a consequence of negative interactions with the state while
+     attempting to obtain benefits.
+          Understanding the imposition of psychological costs by the state on its citi-
+     zens is inherently important, and policy feedback research suggests that these costs
+     might lower civic participation (Bruch, Marx-Freere, and Soss 2010). However,
+     the evidence of how psychological costs matter to program take-up is less strong
+     than for other types of burdens. The expanded use of electronic benefit cards to
+     replace actual food stamps should reduce stigma costs, but there is mixed evidence
+     on whether such cards have increased take-up (Ratcliffe, McKernan, and Finegold
+     2007; Schanzenbach 2009). A field experiment to reduce stigma with the EITC (by
+     sending mailings to eligible respondents that emphasize higher peer use, or framing
+     benefits as a reward for hard work) did not increase take-up (Bhargava and Manoli
+     2011), and there is not strong evidence that advertising campaigns that frame pro-
+     grams in positive terms matter to take-up (Kincheloe, Frates, and Brown 2007;
+     Ratcliffe, McKernan, and Finegold 2007). These results may indicate that opinions
+     about programs are difficult to change. It is also worth noting that we largely lack
+     experimental evidence on negative treatments likely to induce psychological costs,
+     for example, drug testing claimants. Additionally, although psychological and com-
+     pliance burdens are conceptually distinct, it is often difficult to practically separate
+     them in the type of empirical studies described here. Some of the benefits associated
+     with reductions in compliance burdens discussed next may be attributable to reduc-
+     tions in psychological costs.
+=== p9 ===
+                                                                   Moynihan et al.     Administrative Burden       51
+
+
+
+Compliance Costs
+Of the three different aspects of burden identified in table 1, there is the strongest
+empirical evidence on the effects of compliance costs.2 Surveys of nonparticipants in
+SNAP (Bartlett, Burstein, and Hamilton 2004) found that 40% emphasized the paper-
+work involved in applying, whereas another 37% pointed to the difficulty in taking
+the time to apply given work or familial responsibilities. Among those who actually
+applied but then dropped out, one quarter indicated that this was because of the bur-
+dens in the application process.
+     Natural experiments have shown that new income documentation requirements
+reduce program participation among eligible participants (Brien and Swann 1999).
+
+
+
+
+                                                                                                                        Downloaded from https://academic.oup.com/jpart/article/25/1/43/885957 by guest on 03 October 2022
+Requiring applicants to undertake face-to-face interviews with case workers also
+decreases participation (Wolfe and Scrivner 2005).
+     Participation in TANF sharply declined relative to its predecessor AFDC, which
+may partly have been the result of the more stringent conditions of participation.
+Brodkin and Majmundar (2010) find that procedural barriers explain a significant
+amount of the decline in welfare caseloads. Ewalt and Jennings (2004) find that an
+index that captures the restrictiveness of state policies (including barriers such as doc-
+umenting workforce participation requirements) and a measure of the organizational
+culture of case workers are also associated with greater caseload reductions. The latter
+finding reflects the potential for bureaucratic discretion to be used to burden appli-
+cants (Brodkin 2011). An example of the use of such discretion comes from Soss,
+Fording, and Schram’s (2011, 210–11) study of contractor-run job-training programs.
+One company determined that it was not reaching its job placement targets because
+some participants were not sufficiently motivated, and instituted a requirement that
+participants would have to attend 40 h of training classes (with no absences) before
+benefits could be received.
+     There is also evidence that efforts to reduce compliance costs increase take-up.
+States that simplified reporting procedures and required less frequent recertification
+in SNAP saw an increase in successful claimants (Hanratty 2006; Kabbani and Wilde
+2003; Ratcliffe, McKernan, and Finegold 2007). The use of a single form for multiple
+programs is associated with increased take-up in Medicaid (Leininger et al. 2011).
+Similarly, having easy access to application material increases take-up. The availabil-
+ity of electronic applications increased EITC and SNAP take-up (Kopczuk and Pop-
+Eleches 2007; Schwabish 2012). The provision of help in completing applications also
+matters. Access to community-based application assistants increased of certain groups
+in Medicaid enrollment (Aizer 2003), and providing application help has been shown
+to lead to an almost 80% increase in SNAP applications relative to those who were
+informed they were eligible but given no special assistance (Schanzenbach 2009). The
+
+
+2    The existing empirical evidence on administrative burden may underestimate its effects in one key way. In
+some cases, the estimated effects of changes in take-up due to eligibility changes may partly reflect reductions
+in administrative burden that occur under the new system (Hanratty 2006). A prime example is removing the
+requirement that applicants cannot have substantial assets to receive benefits. This in turn removes the need
+for an asset test, and the need for the claimant to provide documentation on assets. Any resulting increase
+in take-up will be credited to the change in eligibility, but some portion of it likely that to do with reduced
+compliance costs.
+=== p10 ===
+52   Journal of Public Administration Research and Theory
+
+
+
+     most dramatic way by which the state can reduce application compliance burden is to
+     autoenroll eligible individuals into a program based on administrative data, which has
+     also increased take-up of health insurance programs (Dorn, Hill, and Hogan 2009;
+     Herd et al. 2013).
+
+
+     BURDEN AS A POLICY INSTRUMENT
+     Some research at the intersection of politics, inequality and social policy has previ-
+     ously argued that burdens are imposed deliberately to limit claims on the public purse,
+     and targeted at groups with little political power (e.g., Brodkin 2011; Brodkin and
+
+
+
+
+                                                                                                  Downloaded from https://academic.oup.com/jpart/article/25/1/43/885957 by guest on 03 October 2022
+     Lipsky 1983; Piven and Cloward 1971; Soss, Fording, and Schram 2011). Even so,
+     the link between politics and administratively imposed burdens has not been widely
+     explored in public administration. For example, when the origins of red tape are con-
+     sidered, benign neglect and historical accident are more prominent explanations than
+     deliberate political choice (Moynihan and Herd 2010).
+           Here, we offer two propositions about the relationship between politics and admin-
+     istrative burdens. The first and most basic claim is that administrative burden is a venue
+     where politics plays out. The policy preferences of political actors—most prominently
+     elected officials, but also stakeholders, political appointees, managers, and street-level
+     bureaucrats—will affect their attitudes about the nature of burden in that policy area:
+     whether it should be created or reduced, and the relative balance of burden between the
+     individual and the state. This claim aligns with theoretical traditions that emphasize
+     the willingness of political actors to design administrative structures to serve political
+     ends, even if the outcomes are operationally dysfunctional (Moe 1989).
+           Second, we propose that certain qualities of administrative burden make it attrac-
+     tive to pursue as a form of “policymaking by other means” (Lineberry 1977)—an
+     alternative or complement to more overt forms of policymaking. Hacker (2004) has
+     argued that retrenchment of the welfare state has occurred via “hidden politics,” not
+     just via large-scale formal changes. Although Hacker is most concerned about the
+     failure of the welfare state to evolve to reflect the contemporary shift of risks to the
+     individual, administrative burden fits into the category of “subterranean political pro-
+     cesses that shape ground-level policy effects” (Hacker 2004, 243) that he argues are fun-
+     damental to understanding changes in governance even as they are largely neglected
+     in scholarship. Policy instruments are more attractive to policymakers when they are
+     low profile, minimizing the need for political processes of consultation and delibera-
+     tion (Lascoumes and Le Gales 2007). Administrative burdens are typically opaque.
+     The occurrence of burden in a policy area, or the impact of that occurrence may be
+     only poorly understood by the public, or even most policy actors. For example, social
+     policy changes are most likely to be debated in terms of program generosity or eligibil-
+     ity levels, whereas details such as the length of an application forms or the questions
+     asked on that form are seen as dull, complex, and inconsequential. Such details are
+     likely to be assumed to fall into the domain of administrative execution, and delegated
+     to the executive branch. Another quality of administrative burdens is they can be
+     couched in the language of neutrality or unobjectionable values—changes in burdens
+     may seem like technical fixes without any specific policy intent, or to serve expressive
+     values with broad support (Edelman 1985). For example, increasing burdens might
+=== p11 ===
+                                                                  Moynihan et al.     Administrative Burden         53
+
+
+
+be justified as a means to prevent fraud, even if their intended instrumental effect
+is to support other partisan goals (such as reducing the size of the welfare state, or
+limiting voter turnout in the case of elections). Because of these qualities, burdens are
+especially attractive policy instruments under conditions of policy gridlock, or when
+political actors are reluctant to explicitly acknowledge their true goals.
+
+
+Illustrative Application: Medicaid in Wisconsin
+The case study portion of this article seeks to illustrate the claims made above by nar-
+rating the evolution of administrative burdens in Medicaid (intergovernmental public
+
+
+
+
+                                                                                                                         Downloaded from https://academic.oup.com/jpart/article/25/1/43/885957 by guest on 03 October 2022
+health insurance for individuals with disabilities and/or low incomes) provided by the
+Wisconsin Department of Health Services (DHS)3 across three gubernatorial adminis-
+trations.4 Medicaid is an enormous program, covering about 20% of Americans at any
+point in time, and a key mechanism by which the Patient Protection and Affordable
+Care Act of 2010 seeks to expand health insurance coverage. The case is a relatively
+rich one, including periods where the DHS significantly reduced administrative bur-
+den and expanded access under Governors Tommy Thompson and Jim Doyle, before
+reconsidering this approach under Governor Scott Walker. To make the case that
+administrative burden is a policy instrument, we detail the political frames utilized
+by each Governor in altering Medicaid, and assume that these frames are generally
+reflective of their political preferences (an assumption consistent with interviews of
+officials who served in these administrations). We focus on the Governor because the
+legislature largely delegated the details on program changes to the executive branch in
+the time period studied. We show that gubernatorial preferences aligned with attempts
+to alter administrative burdens, inferring this as evidence that administrative burden
+reflects deliberate choice. We also account for the preferences and important role that
+occupant of the White House plays (drawing strongly on Thompson 2012). Federal
+actors adjudicated waiver requests necessary for significant program reform, some-
+times pushing Governors to further reduce burdens (President Clinton with Governor
+Thompson) or blocking efforts to increase burdens (President Obama with Governor
+Walker). Presidents and Congress also offered financial incentives that encouraged
+states to impose (President Bush) or reduce (Clinton and Obama) burdens.
+     Table 2 summarizes the key changes occuring during each governorship that relate
+to the three aspects of administrative burden. This summary helps to illustrate the
+benefits of our conceptualization of administrative burden. In contrast to a study that
+
+3    The DHS was formerly part of the Department of Health and Family Services, which was split into two
+agencies during the Doyle administration. For the sake of simplicity, we use only the acronym DHS, though in
+some cases we are referring to the former Department.
+4    Data for the case study were collected from 24 interviews of state and local elected officials, their staff,
+administrators, and stakeholders involved in changes in the programs. Program documentation was also
+analyzed to establish a timeline of changes and the nature of those changes. These included all state operations
+memos from 1999 to 2012 that referred to Medicaid, BadgerCare, and BadgerCare Plus eligibility procedures,
+all available application forms from 1999 to 2011; state eligibility handbooks; DHS internal documents
+archived at the Wisconsin Historical Society; state audits and external of the program (Gavin et al. 2003; Sirica
+2001; Swart, Troia, and Ellegard 2004); and waiver requests submitted to the federal Centers for Medicare and
+Medicaid Services by the state and federal responses to these waiver requests. More detailed information on
+data sources can be found in Herd et al. (2013).
+=== p12 ===
+54   Journal of Public Administration Research and Theory
+
+
+
+     Table 2
+     Changes in Administrative Burden in Wisconsin Medicaid Programs
+                                                             Learning   Psychological   Compliance
+     Thompson    Creation of a hotline to help applicants       X
+                 BadgerCare marketing                           X            X
+                 Created short application forma                                            X
+                 Extended redeterminations from six                                         X
+                   to 12 months, allowing for a single
+                   annual redetermination for Medicaid,
+                   BadgerCare, and SNAP
+
+
+
+
+                                                                                                     Downloaded from https://academic.oup.com/jpart/article/25/1/43/885957 by guest on 03 October 2022
+                 Allow phone and mail-in application            X                           X
+                   formsa
+                 Scan state databases for family members        X                           X
+                   of Medicaid recipients likely eligible;
+                   screen those who lost Medicaid
+                   eligibility for BadgerCare
+                 Expanded placement of eligibility              X                           X
+                   workers at various local governments;
+                 Placed outstationing sites at local            X            X              X
+                   community centers, health clinics, and
+                   schools.
+                 Use private data company to verify access                                  X
+                   to employer-provided insurance
+                 Eliminated asset testa                                                     X
+                 Presumed eligibility while waiting for                                     X
+                   confirmation of lack of employer-
+                   sponsored health insurance
+                 Instructed employees to seek verification                                  X
+                   data rather than deny assistance if
+                   client could not provide it, prohibited
+                   employees from asking for nonrequired
+                   data and encouraged the acceptance of
+                   many types of documentation
+                 Instructed employees to make                                               X
+                   assumptions to complete forms
+     Doyle       Used ACCESS to provide program                 X
+                   information, individual benefit
+                   information, and preliminary
+                   assessment of eligibility
+                 Made online applications available             X                           X
+                 Simplified application form and notices        X                           X
+                 BadgerCare Plus marketing and outreach         X            X
+                 Trained third-party actors to express-                                     X
+                   enroll applicants at outstation sites
+                 Required employees to provide                  X            X              X
+                   documentation of lack of access to
+                   employer-provided health insurance,b
+                   later replaced with private database
+=== p13 ===
+                                                              Moynihan et al.   Administrative Burden   55
+
+
+
+Table 2 (continued )
+Changes in Administrative Burden in Wisconsin Medicaid Programs
+
+                                                              Learning    Psychological   Compliance
+                For renewal, provided applicant                                               X
+                  with previously collected personal
+                  information (either via ACCESS for
+                  online applications, or preprinted forms
+                  for mail applications)
+                Single application form for multiple              X                           X
+                  programs
+                One-time autoenrollment of individuals            X                           X
+
+
+
+
+                                                                                                             Downloaded from https://academic.oup.com/jpart/article/25/1/43/885957 by guest on 03 October 2022
+                  who appeared eligible based on state data
+                Used data matches to verify citizenship                                       X
+                  status, allowed variety of documents
+                  for verification, maintained client in
+                  program if making good-faith effort to
+                  provide documentation
+                More simple and specific communications           X                           X
+                  about renewals and information needed
+                Extended presumptive eligibility to                                           X
+                  certain groups
+Walker          Autorenewal for groups unlikely to lose           X                           X
+                  eligibility
+                Processing fee for renewalb                                                   X
+                Annual (rather than six month) waiting                                        X
+                  period for failure to pay program
+                  premiumb
+Per federal requirement.
+a
+
+Change expected to increase burdens.
+b
+
+
+
+
+might have focused on legislated policy changes, policy implementation from the per-
+spective of administrators, or street-level worker discretion, the unit of analysis here
+is centered on administrative factors that will alter the experience of the individual
+applicant. The development of the concept of administrative burden into specific
+types of costs also improves our theoretical understanding of how these administrative
+changes relate to burden. Table 2 also vividly illustrates our claims about the “subter-
+ranean” nature of administrative burdens that we extend in the case narrative below.
+Both Governor Thompson and Governor Doyle dramatically reduced learning and
+compliance costs for the individual via mechanisms such as autoenrollment, simpli-
+fied applications, online application systems, and application assistance. These changes
+were significant, and meaningfully increased enrollment (see Herd et al. 2013; Leininger
+et al. 2011), but largely occurred via unobtrusive changes in administrative processes
+with little broad political discussion. In short, they were forms of hidden politics.
+
+
+Governor Thompson: Making Work Pay
+Governor Thompson (1987–2001) was a leader in the movement to tie welfare ben-
+efits to work, having passed a version of welfare reform prior to national reform.
+=== p14 ===
+56   Journal of Public Administration Research and Theory
+
+
+
+     Welfare reform was a defining political issue for Thompson, a Republican, and his
+     motivation for changes in public health insurance was inextricably tied to a policy
+     goal of “making work pay.” Thompson saw health insurance as a means of encour-
+     aging individuals to move from welfare, and a basic matter of fairness, arguing that
+     that those on public assistance should not enjoy better health insurance than the
+     working poor.
+          When welfare reform was originally passed in Wisconsin, Thompson had tried
+     and failed to attach a health insurance plan to it. When Congress passed the States
+     Children Health Insurance Program (CHIP) in 1997, the Thompson administration
+     viewed it as another means to link health insurance to work, in the form of a new pro-
+
+
+
+
+                                                                                                 Downloaded from https://academic.oup.com/jpart/article/25/1/43/885957 by guest on 03 October 2022
+     gram called BadgerCare. Although CHIP was targeted at children, Wisconsin officials
+     sought to use CHIP funding to extend coverage to parents. This program structure
+     would make BadgerCare both more attractive and less complex because all family
+     members could be enrolled in one plan.
+          The Thompson administration had to win a waiver from the US Department of
+     Health and Human Services to create BadgerCare, a nonentitlement program (with an
+     enrollment threshold to be enacted if enrollment exceeded budgeted levels) using dol-
+     lars from an entitlement program, Medicaid. This gave the Clinton administration an
+     opportunity to influence the design of the program. President Clinton was dismayed
+     at the sharp decline in Medicaid coverage for eligible children after the 1996 federal
+     welfare reform (Kronenbusch 2001). This decline occurred when Medicaid eligibility
+     was delinked from receipt of TANF/AFDC, thus requiring a separate application pro-
+     cess and more administrative burden. Consequently, Clinton encouraged his adminis-
+     tration to find ways to increase take-up. The federal government offered guidance to
+     state health and welfare agencies on ways to reduce burdens, such as eliminating asset
+     tests, more accessible eligibility workers, and shorter joint forms for Medicaid and CHIP
+     (Thompson 2012). These preferences were reflected in the conditions that the Clinton
+     administration placed on the Wisconsin waiver request, including the elimination of its
+     asset test (a change Thompson had previously vetoed when proposed by the state leg-
+     islature), a simplified application form, and a mail-in application process for Medicaid
+     and BadgerCare.
+          BadgerCare was implemented in July 1999, covering parents and children below
+     185% of the federal poverty line (FPL). Enrollment was restricted to those ineligible
+     for Medicaid funds, but BadgerCare was designed to be integrated with Medicaid for
+     applicants and participants. From the perspective of participants, there was only one
+     program. BadgerCare participants with higher incomes had to pay premiums, but all
+     received the same benefits as other participants in Wisconsin’s relatively comprehen-
+     sive Medicaid program.
+          The “making work pay” frame shaped how the Thompson administration wanted
+     health insurance to work. Even if the program was technically welfare, those in the
+     Governor’s administration saw it differently. One said, “a simple message needs to
+     be marketed—Medicaid and BadgerCare are health insurance for working families”
+     (Sirica 2001, 5). Advertising campaigns by the state specifically targeted low-income
+     populations with a message meant to reduce the stigma traditionally associated with
+     public health insurance. A television commercial starring Thompson advertised the
+     new program. A “back-to-school” initiative promoted BadgerCare and Medicaid
+=== p15 ===
+                                                    Moynihan et al.   Administrative Burden   57
+
+
+
+among schoolchildren, and public health officials educated parents whose children
+were participating in an immunization program.
+     Outreach efforts further sought to reduce learning and psychological costs.
+The DHS sent a direct mailing with information about BadgerCare to 18,000 fami-
+lies who had lost AFDC benefits but who might still be eligible for BadgerCare.
+In Milwaukee, Free and Reduced-Price School Lunch Program applications also
+contained an additional form for those interested in applying for Medicaid or
+BadgerCare, resulting in the enrollment of several hundred new families. DHS
+operations memos to staff instructed that all direct marketing materials were to be
+“written in prose that is easily understandable” and at no higher than a sixth grade
+
+
+
+
+                                                                                                   Downloaded from https://academic.oup.com/jpart/article/25/1/43/885957 by guest on 03 October 2022
+reading level. DHS also targeted outreach to non-English speakers. Health care pro-
+viders, public health departments, community organizations, and school systems
+received 850,000 brochures in English, Spanish, and Hmong, and the state offered
+translators who could provide program information. A toll-free hotline was set up
+to aid potential applicants.
+     To begin an application, clients had to sign and date the form in the presence
+of an eligibility worker. To reduce this compliance burden, workers were located at
+county, tribal, social, and human services departments; state agencies; local commu-
+nity centers, health clinics, and schools; and various outstation sites such as federally
+qualified health centers. Outstationed eligibility workers had laptop computers with
+dial-up capacity to link them to state databases. Allowing participants to sign up at
+outstationing sites rather than welfare offices was also meant to decrease psychologi-
+cal costs by making BadgerCare look more like private insurance and less like welfare.
+     A change in state law in 2000 reinforced the notion that the role of eligibility
+workers was to help the client to complete the form. If applicants were not able to
+obtain the required verification on their own, the law stated that “the agency may not
+deny assistance but shall proceed immediately to verify the data elements.” In an oper-
+ations memo, eligibility workers were instructed to “only verify those items required
+to determine eligibility and benefits,” not to oververify by “requiring excessive pieces
+of evidence for any one item,” or “exclusively require a particular type of verification
+when various types are possible.”
+     Linking CHIP and Medicaid via BadgerCare reflected a belief in the Thompson
+administration that expanding an existing program would reduce learning costs rela-
+tive to creating a separate program for CHIP. Indeed, other states with standalone
+CHIP programs struggled with take-up in a way that BadgerCare avoided (Gavin
+et al. 2003). BadgerCare became widely known in Wisconsin very quickly. By 2002,
+a survey of families eligible for BadgerCare, but not participating in the program,
+found that even among those who had never had any member of their family enrolled
+in the program, 80% had heard of the BadgerCare program (Gavin et al. 2003). By
+putting multiple state medical assistance programs and funding sources under the
+umbrella of a single program with one name, the state was able to streamline the
+marketing message and make it easier for individuals to understand if they were
+eligible. The efforts to increase access appear to have been successful. Between its
+implementation in 1999 and 2008, prior to the implementation of BadgerCare Plus
+(discussed next), enrollment in the program more than doubled from approximately
+215,000 to 510,000.
+=== p16 ===
+58   Journal of Public Administration Research and Theory
+
+
+
+     Governor Doyle: All Kids
+     In the early years of Governor Jim Doyle’s (2003–2010) administration, BadgerCare
+     was not perceived as a top priority. Indeed, Doyle, a Democrat, supported the intro-
+     duction of additional constraints in response to legislative worries that the provision
+     of public health insurance would discourage low-income workers from using avail-
+     able employer-based insurance. To avoid this “crowd-out” problem, the state required
+     workers to take forms to their employers to verify that affordable insurance was not
+     available. The state estimated that the new verification requirement would reduce
+     enrollment by two to three percent. But the DHS saw enrollment drop by 20% for
+     children and 17.6% for parents within a year. Officials in the Doyle administration
+
+
+
+
+                                                                                                  Downloaded from https://academic.oup.com/jpart/article/25/1/43/885957 by guest on 03 October 2022
+     pointed to this experience as an important lesson about how seemingly marginal
+     changes in burden generate dramatic changes in take-up. Employees at DHS con-
+     cluded that because so few low-income applicants actually had access to affordable
+     employer-sponsored health insurance, the verification form was not an important tool
+     in preventing ineligible families from enrolling in BadgerCare. However, it did create
+     a significant barrier for eligible families, who either did not realize the new require-
+     ment was in place, or were embarrassed to bring the forms to employers who had little
+     incentive to complete them. The state subsequently returned to a system where it took
+     responsibility for verifying an applicant’s status.
+           Doyle heard about innovations in Medicaid in other states when visiting a
+     National Governor’s Association meeting, and turned his attention to using Medicaid
+     to broaden health care access in the state. He set a goal of 98% of citizens having access
+     to health coverage. This goal was pursued by expanding BadgerCare and consolidat-
+     ing it with Medicaid and Healthy Start effective February 2008, creating BadgerCare
+     Plus. Although BadgerCare had been designed to be an expansion of Medicaid, the
+     programs formally retained separate names, and families were still informed when
+     their eligibility changed from one to the other. With BadgerCare Plus, Healthy Start,
+     Family Medicaid, and BadgerCare officially became one program from the applicants’
+     point of view. BadgerCare Plus dramatically expanded eligibility to all children and
+     pregnant women up to 300% of the FPL, and all other covered groups up to 200%
+     of FPL.
+           The policy goals of Doyle were reflected by the framing of BadgerCare Plus as
+     coverage for “all kids,” which became part of the marketing for the new program.
+     Unlike Thompson, Doyle did not view health insurance as a benefit tied to work, but
+     as a basic right for all. According to one advocate for low-income families the Doyle
+     administration “was genuinely committed to coverage for kids and he gave them [state
+     employees] the green light. And then they felt they had a license to remove all the
+     barriers they could.” This included administrative barriers. Even with the reductions
+     in administrative burden under Thompson, a survey prior to the implementation of
+     BadgerCare Plus found that burdens did discourage participation: 34% said they
+     found it too hard to get paperwork; 19% said that the application process was too
+     hard, whereas 24% pointed to difficulties in applying in person (Gavin et al. 2003).
+           Doyle expanded the pattern of outreach pursued under Thompson. DHS admin-
+     istrators believed that the all-kids frame allowed for broad-based marketing that made
+     it less likely that eligible parents would be confused about their status: “the ‘All Kids’
+=== p17 ===
+                                                    Moynihan et al.   Administrative Burden   59
+
+
+
+message is very helpful for marketing even for people who are otherwise eligible for the
+program. I think that was one of the things that we hoped and talked about is that we
+wanted to end the stigma” (Hynes and Oliver 2010). In addition to bilingual and cul-
+turally specific marketing materials, the state engaged in partnerships with community
+organizations, providing mini grants to train them to provide program information
+and application assistance (Herd et al. 2013).
+      The Doyle administration also undertook new initiatives to reduce burdens. For
+example, it pursued a one-time autoenrollment of individuals that state data sug-
+gested were eligible. Autoenrollment is the most dramatic way to reduce burden for
+applicants. Applicants do not have to overcome psychological costs to opt-in, do not
+
+
+
+
+                                                                                                   Downloaded from https://academic.oup.com/jpart/article/25/1/43/885957 by guest on 03 October 2022
+have to learn about the program, and face no compliance burden. Some of these costs
+arise if the individual chooses to stay in the program, but the barriers to entering the
+program were significantly reduced. A study using state administrative data shows
+that autoenrollment captured a very large number of previously nonenrolled eligible
+individuals (Herd et al. 2013).
+      The DHS also sought to ease learning and application compliance costs through
+online tools, primarily via a new Web site named ACCESS. The Web site included
+information about SNAP, Medicaid, and BadgerCare in English and Spanish. An
+innovative aspect of ACCESS is that it allowed potential applicants to do a prelimi-
+nary check of their eligibility. Internal DHS staff guidance noted this was needed
+because: “Many potentially eligible people have misperceptions about the eligibility
+requirements. . .They may choose not to apply because of incorrect assumptions about
+their potential level of benefits. . .Many people believe the application process would
+involve too much time and effort unless they feel reasonably confident that they will
+be eligible for benefits.” Later versions of ACCESS allowed individuals to check their
+benefits and program requirements. This supplemented, but did not replace, notices
+and other communication with case workers. Eventually ACCESS allowed individuals
+to fill out applications online, and by 2010 was the most popular method of applying
+for benefits (Leininger et al. 2011).
+      The Doyle administration was largely able to buffer directives from the federal gov-
+ernment that would have increased burdens. In 2005, as part of the Deficit Reduction
+Act, Congress required that applicants for Medicaid had to provide documentation of
+citizenship. Prior to this point, self-declaration of citizenship status was deemed suf-
+ficient unless the claim was questionable, in which case eligibility workers could require
+documentation. The response of the Doyle administration reflected the evolution in its
+understanding of burden since its early experience with employer insurance verification
+requirements. The DHS developed a series of policy guidelines that gave applicants
+flexibility in providing information, encouraged program workers to provide help, and
+minimized the possibility that eligible recipients would lose coverage. If it was possible
+to collect the information from other sources, state workers were told to do so.
+      The DHS needed a federal waiver to expand BadgerCare to BadgerCare Plus by
+combining funds from Medicaid and CHIP. Winning this waiver required negotiating
+with a Bush administration that had become increasingly concerned about the grow-
+ing size of CHIP and Medicaid, and resistant to waiver requests that would expand
+these programs. The federal government pressured state governments to reduce
+take-up error rates in Medicaid—and consequently increase administrative burden
+=== p18 ===
+60   Journal of Public Administration Research and Theory
+
+
+
+     (Thompson 2012). In an August 17, 2007, letter, the administration also told states
+     that they had to demonstrate a 95% take-up rate for eligible CHIP beneficiaries before
+     they could expand it to citizens above 250% of FPL. This target was so unrealis-
+     tic that its effect was to discourage efforts to expand CHIP. Wisconsin sidestepped
+     this requirement by agreeing to use state money to cover those above 250% of FPL.
+     Ultimately, the Obama administration withdrew the August 17 letter, amidst threats
+     of litigation from states over the failure of the Bush administration to follow the rule-
+     making process for this relatively dramatic reinterpretation of law.
+          In other areas the federal government was more overtly supportive of efforts
+     by the Doyle administration. In July 2003, Wisconsin received a $1.7 million grant
+
+
+
+
+                                                                                                                        Downloaded from https://academic.oup.com/jpart/article/25/1/43/885957 by guest on 03 October 2022
+     from the Food and Nutrition Service to develop ACCESS. With the arrival of the
+     Obama administration, and Democratic majorities in the House and Senate, the fed-
+     eral environment became even friendlier to the goals of the Doyle administration.
+     The new Congress quickly passed the CHIP Reauthorization Act in 2009, which
+     put in place a series of financial incentives to increase access that aligned well with
+     strategies Wisconsin was already pursuing.5 To qualify for bonuses, states had to
+     increase enrollment via active outreach programs, and implement features explicitly
+     designed to reduce learning and compliance costs: extending the eligibility of children
+     to 12 months before a renewal process; liberalizing asset requirements; combining
+     Medicaid and CHIP application forms; eliminating in-person interviews; providing
+     presumptive eligibility for children; and utilizing auto or administrative enrollment.
+     Other incentives sought to further reduce burdens to encourage take-up. As before,
+     unused CHIP funds would be returned to the federal government, but now states
+     would see permanent decreases in their funding for failure to spend their allotted
+     amount. One hundred million dollars was allocated to outreach, with the vast major-
+     ity given to state and local governments and community organizations. Although citi-
+     zenship verification requirements remained, the Reauthorization Act allowed states to
+     create a data exchange with Social Security, which in turn reduced the need for states
+     to seek verification from applicants. Error-reporting requirements passed under Bush
+     were restructured to avoid discouraging efforts to increase take-up (Thompson 2012).
+
+
+     Governor Walker: Fraud and Abuse
+     Under Republican Governor Scott Walker’s administration (2011–present) the basic
+     assumptions underlying BadgerCare and especially BadgerCare Plus were challenged.
+     The administration saw the program as becoming too large, covering individuals who
+     were not truly poor. Indeed, by covering children up to 300% of the poverty line, around
+     half of state households had become income-eligible for the program under Doyle. The
+     Walker administration also argued that innovations that had reduced administrative
+     burden made the program vulnerable to widespread fraud, and should be reversed.
+          During the Thompson and Doyle era most criticisms of Medicaid focused on
+     the affordability of the program for the state and the risks of crowding out of private
+
+     5   Wisconsin did make some changes to improve its chance to win federal funds, such as the preprinted
+     renewal forms for mail-in renewals, but largely on the basis of existing practices, the state won bonus funds of
+     $23,432,822 in 2010 and $24,541,778 in 2011.
+=== p19 ===
+                                                             Moynihan et al.   Administrative Burden   61
+
+
+
+insurance, but policymakers “at that time weren’t making the fraud argument,” said
+a DHS employee. Walker charged that the program was rife with “all kinds of fraud
+and abuse.” This political framing of welfare programs has historically been associ-
+ated with the imposition of compliance burdens (Brodkin and Lipsky 1983) and this
+proved the case in Wisconsin. Consistent with this frame, the DHS sought to reduce
+the size of the program, partly by using procedures to limit access in the name of curb-
+ing fraud and abuse.
+      As one of his first acts as Governor, Walker created a Commission on Waste,
+Fraud and Abuse. The commission criticized “an explosion in public assistance spend-
+ing and program expansions over the last decade with no corresponding investment
+
+
+
+
+                                                                                                            Downloaded from https://academic.oup.com/jpart/article/25/1/43/885957 by guest on 03 October 2022
+in program integrity,” identifying the efforts of the prior administrations to reduce
+burden (such as annual rather than six-month redetermination processes) as part of
+the problem. The Commission argued that ex-post sanctions for fraud were ineffective
+and called for moving the weight of proof back on the citizen in the front-end of the
+application process, increasing the frequency of program eligibility recertifications,
+and requiring face-to-face interviews for eligibility verification when possible. Walker
+also created an Office of Inspector General within DHS, whose primary responsibility
+is to pursue fraud and abuse, and in the 2011–2013 budget set aside $2 million to pay
+for 19 new positions to support fraud prevention.
+      The actual evidence of applicant fraud was largely anecdotal, and in none of
+these discussions was there consideration of the impact that administrative burden
+would have on eligible beneficiaries. The commission claimed is recommendations
+would save $455 million annually, or $3.1 billion over 10 years. The implication was
+that all of these savings could come from preventing fraud, rather than from a loss
+of eligible claimants. This willingness to ignore the burdensome effects of proposed
+requirements may be enabled by the belief that the program itself has grown unnec-
+essarily large. This belief was reflected prominently on the retooled DHS Web site:
+“Medicaid is no longer exclusively for individuals living below the poverty level. . .
+.Medicaid provides a richer benefit package for children than what is typically offered
+in the private sector.”6
+      When the Walker administration requested a waiver from federal maintenance of
+effort regulations, DHS officials explained their goal was “re-establishing Medicaid as
+a safety-net for those low-income families who do not have access to private health
+insurance offered through employers and the individual market.” The state proposed
+a series of changes that would have increased administrative burden. For example, the
+state sought to remove presumptive eligibility for children. It also proposed redefining
+household income so as to require the provision of evidence of income from all resid-
+ing in the house for more than 60 days (excluding grandparents) including boyfriends,
+girlfriends, siblings, friends, and other relatives with no legal obligation to support the
+mother or child actually claiming benefits. Finally, the state sought to require verifica-
+tion of state residency before providing aid. Currently, eligibility workers can seek to
+verify residency if they regard the applicant’s status as questionable, but this provision
+would have required verification of all applicants, having an effect similar to an iden-
+tification requirement.
+
+6   http://www.dhs.wisconsin.gov/mareform/, accessed December 18, 2012
+=== p20 ===
+62   Journal of Public Administration Research and Theory
+
+
+
+          Consistent with its support for Medicaid and CHIP, the Obama White House
+     resisted Walker’s proposed changes. By and large, the state was stymied in its efforts to
+     alter administrative procedures as the federal government largely rejected the waiver
+     application, consistent with prohibitions on states in the 2010 Patient Protection and
+     Affordable Care Act from making state Medical Assistance “eligibility standards,
+     methodologies, or procedures” more restrictive. The federal government did allow
+     some proposed waiver changes for adult applicants. Premiums were increased, and
+     eligibility changed. Some changes did alter administrative burden. Those who failed
+     to pay a premium were required to wait an additional six months to reenroll. New
+     income reporting requirements were added, with failure to verify income changes
+
+
+
+
+                                                                                                  Downloaded from https://academic.oup.com/jpart/article/25/1/43/885957 by guest on 03 October 2022
+     resulting in a loss of eligibility. Clients also faced a new $60 processing fee to pay for
+     their renewal in the program.
+          The need to rely on administrative burdens to manage Medicaid costs was made
+     less pressing with Supreme Court decision on the National Federal of Independent
+     Businesses vs. Sibelius, which gave states a good deal more discretion in deciding eligi-
+     bility levels than allowed for the in the Affordable Care Act. Governor Walker rejected
+     new federal funding from the Affordable Care Act, dramatically reducing Medicaid
+     access to citizens above the federal poverty level.
+          The concern with fraud had an ironic effect in reducing administrative burden
+     for some groups. Effective May 2011, DHS allowed administrative renewal for select
+     low-risk BadgerCare Plus, SNAP, and Medicaid cases. According to a DHS opera-
+     tions memo “the primary purpose of the administrative renewal project is to increase
+     program integrity by focusing eligibility workers on higher-risk renewals.” For admin-
+     istrative renewals, department staff now identify cases that are highly unlikely to lose
+     eligibility and allow them to renew based on state data. An administrative renewal
+     case will not get an eligibility renewal notice from the agency, and the household is not
+     required to provide any additional information in order to continue their eligibility.
+
+
+     CONCLUSION: A RESEARCH AGENDA FOR ADMINISTRATIVE BURDEN
+     If we are to take the concept of administrative burden seriously, what does it imply for
+     scholarship? In this section, we draw from both the Wisconsin case and our review of
+     prior work to sketch a research agenda. Some of these questions are being addressed,
+     but not resolved, and almost entirely within the field of social policy. Others are rela-
+     tively neglected: the political origins of burdens, bureaucratic relationships with bur-
+     dens, the role of third parties, and normative questions about the role of the state in
+     monitoring and managing levels of burdens.
+          How are burdens used as policy instruments? We argue that administrative bur-
+     den offers another venue in which to study the ongoing interplay between politics
+     and administration. In the Wisconsin case, actors at the state and federal level
+     sought to alter the level of burden and the balance of burden between the individual
+     and the state to pursue broader policy goals. Although delinking of Medicaid from
+     other welfare programs allowed Republicans like Governor Thompson to embrace it
+     (Thompson 2012, 73), partisan attitudes hardened over time, with Democrats favor-
+     ing access and Republicans identifying program size and fraud as issues. A cross-
+     state analysis reflects this trend, with compliance burdens in Medicaid application
+=== p21 ===
+                                                    Moynihan et al.   Administrative Burden   63
+
+
+
+forms higher under unified Republican control of state government (Moynihan,
+Herd, and Rigby 2013). The relationship between politics and burdens becomes
+even more apparent when these burdens are directly legislated. For example, in the
+area of election administration, there has been a clear partisan divide in the will-
+ingness of legislators to impose new voter identification requirements (Hale and
+McNeal 2010).
+     We also propose a secondary question, which is whether these instruments are
+attractive precisely because they can be implemented via less visible administrative
+processes, requiring lower political consultation and less need to acknowledge their
+purpose. A related question is under what conditions do “hidden politics” become
+
+
+
+
+                                                                                                   Downloaded from https://academic.oup.com/jpart/article/25/1/43/885957 by guest on 03 October 2022
+visible, subject to explicit political debate. The voter identification issue is one such
+example, as is the growing willingness of Congress to specify in legislation how states
+design Medicaid and CHIP procedures (e.g., requirements of evidence of citizenship,
+or incentives to expand access in the CHIP Reauthorization Act). The answer likely
+has to do with growing awareness in a policy area that such burdens are consequential,
+and the role of stakeholders in arguing for or against them.
+     What are the effects of burdens on citizens? There is little doubt that, within the
+area of social policy at least, administrative burdens have material impacts on whether
+individuals receive public services. Policy feedback research further suggests that the
+experience of burdensome processes undermines political efficacy and civic participa-
+tion. There is therefore a strong theoretical and empirical basis to understand how the
+experience of policy implementation matters to citizens in these and other ways, and
+in a wider variety of policy areas than has been studied thus far.
+     How do administrative burdens affect inequality? Another relevant question is
+whether the targeting of administrative burdens, and the ability to overcome those
+burdens, vary across different subgroups of the population. Burdens may be more
+likely to be imposed on politically powerless or unpopular groups, and may have
+the most dramatic effects on those with lower financial resources and human capital
+assets. Indeed, there is evidence that burden differentially impacts by class, race, and
+gender in social programs (Aizer 2003; Brodkin and Mamjundar 2010; Heckman and
+Smith 2003), education (Hoxby and Avery 2012), voting registration rules (Rigby and
+Springer 2011), and immigration (Fix, Passel, and Sucher 2003).
+     The stresses of poverty may also exacerbate the cognitive biases that amplify the
+effects of burdens. Mullainthan and Shafir (2013, 282) point to evidence from behav-
+ioral economics that suggests that individuals “are less likely to weigh long-term con-
+sequences and exhibit forward-looking behaviors when we are threatened, challenged,
+and depleted.” This implies that those who may need services the most—individuals
+with lower income, education, and language skills—are most negatively affected by
+burdens. In sum, burden can exacerbate inequality.
+     What is the relationship between administrators and burden? Administrators play
+an active role in creating and enforcing burdens, and street-level bureaucrats may use
+their discretion to enforce, expand upon, or ameliorate the effects of burdens (Brodkin
+and Lipsky 1983; Lipsky 1984). In the Wisconsin case the specialized knowledge of
+administrative processes gave bureaucrats a central role in designing initiatives to alter
+burdens, but generally suggests that this knowledge was used in ways consistent with
+changing political preferences.
+=== p22 ===
+64   Journal of Public Administration Research and Theory
+
+
+
+          Just as administrators shape burdens, so too may burdens matter to how admin-
+     istrators define their organizational role. For example, if administrators who are moti-
+     vated to help others believe their work causes them to impose unfair burdens, their
+     organizational commitment and effort may decline.
+          What is the role of third parties in administrative burdens? As services are increas-
+     ingly provided in a state of agents (Heinrich, Lynn, and Milward 2010), what role do
+     those third parties play in facilitating or easing burdens? Less constrained by rules
+     than bureaucratic counterparts, these agents may pursue their beliefs and incentives
+     in ways that matter to burden. For example, advocacy and community groups in the
+     Wisconsin case pursued outreach partly because extending benefits to the poor or
+
+
+
+
+                                                                                                  Downloaded from https://academic.oup.com/jpart/article/25/1/43/885957 by guest on 03 October 2022
+     their members fit with their mission, whereas hospitals became adept at using reduc-
+     tions in burden to enroll patients because it helped to reduce the financial costs of
+     providing charitable care. Agents may also use burdens to engage in the ‘cream-skim-
+     ming’ of more profitable clients, by placing more barriers in the path of less attractive
+     clients (Soss, Fording, and Schram 2011).
+          An even clearer example of the role of incentives for third parties comes from the
+     tax-preparation industry. Private tax-preparers have been instrumental in facilitating
+     access to the EITC. They have marketed the program to clients, built new offices in
+     low-income neighborhoods, and partnered in outreach campaigns to educate indi-
+     viduals about their eligibility (Kopczuk and Pop-Eleches 2007). But the same industry
+     has actively opposed proposals for automated tax returns that would eliminate the
+     need for most citizens to prepare taxes. The motivation of the industry is not based
+     on any overriding conviction about the burdens citizens should face in the tax system,
+     but instead reflects simple profit incentives. Reducing burdens to the EITC expanded
+     the pool of customers and the possibility of selling these customers prerefund loans.
+     On the other hand, automated tax returns threaten the basic business model of the
+     tax-preparation industry. This example also illustrates another role that agents may
+     play, which is as a political stakeholder, willing to lobby for or against changes in
+     administrative burden made by policymakers.
+          What responsibility does government hold in monitoring and regulating administra-
+     tive burdens? With the evolution of governance towards a state of agents, the state
+     has struggled to articulate its purpose. The concept of administrative burden offers a
+     logical role for the state to occupy that fits with the current emphasis on third-party
+     governance, while drawing on a mixture of older values such due process, equity, pro-
+     cedural fairness, and customer service. The state should monitor and regulate how
+     citizens experience burden in their interactions with public services, even if private
+     actors provide those services. Service providers should face explicit expectations about
+     how they impose burdens in the same way they are accountable to fiscal and perfor-
+     mance expectations. This would balance the current emphasis on performance meas-
+     ures, limiting discretionary activities that perversely improve measured performance
+     by imposing burdens on citizens (e.g., Soss, Fording, and Schram 2011). Empirical
+     studies could compare differences between policy areas or government entities where
+     burden is more or less regulated.
+          How can burdens be reduced? Both behavioral economics and social psychology
+     imply that individual experiences of burden will inevitably be somewhat subjective.
+     The state may also have a limited influence on many factors that influence how an
+=== p23 ===
+                                                    Moynihan et al.   Administrative Burden   65
+
+
+
+individual responds to burden, for example, human capital, or popular beliefs about
+programs. But there are also systematic aspects of burden that can be addressed.
+This raises the practical question of how to reduce burden, and when such efforts are
+appropriate. Scholarship can help inform these choices. The literature reviewed in this
+article, and the Wisconsin case, provides evidence on practices to reduce burden.
+      Policymakers can reduce learning and compliance costs, and structure interactions
+in ways that minimize psychological costs and positively interact with cognitive biases.
+Research may also help guide where expenditures on reducing burdens may be most
+effective. For example, Kincheloe, Frates, and Brown (2007) find that outreach spend-
+ing on media campaigns for Medicaid are less beneficial than on outreach spending
+
+
+
+
+                                                                                                   Downloaded from https://academic.oup.com/jpart/article/25/1/43/885957 by guest on 03 October 2022
+on enrollment assistants and community groups. If public administration scholarship
+adopts administrative burden as a topic of study, perhaps the greatest contribution it
+may offer is in uncovering mechanisms to minimize burdens, or to shift them to the state.
+      In some cases, burdens may add little in terms of legitimate purposes, and there
+is little reason not to remove them. But burdens may also be imposed to reflect legiti-
+mate political values, and their reduction raises questions about the relative balance
+between minimizing burdens and the purpose of those burdens. In the area of social
+policy, the debate has historically focused on the danger of waste, fraud and abuse,
+with less consideration of the effect of burdens on take-up (Brodkin and Lipsky 1983).
+Empirical research can help to inform these types of tradeoffs with analyses of the
+degree to which reductions in burdens actually undermine other values, or the degree
+to which new burdens undercut access to programs.
+      A particularly promising avenue of research is to investigate practices and program
+designs that reduce burden without undercutting other values. For example, Social
+Security is a program with strict administrative rules and documentation require-
+ments, but almost all administrative burden falls on the state rather than the citizen.
+This is because the state takes responsibility for collecting earnings data, meaning that
+applicants do not need to provide the lifetime of detailed income documentation that
+helps the program achieve a near zero error rate. Information technology and govern-
+mental data systems make it more feasible for states to shift burdens from the citizen
+to the state (Herd et al. 2013). Online systems can reduce learning costs and allow for
+online applications. By investing in data systems that can integrate data across pro-
+grams, the state can reduce the need for applicants to provide the same data multiple
+times, while improving accuracy. For example, information based on state tax returns
+is more likely to be accurate than self-reported income data in verifying eligibility.
+A step further would be autoenrollment, which effectively uses state data to alter the
+default choice for individuals on whether they participate in a program or not (Dorn,
+Hall, and Hogan 2009). The analysis of such options provides a clear way for public
+administration scholars to make theoretically based, empirically grounded contribu-
+tions to the practice of governance.
+
+FUNDING
+Institute for Research on Poverty, University of Wisconsin-Madison. Our project
+also benefited from data provided to us by the University of Wisconsin–Madison
+Population Health Institute, which was collected as part of a project funded by the
+=== p24 ===
+66   Journal of Public Administration Research and Theory
+
+
+
+     Robert Wood Johnson Foundation. Our thanks to Tom Oliver and Donna Friedsam
+     for sharing these data and for their helpful advice on our research.
+
+
+
+     References
+     Aizer, Anna. 2003. Low take-up in Medicaid: Does outreach matter and for whom? American
+          Economic Review Papers and Proceedings. 93:238–41.
+     Assistant Secretary for Planning and Evaluation (ASPE); US Department of Health and Human
+          Services. 2007. Indicators of welfare dependence. Washington DC: HHS.
+     Baicker, Katherine, William Congdon, and Sendhil Mullainathan. 2012. Health insurance coverage
+
+
+
+
+                                                                                                               Downloaded from https://academic.oup.com/jpart/article/25/1/43/885957 by guest on 03 October 2022
+          and take-up: Lessons from behavioral economics. Milbank Quarterly 90 (1):107–34.
+     Bartlett, Susan, Nancy Burstein, and William Hamilton. 2004. Food stamp program access
+          study final report. Economic Research Service. http://www.myfoodstamps.org/pdf_files/
+          ProgAccess.pdf (accessed February 10, 2014).
+     Bettinger, Eric, Bridget Long, Philip Oreopoulos, and Lisa Sanbonmatsu. 2012. The role of appli-
+          cation assistance and information in college decisions: Results from the H&R Block FAFSA
+          experiment. Quarterly Journal of Economic 127:1205–42.
+     Bhargava, Saurabh and Dayanand Manoli. 2011. Why are benefits left on the table? Assessing the
+          role of information, complexity, and stigma on take-up with an IRS field experiment. Working
+          paper. http://econweb.umd.edu/~davis/eventpapers/BhargavaBenefits.pdf (accessed February
+          14, 2014).
+     Bozeman, Barry. 2000. Bureaucracy and red tape. Upper Saddle River, NJ: Prentice Hall.
+     Bozeman, Barry, and Mary Feeney. 2011. Rules and red tape: A prism for public administration theory
+          and research. Armonk, NY: M.E. Sharpe.
+     Brien, Michael, and Christopher Swann. 1999. Prenatal WIC participation and infant health: Selection
+          and maternal fixed effects. Working paper. Charlottesville: Univ. of Virginia Department of
+          Economics.
+     Brodkin, Evelyn. 1992. The organization of disputes: The bureaucratic construction of welfare
+          rights and wrongs. Studies in Law, Politics, and Society 12:53–76.
+     ———. 2011. Policy work: Street-level organizations under new managerialism. Journal of Public
+          Administration Research and Theory 21:I253–I277.
+     Brodkin, Evelyn, and Michael Lipsky. 1983. Quality-control in AFDC as an administrative strategy.
+          Social Service Review 57 (1):1–34.
+     Brodkin, Evelyn Z., and Malay Majmundar. 2010. Administrative exclusion: Organizations and
+          the hidden costs of welfare claiming. Journal of Public Administration Research and Theory
+          20:827–48.
+     Bruch, Sara K., Myra Marx-Freere, and Joe Soss. 2010. From policy to polity: Democracy, paternal-
+          ism, and the incorporation of disadvantaged citizens. American Sociological Review 75:205–26.
+     Budd, John, and Brian McCall. 1997. The effect of unions on the receipt of unemployment insur-
+          ance benefits. Industrial & Labor Relations Review 50:478–91.
+     Burden, Barry, David Canon, Kenneth Mayer, and Donald Moynihan. 2012. The effect of adminis-
+          trative burden on bureaucratic perception of policies: Evidence from election administration.
+          Public Administration Review 72:741–51.
+     ———. 2014. Election laws, mobilization, and turnout: The unanticipated consequences of election
+          reform. American Journal of Political Science. 58:95–109.
+     Choi, James, David Laibson, Brigitte Madrian, and Andrew Metrick. 2004. For better or for worse:
+          Default effects and 401(K) savings behavior. In Perspectives in the Economics of Aging, ed.
+          David Wise, 81–121. Chicago, IL: Univ. of Chicago Press.
+     Currie, Janet. 2006. The take-up of social benefits. In Public Policy and the Income Distribution, eds.
+          Alan J. Auerbach, David Card, and John M. Quigley, 80–148. New York: Russell Sage.
+=== p25 ===
+                                                          Moynihan et al.   Administrative Burden      67
+
+
+
+Currie, Janet, and Jonathan Gruber. 1996. Health insurance eligibility, utilization of medical care,
+     and child health. Quarterly Journal of Economics 111:431–66.
+Daponte, Beth Osborne, Seth Sanders, and Lowell Taylor. 1999. Why do low-income house-
+     holds not use food stamps? Evidence from an experiment. Journal of Human Resources
+     34:612–28.
+Deci, Edward, and Richard Ryan. 1985. Self-determination. Hoboken, NJ: John Wiley & Sons, Inc.
+Dias, Janice, and Stephen Maynard-Moody. 2007. For-profit welfare: Contracts, conflicts, and the
+     performance paradox. Journal of Public Administration Research and Theory 17:189–211.
+Dorn, Stan, Ian Hill, and Sara Hogan. 2009. The secrets of Massachusetts’ success: Why 97 percent
+     of state residents have health coverage. Washington, DC: Urban Institute.
+Edelman, Murray. 1985. The symbolic uses of politics, 2nd ed. Chicago, IL: University of Illinois
+     Press.
+
+
+
+
+                                                                                                            Downloaded from https://academic.oup.com/jpart/article/25/1/43/885957 by guest on 03 October 2022
+Elder, Todd, and Elizabeth Powers. 2006. The incredible shrinking program. Research on Aging
+     28:341–58.
+Ewalt, Jo Ann, and Edward Jennings. 2004. Administration, governance, and policy tools in welfare
+     policy implementation. Public Administration Review 64:449–62.
+Fix, Michael, Jeffrey Passel, and Kenneth Sucher. 2003. Trends in Naturalization. Immigrant Families
+     and Workers: Facts and Perspectives Brief. Washington, DC: Urban Institute.
+Fossett, James, and Frank Thompson. 2006. Administrative responsiveness to the disadvantaged:
+     The case of children’s health insurance. Journal of Public Administration Research and Theory
+     16:369–92.
+Food and Nutrition Service. 2007. Reaching those in need: Food Stamp participation rates in 2005.
+     Washington, DC: United States Department of Agriculture.
+Gavin, Norma I., Nathan David West, Nancy F. Lenfestey, and Jamie Chriqui. 2003. Evaluation of
+     the BadgerCare Medicaid demonstration. Washington, DC: Research Triangle Institute.
+Gonzalez-Barrera, Ana, Mark Hugo Lopez, Jeffrey Passel, and Paul Taylor. 2013. The Path Not
+     Taken. Washington, DC: Pew Hispanic Center, Pew Research Center.
+Goodsell, Charles. 1977. Bureaucratic manipulations of physical symbols: An empirical study.
+     American Journal of Political Science 2 (1):79–91.
+Hale, Kathleen, and Ramona McNeal. 2010. Election administration reform and state choice: Voter
+     identification requirements and HAVA. Policy Studies Journal 38:281–302.
+Hacker, Jacob. 2004. Privatizing risk without privatizing the welfare state: The hidden politics of
+     social policy retrenchment in the United States. American Political Science Review 98:243–60.
+Hanratty, Maria. 2006. Has the Food Stamp program become more accessible? Impacts of recent
+     changes in reporting requirements and asset eligibility limits. Journal of Policy Analysis and
+     Management 25:603–21.
+Heckman, James, and Jeffrey Smith. 2003. The determinants of participation in a social program:
+     Evidence from a prototypical job training program. NBER Working paper: No. w9818.
+Heinrich, Carolyn, Laurence Lynn, and H. Brinton Milward. 2010. A state of agents? Sharpening
+     the debate and evidence over the extent and impact of the transformation of governance.
+     Journal of Public Administration Research and Theory 20 (Suppl 1):3–19.
+Herd, Pamela, Thomas DeLeire, Hope Harvey, and Donald Moynihan. 2013. Shifting adminis-
+     trative burden to the state: The case of Medicaid Take-Up. Public Administration Review 73
+     (Suppl 1):69–81.
+Hernanz, Virginia, Franck Malherbet, and Michele Pellizari. 2004. Take-up of welfare benefits in
+     OECD countries: A review of the evidence, vol. 17. Paris: OECD.
+Horan, Patrick and Patricia L. Austin. 1974. The social bases of welfare stigma. Social Problems
+     21:648–57.
+Hoxby, Caroline, and Christopher Avery. 2012. The missing “one-offs”: The hidden supply of high-
+     achieving, low income students. NBER Working Paper No. 18586.
+Hoxby, Caroline, and Sarah Turner. 2012. Expanding College Opportunities for Low-Income, High-
+     Achieving Students. NBER Working Paper No. 18728.
+=== p26 ===
+68   Journal of Public Administration Research and Theory
+
+
+
+     Hynes, Emma, and Thomas Oliver. 2010. Wisconsin’s BadgerCare Plus health coverage program.
+          Madison: Univ. of Wisconsin Population Health Institute.
+     Kabbani, Nader and Parke Wilde. 2003. Short recertification in the U.S. Food Stamp program.
+          Journal of Human Resources 38 (Suppl i): 1112–38.
+     Katz, Michael. 1986. In the Shadow of the Poorhouse: A Social History of Welfare in America. New
+          York, NY: Basic Books.
+     Keyssar, Alexander. 2001. The right to Vote: The Contested History of Democracy in the United
+          States. New York, NY: Basic Books.
+     Kincheloe, Jennifer, Janice Frates, and E. Richard Brown. 2007. Determinants of children’s par-
+          ticipation in California’s Medicaid and SCHIP programs. Health Services Research 42:847–66.
+     Kopczuk, Wojciech, and Cristian Pop-Eleches. 2007. Electronic filing, tax preparers and participa-
+          tion in the Earned Income Tax Credit. Journal of Public Economics 91:1351–67.
+
+
+
+
+                                                                                                            Downloaded from https://academic.oup.com/jpart/article/25/1/43/885957 by guest on 03 October 2022
+     Kroft, Kory. 2008. Take-up, social multipliers and optimal social insurance. Journal of Public
+          Economics 92:722–37.
+     Kronenbusch, Karl. 2001. Medicaid for children: Federal mandates, welfare reform, and policy
+          backsliding. Health Affairs 20 (1):97–111.
+     Lascoumes, Pierre, and PatrickLe Gales. 2007. Understanding public policy through its instru-
+          ments—From the nature of instruments to the sociology of public policy instrumentation.
+          Governance 20 (1):1–21.
+     Leininger, Lindsey, Donna Friedsam, Kristen Voskuil, and Thomas DeLeire. 2011. The target effi-
+          ciency of online Medicaid/CHIP Enrollment: An evaluation of Wisconsin’s ACCESS internet por-
+          tal. Princeton, NJ: Robert Wood Johnson Foundation State Health Access Reform Evaluation.
+     Lind, E. Allan, and Tom R. Tyler. 1988. The Social Psychology of Procedural Justice. New York:
+          Plenum.
+     Lineberry, Robert. 1977. American Public Policy: What Government Does and What Difference it
+          Makes. New York, NY: Harper& Row.
+     Lipsky, Michael. 1980. Street-level Bureaucracy: Dilemmas of the Individual in Public Services. New
+          York, NY: Russell Sage.
+     ———. 1984. Bureaucratic disentitlement in social welfare programs. Social Science Review 58
+          (1):3–27.
+     Mettler, Suzanne. 2011. The Submerged State: How Invisible Government Policies Undermine
+          American Democracy. Chicago, IL: Univ. of Chicago Press.
+     Moe, Terry. 1989. The politics of bureaucratic structure. In Can the Government Govern? eds. John E.
+          Chubb and Paul E. Petersen, 267–329. Washington, DC: Brookings Institution.
+     Moffitt, Robert A. 1983. An economic model of welfare stigma. American Economic Review
+          73:1023–35.
+     Moynihan, Donald, and Pamela Herd. 2010. Red tape and democracy: How rules affect citizenship
+          rights. American Review of Public Administration 40:654–70.
+     Moynihan, Donald, Pamela Herd, and Elizabeth Rigby. 2013. Policymaking by other means:
+          Do states use administrative barriers to limit access to Medicaid? Administration & Society.
+          doi:10.1177/0095399713503540
+     Mullainthan, Sendhil, and Edlar Shafir. 2013. Decision making and policy in contexts of poverty.
+          In The Behavioral Foundations of Public Policy, ed. Shafir, Eldar, 281–300. Princeton, NJ:
+          Princeton Univ. Press.
+     Orbach, Barak. 2006. Unwelcome benefits: Why welfare beneficiaries reject government aid. Law
+          and Inequality: A Journal of Theory and Practice 24 (1):107–55.
+     Pinquart, Martin, and Silvia Sörensen. 2003. Differences between caregivers and noncaregivers in
+          psychological health and physical health: A meta-analysis. Psychology and Aging 18:250–67.
+     Piven, Francis Fox, and Richard A. Cloward. 1971. Regulating the Poor. New York, NY: Vintage
+          Books.
+     Plueger, Dean. 2009. Earned Income Tax Credit participation rate for tax year 2005. Internal Revenue
+          Service.
+=== p27 ===
+                                                           Moynihan et al.   Administrative Burden      69
+
+
+
+Ratcliffe, Caroline, Signe-Mary McKernan, and Kenneth Finegold. 2007. The effect of state Food
+      Stamp and TANF policies on Food Stamp program participation. Washington, DC: Urban
+      Institute.
+Remler, Dahlia, Jason Rachlin, and Sherry Glied. 2001. What can the take-up of other programs teach
+      us about how to improve take-up of health insurance programs? National Bureau of Economic
+      Research Working Paper No. 8185.
+Rigby, Elizabeth, and Melanie Springer. 2011. Does electoral reform increase (or decrease) political
+      equality? Political Research Quarterly 64:420–34.
+Schanzenbach, Diane Whitmore. 2009. Experimental estimates of the barriers to Food Stamp enroll-
+      ment. Madison, WI: Institute for Research on Poverty.
+Schwabish, Jonathan. 2012. The impact of online Food Stamp applications on participation. Paper
+      presented November 2012 at the Annual Meeting of the Association of Public Policy and
+
+
+
+
+                                                                                                             Downloaded from https://academic.oup.com/jpart/article/25/1/43/885957 by guest on 03 October 2022
+      Management, Baltimore.
+Shafir, Eldar (ed). 2013. The behavioral foundations of public policy. Princeton, NJ: Princeton Univ.
+      Press.
+Sirica, Coimbra. 2001. The origins and implementation of BadgerCare. New York: Milbank Memorial
+      Fund.
+Sommers, Ben, Rick Kronick, Kenneth Finegold, Rosa Po, Karyn Schwartz, and Sherry Glied.
+      2012. Understanding participating rates in Medicaid: Implications for the Affordable Care
+      Act. US Department of Health and Human Services Assistant Secretary for Planning and
+      Evaluation Issue Brief. http://aspe.hhs.gov/health/reports/2012/medicaidtakeup/ib.shtml
+      (accessed February 7, 2014).
+Soss, Joe. 1999. Welfare application encounters subordination, satisfaction, and the puzzle of client
+      evaluations. Administration & Society 31 (1):50–94.
+Soss, Joe, Richard Fording, and Sanford Schram. 2011. The organization of discipline: From perfor-
+      mance management to perversity and punishment. Journal of Public Administration Research
+      and Theory 21 (Suppl 2):i203–i232.
+Stuber, Jennifer, and Mark Schlesinger. 2006. Sources of stigma for means-tested government pro-
+      grams. Social Science & Medicine 63:933–45.
+Swart, Chris, Nina Troia, and Dorothy Ellegaard. 2004. BadgerCare Evaluation. Madison, WI:
+      Wisconsin Department of Health and Family Services Office of Strategic Finance Evaluation
+      Section.
+Thompson, Frank. 2012. Medicaid politics: Federalism, policy durability and health reform.
+      Washington, DC: Georgetown Univ. Press.
+Van Ryzin, Gregg G. 2011. Outcomes, process, and trust of civil servants. Journal of Public
+      Administration Research and Theory 21:745–60.
+Warlick, Jennifer L. 1982. Participation of the Aged in SSI. Journal of Human Resources 17:236–60.
+Wolfe, Barbara, and Scott Scrivner. 2005. The devil may be in the details. Journal of Policy Analysis
+      and Management 24:499–522.

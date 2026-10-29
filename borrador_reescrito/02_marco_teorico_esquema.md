@@ -36,7 +36,7 @@
 | 2.3 Crítica a los marcos | Las capas no bastan; pesan factores humanos y organizacionales | L-005 (Goldkuhl, 2024); L-004 (Novakouski y Lewis, 2012; excepción aprobada) | Evitar una propuesta solo técnica |
 | 2.4 Marco normativo colombiano | No pedir documentos que reposan en la entidad; usar mecanismos de interoperabilidad; digitalizar trámites con plazos | Decreto Ley 019 de 2012, art. 9; Decreto 620 de 2020; Decreto 088 de 2022; Ley 2195 de 2022 y Decreto 1122 de 2024 (PTEP); L-069 (MinTIC, 2022, servicios ciudadanos digitales); L-105 (Función Pública, 2017) | Sustento de obligatoriedad y del formato «iniciativa del PETI» |
 
-> Faltan en el marco normativo: Decreto 2106 de 2019 (simplificación de trámites, citado por L-090) y Ley 962 de 2005 (citada por L-076) [FALTA FUENTE: no están en el libro de hechos].
+> Incorporadas el 2026-10-29: Decreto 2106 de 2019, art. 10 (H-088 y H-089) y Ley 962 de 2005, art. 1, num. 1 (H-090). Están pendientes de verificador y de confirmar su vigencia.
 
 ## 3. Antecedentes y estado del arte
 
@@ -62,5 +62,5 @@ Ordenados de lo internacional a lo local, como pide la skill de redacción.
    - L-080 y L-090 (tesis).
    Se descargan desde el Mac con la skill incorporar-fuente.
 2. **Verificación** de las fuentes candidatas con el agente verificador-de-fuentes. Hoy todas están como «pendiente» en el libro de hechos.
-3. **Normas que faltan:** Decreto 2106 de 2019 y Ley 962 de 2005.
+3. ~~Normas que faltan~~: incorporadas el 2026-10-29.
 4. **Extensión.** La carta pide entre 10 y 20 páginas de forma orientativa. Con este esquema se estiman unas 12 a 15. Es una estimación propia, no un dato.

@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "id": "F-092",
+  "slug": "decreto_2106_2019",
+  "archivo": "fuentes_originales/F-092_decreto_2106_2019/Decreto_2106_de_2019.pdf",
+  "texto": null,
+  "url_origen": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=103352",
+  "url_final": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=103352",
+  "fecha_consulta": "2026-10-29",
+  "sha256": "bd167376f7a0abe333ca49e75acc5c03ddec3c8cac525eaf591b82b9a3a532f1",
+  "bytes": 274739,
+  "tipo": "pdf",
+  "nombre_original": "Decreto_2106_de_2019.pdf",
+  "content_type": null,
+  "via": "urllib",
+  "last_modified_servidor": null,
+  "paginas": null,
+  "paginas_ocr": [],
+  "advertencias": [
+    "No se pudo compilar el extractor de texto (swiftc no disponible: [Errno 2] No such file or directory: 'swiftc'). El original se conserva sin texto extraído."
+  ]
+}

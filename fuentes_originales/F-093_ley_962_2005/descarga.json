@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "id": "F-093",
+  "slug": "ley_962_2005",
+  "archivo": "fuentes_originales/F-093_ley_962_2005/Ley_962_de_2005.pdf",
+  "texto": null,
+  "url_origen": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=17004",
+  "url_final": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=17004",
+  "fecha_consulta": "2026-10-29",
+  "sha256": "9c678df082f86a6bdcd2e865ee717f35889c9230798d1e99bc3a42eabfc11521",
+  "bytes": 167648,
+  "tipo": "pdf",
+  "nombre_original": "Ley_962_de_2005.pdf",
+  "content_type": null,
+  "via": "urllib",
+  "last_modified_servidor": null,
+  "paginas": null,
+  "paginas_ocr": [],
+  "advertencias": [
+    "No se pudo compilar el extractor de texto (swiftc no disponible: [Errno 2] No such file or directory: 'swiftc'). El original se conserva sin texto extraído."
+  ]
+}

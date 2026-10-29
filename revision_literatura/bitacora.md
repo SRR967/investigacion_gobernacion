@@ -284,3 +284,19 @@ Google Académico se consultó desde el navegador de la app de escritorio, despu
   - Villegas-Alpízar et al. (2025): primera evidencia latinoamericana de carga administrativa.
 - **El vacío se mantiene:** ninguna fuente estudia una gobernación ni parte de los documentos exigidos en los trámites. Lo más cercano son las alcaldías (L-102) y un caso departamental de catastro que es un trabajo de pregrado (L-115, excluido).
 - Siete registros quedan **pendientes** porque falta confirmar el tipo de documento, la revista o el año (L-109 a L-114 y L-082).
+
+## Textos completos: estado al 2026-10-29
+- **Incorporados** (Santiago los guardó; Claude los incorporó con la skill incorporar-fuente):
+  - L-068: Marco de interoperabilidad de MinTIC (fuente F-065);
+  - Decreto 2106 de 2019 (F-092);
+  - Ley 962 de 2005 (F-093).
+- **Faltan:**
+  - L-070: Informe del modelo de madurez de MinTIC;
+  - L-069: Anexo 2 de servicios ciudadanos digitales;
+  - L-066: BID, El fin del trámite eterno;
+  - L-011: Moynihan et al. (2015);
+  - L-084: Criado et al. (2011);
+  - L-080: tesis de Rico Pinto;
+  - L-090: tesis de Molina Giraldo;
+  - L-105: Guía de racionalización de Función Pública (2017).
+- **Nuevo candidato oficial:** el modelo de madurez del marco, versión 1.1 (hoja de cálculo), enlazado en https://lenguaje.mintic.gov.co/marco. Puede servir para la evaluación de la propuesta.

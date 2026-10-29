@@ -63,9 +63,16 @@ Registro de cada búsqueda ejecutada:
 | Consensus | X-Road data exchange layer Estonia interoperability public services evaluation | 2026-10-28 | 10 | Ronda 2 |
 | Web | "servicios ciudadanos digitales" Colombia interoperabilidad X-Road artículo académico evaluación entidades territoriales | 2026-10-28 | 9 enlaces; 1 documento | Ronda 2 |
 | SciSpace | How does interoperability between government databases eliminate certificates and supporting documents that citizens must submit in administrative procedures? | 2026-10-28 | 10 | Ronda 2 |
+| Google Académico (navegador de la app; filtro desde 2010) | interoperabilidad trámites Colombia | 2026-10-29 | 10 | Ronda 3 |
+| Google Académico (navegador de la app; filtro desde 2010) | interoperabilidad "gobernación" OR "entidades territoriales" trámites Colombia | 2026-10-29 | 10 | Ronda 3 |
+| Google Académico (navegador de la app; filtro desde 2010) | "racionalización de trámites" interoperabilidad Colombia | 2026-10-29 | 10 | Ronda 3 |
+| Google Académico (navegador de la app; filtro desde 2010) | "carga administrativa" ciudadanos trámites requisitos documentos América Latina | 2026-10-29 | 10 | Ronda 3 |
+| Google Académico (navegador de la app; filtro desde 2010) | "once-only principle" interoperability administrative burden | 2026-10-29 | 10 | Ronda 3 |
+| Crossref (API, desde el navegador) | confirmación de 38 registros por título y autor | 2026-10-29 | 30 confirmados; 1 no hallado; 1 solo preprint | Ronda 3 |
 
 ## 4. Cambios al protocolo
 
 | Fecha | Cambio | Motivo | Aprobado por |
 |---|---|---|---|
+| 2026-10-29 | Se añaden Google Académico (vía el navegador de la app) y Crossref (para confirmar datos bibliográficos) como bases de búsqueda | Pedido de Santiago: «buscar en fuentes como Google Scholar para confirmar y tener más fuentes» | Santiago |
 | 2026-10-28 | Se admiten como excepción cuatro documentos fuera de los tipos fijados: un informe técnico de instituto universitario (L-004), un documento oficial territorial sin fecha (L-071) y dos artículos cuya revisión por pares no se pudo confirmar (L-050, L-053). Estos dos últimos se reemplazan si la ronda 2 trae fuentes revisadas por pares sobre lo mismo | L-071 es el único antecedente territorial colombiano; L-004 aporta un modelo de seis dimensiones; L-050 y L-053 son evidencia que matiza la tesis | Santiago («sí, guárdalos») |

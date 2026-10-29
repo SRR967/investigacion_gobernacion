@@ -32,7 +32,7 @@
 | Apartado | Idea que sostiene | Fuentes | Para qué sirve en el estudio (propuesta) |
 |---|---|---|---|
 | 2.1 Marcos de interoperabilidad por dominios | La interoperabilidad se analiza en cuatro dominios: legal o político-legal, organizacional, semántico y técnico | L-068 (MinTIC, 2019); L-067 (marco europeo, 2017); L-085 (CEPAL, 2008); L-064 (Ali et al., 2024) | **Criterio para clasificar** cada documento exigido: qué dominio tendría que resolverse para dejar de pedirlo |
-| 2.2 Modelos de madurez | La interoperabilidad avanza por niveles | L-003 (Gottschalk, 2009); L-070 (MinTIC, 2022) | Ubicar el punto de partida de la Gobernación (con cautela: L-070 solo midió entidades nacionales) |
+| 2.2 Modelos de madurez | La interoperabilidad avanza por niveles | L-003 (Gottschalk, 2009); L-070 (MinTIC, 2022) | Adoptar la forma de las acciones (descripción, responsable y plazo) para la propuesta; no se aplica como diagnóstico porque es una autoevaluación interna (cambio del 2026-10-29) |
 | 2.3 Crítica a los marcos | Las capas no bastan; pesan factores humanos y organizacionales | L-005 (Goldkuhl, 2024); L-004 (Novakouski y Lewis, 2012; excepción aprobada) | Evitar una propuesta solo técnica |
 | 2.4 Marco normativo colombiano | No pedir documentos que reposan en la entidad; usar mecanismos de interoperabilidad; digitalizar trámites con plazos | Decreto Ley 019 de 2012, art. 9; Decreto 620 de 2020; Decreto 088 de 2022; Ley 2195 de 2022 y Decreto 1122 de 2024 (PTEP); L-069 (MinTIC, 2022, servicios ciudadanos digitales); L-105 (Función Pública, 2017) | Sustento de obligatoriedad y del formato «iniciativa del PETI» |
 

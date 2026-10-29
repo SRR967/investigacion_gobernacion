@@ -1,0 +1,986 @@
+=== p1 ===
+Publicado en la Revista del CLAD Reforma y Democracia. No. 50. (Jun. 2011). Caracas.
+
+
+         Interoperabilidad de Gobierno electrónico en Iberoamérica. Estudio comparativo y
+         recomendaciones de futuro .
+
+                                                        J. Ignacio Criado, Mila Gascó y Carlos E. Jiménez
+
+Introducción
+La adopción de la Carta Iberoamericana de Gobierno Electrónico (CIGE), aprobada por la IX
+Conferencia Iberoamericana de Ministros de Administración Pública y Reforma del Estado, significó
+un hito en la construcción de una perspectiva regional para el desarrollo del Gobierno electrónico
+(Gobierno-e), definido como el uso de las tecnologías de la información y las comunicaciones (TIC) en
+el gobierno y las administraciones públicas con el fin de mejorar los servicios públicos, los procesos
+democráticos y reforzar la gobernanza de las políticas públicas. La interoperabilidad se hace, así,
+crucial tanto en los sectores públicos nacionales como con respecto a las relaciones entre diferentes
+países.
+       La interoperabilidad, entendida al menos como la capacidad mediante la cual sistemas
+heterogéneos, no sólo tecnológicos, pueden intercambiar información y procesos técnicos o datos, no es
+algo completamente nuevo dentro del sector público. Sin embargo, cada vez más, este término toma
+mayor importancia entre las administraciones públicas como consecuencia del propósito de satisfacer
+de mejor manera las necesidades y expectativas del ciudadano y, por tanto, de implantar proyectos de
+Gobierno-e más sofisticados y complejos que requieren la colaboración de dos o más órganos
+administrativos (Gascó y Roy, 2006; Gil-García …[et al], 2007; Mayer-Schönberger, 2005; Scholl y
+Klischewski, 2007).
+       Los países de Iberoamérica no son una excepción y, en los últimos años, importantes iniciativas
+se han puesto en marcha, sobre todo en Brasil y Argentina. Así, en el primer caso, ya desde el año 2004
+existe una arquitectura e-PING (Estándares de Interoperabilidad de Gobierno Electrónico) que define
+un conjunto mínimo de premisas, políticas y especificaciones técnicas que reglamentan la utilización de
+las TIC en la interoperabilidad de servicios de gobierno electrónico (Santos, 2008). Con respecto a
+Argentina, el Decreto Presidencial 378/2005 exhorta a la implantación de estándares de
+interoperabilidad. En este contexto, el Foro de Responsables Informáticos de la Administración Pública
+Nacional redactó, en 2008, el Marco de Interoperabilidad para la Administración Pública Nacional y
+sigue, en la actualidad, trabajando estas cuestiones como asesor en la coordinación del Componente de
+Interoperabilidad para el Gobierno Electrónico, aprobado por la Resolución 99/2008 (Poggiese …[et
+al], 2008).
+       A pesar de estos intensos y concentrados esfuerzos, el panorama de interoperabilidad en la región
+no es homogéneo y, en este sentido, los diversos países han adoptado estrategias diferentes, lo que ha
+dado lugar a resultados sólo parcialmente exitosos y, con frecuencia, desequilibrados (Corte, 2007;
+CEPAL, 2007). En este contexto, el objetivo de este artículo es presentar, a través de diversas
+dimensiones, el nivel de implantación de los proyectos de interoperabilidad de Gobierno-e en 16 países
+de Iberoamérica para conocer cuál es la situación actual en la región.
+       Durante el año 2010, el Centro Latinoamericano de Administración para el Desarrollo (CLAD)
+encarga la elaboración del llamado Marco Iberoamericano de Interoperabilidad (MII). Los datos que se
+expondrán son el resultado de la consulta que los autores realizaron a varios países, como parte del
+trabajo exploratorio y paso previo de esta investigación. Dicho Marco estaría conceptualizado como un
+mecanismo que ordene la producción de conocimiento en materia de interoperabilidad y constituiría
+una guía en la que los países iberoamericanos puedan apoyarse a la hora de tomar decisiones
+relacionadas con la colaboración entre Estados en este ámbito.
+
+.
+    Recibido: 24-04-2011. Aceptado: 16-06-2011.
+=== p2 ===
+Publicado en la Revista del CLAD Reforma y Democracia. No. 50. (Jun. 2011). Caracas.
+
+
+      El documento se divide en cinco secciones. En la primera se abordan las Bases para una
+Estrategia Iberoamericana de Interoperabilidad. A continuación se exponen varios datos que permiten
+calibrar el nivel de implantación de la interoperabilidad dentro de los países de la región
+iberoamericana. Se profundiza en cuestiones como el nivel de prioridad, el despliegue de estrategias,
+los órganos de coordinación interna existentes o las áreas de políticas públicas en que se han
+concretado proyectos de interoperabilidad hasta la fecha. En una tercera sección se hace referencia a las
+percepciones sobre beneficios y retos de futuro acerca de la interoperabilidad en Iberoamérica. La
+información que aquí se presenta también es resultado de las consultas efectuadas y, por tanto, refleja la
+opinión de los países analizados en este trabajo. Como consecuencia, el cuarto apartado permite
+recoger algunas reflexiones realizadas por los autores acerca de cuáles son los caminos a seguir en
+cuanto a interoperabilidad en Iberoamérica. Finalmente, en la quinta sección, se elabora un resumen de
+los aspectos esenciales del artículo, las contribuciones más destacadas, así como ideas para futuras
+investigaciones derivadas del mismo.
+
+1. Bases para una Estrategia Iberoamericana de Interoperabilidad
+Si bien hay cierta experiencia acumulada en relación con proyectos de interoperabilidad intra
+administrativa, horizontal o, incluso, vertical, no ocurre lo mismo en el ámbito de la interoperabilidad
+entre administraciones de diferentes países. En este campo, el paradigma de colaboración lo constituye
+la Unión Europea, que ya en el año 2004 publicaba su Marco Europeo de Interoperabilidad, documento
+revisado en el año 2010 en el que se presentó su segunda versión.
+       En Iberoamérica, no hay prácticamente precedentes de iniciativas de interoperabilidad entre
+países, siendo los más consolidados el Acuerdo Complementario al Acuerdo de Cooperación Técnica
+entre el Gobierno de la República Argentina y el Gobierno de la República Federativa del Brasil para la
+Implementación del Proyecto “Interoperabilidad de Gobierno Electrónico”, suscrito por ambos Estados
+en febrero de 2008, y el Convenio de Colaboración para la Prestación de Servicios de Validación de los
+Certificados Electrónicos de España y Portugal, cuya firma tuvo lugar en septiembre de 2009.
+       La ausencia de proyectos de estas características en la región y, por tanto, la consecuente
+necesidad de contar con una guía que pautara el actuar de los países en este campo dio lugar, en
+septiembre de 2007, a la publicación del llamado Libro Blanco de interoperabilidad de gobierno
+electrónico para América Latina y el Caribe. Su objetivo era programar una serie de actividades
+prioritarias que aseguraran, en un corto tiempo, contar con un entorno y una plataforma de
+interoperabilidad regional eficientes, que potenciaran el crecimiento con equidad de los países dentro
+de mercados ampliados, con seguridad jurídica, en un ambiente de convergencia de normas y
+disciplina, así como también, de avances en infraestructura y conectividad (CEPAL, 2007).
+       A pesar de constituir un importante aporte, el Libro Blanco no profundizaba en algunas
+cuestiones y presentaba, sobre todo, deficiencias en relación con la interoperabilidad organizativa, la
+gobernanza de la interoperabilidad y la evaluación de las iniciativas de interoperabilidad. Por ello, a
+principios del año 2010, el CLAD encarga la elaboración de un Marco Iberoamericano de
+Interoperabilidad (MII), que defina unos fundamentos básicos, aceptados colectivamente, para facilitar
+que los gobiernos y administraciones públicas de la región, sea cual sea su nivel y tipo de relación,
+puedan colaborar, si así lo desean, en el uso de las tecnologías de la información y las comunicaciones
+para mejorar su desempeño, ofrecer nuevos servicios públicos o reforzar los procesos de gobernanza de
+las políticas públicas que implican a dos o más Estados.
+       En la XII Conferencia Iberoamericana de Ministros de Administración Pública y Reforma del
+Estado (Buenos Aires, 1 y 2 de julio de 2010), se presenta como propuesta el documento del MII, pero
+éste se aprueba con el título de “Bases para una Estrategia Iberoamericana de Interoperabilidad”.
+       Estas Bases definen la interoperabilidad como la habilidad de organizaciones y sistemas dispares
+y diversos para interactuar con objetivos consensuados y comunes y con la finalidad de obtener
+beneficios mutuos. En este sentido, la interacción implica que las organizaciones involucradas
+                                                          2
+=== p3 ===
+Publicado en la Revista del CLAD Reforma y Democracia. No. 50. (Jun. 2011). Caracas.
+
+
+compartan información y conocimiento a través de sus procesos de negocio, mediante el intercambio
+de datos entre sus respectivos sistemas de tecnología de la información y las comunicaciones (Criado,
+Gascó y Jiménez, 2010).
+       Así pues, en el contexto de las Bases, la interoperabilidad no es sólo una cuestión tecnológica.
+Parte, por un lado, de principios que tratan de la variedad de componentes con la utilización de diversos
+productos de múltiples proveedores en diferentes organizaciones; pero, además, tiene como objetivo la
+definición de políticas, normas y estándares para la consecución de la cooperación entre los sistemas de
+diferentes organizaciones públicas.
+       En concreto, las Bases persiguen:
+       1) Articular herramientas para el intercambio de experiencias de Gobierno-e y, específicamente,
+de interoperabilidad que tengan un potencial efecto demostración y generen paradigmas y flujos de
+ideas comunes en este ámbito.
+       2) Dotar de soluciones compartidas y reutilizables a las administraciones públicas
+iberoamericanas para que puedan hacer frente a los nuevos retos que impone la cooperación
+interadministrativa y, en particular, la interoperabilidad regional o transfronteriza.
+       3) Orientar, a través de la proposición de pautas, medidas, acciones y criterios, el diseño,
+implantación y evaluación de las iniciativas de interoperabilidad que puedan tener lugar entre los países
+de la región.
+       4) Ayudar a sentar las bases en la construcción de un espacio iberoamericano que promueva e
+incentive iniciativas de interoperabilidad regional.
+       5) Servir de guía en la elaboración de marcos nacionales de interoperabilidad que, además de
+hacer énfasis en cuestiones de interoperabilidad intra-administrativa, horizontal y vertical, recojan,
+también, el espíritu de colaboración transfronteriza.
+       Para lograr estas metas, el documento elaborado en 2010 se estructura en los siguientes
+apartados: 1) principios inspiradores de las Bases; 2) áreas clave de interoperabilidad (técnica,
+semántica y organizativa); 3) gobernanza de la interoperabilidad; 4) implantación de las iniciativas de
+interoperabilidad definidas en el contexto de las Bases; y 5) evaluación de las iniciativas de
+interoperabilidad definidas en el marco de estas Bases.
+
+2. La interoperabilidad de gobierno electrónico en los países iberoamericanos
+Esta sección ofrece los datos disponibles sobre la interoperabilidad de Gobierno-e en Iberoamérica para
+calibrar el nivel de su implantación en los países de la región citada. Los datos disponibles resultan
+reveladores de un incipiente, si bien ya importante, nivel de implantación de iniciativas de
+interoperabilidad de Gobierno-e en la región.
+
+Nivel de prioridad de la interoperabilidad de Gobierno electrónico
+Los gobiernos de la región han mostrado un nivel elevado de varianza en cuanto a las respuestas
+ofrecidas, si bien se observa una media de prioridad elevada. Entre 10 y 3 han sido las puntuaciones
+extremas ofrecidas; el resto de países estudiados ha dotado a la interoperabilidad de una calificación en
+torno al “notable” en cuanto a la preferencia que los responsables de las iniciativas consideran que ha
+merecido la cuestión en las agendas de gobierno de su país. De hecho, la puntuación media que se
+obtiene del análisis roza el 7 (6,88). Con ello se confirma que todavía existen prioridades que requieren
+un nivel más elevado de atención por parte de los responsables políticos nacionales, lo cual no impide
+notar el interés que despierta, en términos generales, este tema en el conjunto de Iberoamérica.
+
+Estrategias de interoperabilidad de Gobierno electrónico
+En relación con lo anterior, la mayoría de los países que respondieron el cuestionario lo hicieron
+afirmativamente a la pregunta sobre la existencia de una estrategia de interoperabilidad de Gobierno-e.
+Tal y como se pone de relieve en el Gráfico 1, un 75% de los países cuenta con lo que consideran una
+                                                          3
+=== p4 ===
+Publicado en la Revista del CLAD Reforma y Democracia. No. 50. (Jun. 2011). Caracas.
+
+
+estrategia de interoperabilidad, al menos entendida como una línea dentro de una política más general
+de Gobierno-e. Ello confirma la necesidad en aumento de una visión global sobre el papel de la
+colaboración intergubernamental en materia tecnológica dentro de una buena parte de los países de la
+región. Sin embargo, éste no es el único factor que nos permite observar el carácter estratégico que se
+otorga a la interoperabilidad en los gobiernos de Iberoamérica.
+
+                                                   Gráfico 1
+                               Existencia de una estrategia de interoperabilidad
+
+
+
+
+                         Fuente: elaboración propia.
+
+      En este plano, hay que mencionar que la mayoría de los países iberoamericanos han promovido
+sus estrategias de interoperabilidad durante los últimos años. En particular, la segunda parte de la
+primera década de este siglo ha servido como punto de arranque para la mayoría de las actuaciones de
+los países de la región de cara a mejorar la colaboración intergubernamental en el ámbito del Gobierno-
+e. De hecho, durante los dos últimos años se ha producido la mayor parte de las normativas en los
+países de la región. A su vez, en aquellos casos en que todavía no se puede dar por comenzada una
+estrategia de interoperabilidad, se ha reflejado una nítida voluntad de emitir actuaciones en breve lapso
+de tiempo e, incluso, algún caso manifiesta que se encuentra en proceso de discusión dentro del
+ejecutivo o el legislativo.
+
+Referentes y documentos clave
+Los países analizados han aprovechado, en la medida de lo posible, documentos y marcos de
+interoperabilidad ya elaborados por otros, tanto dentro como fuera de la región. Con respecto al primer
+elemento, tal y como muestra la Tabla 1, para la casi totalidad de los países son o han servido de
+referencia el Libro Blanco de Interoperabilidad (87,5%) y el Marco Europeo de Interoperabilidad
+(81,25%).
+
+
+
+
+                                                          4
+=== p5 ===
+Publicado en la Revista del CLAD Reforma y Democracia. No. 50. (Jun. 2011). Caracas.
+
+
+                                                     Tabla 1
+                              Documentación considerada como referencia (%)*
+                                           Documentación                 %
+                            Libro Blanco de Interoperabilidad         87,50
+                            Marco Europeo de Interoperabilidad        81,25
+                            Estrategia de un país específico          50,00
+                            Guía interoperabilidad PNUD               43,75
+                            Nada                                       6,25
+                            Otros                                     12,50
+                            Fuente: elaboración propia.
+                            * Pregunta multi-respuesta.
+
+      En relación con los marcos ya elaborados u otros documentos de país, un 50% de los países
+consultados afirman tener o haber tenido documentos de estrategia de un país específico como
+referencia. En concreto y por orden de importancia, dentro de la región, han sido nombrados: Brasil
+(62,5%), Chile (56,25%), España (43,75%) y Colombia (43,75%); mientras que los referentes externos
+han sido: Reino Unido (43,75%), la Unión Europea (37,5%) y Canadá (37,5%).
+      Como se observa, la necesidad de encontrar referentes en la región es clara, tanto por lo que
+respecta a documentos de alcance general (el Libro Blanco) como a instrumentos desplegados por otros
+países iberoamericanos.
+      En cuanto a la agrupación de referencias, el 68,75% de los países refiere seguir tres o más de
+estos documentos. Sólo un 6,25% de los países admite no haber utilizado ninguna referencia externa al
+propio país.
+
+Organismos responsables de la interoperabilidad
+Otro de los puntos clave para conocer cómo se despliega la interoperabilidad en las administraciones de
+Iberoamérica se refiere a los organismos impulsores de esta materia en los gobiernos nacionales. En la
+segunda columna de la Tabla 2 se observa que todos los países estudiados, salvo Guatemala, cuentan
+con una unidad responsable del fomento de la interoperabilidad de Gobierno-e. Ello confirma el interés
+mostrado por los países en esta materia, que se ha abierto camino mayoritariamente en los
+organigramas ministeriales. Asimismo, se pueden considerar otros aspectos, como la naturaleza de tales
+organismos y su ubicación dentro del organigrama gubernamental.
+
+
+
+
+                                                          5
+=== p6 ===
+Publicado en la Revista del CLAD Reforma y Democracia. No. 50. (Jun. 2011). Caracas.
+
+
+                                                     Tabla 2
+      Denominación y adscripción de las unidades responsables de la interoperabilidad de Gobierno-e
+     Países         Denominación de las autoridades responsables                Adscripción orgánica
+                  Oficina Nacional de Tecnologías de Información,
+Argentina         Subsecretaría de Tecnologías de Gestión, Secretaría Jefatura de Gabinete de Ministros
+                  de Gabinete
+                                                                      Ministério do Planejamento, Orçamento
+Brasil            Secretaria de Logística e Tecnologia da Informação
+                                                                      e Gestão
+                                                                      Ministerio de Tecnologías de la
+Colombia          Programa Gobierno en Línea
+                                                                      Información y las Comunicaciones
+                                                                      Ministerio de Planificación Nacional y
+Costa Rica        Secretaría Técnica de Gobierno Digital
+                                                                      Política Económica
+                  Área de Gobierno Electrónico, Secretaría Ejecutiva Ministerio de Economía, Fomento y
+Chile
+                  de Estrategia Digital                               Turismo
+                                                                      Secretaría Nacional de la
+Ecuador           Subsecretaría de Informática
+                                                                      Administración Pública
+                  Unidad de Gobierno Electrónico e Integración de
+El Salvador       Sistemas, Dirección de Innovación Tecnológica e     Presidencia de la República
+                  Informática
+                  Dirección General para el Impulso de la
+España                                                                Ministerio de la Presidencia
+                  Administración Electrónica
+                  Unidad de Tecnologías de Información, Centro de
+Guatemala*                                                            Vicepresidencia de la República
+                  Apoyo Estratégico
+México            Unidad de Gobierno Electrónico                      Secretaría de Función Pública
+                                                                      Ministerio de Hacienda y Crédito
+Nicaragua         Dirección General de Tecnología
+                                                                      Público
+                  Autoridad Nacional para la Innovación
+Panamá                                                                Ministerio de la Presidencia
+                  Gubernamental
+                  Oficina Nacional de Gobierno Electrónico e
+Perú                                                                  Presidencia del Consejo de Ministros
+                  Informática
+                  Agência para a Modernização Administrativa,
+Portugal          Secretária de Estado da Modernização                Presidência do Conselho de Ministros
+                  Administrativa
+                  Agencia para el Desarrollo del Gobierno de Gestión
+Uruguay           Electrónica y la Sociedad de la Información y el    Presidencia de la República
+                  Conocimiento
+                                                                      Ministerio del Poder Popular para la
+Venezuela         Centro Nacional de Tecnologías de Información       Ciencia, Tecnología e Industrias
+                                                                      Intermedias
+Fuente: elaboración propia.
+* En este caso se menciona expresamente en el cuestionario que la labor de la Unidad de Tecnologías de
+Información, Centro de Apoyo Estratégico, de la Vicepresidencia de la República, se circunscribe al desarrollo
+de proyectos concretos relacionados con tecnología; no es una unidad de dirección del Gobierno-e en el conjunto
+de la administración nacional.
+
+       En primer lugar, se puede observar la diversidad en cuanto a denominación de los organismos y
+unidades creadas para el fomento de la interoperabilidad de Gobierno-e en cada uno de los países.
+Muchos de esos organismos incluyen en su nombre el concepto de gobierno electrónico, gobierno en
+línea, gobierno digital, gobierno de gestión electrónica o administración electrónica, si bien no sucede
+así en casos como el de Argentina, Brasil, Portugal o Venezuela, donde se opta por el término
+tecnologías de la información dentro de las denominaciones seleccionadas. Además cabe apuntar el
+                                                          6
+=== p7 ===
+Publicado en la Revista del CLAD Reforma y Democracia. No. 50. (Jun. 2011). Caracas.
+
+
+caso pionero de Panamá, donde se utiliza la acepción innovación gubernamental para caracterizar su
+unidad directiva.
+      En lo que respecta a los departamentos ministeriales de adscripción, la variedad es también aquí
+la nota predominante, si bien se puede encontrar algún patrón compartido. La idea central que se puede
+observar es que la interoperabilidad de Gobierno-e se encuentra vinculada a ministerios próximos o
+muy cercanos al entorno presidencial, demostrando con ello la importancia que conceden los máximos
+dirigentes nacionales a esta vertiente de la actividad pública (ver tercera columna de la Tabla 2). En
+efecto, esa dependencia de la Presidencia de la República o Ministerio de la Presidencia dota de
+carácter sustantivo a las políticas de Gobierno-e, dado que desde ahí es mucho más factible su
+diseminación al conjunto de la estructura gubernamental nacional. Al mismo tiempo, esto demuestra el
+carácter transversal y horizontal de las políticas de interoperabilidad de Gobierno-e, que afectan al resto
+de las políticas públicas.
+      Asimismo, queda por observar la existencia de organismos de coordinación interna de cara a la
+consolidación de la interoperabilidad de Gobierno-e en todos los entes dentro del nivel central de
+gobierno. En este sentido, no todos los países disponen de este tipo de organismos coordinadores, ni en
+todos los casos se entienden de la misma manera, por lo que no se han podido identificar patrones
+comunes o conclusiones cerradas sobre su alcance y contenidos (ver Tabla 3). Evidentemente, la propia
+estructura interna de los gobiernos es diferente en cada país, así como las competencias atribuibles en
+cada caso. Lo realmente importante es que la naturaleza de los organismos de este tipo manifiesta, al
+menos en cierta medida, la capacidad para concertar actuaciones de interoperabilidad en el conjunto de
+la administración nacional.
+
+                                                    Tabla 3
+        Entes de coordinación de la interoperabilidad de Gobierno-e en la administración nacional
+   Países                                      Órganos de coordinación interna
+Argentina       Comité Técnico  Asesor
+Brasil          Coordenação e-PING, Secretaria de Logística e Tecnologia da Informação
+Colombia        Comisión Intersectorial de Políticas y Gestión de Información para la Administración Pública
+Costa Rica      Comisión Interinstitucional de Gobierno Digital
+                Comités ejecutivo, jurídico, técnico, operativo y representantes del administrador de esquemas
+Chile
+                y metadatos, Secretaría Ejecutiva de Estrategia Digital
+                En construcción. Comité para la interoperabilidad de ámbito estatal que incorpore las cinco
+Ecuador
+                funciones del Estado: ejecutiva, legislativa, judicial, electoral y participación ciudadana
+El Salvador     Foro RED-GOES. Directores de tecnologías de las dependencias del gobierno central
+España          Consejo Superior de Administración Electrónica
+Guatemala
+México           Consejo Técnico, Comisión Intersecretarial para el Desarrollo de Gobierno Electrónico
+Nicaragua        Comisión de Gobierno Electrónico de Nicaragua
+Panamá           Consejo Nacional para la Innovación Gubernamental
+Perú             Comité de Interoperabilidad en la Administración Pública
+                 ICT Network Board (con representantes de todas las administraciones portuguesas), Agência
+Portugal
+                 para a Modernização Administrativa
+                 Área de Normas y Estándares Tecnológicos, Agencia para el Desarrollo del Gobierno de
+Uruguay          Gestión Electrónica y la Sociedad de la Información y el Conocimiento, y Consejo de
+                 Informática Pública
+Venezuela        Centro Nacional de Tecnologías de Información
+Fuente: elaboración propia.
+
+                                                          7
+=== p8 ===
+Publicado en la Revista del CLAD Reforma y Democracia. No. 50. (Jun. 2011). Caracas.
+
+
+Áreas de los proyectos de interoperabilidad de Gobierno electrónico
+Un punto a considerar se refiere a los ámbitos de acción pública en que se han llevado a cabo proyectos
+de interoperabilidad de Gobierno-e por parte de los países iberoamericanos. En este sentido, se pueden
+identificar cuatro sectores de especial interés para desarrollar proyectos interoperables: Compras
+públicas (81,3%), tributos (68,8%), seguridad social (62,5%) y trámites generales (62,5%) (ver Tabla
+4). En este sentido, cabe subrayar que la mayoría observa las compras públicas como una oportunidad
+para desarrollar sus primeras iniciativas de interoperabilidad, especialmente en aquellos casos en que se
+dispone de menos recursos. Por otro lado, las áreas de tributos y seguridad social se encuentran también
+entre las preferidas para desarrollar proyectos de interoperabilidad, lo cual no es una sorpresa, dado
+que, en general, se trata de ámbitos en los que el Gobierno-e se ha desarrollado de una manera muy
+notable. Finalmente, el caso de los trámites generales, tales como el anuncio del cambio de domicilio o
+la incorporación al padrón municipal, también han alcanzado una buena cuota de interés en cuanto a
+iniciativas desplegadas.
+
+                                                   Tabla 4
+              Países que han desarrollado proyectos de interoperabilidad de Gobierno-e (%)*
+                             Ámbitos en que se han llevado a cabo
+                                                                                    %
+                                 proyectos de interoperabilidad
+               Salud                                                               43,8
+               Policía                                                             37,5
+               Justicia                                                            43,8
+               Trámites generales (cambio de domicilio, padrón, etc.)              62,5
+               Emergencias                                                          0,0
+               Compras públicas                                                    81,3
+               Tributos                                                            68,8
+               Seguridad social                                                    62,5
+               Otros                                                               43,8
+              Fuente: elaboración propia.
+              * Pregunta multi-respuesta.
+
+      En el otro extremo se encuentra el caso de las emergencias (0,0%) y, en menor medida, otros
+ámbitos como policía (37,5%), justicia (43,8%) o salud (43,8%) (ver Tabla 4). En estos casos, existen
+sectores con una presencia importante de profesionales muy capacitados en cada uno de ellos y,
+tradicionalmente, bastante reacios a la implantación de herramientas de Gobierno-e; a lo más,
+colaboran con otros ámbitos gubernamentales en la administración de sus actividades operativas. Sin
+embargo, resultaría interesante profundizar en esta cuestión en futuras investigaciones.
+      De manera complementaria se puede afirmar que, junto a lo anterior, los países perciben que
+determinados sectores cuentan con un mayor potencial de beneficio como consecuencia de su
+desarrollo. En particular, suelen incluirse áreas como la sanidad, la justicia, el comercio o los tributos,
+aunque no existe al respecto una visión homogénea en todos los países. En definitiva, este último
+aspecto es percibido aquí de una forma abierta, dado que será objeto de interés en la siguiente sección.
+
+3. Percepciones acerca de los beneficios y retos de futuro de la interoperabilidad en Iberoamérica
+Las consultas realizadas a los países permitieron, además de tener una visión general sobre el estado de
+sus iniciativas de interoperabilidad, obtener información de los responsables de dichas iniciativas o de
+los responsables de gobierno electrónico (hablando más ampliamente) acerca de sus percepciones sobre
+los beneficios de la interoperabilidad, así como de los retos que ésta impone. Tres aspectos son
+abordados en esta sección: 1) los beneficios según los encuestados, independientemente de que sean
+potenciales o reales; 2) los retos de futuro, percibidos en la actualidad como barreras u obstáculos al
+
+                                                          8
+=== p9 ===
+Publicado en la Revista del CLAD Reforma y Democracia. No. 50. (Jun. 2011). Caracas.
+
+
+desarrollo de la interoperabilidad en los países objeto de análisis; y 3) los retos tecnológicos, por ser, a
+corto plazo, uno de los aspectos determinantes del éxito o fracaso de las iniciativas.
+
+Beneficios
+Los beneficios estudiados por la literatura son también percibidos como tales por las administraciones
+públicas que han puesto en marcha proyectos de interoperabilidad. Criado, Gascó y Jiménez (2010)
+resumen algunas de estas oportunidades haciendo referencia a:
+      - La posibilidad de cooperar entre niveles de gobierno y agencias de la administración sin
+distinción del nivel de desarrollo tecnológico; es decir, combinando diferentes tipos de tecnologías en
+los back offices de los organismos implicados.
+      - La simplificación de la actividad administrativa y de los procesos de negocio/gobierno, lo que
+tiene como consecuencia una mayor eficiencia en el quehacer de las administraciones públicas.
+      - La posibilidad de utilizar más fácilmente estándares abiertos y aplicaciones tecnológicas, lo
+que puede llevar a una reducción del coste en tecnología.
+      - La reutilización de datos y funcionalidades que puede redundar en una disminución de los
+costes de desarrollo de sistemas de información.
+      - La mejora de la toma de decisiones como consecuencia de la obtención de datos agregados y
+de información de mayor calidad.
+      - La promoción de la cooperación internacional en ámbitos en los que se requieren nuevas
+herramientas.
+      - La mayor sencillez en la realización de trámites por el ciudadano o usuario de los servicios
+públicos (por ejemplo, ahorro de tiempo o de dinero).
+      - La mayor capacidad de promover la transparencia y la rendición de cuentas ante los
+stakeholders.
+      - La consecución de una visión integral e integrada de los servicios públicos tanto por parte de
+las administraciones públicas como de los beneficiarios y otros actores implicados, independientemente
+del número de organismos o procesos que intervengan en su confección final.
+      Por otro lado, la Tabla 5 recoge las respuestas proporcionadas por los encuestados. Puede
+observarse la coincidencia entre los beneficios potenciales señalados por los autores y los reales,
+apuntados por los gobiernos consultados.
+      Además, en términos generales, también puede afirmarse que existe una amplia coincidencia en
+relación con la percepción de los beneficios que conllevan las iniciativas de interoperabilidad. En este
+sentido, la mayor parte de los países coincide en apuntar (con un 87,5%) una mayor rapidez en la
+prestación de servicios, así como la visión integral e integrada de los mismos. A continuación, con algo
+más de un 81%, se menciona la mayor comodidad para el ciudadano, seguido de una mayor
+comunicación entre las administraciones (75%).
+
+                                                     Tabla 5
+                       Principales beneficios percibidos con la interoperabilidad (%)*
+                                              Beneficios                        %
+                        Menores costes                                        62,50
+                        Mejora de la calidad de la información                68,75
+                        Más rapidez en el servicio                            87,50
+                        Mayor comodidad para el ciudadano                     81,25
+                        Mayor comunicación entre administraciones             75,00
+                        Visión integral e integrada de los servicios          87,50
+                        Otros                                                 12,50
+                       Fuente: elaboración propia.
+                       * Pregunta multi-respuesta.
+
+                                                          9
+=== p10 ===
+Publicado en la Revista del CLAD Reforma y Democracia. No. 50. (Jun. 2011). Caracas.
+
+
+
+      Si se analizan con mayor detalle las respuestas obtenidas, se observa que casi un 70% de los
+países percibe que la interoperabilidad aporta cinco o más ventajas (ver Tabla 6).
+
+                                                   Tabla 6
+                      Porcentaje de países por cantidad de tipos de beneficios percibidos
+                                     Cantidad de diferentes
+                                                                     %
+                                       tipos de beneficios
+                                                6                   56,25
+                                                5                   12,50
+                                                4                    6,25
+                                                3                   12,50
+                                                2                    6,25
+                                               NC                    6,25
+                                 Fuente: elaboración propia.
+
+       En íntima conexión con los beneficios señalados se encuentra la percepción acerca de cuáles son
+los ámbitos de gobierno más relevantes para poner en marcha proyectos de interoperabilidad. En este
+sentido, la Tabla 7 muestra que son tres las áreas más claramente identificadas por los encuestados:
+comercio e intercambio de mercaderías (75%); aduanas, fronteras y movimientos migratorios
+(56,25%); y seguridad (56,25%). Dada la escasa experiencia en materia de interoperabilidad entre
+países, a priori, las respuestas proporcionadas parecen ser bastante lógicas puesto que tienen que ver,
+por un lado, con el intercambio de bienes y servicios y migraciones de población entre países, algo que
+ocurre frecuentemente, y, por el otro, con la posibilidad de aumentar la percepción de seguridad, lo que
+es importante teniendo en cuenta el alto nivel de riesgo percibido que existe en algunos de los países de
+Iberoamérica.
+       Criado, Gascó y Jiménez (2010: 35) afirman al respecto: “Los Estados iberoamericanos
+experimentan una creciente circulación de personas entre ellos, así como con terceros países, de manera
+que actuaciones de interconexión entre los sistemas aduaneros facilitará que estos procesos se realicen
+de una manera ordenada y siguiendo los intereses de los respectivos actores involucrados, así como
+evitando situaciones indeseadas. Además, todo ello facilitará un servicio más eficiente y cercano a la
+ciudadanía y las empresas, en la medida que se dispone de una información más robusta y consistente”.
+Asimismo, “las amenazas que experimenta la seguridad de los Estados iberoamericanos por parte de la
+delincuencia internacional convierten esta dimensión en una de las más relevantes de cara a promover
+iniciativas transfronterizas de colaboración. En particular, la posibilidad de compartir datos e
+información sobre narcotráfico, terrorismo, trata de personas y demás amenazas a la seguridad que son
+comunes a la mayoría de los países de la región resulta de especial interés, siempre teniendo en cuenta
+que en este ámbito es donde se deben extremar las medidas de garantía para evitar el acceso de terceros
+a los datos de las Administraciones Públicas involucradas en los intercambios” (p. 36).
+
+
+
+
+                                                         10
+=== p11 ===
+Publicado en la Revista del CLAD Reforma y Democracia. No. 50. (Jun. 2011). Caracas.
+
+
+                                                      Tabla 7
+                           Áreas percibidas como relevantes para interoperar (%)*
+                                               Área                        %
+                          Fronteras, aduanas y migración                  56,25
+                          Transporte                                      12,50
+                          Seguridad                                       56,25
+                          Seguridad social                                12,50
+                          Comercio y mercaderías                          75,00
+                          Salud y vigilancia sanitaria                    12,50
+                          Tributos                                         6,25
+                          Otros                                           12,50
+                          Fuente: elaboración propia.
+                          * Pregunta multi-respuesta.
+
+Retos de futuro
+Como afirma Gascó (2011), las iniciativas de interoperabilidad no están exentas de riesgos o barreras
+para alcanzar los objetivos pretendidos. Por un lado, se encuentran aquellos problemas específicos
+asociados a la tecnología que son consecuencia de los diferentes momentos en términos de gobierno
+electrónico por los que están transitando las organizaciones implicadas, lo que, a su vez, condiciona el
+nivel de inversión de recursos y, por ende, las características de las infraestructuras tecnológicas de las
+que se dispone. Pero, además, existe una serie de dificultades, de alcance más general, que trascienden
+el ámbito tecnológico y de las que el éxito de las iniciativas de interoperabilidad depende, si cabe, con
+más fuerza. La Tabla 8 recoge, en este sentido, los obstáculos que los países consultados perciben
+como más importantes a la hora de desarrollar iniciativas de interoperabilidad entre Estados.
+
+                                                      Tabla 8
+                        Principales retos considerados para la interoperabilidad (%)*
+                                                 Retos                          %
+                        Barreras tecnológicas                                 68,75
+                        Diversidad de idiomas                                 25,00
+                        Demasiados actores                                    75,00
+                        Cultura organizativa                                  87,50
+                        Barreras legislativas/jurídicas                       75,00
+                        Barreras relacionadas con la seguridad y privacidad   50,00
+                        Sistema político                                      62,50
+                        Altos costes                                          12,50
+                       Fuente: elaboración propia.
+                       * Pregunta multi-respuesta.
+
+      El factor más apuntado es la cultura organizativa. No en vano se ha señalado en diversas
+ocasiones que no existe cultura de cooperación en el sector público. Y es que sólo cuando el ciudadano
+es considerado el verdadero foco, la prioridad absoluta, es que la cooperación deviene en valor. Sin
+embargo, en la actualidad todavía imperan valores, creencias y rituales asociados a perspectivas buro-
+tecno-céntricas sustentadas en la prevalencia de los intereses político-burocráticos por encima de los
+del ciudadano. Como consecuencia de ello, suele dominar un principio de localidad, lo que implica
+que, normalmente, los actores toman decisiones buscando maximizar, primero, sus beneficios
+personales y, después, los de su unidad administrativa, los de su organismo, los de su sector, los de su
+ámbito geográfico y los de su país, en ese orden.
+      Las barreras legislativas son otro importante elemento a tener en cuenta. Ciertamente, a pesar de
+la aparición reciente de esquemas nacionales o marcos de interoperabilidad, en términos generales,
+
+                                                         11
+=== p12 ===
+Publicado en la Revista del CLAD Reforma y Democracia. No. 50. (Jun. 2011). Caracas.
+
+
+varios elementos normativos relacionados directa o indirectamente con el intercambio de información
+se revelan obsoletos y no contemplan las necesidades actuales.
+      La pluralidad de actores es el tercer aspecto señalado por los encuestados. Sin duda, el gran
+número de organismos e individuos implicados en iniciativas de interoperabilidad, tanto a nivel técnico
+como político, dificulta la implantación de los proyectos, sobre todo aquellos de ámbito transfronterizo
+en los que no sólo se tiene que hacer frente al número de actores sino, también, a sus diversas
+características.
+
+Retos tecnológicos
+Como se recogió anteriormente, los obstáculos tecnológicos, si bien en cuarto lugar (el 68,75% de los
+países los han mencionado), no dejan de ser una preocupación para los responsables de la
+interoperabilidad. Por ello se ha considerado oportuno abordarlos separadamente.
+      Los resultados inequívocos que arrojan los análisis con respecto a esta cuestión es que
+prácticamente todos los países coinciden en el principal problema: los datos (ver Tabla 9).
+Disgregación de bases de datos, inexistencia de modelos de datos comunes y, en general, problemas
+importantes con los datos son algunos de los aspectos mencionados por varios países.
+      Además, en este grupo de análisis se encuentran líneas bastante equilibradas que identifican las
+problemáticas comunes. A excepción del apartado “otros”, la distribución de países gira en torno al
+50% o más para cada problemática, y más de la mitad de los países señala siete tipologías o más, lo que
+indica que un alto número de países coincide en las áreas en las que encuentran dificultades
+tecnológicas (ver Tabla 10). Este aspecto es también interesante desde el punto de vista de las
+soluciones, ya que la mayoría de los países estarán interesados en solventar las mismas tipologías de
+dificultades y, por lo tanto, es terreno sobre el que la colaboración puede potenciar el impulso conjunto.
+      Asimismo, es interesante señalar qué problemáticas relacionadas con los datos (cualitativos y
+cuantitativos) y su almacenamiento, con la seguridad y la privacidad, con los estándares o con la
+discrecionalidad a la hora de definir soluciones son las más comunes, mientras que los aspectos
+relacionados con infraestructuras poco desarrolladas están menos extendidos.
+
+                                                     Tabla 9
+                   Porcentaje de países que tienen una tipología de dificultad dada (%)*
+                                            Problemática                             %
+                 Poco desarrollo de infraestructuras                               43,75
+                 Diversidad de opciones para la adopción de estándares             50,00
+                 Disgregación de las bases de datos                                81,25
+                 Alta discrecionalidad en la definición de sistemas de información 62,50
+                 Inexistencia de modelos de datos comunes                          87,50
+                 Problemas de seguridad informática                                56,25
+                 Baja práctica en el uso de estándares                             75,00
+                 Ausencia del principio de neutralidad tecnológica                 62,50
+                 Problemas con los datos                                           93,75
+                 Desconocimiento sobre información generada                        62,50
+                 Otros                                                             12,50
+                Fuente: elaboración propia.
+                * Pregunta multi-respuesta.
+
+
+
+
+                                                         12
+=== p13 ===
+Publicado en la Revista del CLAD Reforma y Democracia. No. 50. (Jun. 2011). Caracas.
+
+
+                                                   Tabla 10
+                        Porcentaje de países por número de tipologías-problemas (%)
+                                       Número de tipologías        %
+                                                11                6,25
+                                                10              12,50
+                                                 9              18,75
+                                                 8                6,25
+                                                 7              12,50
+                                                 6              12,50
+                                                 5                6,25
+                                                 4              12,50
+                                                 3                6,25
+                                                 2                6,25
+                                      Fuente: elaboración propia.
+
+4. Recomendaciones de futuro sobre la interoperabilidad en Iberoamérica
+Esta sección abre la puerta a una reflexión más amplia acerca de una serie de recomendaciones de
+futuro para promover la interoperabilidad de Gobierno-e en Iberoamérica. Las dos secciones anteriores
+han ofrecido una nítida y amplia panorámica sobre los avances desarrollados hasta la fecha en esta
+materia dentro de la región, así como de las principales percepciones de los responsables de su gestión
+en los gobiernos nacionales, teniendo en cuenta las barreras y oportunidades que ofrece en el futuro
+próximo. A partir del análisis de todo esto se ofrecen unas ideas y recomendaciones para desarrollar la
+interoperabilidad de Gobierno-e en Iberoamérica, sobre todo a raíz de la relevancia que ha alcanzado
+tras la aprobación de las Bases para una Estrategia Iberoamericana de Interoperabilidad en la XII
+Conferencia Iberoamericana de Ministros de Administración Pública y Reforma del Estado, así como
+por su ratificación en la XX Cumbre Iberoamericana de Jefes de Estado y de Gobierno, de Mar del
+Plata en diciembre de 2010.
+      Recomendación 1. Los países iberoamericanos deberían promover una vertiente estratégica de
+la interoperabilidad a través de una perspectiva integrada sobre el Gobierno-e, teniendo en cuenta
+unas bases comunes a nivel regional. En este sentido, disponer de un documento a la manera de un
+esquema o marco nacional de interoperabilidad resulta esencial de cara a dar a conocer, a todas las
+entidades administrativas nacionales, los patrones y estándares técnicos, semánticos y organizativos
+que deben seguir en los proyectos de Gobierno-e. Es por ello que los Estados iberoamericanos deberían
+ser capaces de definir estrategias nacionales autónomas, pero subrayando al mismo tiempo aspectos
+que puedan ser compartidos tanto dentro como fuera de las fronteras administrativas nacionales, de
+manera que se proyecte en el futuro un potencial avance coordinado en la materia, ya desde la
+definición de los lineamientos generales. Esto facilitará que a la hora de implantar iniciativas con otros
+países, todos los organismos públicos involucrados estén listos para afrontar los proyectos compartidos
+desde unas bases estratégicas comunes, previamente determinadas.
+      Casi todos los países iberoamericanos están siendo conscientes de la necesidad de establecer unos
+lineamientos estratégicos en torno a la interoperabilidad de Gobierno-e para convertir la colaboración
+interadministrativa en una vertiente más de su actividad. Esto ha supuesto una confirmación de la
+madurez que la cooperación en materia tecnológica está adquiriendo en el quehacer de las
+administraciones iberoamericanas. De hecho, se ha concretado de una forma importante en la creciente
+presencia de este tema en foros y encuentros regionales o actividades de Gobierno-e en los que han
+participado todos o algunos de los países de la zona, de manera que las conclusiones de los mismos se
+orientan hacia una voluntad manifiesta de cooperación regional, de cara a mejorar el aprendizaje
+compartido y desarrollar patrones comunes de desarrollo en esta materia.
+
+
+                                                         13
+=== p14 ===
+Publicado en la Revista del CLAD Reforma y Democracia. No. 50. (Jun. 2011). Caracas.
+
+
+       Recomendación 2. Los organismos de coordinación interna deben orientarse en cada uno de los
+países a facilitar la promoción de la interoperabilidad de Gobierno-e, considerando el carácter
+transversal de las iniciativas y proyectos a implantar. Los casos apuntados anteriormente demuestran
+la necesidad de consolidar el Gobierno-e de una manera concertada dentro del conjunto de las
+administraciones públicas nacionales, teniendo en cuenta la variedad de organismos, áreas de políticas
+y necesidades concretas de cada servicio público. Esto convierte en imprescindible el hecho de que
+exista un espacio en el que todas esas perspectivas se puedan poner en sintonía, de una forma
+concertada, de cara a mejorar los resultados e impactos de las actuaciones puestas en marcha. Entonces,
+para lograr su sostenibilidad será necesario seguir unas pautas comunes que faciliten la colaboración en
+el futuro con otros actores o entidades de gobierno.
+       De hecho, los países de la región iberoamericana ya están traduciendo el nivel de prioridad de la
+interoperabilidad de Gobierno-e en la creación de unidades de coordinación interna dentro de sus
+gobiernos, incluyendo organismos para su gobernanza. Lo anterior pone de relieve que el despliegue de
+tecnologías de información y comunicación se ha convertido en una dimensión sustantiva de las
+políticas públicas nacionales, que requiere de una adecuada gestión y, al mismo tiempo, de un decidido
+apoyo político. Estos aspectos parecen estar cada vez más claros dentro de los países de Iberoamérica,
+en la medida que los organismos creados para la dirección del Gobierno-e suelen posicionarse dentro
+de la esfera presidencial o, en su caso, en ministerios con una elevada influencia política. Además, esos
+organismos de coordinación interna pretenden desplegar su impronta en el conjunto de la
+administración nacional.
+       Recomendación 3. Los países de Iberoamérica deberían trabajar en la configuración de una
+instancia intergubernamental en el ámbito regional para la gobernanza de la interoperabilidad o bien
+promover otros espacios de encuentro formalizados dentro de organismos multilaterales ya existentes.
+En el primer supuesto se trataría de crear ex novo una instancia que pudiera aglutinar el interés de todos
+los países de la región por promover la gobernanza de procesos de Gobierno-e. Ello implicaría la
+dotación de los medios necesarios para definir y consolidar una estrategia regional de interoperabilidad,
+así como los criterios de consulta, adopción de decisiones y actualización de todos aquellos
+documentos o estándares que sus miembros decidan dotarse. El segundo caso, quizá más realista,
+supondría la creación o fortalecimiento de comités o grupos de trabajo sobre interoperabilidad de
+Gobierno-e dentro de instituciones multilaterales ya existentes, tales como la CEPAL, la OEA o el
+CLAD, de cara a adoptar esas mismas decisiones compartidas. En cualquiera de los dos casos, sería
+también deseable la consolidación de otros espacios e iniciativas de colaboración, tales como un
+observatorio digital para la interoperabilidad en Iberoamérica, la difusión y aprendizaje de buenas
+prácticas, el trabajo conjunto con universidades en proyectos de investigación o la creación de premios
+a la interoperabilidad de Gobierno-e.
+       En ese sentido, la existencia de organismos de interoperabilidad de Gobierno-e para su
+gobernanza debe orientarse a garantizar una adecuada implantación de proyectos transnacionales. La
+dimensión de la gobernanza de la interoperabilidad descansa en la existencia de organismos
+administrativos que lideren el Gobierno-e en los países de la región iberoamericana, algo que se halla
+en una fase de alta consolidación. La gobernanza de la interoperabilidad requiere de la colaboración de
+los organismos nacionales, siempre preservando la autonomía e independencia de las instituciones
+nacionales, al mismo tiempo que asientan una colaboración transfronteriza para adoptar acuerdos de
+manera conjunta. Esto exige, además de la voluntad política expresada por los responsables de
+Gobierno-e nacionales, de un creciente dinamismo en el sistema de relaciones intergubernamentales
+entre los organismos públicos participantes.
+       Recomendación 4. Resulta necesario el fomento de la cultura de la colaboración
+interadministrativa e intergubernamental dentro de los sectores públicos nacionales, en todos sus
+niveles y entre todos los empleados públicos. En este plano, resulta pertinente apuntar la necesidad de
+atender factores de diversa índole, siendo los relacionados con la esfera legal/normativa y
+                                                         14
+=== p15 ===
+Publicado en la Revista del CLAD Reforma y Democracia. No. 50. (Jun. 2011). Caracas.
+
+
+personal/capital humano los más sustantivos. Del lado legal/normativo, la diversidad de partida dentro
+del entorno iberoamericano es elevada. Sin embargo, se puede trabajar en el establecimiento de
+criterios y plazos compartidos para evitar dilaciones en la implementación de actuaciones frente a
+potenciales incompatibilidades legales. Del lado del personal/capital humano, resulta imprescindible
+que los países de la región dispongan de empleados públicos con la capacitación requerida para
+desarrollar proyectos de Gobierno-e con participación de agencias de diferentes países. De forma
+complementaria, el fortalecimiento de una cultura administrativa orientada a la colaboración
+interadministrativa e intergubernamental debe cimentarse sobre un liderazgo híbrido (habilitado para
+gestionar tanto redes de políticas públicas como redes tecnológicas), que sea capaz de traducir las
+aspiraciones políticas manifestadas por cada uno de los países, en actuaciones configuradoras de
+servicios públicos digitales interoperables y de valor añadido para la ciudadanía.
+       En todo caso, tal como se ha puesto de manifiesto en las secciones anteriores, todavía se perciben
+notables resistencias culturales e institucionales ligadas al despliegue de proyectos de interoperabilidad
+de Gobierno-e. Este tipo de barreras suele ser más persistente que las de carácter técnico o, incluso,
+relacionadas con el financiamiento de las iniciativas a llevar a cabo. Lo anterior pone de manifiesto,
+una vez más, la importancia de las variables soft (frente a variables hard, de carácter técnico) en los
+proyectos tecnológicos dentro de las administraciones públicas, más cuando se trata de actuaciones que
+requieren de la colaboración de actores procedentes de diferentes administraciones e, incluso, de
+distintos países. Por consiguiente, lo anterior pone de nuevo sobre la mesa la importancia del desarrollo
+de una buena gestión pública en el ámbito de la interoperabilidad.
+       Recomendación 5. Desde un punto de vista tecnológico, si bien se han alcanzado importantes
+logros, deben continuarse los esfuerzos por mejorar la seguridad y privacidad de las comunicaciones
+entre diferentes administraciones, por desarrollar esquemas semánticos y técnicos asentados en
+soluciones y plataformas abiertas, así como por promover un tratamiento organizado de los datos. El
+conjunto de los países de Iberoamérica requiere que sus avances en Gobierno-e se consoliden sobre
+unos soportes compartidos desde un plano tecnológico, si bien esta es la vertiente en la que se han
+alcanzado mayores logros durante los últimos años. Por consiguiente, se recomienda atender de una
+manera específica las necesidades más acuciantes a las que han de hacer frente las administraciones
+públicas para mejorar la interoperabilidad de Gobierno-e, especialmente las siguientes: el
+establecimiento de unos patrones comunes para facilitar la adquisición, procesamiento,
+almacenamiento e intercambio de los datos, así como el fortalecimiento de mecanismos para consolidar
+la confianza entre los actores administrativos participantes en los intercambios, incluyendo las
+correspondientes garantías a la privacidad de los potenciales afectados.
+       Resulta imprescindible que en esta vertiente se desarrollen protocolos que faciliten la
+estandarización de toda la dimensión técnica que supone la interoperabilidad de Gobierno-e que, si bien
+se puede considerar ciertamente desarrollada, requiere de futuros tratamientos comunes. En este
+sentido, se debe comenzar por establecer unos principios técnicos compartidos en materia de software
+de fuentes abiertas, el establecimiento de estándares y arquitecturas abiertos, que se encuentren en
+consonancia con el tipo de servicios públicos interoperables a implementar. Determinadas
+organizaciones internacionales, tales como IEEE, IETF, ISO o W3C, suelen emitir directrices que
+pueden ayudar a converger las políticas nacionales en diferentes materias técnicas. Con ello se puede
+lograr el máximo nivel de homologación en cuanto a los componentes y recomendaciones sobre
+normas, protocolos y estándares necesarios para la interoperabilidad de Gobierno-e en el ámbito
+iberoamericano.
+       Recomendación 6. Los ciudadanos son los receptores últimos de las actuaciones en materia de
+interoperabilidad de Gobierno-e; por esto es necesario, por un lado, identificar áreas de trabajo con
+valor añadido para ellos, teniendo en cuenta también las propias necesidades de los gobiernos
+nacionales, y, por el otro, evaluar las iniciativas implantadas con un espíritu de mejora continua.
+Todos los asuntos apuntados, así como otros que puedan ir surgiendo, son especialmente relevantes
+                                                         15
+=== p16 ===
+Publicado en la Revista del CLAD Reforma y Democracia. No. 50. (Jun. 2011). Caracas.
+
+
+para generar servicios públicos transfronterizos de alto valor añadido para los ciudadanos, así como
+para conformar información de interés regional a partir de datos procedentes de diferentes
+administraciones. Las administraciones públicas iberoamericanas se encuentran desarrollando
+proyectos de interoperabilidad en diferentes áreas clave a nivel nacional, singularmente, compras
+públicas, tributos o seguridad social, mostrando una clara aproximación a las necesidades de la
+ciudadanía. Al mismo tiempo, se ha evidenciado el interés por la promoción de proyectos
+internacionales de interoperabilidad en ámbitos diversos, sobre todo, comercio y mercaderías,
+fronteras, migración y aduanas, y en materia de seguridad, apareciendo como cuestiones emergentes
+otras tales como el transporte, la salud, la vigilancia sanitaria o los tributos. En definitiva, existe un
+conjunto de áreas de acción pública con claro interés para la colaboración intergubernamental.
+      Dada la diversidad de países y de los problemas a enfrentar, se sugiere iniciarse con el diseño de
+actuaciones conjuntas en las que participen dos o varios países, sin necesidad de esperar por un acuerdo
+en el conjunto de la región para llevar a cabo la interoperabilidad en un ámbito concreto. Ello se ha de
+garantizar a través de los oportunos espacios de diálogo y mecanismos de colaboración, que deben
+actuar de forma dinámica para adaptarse lo más rápidamente posible a las necesidades que puedan
+identificarse en adelante. En definitiva, las experiencias prácticas nacionales en materia de
+interoperabilidad implantadas en las administraciones públicas iberoamericanas deberían servir como
+modelo para desarrollar iniciativas transfronterizas, teniendo en cuenta que se han identificado ya
+cuestiones de interés común para algunos o todos los países de la región.
+      Pero, además, las iniciativas de interoperabilidad deben evaluarse en términos de las
+innovaciones, concertaciones o implementaciones a las que den lugar, de la realización y grado de éxito
+de éstas y de la satisfacción tanto de los stakeholders como de los destinatarios finales (especialmente
+ciudadanos pero, también, organizaciones y empresas) con el objetivo de conseguir la sucesiva mejora
+de los componentes de los proyectos puestos en marcha. La evaluación de resultados con base en
+diferentes criterios (eficacia, eficiencia, equidad, pertinencia, sostenibilidad) se convierte, así, en una
+herramienta de análisis fundamental que permite gestionar y dirigir adecuadamente las actuaciones en
+materia de interoperabilidad, así como obtener enseñanzas y experiencias para futuros proyectos de
+colaboración.
+      Recomendación final. Las Bases para una Estrategia Iberoamericana de Interoperabilidad
+establecen un mecanismo esencial de cara a asentar unas bases comunes a partir de las cuales cada
+país debería promover su propia concepción de la interoperabilidad de Gobierno-e, si bien ya con un
+mínimo común denominador en el conjunto de Iberoamérica. Desde una perspectiva regional, las Bases
+garantizan la existencia de unos fundamentos compartidos por todos los países, adoptados desde el
+máximo nivel político y asentados en una visión común sobre la necesidad de trabajar de forma
+coordinada para promover el Gobierno-e en el conjunto de Iberoamérica. Al mismo tiempo, las Bases
+pueden servir de mecanismo de legitimidad para los países de la región de cara a adoptar iniciativas
+internas y, al mismo tiempo, para lograr avances colectivos en materia de interoperabilidad,
+independientemente de la variedad en el desarrollo tecnológico, económico, idiomático, cultural y de
+sistemas administrativos en Iberoamérica. A su vez, la inexistencia de presiones normativas o
+instancias supranacionales de adopción de decisiones colectivas en Iberoamérica, implica que la
+voluntad para llevar adelante la interoperabilidad transnacional se ha de fundamentar en actuaciones
+cooperativas e independientes. Éstas, no obstante, requerirán para su éxito de calendarios comunes para
+lograr objetivos, configurar indicadores y puntos de referencia cuantitativos y cualitativos adaptados a
+las exigencias de los distintos países, así como organizar periódicamente controles y evaluaciones entre
+homólogos como proceso de aprendizaje conjunto.
+      Lo anterior también requiere de la existencia de unas lógicas compartidas que impidan una
+diversidad de proyectos, incluso dentro de la propia política pública, que no estén sustentados en las
+mismas bases técnicas, semánticas y organizativas. La existencia de un documento como las Bases
+ofrece una excelente oportunidad a los países de la región para desarrollar proyectos
+                                                         16
+=== p17 ===
+Publicado en la Revista del CLAD Reforma y Democracia. No. 50. (Jun. 2011). Caracas.
+
+
+intergubernamentales de Gobierno-e desde diferentes puntos de vista, grupos de países o sectores de
+políticas. De entrada, se puede confirmar que existe una voluntad claramente definida de colaborar
+entre los países de la región. Esa voluntad se sostiene en las opiniones manifestadas en el cuestionario
+que nutre este artículo por los responsables de la materia en cada gobierno nacional, en un desarrollo
+estimable de lineamientos estratégicos que dota de sentido a la cooperación entre países, así como en
+los diferentes hitos alcanzados hasta la aprobación de las Bases. En este último sentido, destacan la
+Carta Iberoamericana de Gobierno Electrónico (CLAD, 2007), el Libro Blanco de la
+Interoperabilidad de Gobierno Electrónico para América Latina y el Caribe (CEPAL, 2007), los
+indicadores compartidos para el 2015 dentro del Plan de Acción sobre la Sociedad de la Información
+de América Latina y el Caribe (eLAC), así como los acuerdos básicos de colaboración entre diferentes
+países ya vigentes al día de hoy. Estos documentos y acuerdos refuerzan una voluntad común que se
+debe ir consolidando progresivamente con actuaciones concertadas con carácter regional.
+
+5. Conclusión
+Como consecuencia de la elaboración de las llamadas Bases para una Estrategia Iberoamericana de
+Interoperabilidad durante el año 2010, se realizó una consulta a los países de la región con el propósito
+de conocer el desarrollo de las iniciativas en materia de interoperabilidad en Gobierno electrónico que
+habían emprendido, así como su percepción de los beneficios y retos implícitos. Fruto de dicha
+consulta ha sido este documento, cuyo objetivo ha consistido en presentar el nivel de implantación de
+los proyectos de interoperabilidad en 16 países de Iberoamérica para conocer cuál es la situación actual
+en la región. A grandes rasgos, las conclusiones más importantes extraídas del análisis de los datos son:
+       - A pesar del interés que despierta la interoperabilidad en los gobiernos nacionales de la región,
+todavía no es ésta una prioridad en todos ellos. Se requiere, en este sentido, un nivel más elevado de
+atención a este cada vez más fundamental elemento del Gobierno electrónico.
+       - La mayoría de los países consultados afirman contar con una estrategia de interoperabilidad, y
+aquellos que no la tienen prevén elaborarla en el corto plazo.
+       - En la mayor parte de los casos, la elaboración de dichas estrategias ha tomado como referente
+documentos generales o marcos nacionales de otros países, tanto en la región como fuera de ella. Así,
+entre los primeros destaca la utilización del Libro Blanco de Interoperabilidad o de la primera versión
+del Marco Europeo de Interoperabilidad, mientras que, entre los segundos, cabe referirse a Brasil y
+Chile en Iberoamérica y al Reino Unido en Europa.
+       - Si bien todos los países, excepto Guatemala, cuentan con una unidad responsable del fomento
+de la interoperabilidad en Gobierno electrónico, existe una gran heterogeneidad en cuanto a la
+denominación de los organismos y unidades, la adscripción a los departamentos ministeriales o la
+existencia de organismos de coordinación interna. La variedad institucional es elevada, lo que puede
+dificultar la puesta en marcha de proyectos de interoperabilidad transfronterizos.
+       - Los cuatro sectores en los que más se han desarrollado iniciativas de interoperabilidad son los
+de las compras públicas, los tributos, la seguridad social y los trámites en general.
+       - Los países perciben que los programas de interoperabilidad aportan importantes beneficios,
+entre los cuales destacan la rapidez en el servicio, la visión integral e integrada de los servicios, la
+mayor comodidad para el ciudadano y la mayor comunicación entre administraciones. Asimismo,
+señalan como áreas clave, a la hora de interoperar, el comercio y mercaderías, las aduanas, fronteras y
+migración, y la seguridad.
+       - También apuntan importantes retos para el desarrollo de la interoperabilidad, entre ellos, la
+cultura organizativa, las barreras legislativas, la pluralidad de actores y los retos de carácter
+tecnológico. Entre estos últimos, coinciden los entrevistados en señalar que los principales problemas
+que se encuentran están asociados a los datos.
+       A la luz de la situación descrita, el artículo hace énfasis en las siguientes seis recomendaciones:
+
+                                                         17
+=== p18 ===
+Publicado en la Revista del CLAD Reforma y Democracia. No. 50. (Jun. 2011). Caracas.
+
+
+       - Los países iberoamericanos deberían promover una vertiente estratégica de la
+interoperabilidad a través de una perspectiva integrada sobre el Gobierno-e, teniendo en cuenta unas
+bases comunes a nivel regional.
+       - Los organismos de coordinación interna deben orientarse en cada uno de los países a facilitar
+la promoción de la interoperabilidad de Gobierno-e, considerando el carácter transversal de las
+iniciativas y proyectos a implantar.
+       - Los países de Iberoamérica deberían trabajar en la configuración de una instancia
+intergubernamental en el ámbito regional para la gobernanza de la interoperabilidad o bien promover
+otros espacios de encuentro formalizados dentro de organismos multilaterales ya existentes.
+       - Resulta necesario el fomento de la cultura de la colaboración interadministrativa e
+intergubernamental dentro de los sectores públicos nacionales, en todos sus niveles, y entre todos los
+empleados públicos.
+       - Desde un punto de vista tecnológico, si bien se han alcanzado importantes logros, deben
+continuarse los esfuerzos por mejorar la seguridad y privacidad de las comunicaciones entre diferentes
+administraciones, por desarrollar esquemas semánticos y técnicos asentados en soluciones y
+plataformas abiertas, así como por promover un tratamiento organizado de los datos.
+       - Los ciudadanos son los receptores últimos de las actuaciones en materia de interoperabilidad
+de Gobierno-e, por ello es necesario identificar áreas de trabajo con valor añadido para ellos, teniendo
+en cuenta también las propias necesidades de los gobiernos nacionales.
+       Estas reflexiones son coherentes con los conceptos y directrices establecidos en las Bases para
+una Estrategia Iberoamericana de Interoperabilidad. Estas Bases establecen un mecanismo esencial de
+cara a asentar unos fundamentos comunes a partir de las cuales cada país debería promover su propia
+concepción de la interoperabilidad de Gobierno-e, si bien ya con un mínimo común denominador en el
+conjunto de Iberoamérica.
+       En otro ámbito, es necesario seguir estudiando los programas de interoperabilidad en la región
+citada y contribuir, así, a la reflexión teórica y al desarrollo práctico. En este sentido, algunas de las
+cuestiones en las que debe seguir profundizándose incluyen el análisis de la formulación de estrategias
+de interoperabilidad (qué las motiva, cómo se elaboran, qué actores están involucrados), las
+implicaciones de la variedad institucional detectada a la hora de poner en marcha proyectos de
+interoperabilidad transfronterizos, la superación de las barreras culturales y legales, o la evaluación de
+los resultados de las iniciativas de interoperabilidad en términos de su eficacia, eficiencia, pertinencia,
+equidad y sostenibilidad. Todo ello para seguir mejorando la acción de gobierno y la calidad de los
+servicios que se prestan a la ciudadanía en todos los países iberoamericanos.
+
+Bibliografía
+CEPAL (2007), Libro blanco de interoperabilidad de gobierno electrónico para América Latina y el
+      Caribe,                     Santiago,                    CEPAL,                      EuropeAid,
+      http://www.eclac.org/ddpe/publicaciones/xml/2/37352/Libroblanco.pdf.
+Corte, Leandro (2007), La intranet gubernamental como elemento clave de la interoperabilidad, s.l.,
+      Red de Gobierno Electrónico de América Latina y el Caribe; OEA; BID; IDRC; ICA (Colección
+      de Documentos de Trabajo sobre e-Gobierno; N° 2).
+Criado, J. Ignacio; Gascó, Mila; y Jiménez, Carlos E. (2010), “Bases para una estrategia
+      iberoamericana de interoperabilidad”, Caracas, CLAD (Documentos Clave: Estado,
+      Administración Pública y Sociedad; N° 18).
+European Comission (2004), European Interoperability Framework (EIF) for Pan-European e-
+      Government              Services,          Bruxelles,            European            Comission,
+      http://ec.europa.eu/idabc/servlets/Doc?id=19529.
+__________ (2010), European Interoperability Framework (EIF) for European Public Services,
+      Bruxelles, European Comission, http://ec.europa.eu/isa/strategy/doc/annex_ii_eif_en.pdf.
+                                                         18
+=== p19 ===
+Publicado en la Revista del CLAD Reforma y Democracia. No. 50. (Jun. 2011). Caracas.
+
+
+Gascó, Mila (2011), “Los retos de la colaboración: ¿a qué, si no a eso, pretendemos hacer frente con la
+     interoperabilidad?”, en Revista del CLAD Reforma y Democracia, Nº 49, Caracas, pp. 185-202.
+Gascó, Mila y Roy, Jeffrey (2006), “E-Government and Multi-Level Governance: a Comparative
+     Examination of Catalonia, Spain, and Ontario, Canada”, en International Journal of Electronic
+     Government Research, Vol. 2 N° 4, Hershey, pp. 57-75.
+Gil-García, J. R.; Chengalur-Smith, I.; y Duchessi, P. (2007), “Collaborative e-Government:
+     Impediments and Benefits of Information-Sharing Projects in the Public Sector”, en European
+     Journal of Information Systems, Vol. 16 N° 2, Birmingham, pp. 121-133.
+Mayer-Schönberger, Viktor (2005), “The Politics of Public Safety Communication Interoperability
+     Regulation”, en Telecommunications Policy, Vol. 29 N° 11, Maryland Heights, pp. 831-842.
+Poggiese, Héctor; Redín, María Elena; Cerezo, Matías; y Carllinni, José Manuel (2008), “El Foro de
+     Responsables Informáticos de la administración pública nacional: una lectura interpretativa”, en
+     Interoperabilidad en la administración pública, Jefatura de Gabinete de Ministros (ed.), Buenos
+     Aires, JGM, Secretaría de Gabinete y Gestión Pública.
+Santos, Ernani Marques dos (2008), “Implementing Interoperability Standards for Electronic
+     Government: an Exploratory Case Study of the E-PING Brazilian Framework”, en International
+     Journal of Electronic Government Research, Vol. 4 N° 3, Hershey, pp. 103-112.
+Scholl, H. J. y Klischewski, R. (2007), “E-Government Integration and Interoperability: Framing the
+     Research Agenda”, en International Journal of Public Administration, Vol. 30 Nos. 8-9,
+     Philadelphia, pp. 889-920.
+
+
+
+
+                                                         19

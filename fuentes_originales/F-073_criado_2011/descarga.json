@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "id": "F-073",
+  "slug": "criado_2011",
+  "archivo": "fuentes_originales/F-073_criado_2011/Interoperabilidad_de_Gobierno_electrónico_en_Iberoamérica.pdf",
+  "texto": null,
+  "url_origen": "https://revista.clad.org/ryd/es/article/download/805/766/4881",
+  "url_final": "https://revista.clad.org/ryd/es/article/download/805/766/4881",
+  "fecha_consulta": "2026-10-29",
+  "sha256": "ff52824f4026da817b367100bee7a52ed9260f9a34a9baee35bbfd1c738311f8",
+  "bytes": 287174,
+  "tipo": "pdf",
+  "nombre_original": "Interoperabilidad_de_Gobierno_electrónico_en_Iberoamérica.pdf",
+  "content_type": null,
+  "via": "urllib",
+  "last_modified_servidor": null,
+  "paginas": null,
+  "paginas_ocr": [],
+  "advertencias": [
+    "No se pudo compilar el extractor de texto (swiftc no disponible: [Errno 2] No such file or directory: 'swiftc'). El original se conserva sin texto extraído."
+  ]
+}

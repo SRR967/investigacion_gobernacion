@@ -1,0 +1,2435 @@
+=== p1 ===
+       Universidad de Buenos Aires
+     Facultad de Ciencias Económicas
+     Escuela de Estudios de Posgrado
+
+
+MAESTRÍA EN GESTIÓN ESTRATÉGICA DE SISTEMAS
+     Y TECNOLOGÍAS DE LA INFORMACIÓN
+
+
+
+
+            TRABAJO FINAL DE MAESTRÍA
+
+
+
+Propuesta de una estrategia de interoperabilidad de los
+      servicios ciudadanos en una Organización
+             Gubernamental de Colombia
+
+
+
+AUTOR: DANIEL ANTONIO MOLINA GIRALDO
+
+DIRECTOR: MG. GABRIELA SALEM
+
+
+                         FEBRERO 2025
+
+
+
+
+                                           P á g i n a 1 | 74
+=== p2 ===
+                                        Dedicatoria
+
+Dedico este trabajo a todas aquellas personas que, con su esfuerzo y dedicación, contribuyen
+al desarrollo de soluciones innovadoras que mejoran la calidad de vida de los ciudadanos. A
+aquellos que, en el ámbito académico y profesional, me han brindado su apoyo y
+conocimiento para enfrentar los retos de la investigación. A los servidores públicos que, a
+pesar de las dificultades, buscan constantemente la forma de optimizar los servicios que
+ofrecen a la sociedad. También, a todos los ciudadanos que se benefician del progreso y la
+modernización en el ámbito gubernamental, quienes inspiran la búsqueda de soluciones
+eficaces. Este trabajo es un homenaje a la constante búsqueda de la mejora, la innovación y
+el compromiso con el bienestar común.
+
+
+
+
+                                                                        P á g i n a 2 | 74
+=== p3 ===
+                                     Agradecimientos
+
+Agradezco profundamente a todas las personas que hicieron posible la realización de este
+trabajo. A mi equipo de asesores y docentes, por su guía y apoyo incondicional a lo largo de
+todo el proceso de investigación. A mis compañeros y colegas, cuya colaboración y valiosas
+aportaciones enriquecieron este proyecto. A las instituciones y profesionales que brindaron
+su tiempo y recursos para facilitar el acceso a la información. Finalmente, a mi familia, cuyo
+respaldo emocional y motivación constante fueron clave para alcanzar esta meta. Sin todos
+ustedes, este logro no habría sido posible.
+
+
+
+
+                                                                         P á g i n a 3 | 74
+=== p4 ===
+                                          Resumen
+
+       Este trabajo de investigación tiene como objetivo principal proponer una estrategia
+de interoperabilidad para optimizar los servicios ciudadanos en una organización
+gubernamental de Colombia. La necesidad de mejorar la eficiencia y la calidad en la
+prestación de los servicios públicos se ha convertido en una prioridad para los gobiernos,
+dado que las plataformas digitales ofrecen una vía efectiva para la modernización
+administrativa y el acceso ágil a los trámites por parte de los ciudadanos. El enfoque del
+trabajo se centra en el análisis de la situación actual de los servicios públicos en Colombia y
+las tecnologías disponibles para implementar la interoperabilidad.
+
+       Entre los principales hallazgos, se destaca la viabilidad de implementar una solución
+basada en la nube que permita centralizar los servicios y facilitar el acceso a través de una
+única plataforma. Sin embargo, también se identifican desafíos en cuanto a la infraestructura
+tecnológica en el sector defensa y la necesidad de un cambio cultural dentro de las
+organizaciones gubernamentales para adoptar nuevas tecnologías. A pesar de estas
+limitaciones, se recomienda la implementación de un proyecto piloto para evaluar la
+efectividad de la propuesta antes de su despliegue a gran escala.
+
+       La presente investigación se desarrolla dentro de los límites de la disponibilidad y
+accesibilidad a la información proporcionada por la organización gubernamental,
+considerando su misión de defensa dentro del marco de la función pública nacional. Esta
+delimitación, lejos de ser una restricción, establece un punto de partida para futuras
+investigaciones que profundicen en los aspectos técnicos y organizacionales, permitiendo
+superar las barreras identificadas. En términos de implicaciones prácticas, la propuesta
+presentada tiene el potencial de transformar significativamente la prestación de servicios
+públicos, mejorando la eficiencia operativa y la satisfacción ciudadana. Desde una
+perspectiva social, se anticipa un impacto positivo al facilitar el acceso a los servicios
+gubernamentales, especialmente en regiones rurales y de difícil acceso, contribuyendo así a
+la equidad y la inclusión social.
+
+Palabras clave: interoperabilidad, servicios ciudadanos, administración pública,
+plataformas digitales.
+
+
+                                                                          P á g i n a 4 | 74
+=== p5 ===
+                                                                      Contenido
+1.      Introducción.............................................................................................................................. 7
+2.      Objetivos ................................................................................................................................... 9
+     2.1 Objetivo General ...................................................................................................................... 9
+     2.2 Objetivos Específicos ............................................................................................................... 9
+3.      Situación Problemática .......................................................................................................... 10
+4.      Marco Referencial .................................................................................................................. 13
+     4.1 Marco Teórico ........................................................................................................................ 13
+        4.1.1 Interoperabilidad ............................................................................................................. 13
+        4.1.2 Gestión de la Información y la Reserva de Datos ........................................................... 15
+        4.1.3 Gestión del Cambio ......................................................................................................... 16
+        4.1.4 Cultura Organizacional ................................................................................................... 17
+        4.1.5 Transformación Digital ................................................................................................... 18
+        4.1.6 Publicación y el Acceso a la Información ....................................................................... 19
+        4.1.7 Data Driven ..................................................................................................................... 21
+        4.1.8 Marco de Interoperabilidad para Gobierno Digital en Colombia .................................... 22
+        4.1.9 Modelos de Interoperabilidad Internacionales ................................................................ 23
+        4.1.10 Impacto de la Interoperabilidad..................................................................................... 24
+     4.2 Marco Legal ........................................................................................................................... 25
+5.      Estado del Arte ....................................................................................................................... 28
+6.      Método de la investigación .................................................................................................... 31
+     6.1 Recolección de Datos ............................................................................................................. 31
+     6.2 Proceso de Recolección de Datos........................................................................................... 32
+     6.3 Métodos de Análisis de Datos ................................................................................................ 32
+     6.4 Consideraciones Éticas........................................................................................................... 33
+7.      Resultados ............................................................................................................................... 34
+     7.1 Análisis de la Política de Gobierno Digital y su Interoperabilidad en la Gestión Institucional
+     ...................................................................................................................................................... 34
+     7.2 Clasificación y Reserva de la Información Institucional para su Uso en Servicios Ciudadanos
+     ...................................................................................................................................................... 38
+     7.3 Diagnosticar los requisitos y desafíos para implementar la Plataforma de Interoperabilidad 44
+     7.4 Diseñar estrategias para la implementación efectiva de la Plataforma de Interoperabilidad . 51
+8.      Propuesta de la solución ........................................................................................................ 58
+     8.1 Evaluación de alternativas ...................................................................................................... 59
+
+                                                                                                                            P á g i n a 5 | 74
+=== p6 ===
+     8.2 Diseño Preliminar................................................................................................................... 62
+     8.3 Diseño Conceptual ................................................................................................................. 63
+     8.4 Diseño Detallado .................................................................................................................... 64
+9.      Conclusiones y Recomendaciones ......................................................................................... 66
+Referencias ....................................................................................................................................... 69
+
+
+
+                                                           Índice de Figuras
+
+Figura 1 Sinergia entre los factores para la interoperabilidad ......................................................... 11
+Figura 2 Interoperabilidad entre sectores ........................................................................................ 14
+Figura 3 Transformación Digital ..................................................................................................... 19
+Figura 4 Data Driven....................................................................................................................... 22
+Figura 5 Gobierno Digital ............................................................................................................... 34
+Figura 6 Mejora de los Servicios Públicos a través de la Interoperabilidad ................................... 36
+Figura 7 Clasificación de información ............................................................................................ 40
+Figura 8 Clasificación y Reserva de Información Institucional ...................................................... 43
+Figura 9 Requisitos para la Interoperabilidad ................................................................................. 47
+Figura 10 Análisis de implementación de una plataforma de interoperabilidad ............................. 51
+Figura 11 Estrategias para la implementación de la plataforma de Interoperabilidad .................... 56
+Figura 12 Implementación de una plataforma de Interoperabilidad ............................................... 57
+Figura 13 Fases para implementación de Plataforma de Interoperabilidad .................................... 58
+
+
+                                                            Índice de Tablas
+
+Tabla 1 Matriz de decisiones ........................................................................................................... 60
+
+
+
+
+                                                                                                                     P á g i n a 6 | 74
+=== p7 ===
+                                         1. Introducción
+
+       En la actualidad, la interoperabilidad en el ámbito gubernamental se ha convertido
+en un pilar esencial para la modernización y optimización de la administración pública. En
+Colombia, el impulso hacia una mayor eficiencia en la prestación de servicios ciudadanos
+ha llevado a la formulación de estrategias que buscan la integración efectiva de los sistemas
+y procesos de las distintas entidades gubernamentales, dado que este contexto histórico de
+transformación digital y administrativa se encuentra alineado con las políticas nacionales
+que promueven la cooperación y la conectividad digital entre entidades públicas,
+fundamentadas en la necesidad de ofrecer un servicio más ágil y coordinado a los ciudadanos
+(Vasquez, 2021).
+
+       El concepto de interoperabilidad, definido por la Organización Internacional de
+Estandarización (2015) como la capacidad de diferentes sistemas y organizaciones para
+comunicarse y transferir datos de manera efectiva, sin requerir un conocimiento
+especializado por parte del usuario, ha sido fundamental en la formulación del Marco de
+Interoperabilidad para Gobierno Digital, este marco busca que las entidades públicas operen
+como un sistema unificado, aprovechando las Tecnologías de la Información y las
+Comunicaciones (TIC) para asegurar una administración pública cohesiva y eficiente
+(Hernandez, 2023). El Ministerio de Tecnologías de la Información y las Comunicaciones,
+ha establecido directrices claras que obligan a las entidades a colaborar y digitalmente
+conectarse de manera integral (Mintic, 2019).
+
+       El presente trabajo se centra en una propuesta para la implementación de
+interoperabilidad en los Servicios Ciudadanos de la Organización Gubernamental, con el
+objetivo de mejorar la prestación de servicios y cumplir con las políticas de gobierno
+establecidas. Este proyecto surge a partir de la identificación de deficiencias en la gestión de
+la información y la falta de coordinación entre los distintos sistemas utilizados por la entidad.
+La situación problemática radica en la existencia de procesos operativos y administrativos
+que, a pesar de ser esenciales para el funcionamiento de la organización, presentan
+limitaciones significativas debido a su estructura de almacenamiento y procesamiento de
+datos tradicional, así como la ausencia de una interoperabilidad efectiva con otras entidades
+gubernamentales.
+
+                                                                           P á g i n a 7 | 74
+=== p8 ===
+       La propuesta aquí presentada busca abordar estas deficiencias mediante un análisis
+de la situación actual, la identificación de las necesidades y requerimientos específicos para
+la implementación de una plataforma de interoperabilidad, y la formulación de una estrategia
+integral que permita optimizar el flujo de información y la calidad de los servicios ofrecidos,
+este enfoque se basa en una perspectiva teórica que considera tanto los aspectos técnicos de
+la interoperabilidad como los desafíos organizacionales inherentes a su implementación.
+
+       Los objetivos del trabajo incluyen definir una propuesta de implementación de
+interoperabilidad, describir los conceptos y antecedentes relevantes de la Política de
+Gobierno Digital y el Marco de Interoperabilidad. La metodología adoptada para este trabajo
+consiste en hacer un análisis detallado de la situación actual, la evaluación de los
+requerimientos tecnológicos y organizacionales, y la formulación de una propuesta que
+contemple los aspectos técnicos y estratégicos necesarios para llevar a cabo la
+transformación digital. Por lo tanto, no solo pretende contribuir a la mejora de la gestión de
+los Servicios Ciudadanos de la Organización Gubernamental, sino que también ofrece una
+base sólida para la adaptación de estrategias de interoperabilidad en otras entidades
+gubernamentales, promoviendo así una administración pública más eficiente y conectada en
+el contexto colombiano. La relevancia de esta propuesta radica en su capacidad para
+responder a las exigencias del marco normativo y estratégico nacional, al tiempo que
+proporciona soluciones prácticas para la mejora del flujo de información y la prestación de
+servicios ciudadanos en un entorno cada vez más digitalizado.
+
+
+
+
+                                                                          P á g i n a 8 | 74
+=== p9 ===
+                                         2. Objetivos
+
+
+2.1 Objetivo General
+
+       Proponer una estrategia de interoperabilidad para optimizar los servicios ciudadanos
+en una organización gubernamental de Colombia.
+
+2.2 Objetivos Específicos
+   ● Analizar los conceptos clave de la Política de Gobierno Digital, el Marco de
+       Interoperabilidad, y las Políticas de Gestión Institucional.
+   ● Examinar la clasificación y reserva de la información institucional para su uso en
+       servicios ciudadanos.
+   ● Diagnosticar los requisitos y desafíos para implementar la Plataforma de
+       Interoperabilidad.
+   ● Diseñar estrategias para la implementación efectiva de la Plataforma de
+       Interoperabilidad.
+
+
+
+
+                                                                       P á g i n a 9 | 74
+=== p10 ===
+                                 3. Situación Problemática
+
+       En el contexto actual de la administración pública colombiana, la interoperabilidad
+se presenta como una necesidad crítica para optimizar la gestión de la información y mejorar
+la calidad de los servicios ciudadanos. La situación problemática se configura a partir de
+diversas interacciones y componentes que afectan el funcionamiento de las entidades
+gubernamentales. Esta complejidad se manifiesta en la coexistencia de actores clave, la
+utilización de tecnologías dispares, y la presencia de procesos tanto operativos como
+administrativos que no están adecuadamente integrados. Entre los actores principales se
+encuentran las diferentes entidades gubernamentales que, a pesar de compartir objetivos
+comunes en la prestación de servicios ciudadanos, operan con sistemas aislados, estos
+actores incluyen tanto las entidades de servicios directos al ciudadano como las que
+gestionan la infraestructura tecnológica y la regulación de la interoperabilidad. Las
+relaciones entre estas entidades suelen ser fragmentadas, con poca coordinación y una falta
+de mecanismos estandarizados para el intercambio de información, esta fragmentación crea
+barreras para una comunicación fluida y para la implementación de soluciones integradas,
+impactando negativamente en la eficiencia del servicio público (Palacios, 2022).
+
+       La situación se agrava con la existencia de tecnologías y sistemas heredados que
+predominan en el manejo de datos dentro de las organizaciones. La mayoría de estos sistemas
+operan bajo una modalidad de infraestructura de almacenamiento denominada "on premise"
+lo que limita la capacidad de compartir datos en tiempo real y de manera segura entre las
+distintas entidades. Esta modalidad de infraestructura tradicional, junto con la falta de
+interoperabilidad, genera que los procesos sean ineficientes y que la gestión de la
+información no responda a las necesidades de agilidad y accesibilidad actuales. En términos
+de procesos, la falta de una estrategia de interoperabilidad adecuada lleva a que los
+procedimientos operativos y administrativos no estén alineados, lo cual se traduce en una
+redundancia de esfuerzos y en un mayor riesgo de errores. La información se maneja de
+manera compartimentada, dificultando la integración de datos necesarios para la toma de
+decisiones y para la coordinación entre entidades, este problema se refleja en un mercado de
+servicios ciudadanos que no cumple con los estándares de eficiencia y transparencia
+deseados (Bayona, 2023).
+
+
+                                                                      P á g i n a 10 | 74
+=== p11 ===
+       La identificación de una serie de indicadores que permiten evaluar el fenómeno, entre
+ellos: la eficiencia en la transferencia de información, la velocidad de respuesta a las
+solicitudes ciudadanas y el grado de satisfacción del usuario con los servicios
+proporcionados, son los principales factores que permiten no solo vislumbrar la magnitud
+del problema, sino que también son fundamentales para la medición de resultados de las
+acciones llevadas a cabo en términos de interoperabilidad. La falta de estandarización y de
+una plataforma común para la integración de sistemas genera cuellos de botella en el flujo
+de información, impidiendo que los datos se utilicen de manera óptima para mejorar los
+servicios (Huiaquilican, 2024).
+
+       El diagnóstico de la situación de estas entidades gubernamentales revela la ausencia
+de un marco cohesivo que permita la interoperabilidad entre las entidades, producto de la
+falta de estrategias unificadas y de plataformas que acompañen el intercambio de
+información, llevando a una gestión fragmentada de los servicios, con procesos que no se
+logran comunicar efectivamente entre sí.
+
+       Figura 1 Sinergia entre los factores para la interoperabilidad
+
+
+
+
+       Fuente: Adaptado de (Bismart, 2023).
+       Otra problemática identificada es la incapacidad de las entidades gubernamentales
+para cumplir con las políticas de gobierno relacionadas con la interoperabilidad y la
+optimización de procesos. En un entorno donde se exige una administración pública más ágil
+y eficiente, muchas entidades aún operan con sistemas y procedimientos que no están
+
+                                                                        P á g i n a 11 | 74
+=== p12 ===
+adecuadamente integrados, esta falta de cohesión tecnológica y organizacional no solo
+impide el cumplimiento pleno de las directrices establecidas por el gobierno, sino que
+también ralentiza la implementación de políticas que buscan mejorar la eficiencia y la
+calidad de los servicios públicos. Los procesos tradicionales de manejo de información, en
+gran parte aún basados en infraestructuras obsoletas y sistemas aislados, no permiten una
+respuesta rápida y coordinada a las demandas de los ciudadanos, dificultando la adopción
+efectiva de las estrategias de gobierno digital (Bayona, 2023).
+
+       Asimismo, la falta de una estrategia clara para la interoperabilidad contribuye a una
+ineficiencia generalizada en la administración pública. Los sistemas dispares y la ausencia
+de estándares comunes para el intercambio de información generan redundancias y cuellos
+de botella que afectan directamente la optimización de procesos, esta situación no solo limita
+la capacidad de las entidades para adaptar sus operaciones a las nuevas exigencias
+tecnológicas y políticas, sino que también impacta negativamente en la calidad del servicio
+que se ofrece a los ciudadanos. La optimización de procesos y el cumplimiento de las
+políticas gubernamentales requieren una transformación profunda en la manera en que las
+entidades gestionan y comparten la información, lo cual demanda una revisión exhaustiva
+de los sistemas existentes y la implementación de soluciones integradas y estandarizadas.
+
+
+
+
+                                                                        P á g i n a 12 | 74
+=== p13 ===
+                                    4. Marco Referencial
+
+       Este apartado se centra en la fundamentación teórica necesaria para comprender y
+justificar la implementación de la interoperabilidad en las instituciones públicas, prestando
+especial atención a la gestión de la reserva y la divulgación de la información. A través de
+un recorrido por las principales teorías y estudios que abordan estas temáticas, se busca
+proporcionar una base sólida que sustente el desarrollo de la investigación.
+
+
+4.1 Marco Teórico
+
+4.1.1 Interoperabilidad
+       La interoperabilidad, en el contexto de la administración pública, se define como la
+capacidad de diversos sistemas y organizaciones para trabajar en conjunto de manera
+efectiva, facilitando la comunicación, el intercambio de datos y la ejecución de procesos sin
+que los usuarios necesiten comprender las particularidades técnicas de los diferentes
+sistemas involucrados, este concepto ha sido desarrollado y refinado por diversas
+instituciones y organismos internacionales, entre los cuales destaca la Organización
+Internacional de Estandarización (ISO), que la describe como la capacidad de distintos
+sistemas de comunicarse y compartir información de manera eficaz y eficiente. Desde una
+perspectiva normativa, las políticas nacionales, como las promovidas por el Gobierno de
+Colombia a través del Marco de Interoperabilidad para Gobierno Digital, también enfatizan
+la importancia de integrar procesos y tecnologías en un sistema cohesionado que permita a
+las entidades públicas operar como un único organismo digital (Hernandez, 2023).
+
+       En la administración pública, la interoperabilidad no solo implica la integración
+tecnológica, sino también la creación de un marco legal y organizacional que facilite la
+cooperación entre diferentes entidades, este enfoque integral es fundamental para asegurar
+que las políticas gubernamentales se implementen de manera coherente y que los servicios
+ciudadanos se presten de manera eficiente y segura. La interoperabilidad permite a las
+entidades gubernamentales compartir información crítica de forma segura y oportuna,
+optimizando los procesos administrativos y mejorando la capacidad de respuesta a las
+necesidades de la ciudadanía. En este sentido, el alcance de la interoperabilidad en la
+administración pública se extiende más allá de la simple conexión de sistemas tecnológicos,
+
+                                                                       P á g i n a 13 | 74
+=== p14 ===
+abarcando la armonización de procedimientos, la estandarización de datos y la adopción de
+políticas comunes que faciliten la colaboración interinstitucional (Mendoza, 2023).
+
+       En diversas investigaciones se ha señalado que la interoperabilidad no es solo un reto
+técnico, sino también organizacional y cultural, por ejemplo, un estudio realizado por
+Rodriguez (2022) sobre la interoperabilidad en el sector público destacó la importancia de
+contar con un marco regulatorio claro y con la voluntad política necesaria para impulsar la
+colaboración entre diferentes agencias gubernamentales; el estudio identificó que uno de los
+primeros obstáculos para la interoperabilidad es la resistencia al cambio dentro de las
+organizaciones, lo cual puede deberse a la falta de formación del personal o a la percepción
+de que los nuevos sistemas pueden poner en riesgo la seguridad de la información
+(Rodriguez, 2022).
+
+       Figura 2 Interoperabilidad entre sectores
+
+
+
+
+       Fuente: Tomado de (Bayona, 2023).
+
+
+       En cuanto a los desafíos, uno de los más destacados es la cuestión de la privacidad y
+la seguridad de la información. La interoperabilidad, al implicar el intercambio de datos entre
+diferentes entidades, puede aumentar los riesgos asociados con la protección de la
+información sensible, este aspecto ha sido subrayado en estudios que analizan la
+interoperabilidad en el contexto de la salud pública, donde la necesidad de compartir
+información médica entre diferentes instituciones debe equilibrarse cuidadosamente con las
+                                                                         P á g i n a 14 | 74
+=== p15 ===
+leyes de privacidad y la confidencialidad del paciente. Estos estudios sugieren que, para
+superar este desafío, es crucial que las políticas de interoperabilidad incluyan salvaguardas
+adecuadas y que las tecnologías empleadas cuenten con medidas robustas de seguridad
+(Garrido, 2024).
+
+4.1.2 Gestión de la Información y la Reserva de Datos
+       La gestión de la información en el ámbito gubernamental es un proceso crucial que
+implica la administración adecuada de los datos generados y manejados por las entidades
+públicas. Dentro de este proceso, la reserva de información ocupa un lugar preeminente, ya
+que se refiere a la protección de datos que, por su naturaleza sensible o estratégica, deben
+ser resguardados contra accesos no autorizados. En un contexto gubernamental, la reserva
+de información se conceptualiza como el conjunto de prácticas y normativas destinadas a
+garantizar que la información clasificada como reservada permanezca protegida,
+restringiendo su divulgación solo a individuos y entidades con la debida autorización y
+necesidad de conocer. Esta conceptualización se fundamenta en la necesidad de equilibrar la
+transparencia gubernamental con la seguridad del Estado y la privacidad de los ciudadanos
+(Vargas, 2020).
+
+       Diversos autores han abordado la problemática de la reserva de información en la
+administración pública, destacando los diferentes niveles de confidencialidad que deben
+manejarse para asegurar la integridad de los datos sensibles. Según un estudio realizado por
+Estrada (2020), la confidencialidad en la gestión de la información gubernamental no solo
+protege los datos de carácter personal o estratégico, sino que también preserva la confianza
+del público en las instituciones. La protección de datos se convierte así en un pilar
+fundamental para el funcionamiento efectivo de la administración pública, ya que una
+gestión inadecuada de la información reservada puede conducir a graves violaciones de la
+privacidad y a riesgos significativos para la seguridad nacional, estos estudios también
+resaltan la importancia de establecer protocolos claros y de asegurar que los funcionarios
+públicos estén debidamente capacitados para manejar información reservada, evitando así
+filtraciones involuntarias o malintencionadas (Estrada, 2020).
+
+       En el contexto colombiano, la reserva y la publicación de información están
+reguladas por un marco legal y normativo que busca equilibrar el derecho de acceso a la
+
+                                                                       P á g i n a 15 | 74
+=== p16 ===
+información pública con la necesidad de proteger los datos sensibles. La Ley de
+Transparencia y Acceso a la Información Pública (Ley 1712 de 2014) establece que, salvo
+excepciones justificadas, toda la información en poder de las entidades públicas es de libre
+acceso para los ciudadanos, sin embargo, esta misma ley contempla la existencia de
+categorías de información que, por razones de seguridad nacional, privacidad, o intereses
+comerciales, deben ser reservadas y no pueden ser divulgadas sin la autorización
+correspondiente, esta legislación representa un esfuerzo por garantizar la transparencia
+gubernamental mientras se protege la integridad de la información sensible (Defensoría del
+Pueblo, 2014).
+
+       El Decreto 1078 de 2015, que regula el uso de las Tecnologías de la Información y
+las Comunicaciones (TICs) en la administración pública, complementa este marco legal al
+establecer las directrices para el manejo seguro de la información digital, este decreto
+enfatiza la importancia de implementar medidas técnicas y organizativas que aseguren la
+confidencialidad, la integridad, y la disponibilidad de la información en formato digital
+(Función Pública, 2015). Asimismo, refuerza la obligación de las entidades públicas de
+adoptar estándares de seguridad que prevengan el acceso no autorizado a los datos
+reservados, estas disposiciones son fundamentales para mantener la confianza en el uso de
+tecnologías digitales en la gestión gubernamental y para evitar que la digitalización se
+convierta en un punto débil en la protección de la información reservada. Por último, el
+Marco de Interoperabilidad para Gobierno Digital establece las pautas para la integración de
+sistemas y la interoperabilidad entre diferentes entidades públicas, asegurando que el
+intercambio de información se realice de manera segura y bajo los principios de
+confidencialidad y reserva, este marco es clave para el éxito de la transformación digital en
+la administración pública, ya que promueve un enfoque coordinado y seguro en la gestión
+de la información. Además, subraya la necesidad de un control riguroso sobre quién puede
+acceder a qué tipo de información, estableciendo así un equilibrio entre la eficiencia
+operativa y la seguridad de los datos (Hernandez, 2023).
+
+4.1.3 Gestión del Cambio
+       La gestión del cambio en organizaciones gubernamentales representa un proceso
+fundamental para asegurar la adaptación efectiva y la sostenibilidad de nuevas iniciativas,
+especialmente aquellas relacionadas con la transformación digital. Este proceso implica la
+                                                                     P á g i n a 16 | 74
+=== p17 ===
+planificación, implementación y evaluación de acciones orientadas a mitigar la resistencia y
+fomentar la aceptación entre los empleados. En el contexto de la interoperabilidad, la gestión
+del cambio busca promover una mentalidad de flexibilidad, donde los individuos y equipos
+se sientan preparados y motivados para adoptar nuevos métodos de trabajo que integren la
+colaboración interdepartamental. Gonzales en su estudio realizado en el 2021, menciona que,
+en la administración pública, para que la gestión del cambio sea efectiva, requiere de
+liderazgos comprometidos, que la comunicación sea clara y que existan estrategias
+específicas para capacitar al personal en el uso y beneficios de los sistemas interoperables.
+Cada uno de estos aspectos contribuye a reducir las barreras que, de otra manera, podrían
+dificultar la implementación de la interoperabilidad.
+
+4.1.4 Cultura Organizacional
+       La cultura organizacional, entendida como el conjunto de valores, normas y
+comportamientos que caracterizan a una organización, tiene una influencia determinante en
+el éxito de los proyectos de interoperabilidad en el sector público. Una cultura orientada a la
+colaboración y la innovación facilita la aceptación de nuevos sistemas de trabajo y fomenta
+la alineación de todos los niveles organizacionales con los objetivos de interoperabilidad. En
+organizaciones gubernamentales, el reto cultural puede ser mayor debido a estructuras
+jerárquicas y a una tendencia hacia la estandarización de procesos, sin embargo, promover
+una cultura de apertura hacia la innovación y la mejora continua resulta clave para reducir la
+fragmentación y lograr una integración efectiva entre áreas. Elementos como la
+comunicación transversal y el trabajo en equipo se convierten en pilares que fortalecen la
+cultura organizacional, creando un ambiente propicio para el cambio tecnológico.
+
+       Para esto es importante que los lideres de la organización estén de acuerdo con las
+decisiones, pero sobre todo que respalden y logren dar una visión de confianza a los demás
+colaboradores de la organización, con el fin de disminuir una resistencia al cambio en el
+personal y por consiguiente un posible fracaso en la implementación. Como sustento al
+cambio se deben generar herramientas o métodos que permitan facilitar la adaptación del
+talento humano, tales como: crear o modificar procesos organizacionales, sistemas de control
+y monitoreo continuo e inclusión de las personas en el proceso de cambio, donde se podría
+recibir retroalimentación de ellos y hacer que la adaptación mejore.
+
+                                                                         P á g i n a 17 | 74
+=== p18 ===
+4.1.5 Transformación Digital
+       La transformación digital se ha consolidado como un pilar esencial para impulsar el
+progreso y la innovación en una amplia variedad de sectores. Su objetivo central no es solo
+la incorporación de nuevas tecnologías, sino la reconfiguración completa de las
+organizaciones mediante la integración de herramientas digitales que mejoren sus
+operaciones y aumenten su eficiencia (Proaño Castro, Orellana Contreras, & Martillo
+Pazmiño, 2018). Sin embargo, este proceso va mucho más allá de la simple adopción de
+tecnología; implica un cambio estructural en la manera en que las organizaciones funcionan,
+la forma en que prestan sus servicios, y cómo interactúan con los ciudadanos y otros actores
+del entorno (Febiri & Hub, 2021).
+
+       En el caso de Colombia, la transformación digital se encuentra aún en sus primeras
+etapas de desarrollo. Aunque se han dado pasos importantes hacia la modernización
+tecnológica, estos cambios comenzaron a gestarse con la llegada de la "Industria 4.0", un
+concepto que se presentó por primera vez en la Feria de Hannover en 2011. La adopción de
+estas innovaciones en países en vías de desarrollo, como Colombia, ha sido relativamente
+lenta, en particular dentro del Sector Público, donde la implementación de nuevas
+tecnologías enfrenta desafíos adicionales debido a la burocracia y las limitaciones
+presupuestarias.
+
+       Al comparar esta situación con la de un país desarrollado como Australia, es evidente
+que las diferencias son significativas. En Australia, según Gonzalez (2020), se ha reconocido
+que los sistemas, el modelo organizativo y los procesos actuales del Sector al que pertenecen
+suelen ser complicados, lentos e ineficientes en un entorno que requiere velocidad y agilidad.
+Este reconocimiento ha llevado a un esfuerzo consciente por realizar ajustes y reformas en
+el ámbito organizacional, con un enfoque integral que abarca tanto los procesos internos
+como las tecnologías empleadas y la cultura organizacional, por tanto, este enfoque integral
+es fundamental para que las organizaciones puedan evolucionar de manera continua,
+adaptando sus procesos, servicios y productos a las demandas cambiantes del entorno
+externo (Mergel, Edelmann, & Haug, 2019).
+
+
+
+
+                                                                        P á g i n a 18 | 74
+=== p19 ===
+       Figura 3 Transformación Digital
+
+
+
+
+        Fuente: Tomado de (Ariño, 2023).
+
+        Además, la transformación digital no solo se refiere a la modernización tecnológica,
+sino que también implica un cambio en la mentalidad y la cultura de las organizaciones. En
+países en vías de desarrollo como Colombia, este cambio cultural es uno de los mayores
+desafíos, ya que la resistencia al cambio y la falta de habilidades digitales en la fuerza laboral
+pueden ralentizar significativamente el proceso de transformación. Por ende, es crucial que
+las iniciativas de transformación digital en estos contextos no solo se enfoquen en la
+tecnología, sino también en capacitar y preparar a las personas para el cambio, promoviendo
+una cultura organizacional que valore la innovación y la adaptación constante.
+
+4.1.6 Publicación y el Acceso a la Información
+        Los criterios que definen qué tipo de información pueden ser publicada responden a
+una compleja interrelación entre los principios de transparencia gubernamental, la protección
+de la seguridad nacional y la salvaguarda de la privacidad de los individuos, estos criterios
+se estructuran en base a estudios y normativas que buscan garantizar que el derecho a la
+información de la ciudadanía se ejerza sin comprometer otros valores igualmente
+importantes. En primer lugar, los estudios sobre transparencia y acceso a la información
+destacan que la información pública debe ser accesible de manera proactiva por parte del
+Estado, garantizando que los ciudadanos puedan consultar datos relevantes sobre las
+                                                                           P á g i n a 19 | 74
+=== p20 ===
+actividades gubernamentales sin necesidad de realizar solicitudes específicas, este enfoque
+promueve una cultura de transparencia y rendición de cuentas, permitiendo a los ciudadanos
+ejercer un control sobre las acciones de sus gobernantes y participar de manera informada
+en la vida pública, sin embargo, la publicación de información debe estar sujeta a ciertos
+lineamientos que definan claramente qué datos pueden ser divulgados y cuáles deben
+permanecer reservados (Navarro, 2022).
+
+       El criterio fundamental para la publicación de información radica en su carácter
+público, entendido como aquella información que no pone en riesgo la seguridad del Estado
+ni vulnera la privacidad de los ciudadanos. La normativa colombiana, a través de la Ley de
+Transparencia y Acceso a la Información Pública, establece que todas las entidades del sector
+público están obligadas a publicar de manera proactiva información sobre su estructura,
+funciones, presupuesto, contratación, y actividades relevantes. No obstante, esta ley también
+reconoce excepciones para la publicación de datos que, por su naturaleza, deben ser
+protegidos, entre estas excepciones se incluyen la información que podría comprometer la
+seguridad nacional, la integridad territorial, o los derechos fundamentales de las personas
+(Estrada, 2020).
+
+       Diferentes enfoques sobre la balanza entre seguridad nacional y derecho a la
+información han sido desarrollados por académicos y profesionales del derecho, quienes
+coinciden en la necesidad de establecer límites claros y justificados para la reserva de
+información. Por un lado, el derecho a la información es considerado un pilar de las
+democracias modernas, ya que permite a los ciudadanos acceder a datos que son esenciales
+para la participación en la vida pública y el control social de las instituciones. Por otro lado,
+la seguridad nacional impone restricciones necesarias para evitar que información sensible
+caiga en manos de actores que podrían utilizarla para desestabilizar el Estado o poner en
+peligro la seguridad de sus ciudadanos.
+
+       Al analizar estos enfoques, se observa que el equilibrio entre la transparencia y la
+seguridad es un tema delicado que requiere una evaluación continua y ajustada al contexto
+específico de cada país. En Colombia, por ejemplo, la publicación de información
+relacionada con la seguridad y defensa nacional está estrictamente regulada, ya que la
+divulgación de ciertos datos podría comprometer operaciones militares, la seguridad de las
+
+                                                                          P á g i n a 20 | 74
+=== p21 ===
+fronteras, o la lucha contra el terrorismo, sin embargo, también es fundamental que estas
+restricciones no se conviertan en un pretexto para la opacidad, evitando que los ciudadanos
+pierdan su capacidad de escrutinio sobre las acciones gubernamentales.
+
+       Estudios comparativos entre diferentes países revelan que las democracias
+consolidadas suelen tener marcos normativos robustos que permiten una amplia publicación
+de información pública, con excepciones bien definidas para la seguridad y la privacidad.
+En estos sistemas, la transparencia es vista como un mecanismo de fortalecimiento
+institucional, donde la publicación de información permite corregir errores, prevenir la
+corrupción, y mejorar la eficiencia de los servicios públicos. En contraste, en contextos
+donde la seguridad nacional se enfrenta a amenazas significativas, las restricciones sobre la
+publicación de información suelen ser más estrictas, priorizando la protección de datos
+sensibles sobre el acceso irrestricto a la información (Cortes, 2023).
+
+4.1.7 Data Driven
+       Una organización basada en datos o “Data Driven” es aquella que recopila, procesa
+y aprovecha los datos de manera oportuna para aumentar la eficiencia, iterar y desarrollar
+nuevos productos y navegar en el panorama competitivo. El primer paso para trabajar con
+datos es la recopilación y el procesamiento. Pero no está claro qué debe hacer para hacer
+esto regularmente. Las mejores empresas basadas en datos tienen un enfoque incansable en
+mantener sus datos limpios. Los datos deben estar organizados, bien documentados, en un
+formato coherente y sin errores. La limpieza de datos suele ser la parte más difícil de la
+ciencia de datos y suele ocupar el 80 % del trabajo. Configurar el proceso de limpieza de
+datos a escala agrega complejidad. Las empresas exitosas invierten mucho en herramientas,
+procesos y auditorías periódicas, así mismo han desarrollado una cultura que comprende la
+importancia de la calidad de los datos, con el fin de evitar lo conocido como "basura entra,
+basura sale". (Patil, 2015).
+
+
+
+
+                                                                         P á g i n a 21 | 74
+=== p22 ===
+       Figura 4 Data Driven
+
+
+
+
+       Fuente: Tomado de (Mendoza, 2023).
+
+4.1.8 Marco de Interoperabilidad para Gobierno Digital en Colombia
+       Se ha establecido como una herramienta fundamental para mejorar la integración y
+colaboración entre las diferentes entidades gubernamentales, tiene como principal objetivo
+optimizar la eficiencia y calidad de los servicios públicos, fomentando una administración
+pública más conectada, efectiva y transparente. La meta esencial de este marco radica en
+garantizar una conectividad e interacción fluida entre los sistemas y plataformas tecnológicas
+de las entidades gubernamentales, lo que permite un intercambio de información seguro y
+eficaz. Mediante este enfoque, se busca aumentar la capacidad del Estado para atender las
+necesidades de los ciudadanos, optimizando el uso de recursos y disminuyendo los tiempos
+de respuesta en los trámites y servicios que se ofrecen (Mintic, 2019).
+
+       Entre los componentes cruciales de este marco se encuentran varios pilares
+esenciales. En primer lugar, se destaca la interoperabilidad técnica, que se refiere a la
+capacidad de los sistemas de información para comunicarse entre sí de manera coherente y
+efectiva, lo que implica la estandarización de formatos de datos y protocolos de
+comunicación, facilitando la integración de diversas plataformas tecnológicas. Además, es
+relevante la interoperabilidad semántica, que asegura que la información compartida entre
+                                                                     P á g i n a 22 | 74
+=== p23 ===
+las entidades gubernamentales sea comprendida de manera consistente y precisa por todos
+los sistemas involucrados. Para ello, se promueve la adopción de estándares comunes de
+nomenclatura y clasificación de datos, lo que permite una interpretación uniforme de la
+información (Mintic, 2019).
+
+       Otro aspecto esencial es la interoperabilidad organizacional, que aborda la necesidad
+de una alineación y coordinación entre las diferentes estructuras y procesos dentro de las
+entidades públicas. Este componente fomenta la colaboración interinstitucional,
+estableciendo protocolos y políticas que faciliten la cooperación y el trabajo conjunto.
+Asimismo, la interoperabilidad legal se enfoca en garantizar que el intercambio de
+información entre las entidades gubernamentales cumpla con las normativas y regulaciones
+legales vigentes.
+
+       En este contexto, el Ministerio de Tecnologías de la Información y las
+Comunicaciones (MinTIC) ha emitido una serie de directrices que guían la implementación
+del Marco de Interoperabilidad en las entidades públicas de Colombia. Estas directrices
+establecen los lineamientos técnicos y operativos que deben seguirse para adoptar soluciones
+interoperables que faciliten la prestación de servicios públicos digitales. Dentro de estas
+directrices se destacan aquellas que promueven la adopción de estándares abiertos, los cuales
+aseguran que las entidades utilicen tecnologías y formatos de datos accesibles y reutilizables,
+evitando así la dependencia de proveedores específicos y facilitando la integración con otros
+sistemas (Mintic, 2019).
+
+
+
+
+4.1.9 Modelos de Interoperabilidad Internacionales
+       El análisis de modelos de interoperabilidad implementados en diversos países ofrece
+una perspectiva valiosa sobre cómo estas iniciativas pueden mejorar significativamente la
+prestación de servicios públicos. Al comparar estos enfoques, se destaca que la
+interoperabilidad ha sido un factor crucial para optimizar la eficiencia administrativa y la
+calidad de los servicios en diferentes contextos gubernamentales, por ejemplo, en España, el
+modelo de interoperabilidad ha sido ampliamente reconocido por su éxito en la integración
+de sistemas de información a nivel nacional. Este modelo se basa en la implementación de
+un marco normativo robusto que establece estándares comunes para el intercambio de datos
+                                                                         P á g i n a 23 | 74
+=== p24 ===
+entre las entidades públicas. Gracias a esta estructura, España ha logrado reducir la
+duplicidad de trámites y mejorar la accesibilidad de los servicios para los ciudadanos, lo que
+ha resultado en un aumento de la transparencia y la confianza en las instituciones públicas
+(Ariño, 2023).
+
+       Comparado con otros países, el modelo español de interoperabilidad presenta un
+enfoque integral que combina tanto la interoperabilidad técnica como la semántica y
+organizacional, un enfoque que ha permitido una mayor cohesión entre las diferentes
+administraciones públicas, facilitando la cooperación y el trabajo conjunto en la prestación
+de servicios. Además, se han adoptado medidas para garantizar que la información
+intercambiada sea interpretada de manera uniforme por todos los sistemas, lo que ha sido
+clave para mejorar la precisión y eficiencia en la gestión de datos públicos.
+
+       La experiencia de España y otros países que han implementado modelos de
+interoperabilidad revela una serie de buenas prácticas y lecciones aprendidas que pueden
+servir de guía para otras naciones. Una de las principales lecciones es la importancia de
+establecer un marco normativo claro que regule el intercambio de información y garantice
+la seguridad de los datos. En este sentido, la adopción de estándares abiertos y la promoción
+de la interoperabilidad técnica son fundamentales para evitar la dependencia de proveedores
+específicos y facilitar la integración de sistemas diversos. Asimismo, se ha identificado la
+necesidad de capacitar adecuadamente al personal de las entidades públicas para que puedan
+gestionar y mantener sistemas interoperables de manera efectiva. Esto incluye no solo el
+conocimiento técnico, sino también la comprensión de las implicaciones legales y éticas del
+manejo de datos públicos (Ariño, 2023).
+
+4.1.10 Impacto de la Interoperabilidad
+       La interoperabilidad es un factor determinante en la eficiencia operativa de las
+entidades gubernamentales, al mejorar la coordinación y el flujo de información entre los
+diversos sistemas y procesos administrativos. Al integrarse de manera efectiva, los sistemas
+interoperables permiten que las entidades gubernamentales operen de manera más coherente
+y eficiente, lo que resulta en una mayor automatización y optimización de tareas
+administrativas, reduciendo significativamente las barreras entre departamentos, facilita el
+intercambio preciso y rápido de datos, y minimiza las redundancias operativas. En
+
+                                                                        P á g i n a 24 | 74
+=== p25 ===
+consecuencia, se mejora la calidad de la información disponible para la toma de decisiones
+y se aumenta la capacidad de respuesta institucional ante las necesidades y demandas
+ciudadanas (Naser, 2022).
+
+       En términos de reducción de costos y tiempos operativos, la implementación de
+sistemas interoperables en las entidades gubernamentales tiene un impacto directo en la
+eficiencia de los recursos. La integración de plataformas tecnológicas y la reutilización
+eficiente de datos reducen la necesidad de inversión en infraestructuras tecnológicas
+adicionales y evitan la duplicación de esfuerzos en la recolección y procesamiento de
+información, por lo cual, no solo optimiza el uso de recursos financieros, sino que también
+permite reasignar estos recursos a áreas estratégicas que requieren mayor atención.
+Asimismo, la interoperabilidad facilita una disminución significativa en los tiempos de
+procesamiento, al mejorar la velocidad de intercambio de información y agilizar la ejecución
+de procesos que anteriormente eran más lentos y burocráticos.
+
+       Por lo tanto, la interoperabilidad no solo contribuye a la optimización operativa, sino
+que también se traduce en una reducción efectiva de costos y tiempos, fortaleciendo la
+eficiencia general de las entidades gubernamentales. Esta mejora en la eficiencia operacional
+permite a las instituciones ofrecer servicios públicos de mayor calidad, más rápidos y
+accesibles, lo que resulta en una administración pública más moderna y alineada con las
+exigencias actuales de la sociedad (Naser, 2022).
+
+
+4.2 Marco Legal
+
+       Este apartado se sustenta en una serie de normativas que han sido desarrolladas con
+el objetivo de establecer un sistema de gestión de la información eficiente, transparente y
+seguro. Estas normativas reflejan el compromiso del Estado colombiano en la promoción de
+una administración pública moderna, capaz de responder a las necesidades de los ciudadanos
+mediante el uso adecuado de las tecnologías de la información y la comunicación (TIC).
+Para ello, se han promulgado diversas leyes y decretos que buscan regular la
+interoperabilidad y garantizar su correcta implementación en todas las entidades del
+gobierno.
+
+
+
+                                                                        P á g i n a 25 | 74
+=== p26 ===
+       Una de las normativas utilizadas en Colombia es la Ley 1437 de 2011, conocida
+como Código de Procedimiento Administrativo y de lo Contencioso Administrativo, que
+establece la obligatoriedad de utilizar medios electrónicos en todos los procedimientos que
+tengan que ver con lo administrativo. Esta ley es fundamental, ya que sienta las bases para
+el uso de tecnologías de la información en la administración pública, promoviendo la
+eficiencia, la transparencia y la accesibilidad en los servicios ofrecidos a los ciudadanos
+(Función Pública, 2011). Dentro de este contexto, la interoperabilidad se presenta como un
+elemento clave para asegurar que los diferentes sistemas y plataformas utilizadas por las
+entidades gubernamentales puedan comunicarse y trabajar de manera conjunta, evitando la
+duplicación de esfuerzos y mejorando la calidad de los servicios públicos.
+
+       Otra Ley que es aplicable en el marco de la interoperabilidad es la Ley 1341 de 2009,
+también conocida como Ley de TIC, que establece los principios y conceptos fundamentales
+para el uso de las tecnologías de la información y las comunicaciones en Colombia. La Ley
+1341 resalta la importancia de la interoperabilidad al fomentar un entorno en el que las
+diferentes entidades del Estado puedan intercambiar información de manera eficiente y
+segura (Función Pública, 2009). Además, promueve el acceso universal a las TIC, lo cual es
+esencial para que la interoperabilidad sea efectiva en todos los niveles del gobierno y para
+todos los ciudadanos, independientemente de su ubicación o condición socioeconómica.
+
+       El Decreto 1078 de 2015, que compila y reestructura las normas relacionadas con la
+gestión de la información y las TIC en el sector público, es otra pieza fundamental del marco
+legal en este ámbito, la cual establece las directrices para la implementación de políticas de
+gobierno digital, dentro de las cuales la interoperabilidad juega un papel central.
+Específicamente, el decreto regula la manera en que las entidades públicas deben gestionar
+la información y utilizar las tecnologías digitales para mejorar la eficiencia de sus
+operaciones y la calidad de los servicios ofrecidos a los ciudadanos. La interoperabilidad es
+aquí vista como un medio para lograr estos objetivos, al permitir que las distintas entidades
+públicas compartan información y recursos de manera ágil y segura (Función Pública, 2015).
+
+       Por otro lado, la Ley 1712 de 2014, conocida como la Ley de Transparencia y Acceso
+a la Información Pública, también tiene implicaciones directas en la interoperabilidad, busca
+garantizar que los ciudadanos tengan acceso a la información pública de manera libre y
+
+                                                                        P á g i n a 26 | 74
+=== p27 ===
+oportuna, promoviendo la transparencia y la rendición de cuentas en la administración
+pública. La interoperabilidad es esencial para cumplir con estos objetivos, ya que facilita el
+acceso a la información al permitir que los diferentes sistemas de información del gobierno
+estén conectados y puedan ser consultados de manera integrada (Función Pública, 2014). De
+esta manera, los ciudadanos pueden acceder a la información que necesitan sin enfrentarse
+a barreras burocráticas o tecnológicas, lo que refuerza la confianza en las instituciones
+públicas.
+
+       El Decreto 2106 de 2019, que simplifica y moderniza los trámites administrativos en
+el país, también aborda la importancia de la interoperabilidad, tiene como objetivo principal
+reducir la complejidad y la duración de los trámites que los ciudadanos deben realizar ante
+las entidades públicas. La interoperabilidad es un componente esencial de este esfuerzo, ya
+que permite la integración de sistemas y la automatización de procesos, lo que a su vez
+reduce los tiempos de respuesta y mejora la experiencia de los ciudadanos al interactuar con
+la administración pública (Función Pública, 2019). Además, el decreto promueve la
+eliminación de barreras tecnológicas que dificulten el acceso a los servicios públicos,
+asegurando que todas las entidades gubernamentales adopten estándares de interoperabilidad
+que faciliten la conectividad y el intercambio de información.
+
+       Adicional a ello, el Plan Nacional de Desarrollo (PND) 2018-2022, que establece las
+directrices para el desarrollo del país durante este periodo, también incluye disposiciones
+relacionadas con la interoperabilidad. En este plan, se destaca la importancia de avanzar
+hacia un gobierno digital, donde la interoperabilidad de los sistemas de información es vista
+como un factor clave para mejorar la eficiencia del Estado y la calidad de los servicios
+ofrecidos a los ciudadanos (DPN, 2023). El PND promueve la implementación de estrategias
+y políticas que faciliten la interoperabilidad entre las distintas entidades gubernamentales,
+con el objetivo de crear un entorno administrativo más integrado, ágil y transparente.
+
+
+
+
+                                                                        P á g i n a 27 | 74
+=== p28 ===
+                                      5. Estado del Arte
+
+       Arboleda (2024) resalta que la interoperabilidad actúa como un facilitador esencial
+para la integración de procesos y sistemas dentro de las entidades gubernamentales. Según
+su estudio, la capacidad de distintos sistemas para intercambiar y utilizar información de
+manera eficiente es fundamental para mejorar los servicios públicos y reducir redundancias
+operativas, argumenta que para que la interoperabilidad sea efectiva, es necesario establecer
+un marco normativo sólido y una estrategia clara que contemple tanto los aspectos técnicos
+como los organizativos, esta perspectiva pone de manifiesto la necesidad de un enfoque
+integral que considere las múltiples dimensiones del proceso de interoperabilidad, desde la
+estandarización técnica hasta la gestión del cambio organizativo (Arboleda, 2024).
+
+       De manera complementaria, Guillen (2022) aborda los principales desafíos asociados
+con la interoperabilidad, destacando la falta de estandarización y la resistencia al cambio
+como barreras significativas, su investigación indica que la ausencia de normas comunes
+puede dificultar la integración de sistemas y la colaboración entre entidades, lo que limita la
+eficacia de las soluciones interoperables, también subraya que la resistencia al cambio dentro
+de las organizaciones puede ser un obstáculo considerable para la adopción de nuevas
+tecnologías y procesos. En este sentido, su estudio enfatiza la importancia de diseñar
+políticas que fomenten la cooperación interinstitucional y promuevan la estandarización, de
+manera que se superen las barreras técnicas y organizativas que impiden una implementación
+efectiva de la interoperabilidad (Guillen, 2022).
+
+       En el ámbito internacional, Castillo (2024) proporciona una visión detallada de cómo
+la interoperabilidad ha sido implementada en diversos contextos y los impactos observados
+en estos casos. Su estudio revela que países como España han logrado importantes avances
+al establecer plataformas interoperables y estándares comunes, lo cual ha mejorado
+significativamente la eficiencia y la calidad de los servicios públicos, se destaca también que
+la experiencia internacional ofrece valiosas lecciones sobre cómo adaptar estrategias de
+interoperabilidad a diferentes contextos, como el colombiano, este análisis comparativo es
+crucial para desarrollar un marco de interoperabilidad que no solo se base en los éxitos
+obtenidos en otros países, sino que también considere los desafíos específicos del entorno
+local (Castillo, 2024).
+
+                                                                         P á g i n a 28 | 74
+=== p29 ===
+       Martinez (2023) aporta una perspectiva adicional al argumentar que la
+interoperabilidad no solo mejora la eficiencia operativa, sino que también fortalece la
+transparencia y la participación ciudadana. Su estudio demuestra que la capacidad de integrar
+datos de diferentes fuentes y compartir información de manera efectiva contribuye a una
+administración pública más abierta y accesible, subraya que la interoperabilidad permite a
+los ciudadanos acceder a servicios y datos de manera más eficiente, lo cual fomenta una
+mayor participación y confianza en las instituciones gubernamentales. Esta dimensión de la
+interoperabilidad es fundamental para comprender cómo la integración de sistemas puede
+impactar positivamente en la relación entre el gobierno y los ciudadanos, promoviendo una
+gestión pública más inclusiva y participativa (Martinez, 2023).
+
+       Además, Rivero (2015) examinan el impacto de la interoperabilidad en la reducción
+de costos y tiempos operativos. Su análisis muestra que la implementación de sistemas
+interoperables puede llevar a una optimización considerable de los recursos y una
+disminución de la redundancia en los procesos administrativos. García y Rodríguez
+argumentan que, al facilitar la integración y el intercambio de información entre diferentes
+sistemas y entidades, se pueden lograr eficiencias operativas significativas que contribuyen
+a la reducción de costos. Este hallazgo es particularmente relevante para la propuesta de
+interoperabilidad en el contexto colombiano, donde la mejora en la eficiencia y la reducción
+de costos son objetivos estratégicos clave (Rivero, 2015).
+
+       Mejía (2018) refuerza esta perspectiva al destacar que la interoperabilidad también
+mejora la coordinación entre entidades gubernamentales. Según su estudio, la integración de
+sistemas permite una gestión más efectiva de los datos y una respuesta más rápida a las
+necesidades de los ciudadanos, enfatiza que una estrategia de interoperabilidad bien diseñada
+no solo debe abordar los aspectos técnicos, sino también las dinámicas organizativas y la
+cultura institucional (Mejia, 2018). Esta perspectiva subraya la importancia de considerar
+tanto los factores técnicos como los organizativos al proponer una estrategia de
+interoperabilidad, para asegurar que se logre una coordinación efectiva entre las diferentes
+partes involucradas.
+
+       Otro aspecto relevante se aborda en el trabajo de Carbajal (2021), la cual investiga
+el impacto de la interoperabilidad en la mejora de la toma de decisiones dentro de las
+
+                                                                       P á g i n a 29 | 74
+=== p30 ===
+administraciones públicas, argumenta que la integración de sistemas de información permite
+a los responsables de la toma de decisiones acceder a datos más completos y actualizados,
+lo que resulta en una mayor capacidad para realizar análisis informados y tomar decisiones
+estratégicas. Su estudio demuestra que la interoperabilidad facilita la creación de informes
+integrados y el monitoreo en tiempo real de las actividades gubernamentales, lo que
+contribuye a una gestión más eficiente y eficaz. Además, destaca que la interoperabilidad
+también puede mejorar la transparencia y la rendición de cuentas al proporcionar una visión
+más clara de las operaciones y los resultados gubernamentales (Carbajal, 2021).
+
+         Adicional a ello, el análisis de Jiménez (2015) se centra en la evaluación de la
+interoperabilidad desde la perspectiva de los usuarios finales, se explora cómo la
+interoperabilidad afecta la experiencia del usuario en la prestación de servicios públicos, y
+encuentra que la integración de sistemas y la disponibilidad de información en múltiples
+plataformas pueden mejorar significativamente la satisfacción del usuario. Su investigación
+revela que los ciudadanos valoran la facilidad de acceso a los servicios y la reducción de
+trámites burocráticos, lo que a su vez aumenta la percepción positiva hacia las instituciones
+gubernamentales, y también señala que la interoperabilidad puede llevar a una mayor
+inclusión y equidad al asegurar que todos los ciudadanos tengan acceso a la misma calidad
+de servicios, independientemente de su ubicación o situación socioeconómica (Jimenez,
+2015).
+
+         Con base en lo anterior, se concluye que la interoperabilidad emerge como un pilar
+fundamental para la modernización y eficiencia de los sistemas gubernamentales. Las
+investigaciones    revisadas   destacan   que,   mientras    la   interoperabilidad   mejora
+significativamente la integración de procesos y sistemas, optimizando la prestación de
+servicios y reduciendo redundancias, también enfrenta desafíos importantes como la falta de
+estandarización y la resistencia al cambio organizativo. Las experiencias internacionales,
+como las documentadas en España, proporcionan valiosas lecciones para adaptar e
+implementar estrategias de interoperabilidad en el contexto colombiano. Además, se
+evidencia que la interoperabilidad no solo facilita la optimización de recursos y la reducción
+de costos, sino que también fortalece la coordinación entre entidades y mejora la toma de
+decisiones. A través de la integración de sistemas y la disponibilidad de información, se
+logra una mayor transparencia, participación ciudadana y satisfacción del usuario.
+                                                                        P á g i n a 30 | 74
+=== p31 ===
+                                6. Método de la investigación
+
+       La investigación se sustentará en un enfoque exploratorio y descriptivo con
+predominancia cualitativa, diseñado para ofrecer una comprensión profunda y detallada de
+los sistemas de información y los procesos internos de la organización gubernamental en
+cuestión; este enfoque es especialmente adecuado dada la naturaleza compleja y específica
+del objetivo de estudio, que busca entender en profundidad cómo los sistemas actuales
+pueden ser optimizados a través de la interoperabilidad. La metodología cualitativa con
+carácter documental es particularmente valiosa en este contexto, ya que facilita una
+exploración exhaustiva de las experiencias, percepciones y perspectivas del personal clave
+involucrado en los procesos de información.
+
+       Este enfoque cualitativo de carácter documental permitirá no solo identificar y
+analizar las características actuales de los sistemas y procesos, sino también comprender las
+dinámicas subyacentes y las interacciones entre los diferentes elementos del entorno
+organizativo. A través de un análisis exhaustivo de documentos y registros relevantes, se
+logrará captar información detallada y contextualizada que evidencie las fortalezas y
+debilidades del sistema actual, lo que resulta fundamental para desarrollar una comprensión
+completa de los desafíos y oportunidades asociados con la implementación de la
+interoperabilidad, lo cual permitirá evidenciar el estado actual de los procesos y sistemas de
+información, proporcionando una base sólida para la identificación de áreas de mejora y la
+formulación de recomendaciones específicas.
+
+6.1 Recolección de Datos
+       La recolección de datos se enfocará en el análisis exhaustivo de fuentes documentales
+del periodo 2018-2024, con el fin de profundizar en los aspectos claves para la
+interoperabilidad en organizaciones gubernamentales. Las palabras clave empleadas para
+orientar esta búsqueda serán: “interoperabilidad”, “gestión del cambio organizacional”,
+“transformación digital en el sector público”, “integración de sistemas en organizaciones
+gubernamentales” y “tecnologías de la información en la administración pública”. Las bases
+de datos seleccionadas para esta investigación incluyen Redalyc, Google Académico,
+Scopus y ResearchGate, con acceso a literatura académica relevante y actualizada en el área.
+Para lograr una cobertura adecuada, se incluirán documentos tanto en español como en
+
+                                                                        P á g i n a 31 | 74
+=== p32 ===
+inglés, lo cual permitirá integrar perspectivas nacionales e internacionales, facilitando un
+análisis profundo de los marcos normativos, directrices y mejores prácticas aplicables al
+contexto gubernamental y esenciales para la formulación de recomendaciones precisas.
+
+6.2 Proceso de Recolección de Datos
+       El proceso de recolección de datos se desarrollará en varias etapas para asegurar la
+organización y calidad de la información recopilada. En la primera etapa, se realizará una
+búsqueda y selección exhaustiva de documentos clave, incluyendo políticas, normativas y
+estudios recientes sobre interoperabilidad en organizaciones gubernamentales, el proceso
+incluirá la identificación de fuentes relevantes y la recopilación de documentos a través de
+bases de datos académicas, repositorios institucionales y bibliotecas especializadas. La
+revisión se llevará a cabo en un periodo específico para garantizar que toda la documentación
+relevante sea evaluada en profundidad y se obtenga información significativa para el estudio.
+
+       La segunda etapa incluirá el análisis documental en función de los objetivos
+específicos de la investigación. Los datos extraídos de las fuentes seleccionadas serán
+organizados y clasificados en categorías pertinentes para la interoperabilidad, de modo que
+se puedan identificar patrones y aspectos clave que guíen el desarrollo de la propuesta, el
+enfoque estructurado permitirá una recolección ordenada y precisa de datos, formando una
+base sólida para el análisis final y la formulación de recomendaciones específicas para la
+implementación de la Plataforma de Interoperabilidad en la organización gubernamental
+estudiada.
+
+6.3 Métodos de Análisis de Datos
+       El análisis de los datos recolectados se llevará a cabo mediante métodos cualitativos
+centrados en la interpretación detallada de la información obtenida. En primer lugar, se
+realizará un análisis documental de los textos seleccionados, utilizando el análisis de
+contenido como técnica principal para examinar los documentos revisados, lo que implico
+la identificación de temas clave, patrones recurrentes y áreas críticas relacionadas con la
+interoperabilidad, lo que permitirá evaluar en profundidad las políticas, normas y marcos
+regulatorios existentes. A través de esta metodología, se destacarán tanto las fortalezas como
+las debilidades presentes en la implementación de la interoperabilidad, con un enfoque
+
+
+
+                                                                        P á g i n a 32 | 74
+=== p33 ===
+particular en los aspectos normativos y organizacionales que inciden en el contexto
+gubernamental.
+
+       Además, se llevará a cabo un análisis temático de la información extraída de la
+documentación obtenida, mediante la clasificación y codificación de los principales temas y
+categorías emergentes, dicha fase de análisis permitirá identificar las principales áreas de
+oportunidad y las necesidades más urgentes para optimizar la interoperabilidad. La
+validación y fiabilidad del análisis se garantizarán a través de una revisión sistemática y
+detallada de los datos, y se asegurarán mediante el uso de técnicas de triangulación
+documental, con el fin de proporcionar una interpretación precisa y coherente que refleje
+fielmente el estado actual de la interoperabilidad en la organización estudiada.
+
+6.4 Consideraciones Éticas
+       En la investigación se tomarán en cuenta diversas consideraciones éticas para
+garantizar el manejo responsable de los datos y el respeto por la privacidad. Se asegurará
+que toda la información utilizada provenga de fuentes documentales disponibles
+públicamente y que se cumpla con las normativas vigentes en cuanto a la protección de datos.
+Para preservar la confidencialidad, se implementarán medidas para anonimizar los datos
+sensibles y evitar la divulgación de información que pueda comprometer la privacidad de las
+entidades o individuos mencionados en los documentos.
+
+       Adicionalmente, la investigación cumplirá con las directrices éticas aplicables en
+cuanto a la correcta citación y el uso adecuado de las fuentes documentales, respetando
+siempre los derechos de autor y evitando el plagio. El análisis de los datos se realizará con
+total transparencia, garantizando que la información obtenida de las fuentes documentales
+sea utilizada de manera ética y precisa, dichas medidas asegurarán que la investigación se
+lleve a cabo de manera responsable y respetuosa con la privacidad y los derechos de los
+involucrados indirectamente a través de los documentos utilizados.
+
+
+
+
+                                                                        P á g i n a 33 | 74
+=== p34 ===
+                                        7.   Resultados
+
+
+7.1 Análisis de la Política de Gobierno Digital y su Interoperabilidad en la Gestión
+Institucional
+
+       La Política de Gobierno Digital en Colombia se fundamenta en la necesidad de
+modernizar y hacer más eficientes los servicios públicos a través de la tecnología, este
+enfoque busca no solo mejorar la gestión administrativa, sino también fomentar la
+transparencia y la participación ciudadana. Según Bravo (2021), el Gobierno Digital implica
+una transformación de la relación entre el Estado y los ciudadanos, donde la digitalización
+se convierte en un medio para facilitar el acceso a la información y a los servicios públicos.
+Esta política se articula con el marco de interoperabilidad, que establece las bases para la
+comunicación y el intercambio de información entre las distintas entidades gubernamentales
+(Bravo, 2021). Así, se busca que los sistemas y plataformas se integren de manera efectiva,
+permitiendo una administración más ágil y centrada en el usuario.
+
+       Figura 5 Gobierno Digital
+
+
+
+
+       Fuente: Tomado de (Carbajal, 2021).
+
+       En este contexto, el Marco de Interoperabilidad se define como un conjunto de
+principios, normas y estándares que permiten la interacción de diferentes sistemas de
+información. Según Lucia de las Mercedes (2023), este marco es esencial para garantizar
+                                                                        P á g i n a 34 | 74
+=== p35 ===
+que la información fluya entre las diversas entidades del gobierno de manera eficiente y
+segura. La interoperabilidad no solo se refiere a la capacidad técnica de los sistemas, sino
+también a la homogeneidad en la gestión de datos y la calidad de la información compartida,
+es decir, al establecer pautas claras para la clasificación y manejo de la información, se
+facilita el desarrollo de aplicaciones y servicios que, a su vez, mejoran la experiencia del
+ciudadano al interactuar con el gobierno (Mercedes, 2023). De esta manera, se promueve
+una cultura de colaboración y confianza entre las distintas instituciones.
+
+       Por otro lado, las Políticas de Gestión Institucional juegan un rol crucial en la
+implementación de estas estrategias, es decir, estas políticas deben ser coherentes con los
+objetivos del Gobierno Digital y del Marco de Interoperabilidad, asegurando que todos los
+procesos estén alineados hacia una misma meta: la mejora continua de los servicios públicos.
+Según Ariño (2023), la gestión institucional efectiva implica establecer una clara dirección
+estratégica, así como mecanismos de evaluación y rendición de cuentas que garanticen la
+calidad de los servicios ofrecidos (Ariño, 2023). En este sentido, la gestión del conocimiento
+y la capacitación del personal son elementos fundamentales para garantizar que todos los
+funcionarios comprendan y apliquen adecuadamente los principios de la interoperabilidad y
+del gobierno digital en su labor diaria.
+
+       Por otra parte, la implementación de la Política de Gobierno Digital en Colombia se
+basa en la necesidad de crear un marco institucional que garantice la transparencia y la
+confianza de los ciudadanos en las entidades gubernamentales; este enfoque implica que las
+instituciones deben establecer mecanismos efectivos de comunicación que permitan a los
+ciudadanos acceder a la información sobre los servicios disponibles y expresar sus opiniones
+o inquietudes. Además, se busca fortalecer la participación ciudadana en la toma de
+decisiones, lo que no solo mejora la percepción pública sobre la gestión gubernamental, sino
+que también contribuye a un proceso de cocreación de políticas que respondan a las
+necesidades reales de la población. En este contexto, es esencial que se desarrollen
+estrategias de capacitación para el personal de las instituciones, garantizando que estén
+preparados para interactuar de manera efectiva con los ciudadanos en un entorno digital.
+
+
+
+
+                                                                        P á g i n a 35 | 74
+=== p36 ===
+       Figura 6 Mejora de los Servicios Públicos a través de la Interoperabilidad
+
+
+
+
+       Fuente: Elaboración propia.
+
+       La interoperabilidad juega un papel crítico en la gestión de datos sensibles dentro del
+gobierno digital. Con el crecimiento exponencial de la información digital, se vuelve
+imperativo que las entidades gubernamentales implementen políticas de protección de datos
+que salvaguarden la privacidad de los ciudadanos, esto implica no solo cumplir con las
+normativas legales vigentes, sino también adoptar buenas prácticas que garanticen la
+seguridad y la integridad de la información compartida. La clasificación adecuada de los
+datos es fundamental para establecer quién puede acceder a qué tipo de información y bajo
+qué condiciones, lo que es esencial para prevenir violaciones a la privacidad que puedan
+afectar la confianza pública. Al mismo tiempo, se requiere un compromiso institucional para
+fomentar una cultura de seguridad de la información, donde todos los funcionarios sean
+conscientes de la importancia de proteger los datos sensibles y actúen en consecuencia.
+
+       El concepto de Gobierno Abierto, que forma parte de la estrategia de Gobierno
+Digital, busca fomentar la transparencia y la rendición de cuentas en la administración
+pública. Esta iniciativa implica la creación de plataformas digitales que permitan el acceso
+a información pública de manera ágil y en tiempo real. La apertura de datos no solo mejora
+la transparencia, sino que también promueve la colaboración entre el gobierno y la sociedad
+civil, generando un entorno propicio para la participación activa de los ciudadanos en la
+
+                                                                        P á g i n a 36 | 74
+=== p37 ===
+formulación y evaluación de políticas públicas; este enfoque requiere que las instituciones
+establezcan protocolos claros para la publicación de información y mecanismos de
+retroalimentación que faciliten la interacción entre los ciudadanos y los servidores públicos.
+La implementación exitosa del Gobierno Abierto depende de la disposición de las entidades
+para adoptar una mentalidad proactiva en la gestión de la información y en la creación de
+espacios de participación ciudadana.
+
+       La implementación de la Plataforma de Interoperabilidad representa un desafío tanto
+técnico como organizativo para las instituciones; este proceso puede verse obstaculizado por
+la resistencia al cambio, la falta de recursos financieros y la carencia de capacitación
+adecuada para el personal. Por ello, es fundamental que las instituciones desarrollen un
+enfoque de gestión del cambio que incluya estrategias de comunicación efectivas y la
+participación activa de todos los niveles organizativos; esto no solo facilitará la transición
+hacia un modelo de interoperabilidad, sino que también generará un ambiente favorable para
+la innovación en la gestión pública, es crucial que se promueva una cultura organizacional
+que valore la colaboración y el aprendizaje continuo, permitiendo que los funcionarios se
+adapten a las nuevas tecnologías y enfoques que la interoperabilidad implica. La superación
+de estos desafíos es vital para garantizar que la Plataforma de Interoperabilidad funcione de
+manera efectiva y contribuya a la mejora de los servicios ciudadanos.
+
+       Con base a lo anterior, se evidencia que la implementación de la Política de Gobierno
+Digital en Colombia es un proceso integral que requiere no solo de la modernización
+tecnológica, sino también de un profundo cambio cultural en la administración pública. La
+interoperabilidad se presenta como un elemento clave para la optimización de los servicios
+ciudadanos, ya que permite la integración y el intercambio eficiente de información entre las
+diferentes entidades gubernamentales; esto no solo mejora la calidad de los servicios
+ofrecidos, sino que también fomenta la transparencia y la rendición de cuentas, aspectos
+fundamentales para fortalecer la confianza de los ciudadanos en sus instituciones, es decir,
+al adoptar un enfoque centrado en el ciudadano, las organizaciones gubernamentales deben
+estar dispuestas a adaptarse a las nuevas demandas y expectativas de la sociedad, lo que
+incluye la capacitación continua de su personal y el desarrollo de mecanismos que faciliten
+la participación activa de los ciudadanos en la toma de decisiones.
+
+
+                                                                        P á g i n a 37 | 74
+=== p38 ===
+       Asimismo, el diagnóstico de los desafíos y requisitos necesarios para la
+implementación de la Plataforma de Interoperabilidad es crucial para asegurar su
+efectividad. Es esencial que las instituciones reconozcan la importancia de la clasificación y
+reserva de la información, así como el cumplimiento de las normativas de protección de
+datos. En este sentido, la creación de estrategias que promuevan una cultura de seguridad de
+la información y que faciliten la colaboración entre las distintas áreas de la administración
+pública es indispensable. La integración de estos elementos permitirá no solo la mejora de
+la eficiencia administrativa, sino también la construcción de un gobierno más abierto y
+accesible, en el que los ciudadanos puedan interactuar con sus instituciones de manera
+efectiva. Por último, el éxito de la interoperabilidad dependerá del compromiso y la voluntad
+de las entidades gubernamentales para trabajar en conjunto, priorizando siempre el bienestar
+y las necesidades de la ciudadanía.
+
+
+7.2 Clasificación y Reserva de la Información Institucional para su Uso en Servicios
+Ciudadanos
+
+       La clasificación y reserva de la información institucional son elementos
+fundamentales en el ámbito de la administración pública, especialmente en el contexto de
+los servicios ciudadanos. La correcta gestión de la información no solo implica una
+responsabilidad legal, sino también un compromiso ético hacia los ciudadanos que esperan
+transparencia y acceso a datos relevantes que les conciernen. La Ley 1712 de 2014 en
+Colombia, que establece el derecho de acceso a la información pública, sienta las bases para
+un manejo responsable de la información, orientando a las entidades a implementar políticas
+que faciliten la clasificación de la información en categorías que van desde datos de acceso
+público hasta información reservada por motivos de seguridad o privacidad (Función
+Pública, 2014). La clasificación adecuada permite a las entidades garantizar que solo los
+datos necesarios sean compartidos, protegiendo así la información sensible y respetando los
+derechos de los ciudadanos. Este proceso de clasificación, por tanto, no debe ser considerado
+como un obstáculo, sino como una herramienta que promueve una cultura de responsabilidad
+y transparencia en el sector público.
+
+       En este contexto, es esencial que cada entidad pública establezca un marco claro para
+la clasificación de la información. La categorización de datos debe contemplar criterios
+
+                                                                        P á g i n a 38 | 74
+=== p39 ===
+específicos que incluyan la naturaleza del contenido, el riesgo asociado a su divulgación y
+la normativa vigente. La información se puede clasificar en varias categorías, como pública,
+confidencial y reservada. La información pública se refiere a aquella que es de interés
+general y puede ser divulgada sin restricciones, mientras que la confidencial incluye datos
+que, aunque útiles, requieren de precauciones en su manejo debido a la sensibilidad del
+contenido. Por otro lado, la información reservada está sujeta a restricciones estrictas y solo
+puede ser divulgada bajo circunstancias específicas, normalmente para proteger la seguridad
+nacional o los derechos individuales de los ciudadanos. Para fortalecer este proceso, es
+recomendable que las instituciones implementen herramientas tecnológicas que faciliten la
+clasificación, almacenamiento y acceso a la información, garantizando una gestión más
+eficiente.
+
+        De acuerdo con el análisis de Carbajal (2021), la clasificación y reserva de la
+información institucional se presentan como un componente crucial en la estructuración de
+los servicios ciudadanos, ya que determina qué datos son accesibles y cuáles están sujetos a
+restricciones, este autor enfatiza que una adecuada gestión de la información permite no solo
+una mejor organización de los recursos, sino que también contribuye a la transparencia en la
+gestión pública. La investigación indica que la implementación de protocolos claros para la
+clasificación de información permite a las entidades gubernamentales establecer un
+equilibrio entre la necesidad de proteger información sensible y el derecho del ciudadano a
+acceder a datos que promueven la rendición de cuentas (Carbajal, 2021). Así, el trabajo
+sugiere que las políticas de clasificación deben estar fundamentadas en un marco normativo
+robusto que considere tanto las implicaciones legales como las expectativas sociales de
+apertura y transparencia.
+
+
+
+
+                                                                         P á g i n a 39 | 74
+=== p40 ===
+       Figura 7 Clasificación de información
+
+
+
+
+       Fuente: Tomado de (Ramirez, 2020).
+
+       La reserva de información es otro aspecto crucial en la gestión de datos
+institucionales. La Ley de Protección de Datos Personales (Ley 1581 de 2012) en Colombia
+establece que las entidades deben garantizar la confidencialidad y la integridad de los datos
+personales que poseen. Esta ley define cómo deben manejarse los datos personales,
+incluyendo su recolección, almacenamiento y eventual difusión. En este sentido, las
+entidades gubernamentales deben ser claras sobre los tipos de información que consideran
+reservada y los procesos necesarios para su acceso. La reserva de información no solo
+protege a los ciudadanos de posibles abusos, sino que también asegura que las entidades
+cumplan con sus obligaciones legales en materia de protección de datos, por ejemplo, si una
+entidad pública gestiona datos de salud de los ciudadanos, debe implementar políticas que
+aseguren que dicha información no sea divulgada sin el consentimiento explícito del
+individuo, garantizando así su privacidad y seguridad.
+
+       Para que la clasificación y reserva de información sean efectivas, es esencial que el
+personal de las entidades esté debidamente capacitado. La formación en gestión de datos
+debe incluir aspectos técnicos, legales y éticos relacionados con la clasificación y manejo de
+información, esta capacitación debe abordar temas como la identificación de información
+sensible, las normativas aplicables y las mejores prácticas en el manejo de datos. Además,
+
+                                                                        P á g i n a 40 | 74
+=== p41 ===
+es importante que se establezcan mecanismos de control y supervisión que garanticen que
+se sigan las políticas de clasificación y reserva de manera adecuada. Las auditorías periódicas
+pueden servir como herramienta para evaluar el cumplimiento de estas políticas,
+identificando posibles áreas de mejora y asegurando que se mantenga la transparencia y
+responsabilidad en la gestión de la información.
+
+       Además, la propuesta de Ramírez (2021) señala que el proceso de reserva de
+información debe ser visto como una herramienta que, más que limitar, busca resguardar los
+derechos individuales y colectivos. Este autor argumenta que, en la era de la información, es
+fundamental que las instituciones adopten una postura proactiva respecto a la reserva de
+datos, asegurando que las decisiones sobre la clasificación se tomen de manera ética y
+responsable. Según el autor, los procesos de reserva deben ser revisados periódicamente para
+garantizar que se adapten a los cambios tecnológicos y a las demandas sociales,
+promoviendo así una gestión dinámica y efectiva; este enfoque no solo asegura la protección
+de datos sensibles, sino que también mejora la percepción de la ciudadanía sobre la
+capacidad del gobierno para manejar la información de manera responsable y transparente.
+
+       El uso de tecnologías de la información y la comunicación (TIC) es otro factor que
+puede potenciar la clasificación y reserva de información en el ámbito de los servicios
+ciudadanos. Las plataformas digitales permiten a las entidades almacenar y clasificar
+grandes volúmenes de datos de manera eficiente, facilitando la recuperación de información
+y el acceso controlado a la misma, por ejemplo, el Sistema de Información para la Gestión
+de la Información (SIGI) implementado por algunas entidades gubernamentales
+colombianas permite organizar y gestionar datos, garantizando que la información sensible
+esté adecuadamente protegida y que el acceso a datos públicos sea sencillo para los
+ciudadanos. La digitalización de los procesos de gestión de datos no solo mejora la eficiencia
+operativa de las entidades, sino que también permite una mayor transparencia, al facilitar el
+acceso a la información pública que les concierne a los ciudadanos.
+
+       El acceso a la información clasificada y reservada es un derecho que los ciudadanos
+deben poder ejercer, pero debe ser manejado con responsabilidad y en cumplimiento con la
+normativa vigente. Las entidades deben ser proactivas en informar a los ciudadanos sobre
+sus derechos en relación con el acceso a la información y los procedimientos necesarios para
+
+                                                                         P á g i n a 41 | 74
+=== p42 ===
+solicitar información. La creación de plataformas en línea donde los ciudadanos puedan
+realizar solicitudes de acceso a la información clasificada o reservada, junto con un sistema
+de respuesta clara y oportuna, puede contribuir a una cultura de transparencia y participación
+ciudadana. En este sentido, es vital que las entidades promuevan un diálogo constante con
+la ciudadanía para mejorar los procesos de clasificación y reserva, así como para entender
+mejor las necesidades de información del público.
+
+       Adicional a ello, la colaboración interinstitucional es fundamental para optimizar la
+clasificación y reserva de información en el contexto de los servicios ciudadanos. Las
+entidades públicas deben trabajar juntas para establecer estándares comunes que faciliten el
+intercambio de información y la interoperabilidad entre sistemas; esta colaboración no solo
+mejorará la eficiencia en la gestión de datos, sino que también garantizará que la información
+sensible esté adecuadamente protegida en todo momento. La creación de redes
+interinstitucionales para compartir mejores prácticas en la clasificación y reserva de
+información puede resultar beneficiosa, permitiendo a las entidades aprender unas de otras
+y mejorar continuamente sus procesos. Por último, un enfoque colaborativo ayudará a
+construir un sistema de información más robusto y confiable, en el que los ciudadanos
+puedan tener confianza en la gestión de sus datos.
+
+       Con base en lo anterior, se concluye que la clasificación y reserva de la información
+institucional son componentes esenciales en el contexto de los servicios ciudadanos en las
+organizaciones gubernamentales, estas prácticas no solo permiten la protección de datos
+sensibles, sino que también promueven un entorno de transparencia que es fundamental para
+establecer confianza entre la ciudadanía y sus instituciones, es decir, al regular el acceso a la
+información, se facilita que los ciudadanos comprendan mejor cómo operan los organismos
+públicos, lo que contribuye a una mayor participación en los procesos democráticos; este
+enfoque integral en la gestión de la información se traduce en un servicio público más
+eficiente y accesible, donde los ciudadanos se sienten empoderados para interactuar con las
+entidades gubernamentales, contribuyendo así a una cultura de rendición de cuentas. La
+importancia de estas políticas se ve reflejada en la percepción social de la administración
+pública, que se convierte en un referente de confianza y transparencia.
+
+
+
+
+                                                                          P á g i n a 42 | 74
+=== p43 ===
+       Figura 8 Clasificación y Reserva de Información Institucional
+
+
+
+
+       Fuente: Elaboración propia.
+
+       Adicional a ello, es necesario destacar que la revisión periódica de las políticas de
+clasificación y reserva de información se convierte en un aspecto fundamental para la
+evolución de la gestión pública en un contexto dinámico. La adaptación a los cambios
+tecnológicos y a las expectativas sociales es crucial para garantizar que la información se
+maneje de manera ética y responsable, este proceso no solo asegura la protección de datos
+sensibles, sino que también permite que las instituciones respondan adecuadamente a las
+demandas de acceso a información pública. La integración de una perspectiva ética en la
+gestión de datos es esencial para fortalecer la legitimidad de las instituciones y su capacidad
+para operar en un entorno de confianza. En este sentido, la clasificación y reserva de la
+información institucional no deben ser vistas solo como herramientas de control, sino como
+elementos que, al ser gestionados adecuadamente, pueden contribuir a construir una
+administración pública más efectiva, cercana a los ciudadanos y alineada con los principios
+de un gobierno digital moderno.
+
+
+
+
+                                                                         P á g i n a 43 | 74
+=== p44 ===
+7.3 Diagnosticar los requisitos y desafíos para implementar la Plataforma de
+Interoperabilidad
+
+       El Marco de Interoperabilidad para Gobierno Digital en Colombia establece
+directrices claras para el intercambio de datos entre las entidades públicas, promoviendo la
+eficiencia, seguridad y accesibilidad de la información. A través de este marco, el gobierno
+busca estandarizar los procesos y fomentar el uso de tecnologías abiertas, lo que facilita la
+integración de sistemas entre diferentes niveles de la administración pública. En todo caso,
+la implementación efectiva de la plataforma no solo depende de la existencia de un marco
+normativo robusto, sino también de la infraestructura tecnológica adecuada y de la voluntad
+política para superar las barreras existentes.
+
+       Uno de los requisitos fundamentales para implementar una plataforma de
+interoperabilidad en Colombia es el cumplimiento de las normativas relacionadas con la
+protección de datos personales. La Ley 1581 de 2012, que regula el tratamiento de datos
+personales, impone restricciones claras sobre cómo se deben manejar los datos sensibles de
+los ciudadanos (Función Pública, 2012). A excepción de los casos en los que los datos sean
+utilizados para fines específicos y previamente autorizados por los titulares, el intercambio
+de información entre entidades debe garantizar la privacidad y seguridad de estos datos. El
+desafío radica en la necesidad de desarrollar protocolos que aseguren que la
+interoperabilidad no ponga en riesgo la confidencialidad de la información, especialmente
+en plataformas que involucren grandes volúmenes de datos sensibles, como los relacionados
+con la salud o la seguridad social.
+
+       Además, el Decreto 620 de 2020, que reglamenta varios aspectos de la Ley 1437 de
+2011, establece lineamientos clave para la operación de los servicios ciudadanos digitales,
+abordando aspectos técnicos, operativos y organizacionales (Suin Juriscol, 2020). Con la
+salvedad de que algunas de estas regulaciones no se aplican directamente a todos los
+servicios gubernamentales, el Decreto plantea la necesidad de adoptar tecnologías abiertas y
+estándares comunes para asegurar que los sistemas sean interoperables. La implementación
+de estos estándares requiere que las entidades públicas adapten sus infraestructuras
+tecnológicas para cumplir con los requisitos de seguridad, acceso y compatibilidad. La
+transición hacia el uso de tecnologías abiertas implica un cambio significativo en la manera
+
+                                                                       P á g i n a 44 | 74
+=== p45 ===
+en que se gestionan los sistemas de información dentro de las entidades, y muchas de ellas
+carecen de los recursos necesarios para afrontar este desafío.
+
+       El desarrollo de la infraestructura tecnológica necesaria para soportar la
+interoperabilidad es otro de los requisitos críticos. Para que la plataforma de
+interoperabilidad funcione de manera efectiva, es necesario contar con servidores, bases de
+datos, y redes de comunicación que puedan manejar grandes volúmenes de datos sin
+comprometer la eficiencia. Incluso si se desarrollan tecnologías compatibles, la integración
+de sistemas legados puede ser una de las barreras más difíciles de superar. Muchas de las
+entidades gubernamentales en Colombia todavía operan con sistemas antiguos que no están
+diseñados para interactuar con plataformas modernas, lo que requiere un esfuerzo
+significativo en términos de actualización de software y formación del personal. Muy al
+contrario, los recursos financieros para realizar estas actualizaciones no siempre están
+disponibles, lo que complica aún más la implementación efectiva de la interoperabilidad.
+
+       Por otro lado, la definición de roles y responsabilidades claras dentro de las entidades
+involucradas es crucial para que la plataforma de interoperabilidad sea exitosa. En muchos
+casos, las entidades gubernamentales no tienen una estructura organizativa que facilite la
+colaboración entre áreas, lo que puede generar redundancias y malentendidos en la gestión
+de la información. A excepción de los esfuerzos de coordinación interinstitucional que se
+han realizado en algunos casos, en general, la falta de una estrategia clara de gobernanza de
+datos y la resistencia a compartir información siguen siendo obstáculos significativos. Para
+superar estos desafíos, es necesario promover una cultura de cooperación interinstitucional
+que permita a las entidades trabajar juntas para alcanzar los objetivos comunes de la
+interoperabilidad.
+
+       En cuanto a los desafíos organizacionales, la resistencia al cambio es uno de los
+principales obstáculos para la implementación exitosa de la plataforma de interoperabilidad.
+Muchas entidades gubernamentales están acostumbradas a operar de manera aislada y tienen
+temores sobre el impacto que la interoperabilidad pueda tener sobre sus procedimientos y
+flujos de trabajo establecidos. Mientras que algunos funcionarios pueden ver la
+interoperabilidad como una mejora que optimizará los servicios públicos, otros perciben el
+proceso como una amenaza a su control sobre los datos, dicha resistencia al cambio puede
+
+                                                                        P á g i n a 45 | 74
+=== p46 ===
+retrasar la adopción de nuevas tecnologías y generar conflictos dentro de las instituciones
+públicas, lo que a su vez dificulta la ejecución de políticas de interoperabilidad.
+
+       La capacitación del personal encargado de gestionar los procesos de
+interoperabilidad también constituye un desafío considerable. A pesar de que el gobierno ha
+establecido varias iniciativas para formar a los empleados públicos en el uso de tecnologías
+digitales, la capacitación no siempre es suficiente ni específica para las necesidades técnicas
+relacionadas con la interoperabilidad. Incluso si se implementan programas de formación, la
+falta de personal especializado en áreas como gestión de datos y ciberseguridad puede
+generar vacíos en la capacidad de las entidades para manejar los riesgos asociados con la
+interoperabilidad. En este contexto, es fundamental desarrollar programas de formación
+continua que aborden tanto las habilidades técnicas como las habilidades organizacionales
+necesarias para garantizar la interoperabilidad efectiva.
+
+       Otro desafío importante es la seguridad de la información en un entorno de
+interoperabilidad. El intercambio de datos entre múltiples entidades aumenta el riesgo de
+ciberataques, por lo que es imprescindible implementar mecanismos de seguridad robustos
+que protejan tanto la infraestructura como los datos en tránsito. La implementación de
+políticas de cifrado de datos y la creación de sistemas de autenticación fuertes son algunas
+de las medidas necesarias para asegurar que la plataforma de interoperabilidad sea resistente
+a amenazas externas (Galindo, 2024). A excepción de los sistemas de seguridad
+implementados en algunas entidades, en general, se requieren inversiones significativas en
+tecnología de protección y en la formación de personal en seguridad cibernética.
+
+       Adicional a ello, la evaluación constante de los sistemas de interoperabilidad es
+crucial para identificar áreas de mejora y garantizar que la plataforma continúe funcionando
+de manera eficiente (Lizcano et al, 2024). En este sentido, es necesario establecer
+mecanismos de monitoreo y evaluación que permitan medir el impacto de la
+interoperabilidad en la prestación de servicios públicos y en la gestión de la información
+dentro de las entidades. La falta de estos mecanismos de seguimiento puede dificultar la
+identificación temprana de problemas y la toma de decisiones informadas para mejorar la
+implementación de la plataforma. Mientras que algunos proyectos piloto han tenido éxito, la
+
+
+
+                                                                         P á g i n a 46 | 74
+=== p47 ===
+falta de un enfoque sistemático para evaluar los resultados de la interoperabilidad a largo
+plazo sigue siendo un desafío importante.
+
+       Figura 9 Requisitos para la Interoperabilidad
+
+
+
+
+       Fuente: Elaboración propia.
+
+        Por otra parte, otro aspecto fundamental es la adecuación de las infraestructuras de
+TI existentes. En muchos casos, las entidades gubernamentales operan con sistemas
+obsoletos que no están preparados para soportar las exigencias de interoperabilidad, dicho
+reto se incrementa por la heterogeneidad tecnológica presente en diversas instituciones
+públicas, lo que implica la necesidad de realizar adaptaciones a medida para garantizar la
+compatibilidad (Suarez, 2023). Además de la necesidad de actualizar servidores y redes de
+comunicación, que resulta indispensable llevar a cabo un proceso de normalización de los
+sistemas, de manera que las tecnologías antiguas puedan integrarse de forma eficiente con
+los nuevos desarrollos tecnológicos. En este sentido, la virtualización de servidores y la
+adopción de entornos en la nube podrían jugar un papel fundamental, ya que permiten escalar
+los recursos de forma flexible y económica, reduciendo costos de hardware y ofreciendo
+soluciones más ágiles para la implementación de la interoperabilidad.
+
+       Por consiguiente, la gestión de datos es otro reto fundamental en la interoperabilidad.
+A medida que se incrementa la cantidad de datos intercambiados entre las entidades públicas,
+
+                                                                        P á g i n a 47 | 74
+=== p48 ===
+surgen desafíos relacionados con la calidad de los datos, es esencial que los datos sean
+precisos, consistentes, accesibles y actualizados, ya que cualquier inconsistencia o error
+podría afectar directamente los servicios públicos que dependen de esta información. En este
+contexto, se requiere un sistema de gestión de metadatos que permita clasificar y organizar
+la información para que sea fácilmente recuperable y útil para las entidades que la necesiten.
+La gestión del ciclo de vida de los datos también se vuelve clave, pues debe garantizar que
+los datos sean almacenados de manera segura, pero también con una política clara sobre su
+eliminación o archivado cuando ya no sean necesarios.
+
+       En cuanto a los protocolos y estándares de comunicación, la adopción de tecnologías
+como APIs abiertas y microservicios se vuelve esencial para permitir que los sistemas sean
+más flexibles y puedan adaptarse fácilmente a futuros cambios tecnológicos. A excepción
+de algunos sistemas más avanzados, muchas entidades aún dependen de arquitecturas
+monolíticas que dificultan la integración con otras plataformas. La implementación de
+arquitecturas basadas en microservicios facilita la conexión entre aplicaciones dispersas,
+permitiendo que cada una ofrezca servicios de forma independiente, pero integrada dentro
+de una plataforma de interoperabilidad. Además, el uso de APIs RESTful (que se basan en
+estándares web) asegura que los servicios sean accesibles desde múltiples dispositivos y
+plataformas, proporcionando una gran capacidad de expansión y adaptación a futuras
+necesidades (Miller, 2021).
+
+       Por otro lado, la resistencia al cambio organizacional es uno de los desafíos más
+profundos. La administración pública a menudo está marcada por una jerarquía rígida y una
+cultura que puede dificultar la colaboración entre distintas entidades. En este orden de ideas,
+la gestión de cambio debe ser un componente integral de cualquier proyecto de
+interoperabilidad, lo cual es fundamental diseñar estrategias de comunicación interna
+efectivas, que expliquen los beneficios de la interoperabilidad tanto para los ciudadanos
+como para los empleados públicos, involucrándolos en el proceso de transformación digital.
+La inclusión de los líderes de las entidades en el proceso de planificación y ejecución
+también es crucial para asegurar que la plataforma de interoperabilidad cuente con el apoyo
+necesario en todos los niveles organizacionales.
+
+
+
+
+                                                                         P á g i n a 48 | 74
+=== p49 ===
+       La formación continua del personal no debe limitarse solo al aspecto técnico, sino
+que también debe incluir componentes relacionados con la gestión de proyectos, liderazgo
+en entornos digitales, y habilidades interpersonales para facilitar el trabajo en equipo.
+Capacitar a los empleados en aspectos clave de la interoperabilidad, como la gestión de
+datos, los estándares de seguridad y la cultura de colaboración interinstitucional, puede
+resultar en una mayor eficiencia y agilidad en la adopción de la plataforma (Arboleda, 2024).
+Es recomendable que, más allá de los cursos iniciales de formación, se implementen
+programas de actualización y certificación para asegurar que las competencias del personal
+estén alineadas con los avances tecnológicos que surjan durante la implementación de la
+plataforma.
+
+       En cuanto a la ciberseguridad, un aspecto que debe recibir especial atención es la
+protección frente a ataques internos. Muchas veces, los mayores riesgos para la seguridad de
+la información provienen de actores dentro de la organización, ya sea por negligencia o por
+intenciones maliciosas. Para mitigar estos riesgos, es crucial implementar protocolos de
+seguridad interna, como la segregación de funciones y el monitoreo constante de los accesos
+a los sistemas. El uso de autenticación multifactor y la adopción de tecnologías como el
+cifrado de extremo a extremo también son estrategias clave para garantizar que los datos se
+mantengan protegidos durante su intercambio entre las entidades gubernamentales.
+
+       Un aspecto crítico en el que se debe poner especial énfasis es la evaluación y
+seguimiento de la interoperabilidad una vez implementada. La plataforma no debe ser vista
+como una solución estática, sino como un proceso continuo de mejora. A medida que las
+tecnologías evolucionan y surgen nuevas necesidades, es necesario realizar auditorías
+periódicas para evaluar el funcionamiento del sistema y detectar posibles fallos o áreas de
+mejora. Además, deben establecerse indicadores clave de desempeño (KPI) que permitan
+medir el impacto de la interoperabilidad en la eficiencia de los servicios públicos, así como
+en la satisfacción de los ciudadanos, la cual ayudarán a ajustar los procesos y mejorar el
+rendimiento de la plataforma en el futuro.
+
+       En términos de coordinación interinstitucional, se requiere la creación de estructuras
+de gobernanza que faciliten la toma de decisiones y la resolución de conflictos. Muy al
+contrario de las prácticas anteriores, que implicaban procesos burocráticos lentos, la
+
+                                                                       P á g i n a 49 | 74
+=== p50 ===
+interoperabilidad exige que las entidades trabajen de manera ágil y colaborativa. La creación
+de grupos de trabajo interinstitucionales o comités de interoperabilidad puede ser una
+excelente estrategia para garantizar que se alineen los intereses de todas las partes
+involucradas y se resuelvan de manera eficaz los problemas que puedan surgir durante el
+proceso de implementación.
+
+       Para finalizar, uno de los desafíos que no debe subestimarse es el presupuesto
+necesario para implementar y mantener la plataforma de interoperabilidad. A pesar de que
+el gobierno digital ofrece innumerables beneficios a largo plazo, la inversión inicial para la
+actualización de sistemas, la formación del personal y la creación de infraestructuras
+robustas puede ser considerable (Bravo, 2021). Por lo tanto, es esencial contar con un plan
+de financiamiento bien estructurado, que contemple no solo los costos de implementación,
+sino también los de mantenimiento a largo plazo, lo que incluye la actualización continua de
+los sistemas, el monitoreo de la seguridad y la formación permanente del personal
+involucrado en la gestión de la interoperabilidad.
+
+        Con base a lo anterior, se concluye que la implementación exitosa de una plataforma
+de interoperabilidad en el ámbito gubernamental en Colombia enfrenta diversos desafíos
+complejos que requieren una atención integral en áreas clave como la infraestructura
+tecnológica, la capacitación del personal, la seguridad de la información y la coordinación
+interinstitucional. La existencia de sistemas legados, la resistencia al cambio organizacional
+y los problemas financieros son obstáculos significativos que deben superarse para
+garantizar una transición fluida hacia un entorno más eficiente y colaborativo.
+
+
+
+
+                                                                        P á g i n a 50 | 74
+=== p51 ===
+       Figura 10 Análisis de implementación de una plataforma de interoperabilidad
+
+
+
+
+       Fuente: Elaboración propia.
+
+       Adicionalmente, la falta de un marco claro de gobernanza de datos y la necesidad de
+actualización tecnológica en muchas entidades públicas complica la adopción de la
+interoperabilidad. No obstante, es posible avanzar en esta dirección mediante la integración
+de tecnologías modernas, la definición de roles y responsabilidades dentro de las
+instituciones y la creación de estructuras interinstitucionales de cooperación. La capacitación
+continua del personal y la implementación de medidas robustas de ciberseguridad son
+fundamentales para mitigar los riesgos asociados con la transferencia de datos y garantizar
+la protección de la información sensible.
+
+
+7.4 Diseñar estrategias para la implementación efectiva de la Plataforma de
+Interoperabilidad
+
+       La implementación de una Plataforma de Interoperabilidad efectiva en el ámbito
+gubernamental requiere un enfoque integral y sistemático que contemple tanto los aspectos
+tecnológicos como organizacionales, lo cual es fundamental para garantizar no solo la
+                                                                         P á g i n a 51 | 74
+=== p52 ===
+comunicación fluida entre los diversos sistemas, sino también la consecución de objetivos
+estratégicos alineados con la modernización del Estado. En esta línea, se deben considerar
+diversas estrategias que aborden las diferentes fases del proceso, comenzando con un análisis
+exhaustivo de los sistemas existentes y las necesidades de interoperabilidad.
+
+       En primer lugar, el análisis y la planificación inicial son pasos cruciales para
+establecer una base sólida. En este contexto, es necesario realizar un diagnóstico detallado
+de los sistemas que operan actualmente en las entidades involucradas; este análisis debe
+identificar los aspectos técnicos que permiten la integración de los sistemas, así como las
+áreas que requieren mejoras para que la interoperabilidad sea posible (Guillen, 2022).
+Además, el diagnóstico debe considerar los aspectos organizacionales, pues la
+interoperabilidad no solo implica la integración tecnológica, sino también la alineación de
+procesos y protocolos dentro de las instituciones. Por lo tanto, este análisis debe ser lo
+suficientemente exhaustivo como para identificar brechas en la infraestructura tecnológica y
+en la capacidad organizacional que puedan dificultar la implementación de la plataforma.
+
+       El siguiente paso es la definición de objetivos claros y medibles, puesto que solo con
+metas precisas se puede evaluar el progreso y los resultados de la implementación; los
+objetivos deben ser alcanzables, pero también lo suficientemente ambiciosos para
+transformar las prácticas actuales de intercambio de información y mejorar la eficiencia en
+la gestión pública. El establecimiento de indicadores clave de desempeño (KPI) es una
+herramienta efectiva para garantizar que se cumplan los objetivos establecidos, ya que
+permiten medir el impacto real de la interoperabilidad, no solo en términos de eficiencia,
+sino también en términos de calidad de los servicios ofrecidos a la ciudadanía. En este orden
+de ideas, es importante que los objetivos sean flexibles y puedan adaptarse a los cambios
+que se presenten durante el proceso, siempre y cuando se mantengan alineados con las metas
+estratégicas de modernización y digitalización del gobierno.
+
+       En esta misma línea, la adopción de estándares y protocolos comunes es otro aspecto
+fundamental para el éxito de la plataforma de interoperabilidad, es decir, la implementación
+de estándares como XML y JSON, así como protocolos de comunicación segura como
+HTTPS y SSL/TLS, no solo garantiza la compatibilidad entre los sistemas, sino que también
+asegura que la información que se intercambia sea procesada y transmitida de manera segura.
+
+                                                                       P á g i n a 52 | 74
+=== p53 ===
+La interoperabilidad no puede alcanzarse sin una base común que permita la comunicación
+fluida entre sistemas, y la adopción de estos estándares es crucial para evitar
+incompatibilidades que puedan generar retrasos o fallos en la transmisión de datos
+(Huiaquilican, 2024). Adicional a ello, todos los sistemas involucrados deben estar alineados
+con estos estándares, lo que implica una revisión y, en muchos casos, la actualización de los
+sistemas actuales para que puedan cumplir con los requisitos establecidos, lo cual debe ser
+cuidadosamente gestionado para evitar interrupciones en los servicios mientras se
+implementa la interoperabilidad.
+
+       En cuanto a la infraestructura tecnológica, su diseño debe ser robusto, escalable y
+capaz de soportar la carga de trabajo que implicará el intercambio continuo de datos entre
+diferentes entidades. La infraestructura debe incluir servidores centralizados que garanticen
+la disponibilidad de la plataforma en todo momento, y los sistemas de seguridad deben estar
+integrados en todas las capas tecnológicas para proteger tanto los datos transmitidos como
+los almacenados, lo cual es particularmente relevante en el contexto de la administración
+pública, donde el manejo de información sensible y datos personales es constante. La
+infraestructura no solo debe ser capaz de manejar el volumen actual de datos, sino también
+de escalar conforme crezcan las demandas del sistema. En este orden de ideas, se debe
+considerar la utilización de tecnologías de almacenamiento en la nube, que proporcionan una
+flexibilidad adicional y reducen la necesidad de inversiones en infraestructura física costosa.
+De esta forma, la plataforma puede crecer de manera más eficiente y con menores costos
+operativos a largo plazo.
+
+       Por consiguiente, la capacitación y el soporte técnico son elementos esenciales para
+garantizar la continuidad de la plataforma y su correcto funcionamiento. El personal técnico
+y administrativo debe ser capacitado no solo en el uso de la plataforma, sino también en la
+gestión de los nuevos procesos que la interoperabilidad impone. La formación continua es
+crucial para asegurar que los empleados puedan adaptarse rápidamente a las nuevas
+herramientas y tecnologías. De igual manera, es necesario contar con un equipo de soporte
+técnico altamente especializado que pueda resolver cualquier incidencia de manera rápida y
+eficiente. Este equipo debe estar disponible las 24 horas del día, dado que la plataforma
+estará operando constantemente y cualquier interrupción podría generar graves
+consecuencias en los servicios públicos. Asegurar una respuesta oportuna ante problemas
+                                                                         P á g i n a 53 | 74
+=== p54 ===
+técnicos es un componente fundamental de la estrategia de implementación, ya que reduce
+el riesgo de fallos operativos y mejora la confianza de los usuarios en el sistema.
+
+       En paralelo a los aspectos técnicos, otro componente fundamental de la
+implementación de la Plataforma de Interoperabilidad es la gestión de la seguridad y
+privacidad de los datos. Dado que la interoperabilidad implica el intercambio de información
+entre múltiples entidades, es imperativo que se implementen estrictas medidas de seguridad
+cibernética para proteger tanto los datos en tránsito como los almacenados en los servidores.
+El uso de protocolos de seguridad como SSL/TLS, junto con la implementación de técnicas
+de cifrado avanzado, permitirá garantizar que la información no sea vulnerada durante el
+proceso de transmisión. Además, es necesario cumplir con las normativas de protección de
+datos personales, como la Ley 1581 de 2012, que establece directrices claras sobre cómo
+deben ser tratados los datos personales en el contexto de la administración pública (Función
+Pública, 2012). La gestión de la privacidad debe ser rigurosa, puesto que la protección de la
+información es un aspecto fundamental en la construcción de confianza por parte de la
+ciudadanía en el gobierno digital.
+
+       En este sentido, el cumplimiento de los principios establecidos en la Agenda Digital
+para América Latina y el Caribe (eLAC) y otros tratados internacionales sobre
+interoperabilidad es esencial. Estos acuerdos proporcionan una visión global de cómo deben
+interoperar los sistemas de información entre los gobiernos y las organizaciones
+internacionales (CEPAL, 2024). La implementación de estándares internacionales en la
+interoperabilidad es crucial para facilitar el intercambio de datos con otros países y
+organizaciones internacionales, permitiendo la cooperación transnacional en áreas clave
+como la seguridad pública, la salud, la educación y el desarrollo económico.
+
+       Un aspecto esencial de la interoperabilidad en el contexto gubernamental es el
+cumplimiento de la normativa de accesibilidad. La legislación relacionada con la
+accesibilidad, como la Ley 1618 de 2013 en Colombia, establece principios que garantizan
+el acceso de las personas con discapacidades a los servicios públicos (Función Pública,
+2013). Por lo anterior, la plataforma de interoperabilidad debe ser diseñada de manera que
+cumpla con los estándares de accesibilidad digital, permitiendo que cualquier ciudadano,
+
+
+
+                                                                        P á g i n a 54 | 74
+=== p55 ===
+independientemente de su condición física, pueda acceder a los servicios e información
+proporcionados a través de la plataforma.
+
+       De igual forma, el marco normativo debe abordar la transparencia y la rendición de
+cuentas, principios fundamentales de la administración pública. En este sentido, la Ley 1712
+de 2014, que regula el derecho de acceso a la información pública en Colombia, establece
+que los ciudadanos tienen derecho a acceder a la información que se genera en las entidades
+públicas, siempre y cuando no se trate de información clasificada por razones de seguridad
+(Función Pública, 2014). La interoperabilidad, al facilitar el intercambio de datos entre
+instituciones, debe ser un mecanismo que no solo garantice la eficiencia, sino también la
+transparencia en la gestión pública. Por tanto, las plataformas de interoperabilidad deben
+estar diseñadas para permitir el acceso a la información pública de manera abierta y
+accesible, siempre y cuando no comprometa la seguridad o la privacidad de los datos
+personales.
+
+       En este sentido, la gestión del cambio organizacional es otra estrategia que no debe
+ser descuidada. La interoperabilidad no solo implica un cambio en la tecnología, sino
+también en los procesos y en la cultura organizacional. En consecuencia, el desarrollo de un
+plan de gestión del cambio debe ser parte integral de la estrategia de implementación
+(Comando General Fuerzas Militares de Colombia, 2024). Este plan debe abordar tanto los
+desafíos culturales como los técnicos, para garantizar que los empleados de las entidades
+involucradas comprendan los beneficios de la interoperabilidad y acepten la transición hacia
+nuevas formas de trabajo. La resistencia al cambio es común en procesos de este tipo, por lo
+cual se deben diseñar estrategias de comunicación efectivas que resalten las ventajas de la
+interoperabilidad, tanto en términos de eficiencia administrativa como en la mejora de los
+servicios públicos. La creación de comités de gestión del cambio, compuestos por
+representantes de todas las partes involucradas, permitirá coordinar los esfuerzos de
+sensibilización y formación dentro de las instituciones, lo que facilitará la adopción de la
+nueva plataforma.
+
+
+
+
+                                                                      P á g i n a 55 | 74
+=== p56 ===
+       Figura 11 Estrategias para la implementación de la plataforma de Interoperabilidad
+
+
+
+
+       Fuente: Elaboración propia.
+
+       Asimismo, la coordinación interinstitucional es clave para el éxito de la
+implementación de la plataforma, lo que implica la creación de comités o grupos de trabajo
+interinstitucionales que permitan la colaboración entre las diferentes entidades
+gubernamentales y privadas involucradas en el proceso. Fomentar la colaboración y el
+intercambio de mejores prácticas entre las instituciones facilitará la resolución de problemas
+comunes y permitirá que las soluciones desarrolladas se adapten a las necesidades
+específicas de cada entidad. La interoperabilidad no es una tarea aislada, sino un esfuerzo
+colectivo que requiere la cooperación de todos los actores clave. A través de la creación de
+un marco de gobernanza sólido, se pueden establecer responsabilidades claras, mecanismos
+de rendición de cuentas y procesos de toma de decisiones transparentes que favorezcan el
+buen desarrollo de la plataforma.
+
+
+
+
+                                                                        P á g i n a 56 | 74
+=== p57 ===
+       Figura 12 Implementación de una plataforma de Interoperabilidad
+
+
+
+
+       Fuente: Elaboración propia.
+
+       Por último, es fundamental establecer mecanismos de monitoreo y evaluación
+continua que permitan verificar el rendimiento y la efectividad de la plataforma a lo largo
+del tiempo. Este proceso debe incluir la medición de indicadores clave de desempeño (KPI),
+tales como la velocidad de intercambio de información, la reducción de errores en la
+transmisión de datos y la mejora en la calidad de los servicios ofrecidos. De esta manera, se
+pueden identificar oportunidades de mejora y ajustar las estrategias de implementación
+según sea necesario. La evaluación periódica también debe incluir la retroalimentación de
+los usuarios de la plataforma, tanto internos como externos, para asegurarse de que se
+cumplan las expectativas y se resuelvan posibles problemas a medida que surjan.
+
+       Con la implementación efectiva de estas estrategias, se garantizará que la Plataforma
+de Interoperabilidad cumpla con su objetivo de mejorar la eficiencia administrativa,
+optimizar los servicios públicos y fortalecer la colaboración interinstitucional,
+contribuyendo de manera significativa a la modernización del Estado.
+
+
+
+
+                                                                       P á g i n a 57 | 74
+=== p58 ===
+                                 8. Propuesta de la solución
+
+
+         Este trabajo se propone una solución que permita mejorar la eficiencia y la calidad
+de los servicios que se ofrecen a los ciudadanos, donde no solo se busca modernizar la
+infraestructura tecnológica, sino también transformar la manera en que los ciudadanos
+interactúan con el gobierno.
+
+         A continuación, se presenta un paso a paso de las etapas que se deben cumplir,
+desde la selección de la plataforma en la nube hasta la planificación de su implementación y
+puesta en marcha. Este proceso nos permitirá entender mejor cómo cada decisión contribuye
+al objetivo final de optimizar los servicios ciudadanos y construir un gobierno más cercano
+y   eficiente   (ver   Figura   13   Fases   para   implementación    de   Plataforma       de
+InteroperabilidadFigura 13).
+
+       Figura 13 Fases para implementación de Plataforma de Interoperabilidad
+
+
+
+
+       Fuente: Elaboración propia.
+
+
+                                                                      P á g i n a 58 | 74
+=== p59 ===
+8.1 Evaluación de alternativas
+
+       La fase inicial de este estudio establece un marco metodológico para la toma de
+decisiones, con el objetivo de seleccionar la opción más viable en función de criterios
+multifactoriales. Este proceso se fundamenta en la definición de indicadores clave, los cuales
+se consideran esenciales para garantizar que la solución adoptada responda eficazmente a las
+necesidades de la organización. Los indicadores seleccionados, a saber, compatibilidad
+técnica, costos de implementación, escalabilidad, seguridad y usabilidad, se han elegido por
+su impacto directo en la viabilidad y el éxito de la solución propuesta, abordando cada uno
+de ellos aspectos fundamentales de la interoperabilidad.
+
+   •   La compatibilidad técnica se evalúa en términos de la facilidad de integración de la
+       nueva solución con la infraestructura tecnológica preexistente, asegurando la
+       mitigación de conflictos con sistemas operativos y minimizando la necesidad de
+       reconfiguraciones costosas.
+
+   •   Los costos de implementación se analizan desde una perspectiva integral,
+       considerando tanto los recursos iniciales requeridos como los gastos operativos a
+       largo plazo, con el fin de evaluar su impacto en el presupuesto organizacional.
+
+   •   La escalabilidad se define como la capacidad de la solución para adaptarse a
+       incrementos futuros en el número de usuarios y la demanda de servicios, asegurando
+       su sostenibilidad a largo plazo.
+
+   •   La seguridad se considera un criterio crítico, dada la naturaleza sensible de la
+       información a ser manejada en la plataforma, requiriendo la implementación de
+       medidas robustas de protección contra amenazas internas y externas.
+
+   •   La usabilidad se evalúa en función de la capacidad de la solución para facilitar su
+       adopción por parte de los usuarios finales, asegurando la eficiencia en el uso de la
+       plataforma mediante una interfaz intuitiva y accesible.
+
+       El proceso de toma de decisiones se lleva a cabo mediante la evaluación sistemática
+de las alternativas disponibles, utilizando indicadores previamente definidos como criterios
+de comparación. Para ello, se diseña un sistema de puntuación que permite medir el
+desempeño de cada alternativa en relación con estos indicadores.
+
+                                                                        P á g i n a 59 | 74
+=== p60 ===
+       Cada alternativa es analizada con base en su capacidad para satisfacer los
+requerimientos establecidos, y se le asigna un puntaje en una escala del 1 al 4. En esta escala,
+una calificación de 4 corresponde a la opción más favorable, es decir, aquella que mejor
+cumple con los criterios evaluados. Un puntaje de 3 indica que la alternativa es aceptable,
+aunque con algunas limitaciones menores. Un valor de 2 representa una opción con
+restricciones significativas que pueden afectar su viabilidad, mientras que un puntaje de 1
+señala que la alternativa es la menos adecuada dentro del conjunto evaluado.
+
+       Este sistema de puntuación permite realizar una comparación objetiva y cuantificable
+entre las distintas opciones, facilitando la selección de la solución más apropiada para las
+necesidades de la organización. Tras el análisis de los resultados obtenidos, se determina que
+la arquitectura en la nube representa la solución óptima, principalmente debido a su
+capacidad para proporcionar un elevado nivel de seguridad. Este aspecto se considera
+fundamental para la protección de información sensible. El enfoque de arquitectura en la
+nube posibilita la segmentación y gestión diferenciada de datos, permitiendo el resguardo de
+información no confidencial en servicios de nube, mientras que los datos críticos
+permanecen protegidos mediante la implementación de protocolos de seguridad rigurosos y
+configuraciones de seguridad avanzadas, aprovechando las capacidades de seguridad
+inherentes a las infraestructuras de nube.
+
+       A continuación, se presenta la matriz de decisiones, donde se detallan los puntajes
+asignados a cada alternativa en función de los criterios evaluados:
+
+       Tabla 1 Matriz de decisiones
+
+                 Criterios               Solución     Solución           Plataforma
+                                        Centralizada Distribuida         en la Nube
+       Compatibilidad Técnica                 4           3                    2
+       Costos de Implementación               2           3                    4
+       Escalabilidad                          2           4                    4
+       Seguridad                              4           3                    4
+       Usabilidad                             3           3                    4
+       Puntaje Total                         15          16                   18
+       Fuente: Elaboración propia.
+
+
+
+
+                                                                         P á g i n a 60 | 74
+=== p61 ===
+       Una vez evaluadas las alternativas y obtenidos los puntajes correspondientes, se
+observa que la plataforma en la nube obtuvo el puntaje total más alto (18), seguida por la
+solución distribuida (16) y la solución centralizada (15). Esto demuestra que, en términos de
+costos, escalabilidad, seguridad y usabilidad, la plataforma en la nube es la opción más
+adecuada para cumplir con los objetivos del proyecto de interoperabilidad.
+
+       Las alternativas evaluadas son la solución centralizada, la solución distribuida y la
+plataforma en la nube. Cada una de estas opciones presenta características y ventajas
+particulares, lo que justifica la necesidad de un análisis comparativo exhaustivo. La solución
+centralizada, al ser la opción más tradicional, es fácil de implementar en términos de
+integración con los sistemas existentes, lo que le otorga una alta puntuación en
+compatibilidad técnica. Sin embargo, sus costos son más elevados debido a la necesidad de
+adquirir infraestructura y personal especializado para su operación y mantenimiento, lo que
+limita su viabilidad económica a largo plazo. La solución distribuida, por otro lado, ofrece
+una mayor escalabilidad y flexibilidad, lo que le permite adaptarse mejor a futuros
+crecimientos.
+
+       No obstante, presenta desafíos en términos de seguridad debido a su naturaleza
+descentralizada, lo que requiere mecanismos adicionales para garantizar la protección de los
+datos. La plataforma en la nube, finalmente, destaca por sus bajos costos de implementación
+y su alta escalabilidad, su modelo de servicios bajo demanda hace que sea altamente eficiente
+en términos de costos, ya que no requiere una inversión inicial significativa en
+infraestructura. Además, la nube ofrece una gran flexibilidad y es ideal para entornos en los
+que se prevé un crecimiento constante en la demanda de servicios. En cuanto a la seguridad,
+las plataformas en la nube suelen contar con robustos mecanismos de protección de datos,
+aunque la dependencia de un proveedor externo puede generar cierta incertidumbre en
+cuanto al control total de la información, sin embargo, en la actualidad se ha demostrado en
+diferentes sectores económicos que los sistemas de seguridad y ciberseguridad han
+evolucionado de manera satisfactoria y cada día son más las empresas que se inclinan en el
+uso de estas tecnologías.
+
+       La comparación entre estas alternativas se lleva a cabo utilizando la matriz de
+decisiones, en la que se asigna puntajes para cada uno de los criterios. A partir de esta
+
+                                                                        P á g i n a 61 | 74
+=== p62 ===
+evaluación, se observa que la plataforma en la nube fue la opción con mayor puntaje total,
+destacándose en costos, escalabilidad, seguridad y usabilidad. Por su parte, la solución
+distribuida obtuvo un puntaje intermedio, destacándose en escalabilidad, pero con ciertos
+puntos débiles en seguridad. La solución centralizada, aunque adecuada en términos de
+compatibilidad técnica y seguridad, presenta desventajas significativas en cuanto a los costos
+de implementación y la escalabilidad. Así, el análisis de las alternativas revela que la
+plataforma en la nube es la solución más adecuada para lograr la interoperabilidad deseada,
+debido a su eficiencia en costos, su capacidad para adaptarse a futuras necesidades y su
+seguridad robusta.
+
+       Con base a lo anterior, tras realizar el análisis comparativo y tener en cuenta los
+puntajes obtenidos, se selecciona la plataforma en la nube como la solución más viable para
+optimizar los servicios ciudadanos en la organización gubernamental, dicha elección se
+justifica no solo por su desempeño superior en los criterios evaluados, sino también por su
+capacidad para adaptarse a las demandas futuras de la organización sin requerir grandes
+inversiones iniciales ni comprometer la calidad de los servicios. De esta manera, se asegura
+la implementación de una solución eficiente, escalable y segura, que permitirá a la
+organización optimizar sus procesos y brindar mejores servicios a los ciudadanos.
+
+
+8.2 Diseño Preliminar
+
+       En cuanto al diseño preliminar, se parte de la premisa de que la plataforma en la nube
+es la alternativa con mayor puntaje en la evaluación anterior, por lo que se le dedica una
+mayor atención en esta fase. Para llevar a cabo su implementación, se estima que los recursos
+necesarios incluyen la contratación de un proveedor de servicios en la nube con capacidad
+para ofrecer escalabilidad y seguridad, además de la infraestructura mínima que permita el
+funcionamiento de la solución. Se proyecta que el plazo de implementación de la plataforma
+en la nube sería de aproximadamente seis a nueve meses, contemplando las etapas de
+planificación, adquisición de servicios, pruebas de integración y puesta en marcha. En
+términos de costos, se estima que los gastos iniciales serán relativamente bajos, dado que la
+infraestructura será proporcionada por el proveedor de la nube, reduciendo la necesidad de
+inversión en hardware. No obstante, es importante considerar los costos recurrentes
+
+
+                                                                        P á g i n a 62 | 74
+=== p63 ===
+asociados a los servicios de nube, que deben ser evaluados de acuerdo con el uso estimado
+de los servicios.
+
+
+8.3 Diseño Conceptual
+
+       En el diseño conceptual de la solución seleccionada, se aborda la plataforma en la
+nube desde diversas dimensiones. En primer lugar, desde una perspectiva funcional, la
+plataforma tiene como función central ofrecer un entorno digital que facilite la integración
+de los servicios ciudadanos ofrecidos por la organización gubernamental, permitiendo un
+acceso más eficiente, rápido y seguro a los ciudadanos. La plataforma debe ser capaz de
+gestionar distintos servicios de forma simultánea, como consultas, pagos, solicitudes y
+trámites administrativos, a través de una única interfaz.
+
+       Desde un punto de vista morfológico, la solución se visualiza a través de una interfaz
+de usuario intuitiva y amigable, accesible desde dispositivos móviles y computadoras. Esta
+interfaz debe ser adaptable a diferentes dispositivos y tamaños de pantalla, lo que garantiza
+su accesibilidad y usabilidad. En términos estructurales, la solución está compuesta por
+componentes tales como servidores en la nube, bases de datos, sistemas de autenticación y
+seguridad, y la interfaz de usuario que conecta a los ciudadanos con los servicios. La
+plataforma también debe contar con herramientas de análisis de datos para evaluar el
+desempeño de los servicios y realizar mejoras continuas.
+
+       Desde la perspectiva de funcionamiento, la plataforma operará bajo un modelo
+basado en la nube, donde los usuarios podrán acceder a los servicios en tiempo real,
+gestionados de forma centralizada, pero distribuidos a través de servicios de nube, lo que
+permite una operación continua sin interrupciones. Tecnológicamente, la solución empleará
+tecnologías como la computación en la nube, bases de datos distribuidas, sistemas de
+autenticación multifactor, protocolos de seguridad avanzados y herramientas de análisis de
+datos en tiempo real.
+
+       En cuanto a la dimensión económica, se prevé que los costos iniciales de
+implementación sean relativamente bajos en comparación con las soluciones tradicionales,
+debido a la ausencia de infraestructura física propia. No obstante, los costos recurrentes
+estarán determinados por el uso de los servicios de nube, lo que debe ser considerado en el
+
+                                                                       P á g i n a 63 | 74
+=== p64 ===
+presupuesto a largo plazo. En términos comparativos, la plataforma en la nube presenta
+ventajas sobre las soluciones tradicionales debido a su escalabilidad, accesibilidad y
+reducción de costos en infraestructura, lo que la convierte en una opción competitiva frente
+a otras alternativas en el mercado.
+
+       En el aspecto relacional, la plataforma en la nube debe integrarse sin problemas con
+otros sistemas gubernamentales existentes, como registros de bases de datos de ciudadanos,
+sistemas de pago y bases de datos de trámites, lo cual garantiza que todos los servicios estén
+conectados de manera eficiente, brindando una experiencia unificada a los ciudadanos. En
+el contexto contextual, se considera que la implementación exitosa de la plataforma en la
+nube depende de contar con una infraestructura de telecomunicaciones adecuada, así como
+con la capacitación del personal que gestionará y operará la plataforma, y la colaboración
+con un proveedor de servicios en la nube confiable.
+
+
+8.4 Diseño Detallado
+
+       El diseño detallado implica profundizar en cada uno de los aspectos previamente
+descritos para garantizar que la solución funcione correctamente a lo largo del tiempo. En
+términos morfológicos, se detallan los elementos que componen la interfaz, las pantallas de
+usuario, la disposición de los elementos gráficos y las interacciones que permitirán a los
+ciudadanos acceder fácilmente a los servicios. En el ámbito funcional, se especifica que la
+plataforma deberá contar con un sistema de autenticación único (login único), lo que
+permitirá a los ciudadanos acceder de forma rápida y segura a todos los servicios, sin
+necesidad de múltiples credenciales.
+
+       Estructuralmente, se requiere que los componentes de la plataforma estén
+organizados de manera que la carga del servidor y el acceso a los datos se distribuyan
+eficazmente, evitando cuellos de botella. En términos de funcionamiento, se detallan los
+procesos que la plataforma debe seguir para realizar cada servicio, desde la solicitud hasta
+la resolución, pasando por validaciones de seguridad y pagos, en caso de ser necesario. El
+aspecto tecnológico se orienta hacia el uso de las últimas tecnologías de la nube, como la
+computación en la nube, API para la integración de servicios, y protocolos de seguridad
+como SSL y autenticación multifactor. A nivel económico, el diseño detallado también debe
+
+
+                                                                        P á g i n a 64 | 74
+=== p65 ===
+considerar el monitoreo de los costos operativos a través de una plataforma de gestión de
+servicios en la nube que permita optimizar los recursos según la demanda.
+
+       Comparativamente, se analiza la plataforma frente a otras soluciones disponibles,
+destacando sus ventajas de escalabilidad, bajos costos de implementación y mantenimiento,
+y flexibilidad frente a un contexto cambiante. Relacionalmente, se definen las interfaces
+necesarias para que la plataforma se comunique eficazmente con otros sistemas
+gubernamentales, como registros civiles y bases de datos de servicios de salud, garantizando
+que la interoperabilidad sea efectiva. Finalmente, desde el punto de vista contextual, el
+diseño detalla las condiciones necesarias para la implementación exitosa de la solución,
+como la capacitación de los funcionarios públicos en el uso de la plataforma y la
+disponibilidad de infraestructura tecnológica adecuada.
+
+
+
+
+                                                                      P á g i n a 65 | 74
+=== p66 ===
+                             9. Conclusiones y Recomendaciones
+
+       La investigación realizada consistió en un proceso integral cuyo objetivo general ha
+sido el desarrollo de una propuesta de interoperabilidad para optimizar los servicios
+ciudadanos en una organización gubernamental en Colombia. Durante todo el proceso, se ha
+trabajado con un enfoque riguroso y metodológico que abarcó desde el análisis inicial de la
+situación actual hasta la implementación de una propuesta sólida que responde a las
+necesidades identificadas. En este sentido, se puede afirmar que el objetivo general de la
+tesis ha sido cumplido de manera satisfactoria. A través de los diversos análisis y las
+herramientas utilizadas, se ha logrado diseñar una solución tecnológica viable y adaptada a
+las realidades del sector público en Colombia.
+
+       El enfoque adoptado en la investigación se basó en la integración de los diferentes
+servicios y trámites ciudadanos mediante una plataforma de interoperabilidad que utiliza
+tecnologías avanzadas, como la nube, para optimizar el acceso, la seguridad y la eficiencia
+operativa. El diseño propuesto tiene la capacidad de centralizar los servicios públicos, lo que
+permitirá a los ciudadanos acceder a diversos trámites desde una sola plataforma, mejorando
+su experiencia, reduciendo el tiempo de espera y simplificando la gestión de los mismos. A
+través de este enfoque, se cumple con uno de los objetivos más importantes: facilitar la
+interacción del ciudadano con las entidades gubernamentales, eliminando barreras de acceso
+y promoviendo una administración más transparente y eficiente.
+
+       El proceso de desarrollo de la propuesta se centró en un análisis de las alternativas
+disponibles en el ámbito de la interoperabilidad, así como en una correcta identificación de
+los recursos necesarios, tanto humanos como tecnológicos, para implementar la solución
+propuesta. A través de esta metodología, se pudo analizar en detalle las ventajas y
+desventajas de las alternativas, garantizando que la propuesta final no solo fuera
+técnicamente viable, sino también económicamente factible dentro del marco de las
+condiciones del país. De este modo, se logró elaborar una propuesta que responde tanto a las
+necesidades de modernización del sector público colombiano como a los requisitos de
+sostenibilidad financiera a largo plazo.
+
+       Un aspecto clave en el desarrollo de la propuesta fue el trabajo de análisis de
+factibilidad, que consistió en la realización de la evaluación preliminar de los recursos
+
+                                                                         P á g i n a 66 | 74
+=== p67 ===
+necesarios y los plazos para llevar a cabo la implementación. A pesar de que la propuesta
+presenta un alto potencial de optimización de los servicios, la investigación también ha
+identificado las barreras que podrían obstaculizar su implementación total. En primer lugar,
+la disponibilidad de infraestructura tecnológica en algunas zonas del país podría ser un
+desafío, así como la necesidad de capacitación del personal administrativo y la adecuación
+de los sistemas existentes para que se integren con la nueva plataforma propuesta. No
+obstante, estas barreras no invalidan la viabilidad del proyecto, sino que representan desafíos
+que deben ser abordados cuidadosamente para asegurar su éxito.
+
+       A lo largo de la investigación, se destacó que uno de los puntos más importantes en
+la propuesta es la escalabilidad de la solución. La solución propuesta no es estática; está
+pensada para evolucionar de acuerdo con los avances tecnológicos y las demandas
+cambiantes de los ciudadanos. Esto implica que, aunque la propuesta se encuentra diseñada
+en el contexto de las necesidades actuales, también se anticipa que pueda ser mejorada en el
+futuro para mantenerse alineada con los avances en el ámbito de las tecnologías de la
+información y la comunicación.
+
+       Es importante destacar que, aunque la propuesta presentada tiene un alto nivel de
+factibilidad, su implementación exitosa depende de varios factores interrelacionados. El
+primero de ellos es la disposición de las autoridades gubernamentales para adoptar nuevas
+tecnologías y modificar los procesos administrativos existentes, lo cual implica un
+compromiso con la modernización y la digitalización. Además, será fundamental que las
+organizaciones involucradas cuenten con los recursos adecuados, tanto financieros como
+humanos, para llevar a cabo la implementación de la solución. Asimismo, la capacitación
+constante del personal y la cooperación interinstitucional serán esenciales para asegurar la
+correcta operación de la plataforma.
+
+       Por otro lado, también ha abordado la importancia de la sostenibilidad de la solución
+propuesta. Si bien la plataforma requiere una inversión inicial significativa, los beneficios a
+largo plazo, como la reducción de los costos operativos, la mejora en la calidad del servicio
+y la optimización de los recursos, justifican ampliamente los costos. Los ahorros operativos
+que se generarán como resultado de la automatización y la centralización de los servicios
+son un incentivo clave para la adopción de esta propuesta. En este sentido, se ha logrado
+
+                                                                         P á g i n a 67 | 74
+=== p68 ===
+diseñar una solución que no solo es técnicamente avanzada, sino también financieramente
+viable.
+
+          En cuanto a las consecuencias de la implementación de esta solución, se espera que
+tenga un impacto significativo en la mejora de la calidad de los servicios públicos en
+Colombia. La optimización de los trámites y servicios permitirá que los ciudadanos tengan
+una experiencia más ágil y menos burocrática, lo cual fortalecerá la confianza en las
+instituciones gubernamentales. Además, la implementación de esta solución también
+contribuirá a la mejora de la transparencia y la eficiencia administrativa, lo cual es un paso
+crucial hacia la modernización del sector público colombiano. A largo plazo, se espera que
+este tipo de iniciativas inspire a otras organizaciones gubernamentales a adoptar tecnologías
+similares, generando una transformación en el sistema administrativo del país.
+
+          No obstante, la implementación de la propuesta no está exenta de desafíos. Aunque
+se ha demostrado que la solución es viable y prometedora, la implementación total del
+proyecto dependerá de la capacidad del gobierno para superar las barreras tecnológicas y
+organizativas. En caso de que no se logre una implementación inmediata en toda la nación,
+se recomienda iniciar con un proyecto piloto en una o dos entidades gubernamentales, con
+el fin de evaluar el funcionamiento de la plataforma y hacer los ajustes necesarios antes de
+su despliegue a gran escala. De esta manera, se podrá garantizar que la solución se adapta
+correctamente a las necesidades de los ciudadanos y las instituciones.
+
+
+
+
+                                                                         P á g i n a 68 | 74
+=== p69 ===
+                                          Referencias
+
+Arboleda, R. (2024). Interoperabilidad para la simplificación administrativa en una
+       municipalidad         distrital,       Lambayeque.         Repositorio        Digital:
+       https://repositorio.ucv.edu.pe/handle/20.500.12692/135105
+
+Ariño, C. (2023). La interoperabilidad de la información en el sistema. Revista Sanitaria de
+       Investigación,                               2(1),                                2-10.
+       https://doi.org/https://revistasanitariadeinvestigacion.com/la-interoperabilidad-de-
+       la-informacion-en-el-sistema-nacional-de-salud/
+
+Bayona, S. (2023). Interoperabilidad para el Gobierno Electrónico: Barreras. Repositorio
+       Institucional: https://repositorio.autonoma.edu.pe/handle/20.500.13067/2943
+
+Bismart. (2023). Interoperabilidad: Framework. [Imagen]. Blog de Bismart. Recuperado el
+       [15 de noviembre de 2024] de https://blog.bismart.com/interoperabilidad-framework
+
+Bravo, C. (2021). El gobierno digital y su implementación en el estado. Revista
+       Multidisciplinar,                                5(6),                            2-10.
+       https://doi.org/https://ciencialatina.org/index.php/cienciala/article/view/1356
+
+Carbajal, E. (2021). Análisis de la interoperabilidad del gobierno digital como herramienta
+       política para mejorar la calidad informativa a los usuarios de la UGEL 05 de San
+       Juan.       Universidad        Nacional          Mayor     de      San        Marcos:
+       https://cybertesis.unmsm.edu.pe/backend/api/core/bitstreams/6e1035b2-71a1-4c0d-
+       8b7d-1e3ff2e81d6c/content
+
+Castillo, J. (2024). Propuesta de Implementación del Framework NIST CSF 1.1 para una
+       entidad             gubernamental.                Repositorio            Institucional:
+       https://repositorioacademico.upc.edu.pe/handle/10757/673148
+
+CEPAL. (2024). Agenda Digital Para America Latina y el Caribe. CEPAL:
+       https://www.cepal.org/es/agenda-digital-america-latina-caribe-elac2022/agenda-
+       digital-2024
+
+Comando General Fuerzas Militares de Colombia. (2024). POLÍTICA CONJUNTA DE
+       INTEGRIDAD Y TRANSPARENCIA PARA LAS FUERZAS MILITARES. Comando
+
+                                                                       P á g i n a 69 | 74
+=== p70 ===
+       General Fuerzas Militares de Colombia: https://www.cgfm.mil.co/es/politica-
+       conjunta-de-integridad-y-transparencia-para-las-ffmm
+
+Cortes, J. (2023). Modelo de Seguridad basado en Blockchain para la Interoperabilidad de
+       Datos Clínicos entre Sistemas de Información de IPS en Colombia. Repositorio
+       Institucional: https://repositorio.itm.edu.co/handle/20.500.12622/5904
+
+Defensoria del Pueblo. (2014). Ley 1712 de 2014. Defensoria del Pueblo:
+       https://www.defensoria.gov.co/documents/20123/1259041/LEY_1712_2014.pdf/50
+       004b28-2e79-31b9-fbac-
+       84805d73c757?t=1651016031550#:~:text=Datos%20Abiertos.%20Son%20todos%
+       20aquellos%20datos%20primarios%20o,reutilizarlos%20y%20crear%20servicios
+       %20derivados%20de%
+
+DPN.      (2023).   Plan     Nacional           de    Desarrollo      (PND)    2018-2022.       DPN:
+       https://www.dnp.gov.co/plan-nacional-desarrollo/Paginas/plan-nacional-de-
+       desarrollo-2018-2022.aspx
+
+Estrada, A. (2020). Ideas iniciales del esquema nacional de interoperabilidad para el
+       Gobierno     electrónico      en    Cuba.      Revista    de    Investigación,   1(2),   1-10.
+       https://doi.org/https://rctd.uic.cu/rctd/article/view/76
+
+Función      Pública.      (2009).        Ley        1341   de        2009.    Función      Pública:
+       https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=36913
+
+Función      Pública.      (2011).        Ley        1437   de        2011.    Función      Pública:
+       https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41249
+
+Función      Pública.      (2012).        Ley        1581   de        2012.    Función      Pública:
+       https://www1.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981
+
+Función      Pública.      (2013).        Ley        1618   de        2013.    Función      Pública:
+       https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=52081
+
+Función      Pública.      (2014).        Ley        1712   de        2014.    Función      Pública:
+       https://www1.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=56882
+
+
+                                                                               P á g i n a 70 | 74
+=== p71 ===
+Función      Pública.   (2015).   Decreto     1078      de     2015.     Función     Pública:
+       https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=77888
+
+Función Pública. (2015). Decreto 1078 de 2015 Sector de Tecnologías de la Información y
+       las                Comunicaciones.                    Función                 Pública:
+       https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=77888
+
+Función      Pública.   (2019).   Decreto     2106      de     2019.     Función     Pública:
+       https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=103352
+
+Galindo, S. (2024). Interoperabilidad en la Era Digital: Desafíos y Soluciones en Seguridad
+       de Datos. SOAINT: https://soaint.com/blog/interoperabilidad-en-la-era-digital-
+       desafios-y-soluciones-en-seguridad-de-datos/
+
+Garrido, H. (2024). Hacia un Estado Digital: la importancia de la interoperabilidad en la
+       modernización       gubernamental.       Revista       InveCom,       5(1),     4-13.
+       https://doi.org/https://revistainvecom.org/index.php/invecom/article/view/3309
+
+Guillen, E. (2022). Interoperabilidad institucional y atención documentaria al ciudadano
+       en los funcionarios de una institución ministerial. Repositorio Institucional:
+       https://repositorio.ucv.edu.pe/handle/20.500.12692/77623
+
+Hernandez, A. (2023). ISO 9001:2015 Sistema de la Gestión de la Calidad. Eco -
+       Consulting: https://eco-consulting.com/iso-90012015-sistema-de-la-gestion-de-la-
+       calidad/#:~:text=ISO%20%28Organizaci%C3%B3n%20Internacional%20de%20E
+       standarizaci%C3%B3n%29%20es%20una%20entidad,una%20actualizaci%C3%B
+       3n%20en%20la%20que%20intervinieron%2093%20pa%C3%ADses
+
+Huiaquilican, C. (2024). Interoperabilidad en el sector público. Biblioteca Digital:
+       http://rid.unrn.edu.ar:8080/handle/20.500.12049/11852
+
+Jimenez, C. (2015). Elementos relevantes en la transposición e implantación de los marcos
+       nacionales de interoperabilidad (Key Elements in the Implementation of E-
+       Government National Interoperability Frameworks). Revista de Administración
+       Pública,                                 2(1),                                  2-10.
+       https://doi.org/https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2311879
+
+                                                                       P á g i n a 71 | 74
+=== p72 ===
+Lizcano et al. (2024). Guía de Calidad e Interoperabilidad de Datos Abiertos. Ministerio de
+          Tecnologías       de        la    Información         y       las      Comunicaciones:
+          https://herramientas.datos.gov.co/sites/default/files/2024-
+          10/Gu%C3%ADa%20de%20calidad%20e%20interoperabilidadde%20datos%20abi
+          ertos_compressed.pdf
+
+Martinez, R. (2023). Tecnologías de la información facilitadoras para la interoperabilidad
+          de software en Gobierno Abierto: segunda parte. Repositorio Institucional:
+          https://sedici.unlp.edu.ar/handle/10915/163836
+
+Mejia, M. (2018). La interoperabilidad como solución en la eficiencia en los servicios del
+          Estado      Peruano     para     los    ciudadanos.       Repositorio       Institucional:
+          https://repositorio.usil.edu.pe/entities/publication/8f6193ca-856b-4fa2-bef7-
+          1ae31603e5ea
+
+Mendoza, J. (2023). Plataforma de Interoperabilidad para la gestión de servicios en una
+          municipalidad.                         Repositorio                          Institucional:
+          https://repositorio.ucv.edu.pe/handle/20.500.12692/135294
+
+Mercedes, L. (2023). Interoperabilidad habilitadora para la transformación digital.
+          Repositorio Digital: https://repositorio.uci.cu/handle/123456789/10709
+
+Miller, L. (2021). Todo sobre API REST: Qué es, características, usos y ventajas. Epitech:
+          https://www.epitech-it.es/api-rest/
+
+Mintic. (2019). Formación Digital - Conectarse de manera integral. Mintic:
+          https://mintic.gov.co/portal/inicio/
+
+Mintic.     (2019).     Marco    de   interoperabilidad   para      Gobierno     Digital.   Mintic:
+          https://lenguaje.mintic.gov.co/sites/default/files/archivos/marco_de_interoperabilid
+          ad_para_gobierno_digital.pdf#:~:text=Marco%20de%20Interoperabilidad%20para
+          %20gobierno%20digital%20-
+          %20Documento,a%20trav%C3%A9s%20de%20la%20Plataforma%20de%20Intero
+          perabil
+
+
+
+
+                                                                              P á g i n a 72 | 74
+=== p73 ===
+Naser, A. (2022). Gobernanza Digital e interoperabilidad Gubernamental. Repositorio
+       Digital:        https://repositorio.cepal.org/server/api/core/bitstreams/6a12e389-3dcb-
+       4cba-830a-99f038835423/content
+
+Navarro, J. (2022). El proyecto europeo de interoperabilidad de receta electrónica. Una
+       aproximación desde la experiencia del modelo español. Revista de Internet, Derecho
+       y                         Politica,                            1(36),                        2-12.
+       https://doi.org/https://www.raco.cat/index.php/IDP/article/view/n36-martinez
+
+Palacios, E. (2022). Justicia Digital e Interoperabilidad institucional, retos pospandemia.
+       Repositorio Institucional: https://repository.usta.edu.co/handle/11634/43055
+
+Ramirez, S. (2020). Clasificación de Información (Data Classification). Networks:
+       https://www.vdvnetworks.com/clasificacion-de-informacion/
+
+Rivero, V. (2015). Interoperabilidad entre organismos nacionales, provinciales y
+       municipales.                                Repositorio                              Institucional:
+       https://sedici.unlp.edu.ar/handle/10915/152834
+
+Rodriguez, U. (2022). Proceso de implementación del sistema de gestión documental para
+       la interoperabilidad de las entidades públicas del Perú. Repositorio Institucional:
+       https://repositorio.ucv.edu.pe/handle/20.500.12692/100213
+
+Suarez,    J.   (2023).      Infraestructura       y   Herramientas       tecnológicas.      Interactive:
+       https://interactive-publications.iadb.org/es/guia-de-transformacion-digital-del-
+       gobierno/infraestructura-y-herramientas-tecnologicas
+
+Suin       Juriscol.       (2020).       Decreto       620       de       2020.      Suin        Juriscol:
+       https://www.apccolombia.gov.co/sites/default/files/2022-
+       08/DECRETO%20620%20DE%202020_0.pdf#:~:text=Define%20el%20conjunto
+       %20de%20principios%2C%20recomendaciones%20y%20directrices,facilitar%20e
+       l%20intercambio%20seguro%20y%20eficiente%20de%20informaci%C3%B3
+
+Vargas, M. (2020). La interoperabilidad en el marco del Gobierno Digital. Conocimiento
+       Libre           y             Licenciamiento          (CLIC),              22(11),          15-20.
+
+
+
+                                                                                  P á g i n a 73 | 74
+=== p74 ===
+      https://doi.org/https://convite.cenditel.gob.ve/publicaciones/revistaclic/article/view/
+      1020
+
+Vasquez, M. (2021). Interoperabilidad en la gestión documentaria en el sector público.
+      Revista                  Multidisciplinar,                 5(3),                   8-10.
+      https://doi.org/https://www.ciencialatina.org/index.php/cienciala/article/view/507
+
+
+
+
+                                                                         P á g i n a 74 | 74

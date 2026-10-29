@@ -1,0 +1,107 @@
+
+=== p1 ===
+Modelo de madurez Marco de Interoperabilidad
+Versión 1.1		
+		
+		
+		
+El modelo de madurez del Marco de Interoperabilidad permite que las entidades realicen un diagnóstico interno sobre el avance en la implementación de los lineamientos de cada uno de los dominios y definan las acciones que deben ejecutar para avanzar en la adopción de los lineamientos.
+
+El modelo de madurez tiene cinco niveles para establecer el estado actual del intercambio de información en el que se encuentra cada entidad. 		
+		
+		
+		
+		
+		
+		
+		
+Nivel	Nombre	Descripción
+1	AUSENTE	La entidad no ha empezado a implementar los lineamientos del Marco de Interoperabilidad del Estado y carece de las capacidades necesarias para implementarlo.
+2	INICIAL	La entidad ha iniciado su proceso de implementación de los lineamientos del Marco de Interoperabilidad.
+3	INTERMEDIO	La entidad ha venido trabajando en la implementación de los lineamientos del Marco de Interoperabilidad en algunos de sus servicios de intercambio de información
+4	CONSOLIDADO	La entidad ha logrado que la implementación de los lineamientos del Marco de Interoperabilidad del Estado sea un tema conocido a nivel institucional sin embargo no ha logrado involucrar a todos los interesados
+5	INSTITUCIONALIZADO	La entidad ha logrado implementar de forma adecuada los lineamientos del Marco de Interoperabilidad.
+		
+Pasos		
+Paso 1: Diligenciar para cada criterio en nivel actual en el que se encuentra la entidad de acuerdo con la descripción de cada nivel en el campo nivel actual del modelo de madurez		
+		
+		
+		
+Paso 2: Justificar la evaluación de cada criterio en el campo respectivo del modelo de madurez mediante actas, documentos, encuestas, correos, reportes y en general cualquier tipo de evidencia que permita validar el nivel en el que se encuentra la entidad.		
+		
+		
+		
+Paso 3: Definir los pasos a seguir que se deben ejecutar para cada criterio en el campo respectivo de la hoja Modelo de Madurez		
+		
+		
+		
+Paso 4: Definir las acciones en la hoja acciones a ejecutar que se deben realizar para cada dominio de acuerdo con los pasos a seguir definidos. Definir el responsable y el plazo que se tiene para ejecutar cada acción.		
+		
+		
+		
+
+
+
+
+
+
+=== p2 ===
+Dominio	Resultado	Lineamiento	Criterio	Nivel 1	Nivel 2	Nivel 3	Nivel 4	Nivel 5	Nivel actual	Justificación de la evaluación	Pasos a seguir
+	0										
+Dominio Organizacional	0	LI.IOP.OG.04	Liderazgo del Marco de Interoperabilidad	No existe un responsable de los servicios de intercambio de información	Existen varias personas responsables de los servicios de intercambio de información	Existe un único responsable de intercambio de información pero no es formal	Existe un responsable de los servicios de intercambio de información y es reconocido por toda la entidad formalmente.	Existe un responsable de los servicios de intercambio de información y lidera a toda la organización en la implementación del Marco de interoperabilidad			
+		LI.IOP.OG.05	Cultura organizacional	La entidad no promueve una cultura de intercambio de información mediante comunicaciones internas, campañas o actividades ni capacita al recurso humano en temas de interoperabilidad	La entidad capacita al recurso humano en temas de interoperabilidad pero no divulga a las áreas la de la implementación del Marco de Interoperabilidad 	La entidad capacita al recurso humano en temas de interoperabilidad y hace campañas con todas las áreas de la entidad para involucrarlos en los temas de interoperabilidad	El recurso humano evalúa las campañas de interoperabilidad y se identifican mejoras	Las mejoras identificadas en las campañas de interoperabilidad son tenidas en cuenta para mejorar de forma continua los servicios de intercambio de información			
+		LI.IOP.OG.01
+LI.IOP.OG.02
+LI.IOP.OG.03	Adecuación de procesos	En la entidad no existe una gestión por procesos	La entidad tiene documentados sus procesos pero están desactualizados	La entidad tiene documentados sus procesos, están actualizados pero no tienen necesidades de intercambio de información identificadas	La entidad tiene documentados sus procesos y están actualizados y tienen documentadas las necesidades de intercambio de información	Todos los procesos de la entidad están documentados y han sido ajustados para garantizar el adecuado intercambio de información mediante servicios de información.			s
+Dominio político legal	0	LI.IOP.LG.01
+LI.IOP.LG.02	Normatividad para el intercambio de información	La entidad no intercambia información	La entidad intercambia información pero no existe normatividad asociada a los servicios de intercambio de información	La entidad intercambia información y cuenta con algunos acuerdos para el intercambio de información con otras entidades	La entidad intercambia información, cuenta con todos los acuerdos para el intercambio de información con otras entidades y existe normatividad para algunos servicios de intercambio	La entidad intercambia información, cuenta con todos los acuerdos para el intercambio de información con otras entidades y existe normatividad para todos los servicios de intercambio			
+		LI.IOP.LG.03	Manejo de la información confidencial y personal	La entidad no conoce ni aplica la normatividad vigente relacionada con el manejo adecuado de la información confidencia y personal para el intercambio de información	La entidad conoce la normatividad vigente relacionada con el manejo adecuado de la información pero no la aplica para el intercambio de información	La entidad conoce la normatividad vigente relacionada con el manejo adecuado de la información y la aplica en algunos servicios de intercambio de información	La entidad conoce y aplica la normatividad vigente relacionada con el manejo adecuado de la información confidencia y personal en todos los servicios de intercambio de información.	La entidad conoce, aplica y socializa al interior de la entidad la normatividad vigente relacionada con el manejo adecuado de la información confidencia y personal en todos los servicios de intercambio de información.			
+Dominio semántico	0	LI.IOP.SM.01
+LI.IOP.SM.04
+LI.IOP.SM.06
+LI.IOP.SM.03	Lenguaje común de intercambio de información	La entidad no utiliza el lenguaje común de intercambio de información en sus servicios de intercambio de información	La entidad conocer el lenguaje común de intercambio de información y lo utiliza para definir las estructuras de información	La entidad conoce el lenguaje común de intercambio y lo utiliza por lo menos en un servicios de intercambio de información	La entidad conoce el lenguaje común de intercambio y lo utiliza por lo menos en el 50% de los servicios de intercambio de información	La entidad conoce el lenguaje común de intercambio y lo utiliza en todos los servicios de intercambio de información			
+		LI.IOP.SM.02
+LI.IOP.SM.05	Documentación de los servicios de intercambio	La entidad no tiene documentados los servicios de intercambio de información	La entidad cuenta con la documentación de los servicios de intercambio de información pero se encuentra desactualizada	La entidad cuenta los servicios de intercambio de información actualizada pero no utiliza la estructura recomendada	La entidad cuenta con la documentación de algunos servicios de intercambio de información.	La entidad cuenta con la documentación de todos los servicios de intercambio de información.			
+Dominio técnico	0	LI.IOP.TE.01	Uso de servicios ciudadanos digitales	La entidad no ha implementado el servicio ciudadano digital de interoperabilidad para el intercambio de información. 	NA	La entidad utiliza el servicio ciudadano digital de interoperabilidad para algunos los intercambios de información de la entidad.	NA	La entidad utiliza el servicio ciudadano digital de interoperabilidad para todos los intercambios de información de la entidad.			
+		LI.IOP.TE.07	Diseño funcional de los servicios web	La entidad no ha identificado las necesidades de intercambio de información	La entidad identificó las necesidades de intercambio de información mediante requerimientos funcionales y no ha realizado la caracterización de sus servicios.	La entidad identificó las necesidades de intercambio de información mediante requerimientos funcionales y tiene todas las caracterizaciones de los servicios.	La entidad identificó las necesidades de intercambio de información mediante requerimientos funcionales y la tiene todas las caracterizaciones de los servicios con requerimientos funcionales y no funcionales. La caracterización de algunos de los servicios tienen en cuenta el estándar del lenguaje común de intercambio de información	La entidad identificó las necesidades de intercambio de información mediante requerimientos funcionales y la tiene todas las caracterizaciones de los servicios con requerimientos funcionales y no funcionales. La caracterización de todos los servicios tienen en cuenta el estándar del lenguaje común de intercambio de información			
+		LI.IOP.TE.07	Diseño técnico de los servicios	La entidad no ha documentado la información y datos que contiene sus servicios de intercambio de información (Web service)	La entidad  tiene documentada parcialmente la información de entrada y de salida de sus servicios pero se encuentra desactualizada.  Esta información no incluye o incluye parcialmente los tipos de dato que se utilizan en los servicios de intercambio de información.	La entidad  tiene documentada parcialmente la información de entrada y de salida de cada uno de sus servicios y se encuentra actualizada.  Esta información incluye parcialmente los tipos de dato que se utilizan en los servicios de intercambio de información. La caracterización de sus servicios no incluye los casos de prueba documentados.	La entidad  tiene documentada toda la información de entrada y de salida de sus servicios y se encuentra actualizada. Esta información incluye parcialmente los tipos de dato que se utilizan en los servicios de intercambio de información. La caracterización de los servicios incluye los casos de prueba 	La entidad  tiene documentada toda la información de entrada y de salida de sus servicios y se encuentra actualizada. Esta información incluye todos los tipos de dato que se utilizan en los servicios de intercambio de información. La caracterización de los servicios incluye los casos de prueba 			
+		LI.IOP.TE.07	Pruebas de los servicios web	La entidad no ha ejecutado los casos de pruebas de los servicios de intercambio de información.	NA	La entidad ha ejecutado y tiene documentado los resultados de los casos de prueba para los servicios de intercambio de información de los procesos misionales de la entidad.	NA	La entidad ha ejecutado y tiene documentados los resultados de la ejecución de los casos de prueba para todos sus servicios de intercambio de información y genera los archivos de despliegue a la PDI.			
+		LI.IOP.TE.07	Despliegue de los servicios web	La entidad no ha desplegado los servicios de intercambio de información en la PDI.	NA	La entidad tiene desplegados algunos de sus servicios en la PDI	NA	La entidad tiene desplegados todos los servicios de intercambio de información en la PDI.			
+		LI.IOP.TE.02	Infraestructura tecnológica para el intercambio de información	La entidad no dispone de infraestructura tecnológica para intercambiar información	La entidad dispone de infraestructura tecnológica para el intercambio de información sin embargo el intercambio de información se hace de forma manual	La entidad utiliza la infraestructura tecnológica con la que cuenta para intercambiar información sin embargo esta infraestructura no es la adecuada	La arquitectura de la  infraestructura tecnológica de la entidad ha sido adaptada para las necesidades especificas de intercambio de información, sin embargo no existe ninguna documentación que soporte las decisiones tomadas.	La arquitectura de la  infraestructura tecnológica de la entidad ha sido diseñada teniendo en cuenta las necesidades especificas de intercambio de información y esta arquitectura está documentada y actualizada en un documento.			
+
+=== p3 ===
+	Pasos a seguir	Acciones				
+		ID	Nombre corto	Descripción	Plazo en semas	Responsable
+Dominio Organizacional		AIO.01				
+		AIO.02				
+		AIO.03				
+Dominio político legal		AIO.04				
+		AIO.05				
+		AIO.06				
+Dominio semántico		AIO.07				
+		AIO.08				
+		AIO.09				
+Dominio técnico		AIO.10				
+		AIO.11				
+		AIO.12				
+
+
+
+
+
+
+
+
+
+=== p4 ===
+Versión	Descripción	Fecha
+1.0	Lanzamiento Inicial	43704
+1.1	Se corrigen fórmulas que calculaban el nivel de madurez y se ajustan los colores de resultado 	43770
+
+=== p5 ===
+Nivel
+1
+2
+3
+4
+5

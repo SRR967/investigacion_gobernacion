@@ -300,3 +300,18 @@ Google Académico se consultó desde el navegador de la app de escritorio, despu
   - L-090: tesis de Molina Giraldo;
   - L-105: Guía de racionalización de Función Pública (2017).
 - **Nuevo candidato oficial:** el modelo de madurez del marco, versión 1.1 (hoja de cálculo), enlazado en https://lenguaje.mintic.gov.co/marco. Puede servir para la evaluación de la propuesta.
+
+## Textos completos: actualización (2026-10-29, tarde)
+- **Incorporados hoy**, guardados por Santiago e incorporados con incorporar-fuente:
+  - L-070: informe de madurez (fuente F-067);
+  - L-066: libro del BID (F-063);
+  - L-084: Criado et al. (F-073);
+  - L-090: tesis de Molina Giraldo (F-076);
+  - L-069: Anexo 2 de servicios ciudadanos digitales (F-066);
+  - modelo de madurez v1.1 (F-094).
+  Sus niveles de lectura pasan a «texto completo».
+- **Corrección a L-084:** la Tabla 8 de Criado et al. recoge retos de la interoperabilidad en general, y la Tabla 7 recoge las áreas para interoperar *entre Estados*. Las cifras ya registradas siguen siendo correctas (H-096, H-097).
+- **Siguen faltando:**
+  - L-011: Moynihan et al. (2015), posiblemente de pago;
+  - L-080: tesis de Rico Pinto;
+  - L-105: Guía de racionalización de Función Pública (2017).

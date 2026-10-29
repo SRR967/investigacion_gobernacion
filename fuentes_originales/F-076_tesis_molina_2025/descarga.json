@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "id": "F-076",
+  "slug": "tesis_molina_2025",
+  "archivo": "fuentes_originales/F-076_tesis_molina_2025/1502-3228_MolinaG.pdf",
+  "texto": null,
+  "url_origen": "https://bibliotecadigital.economicas.uba.ar/bitstreams/b0cec8dc-06c5-437b-8913-2c8c280cfbfa/download",
+  "url_final": "https://bibliotecadigital.economicas.uba.ar/bitstreams/b0cec8dc-06c5-437b-8913-2c8c280cfbfa/download",
+  "fecha_consulta": "2026-10-29",
+  "sha256": "c472af4aa188d6ba81371d42a2b9ede36cdcab1c7b5188bcea78b7df411361e3",
+  "bytes": 1554057,
+  "tipo": "pdf",
+  "nombre_original": "1502-3228_MolinaG.pdf",
+  "content_type": null,
+  "via": "urllib",
+  "last_modified_servidor": null,
+  "paginas": null,
+  "paginas_ocr": [],
+  "advertencias": [
+    "No se pudo compilar el extractor de texto (swiftc no disponible: [Errno 2] No such file or directory: 'swiftc'). El original se conserva sin texto extraído."
+  ]
+}

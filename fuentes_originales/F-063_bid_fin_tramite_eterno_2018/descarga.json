@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "id": "F-063",
+  "slug": "bid_fin_tramite_eterno_2018",
+  "archivo": "fuentes_originales/F-063_bid_fin_tramite_eterno_2018/El-fin-del-trámite-eterno-Ciudadanos-burocracia-y-gobierno-digital.pdf",
+  "texto": null,
+  "url_origen": "https://publications.iadb.org/es/el-fin-del-tramite-eterno-ciudadanos-burocracia-y-gobierno-digital",
+  "url_final": "https://publications.iadb.org/es/el-fin-del-tramite-eterno-ciudadanos-burocracia-y-gobierno-digital",
+  "fecha_consulta": "2026-10-29",
+  "sha256": "2cdd11d6305a52d6a16c9423539b2e2cbb40a5da456906c80ff07b2d6795d761",
+  "bytes": 38029146,
+  "tipo": "pdf",
+  "nombre_original": "El-fin-del-trámite-eterno-Ciudadanos-burocracia-y-gobierno-digital.pdf",
+  "content_type": null,
+  "via": "urllib",
+  "last_modified_servidor": null,
+  "paginas": null,
+  "paginas_ocr": [],
+  "advertencias": [
+    "No se pudo compilar el extractor de texto (swiftc no disponible: [Errno 2] No such file or directory: 'swiftc'). El original se conserva sin texto extraído."
+  ]
+}

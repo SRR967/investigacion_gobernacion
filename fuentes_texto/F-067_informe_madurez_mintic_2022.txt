@@ -1,0 +1,449 @@
+=== p1 ===
+Informe Técnico y recomendaciones del
+Modelo de Madurez del Marco de
+Interoperabilidad de Gobierno Digital
+
+
+
+
+Diciembre 2022
+
+
+
+
+Ministerio de Tecnologías de la Información y las Comunicaciones
+Edificio Murillo Toro, Carrera 8, entre calles 12A y 12B
+Código Postal: 111711 . Bogotá, Colombia
+T: 601 3443460 Fax: 601 344 2248
+www.mintic.gov.co
+=== p2 ===
+Ministerio de Tecnologías de la Información y las Comunicaciones
+Viceministerio de Economía Digital
+Dirección de Gobierno Digital
+Subdirección de Estándares y Arquitectura de TI
+
+
+
+
+Equipo de trabajo
+Equipo Marco de Interoperabilidad Gobierno Digital.
+
+
+
+
+ Versión                        Responsable
+ Versión 1.0
+                                Subdirección de Estándares de Arquitectura de TI - Equipo Marco de Interoperabilidad
+ Julio 28 de 2022
+
+
+
+
+Este documento de la Dirección de Gobierno Digital se encuentra bajo una Licencia Creative Commons Atribución 4.0 Internacional.
+
+
+
+
+Ministerio de Tecnologías de la Información y las Comunicaciones
+Edificio Murillo Toro, Carrera 8, entre calles 12A y 12B
+Código Postal: 111711 . Bogotá, Colombia
+T: 601 3443460 Fax: 601 344 2248
+www.mintic.gov.co
+=== p3 ===
+                                                  Tabla de Contenido
+1.     DERECHOS DE AUTOR .................................................................................................................... 4
+
+2.     AUDIENCIA ...................................................................................................................................... 6
+
+3.     INTRODUCCIÓN .............................................................................................................................. 7
+
+4.     RESUMEN ....................................................................................................................................... 8
+
+5.     RECOMENDACIONES .................................................................................................................... 12
+
+     5.1 Dominio Organizacional ..................................................................................................... 13
+     5.2 Dominio Político Legal ........................................................................................................ 13
+     5.3 Dominio Semántico ............................................................................................................ 14
+     5.4 Dominio Técnico ................................................................................................................. 15
+
+6.     CONCLUSIONES ....................................................................... ¡ERROR! MARCADOR NO DEFINIDO.
+
+
+
+
+Ministerio de Tecnologías de la Información y las Comunicaciones
+Edificio Murillo Toro, Carrera 8, entre calles 12A y 12B
+Código Postal: 111711 . Bogotá, Colombia
+T: 601 3443460 Fax: 601 344 2248
+www.mintic.gov.co
+=== p4 ===
+                                         Lista de Ilustraciones
+
+Ilustración 1 – Entidades clasificadas por nivel de madurez ............................................................... 8
+Ilustración 2 – Entidades con nivel de Madurez consolidado e institucionalizado ........................ 9
+Ilustración 3 – Resultados Análisis Dominio Organizacional Modelo de Madurez ......................10
+Ilustración 3 – Resultados Análisis Dominio Semántico Modelo de Madurez ..............................10
+Ilustración 5 – Resultados Análisis Dominio Político-Legal Modelo de Madurez........................11
+Ilustración 6 – Resultados Análisis Dominio Técnico Modelo de Madurez ...................................12
+
+
+
+
+Ministerio de Tecnologías de la Información y las Comunicaciones
+Edificio Murillo Toro, Carrera 8, entre calles 12A y 12B
+Código Postal: 111711 . Bogotá, Colombia
+T: 601 3443460 Fax: 601 344 2248
+www.mintic.gov.co
+=== p5 ===
+       1. Derechos de Autor
+
+A menos que se indique de forma contraria, el copyright del texto incluido en este documento
+es del Gobierno de la República de Colombia. Se puede reproducir gratuitamente en cualquier
+formato o medio sin requerir un permiso expreso para ello, bajo las siguientes condiciones:
+
+
+El texto particular no se ha indicado como excluido y por lo tanto no puede ser copiado o
+distribuido.
+
+
+La copia no se hace con el fin de distribuirla comercialmente.
+
+
+Los materiales se DEBEN reproducir exactamente y no se DEBEN utilizar en un contexto
+engañoso.
+
+
+Las copias serán acompañadas por las palabras "copiado/distribuido con permiso del Gobierno
+de la República de Colombia. Todos los derechos reservados."
+
+
+El título del documento DEBE ser incluido al ser reproducido como parte de otra publicación o
+servicio.
+
+
+Si se desea copiar o distribuir el documento con otros propósitos, DEBE solicitar el permiso
+entrando en contacto con el programa Agenda de Conectividad del Ministerio de tecnologías
+de la Información y las Comunicaciones de la República de Colombia.
+
+
+
+
+Ministerio de Tecnologías de la Información y las Comunicaciones
+Edificio Murillo Toro, Carrera 8, entre calles 12A y 12B
+Código Postal: 111711 . Bogotá, Colombia
+T: 601 3443460 Fax: 601 344 2248
+www.mintic.gov.co
+=== p6 ===
+       2. Audiencia
+
+Este documento está dirigido a todas aquellas personas interesadas en conocer informe
+técnico y recomendaciones del Modelo de Madurez del Marco de Interoperabilidad para
+Gobierno Digital, diagnóstico que fue realizado por 46 entidades del orden nacional pare el
+último trimestre del año 2021 y el primer trimestre del año 2022.
+
+
+
+
+Ministerio de Tecnologías de la Información y las Comunicaciones
+Edificio Murillo Toro, Carrera 8, entre calles 12A y 12B
+Código Postal: 111711 . Bogotá, Colombia
+T: 601 3443460 Fax: 601 344 2248
+www.mintic.gov.co
+=== p7 ===
+       3. Introducción
+
+El modelo de madurez del Marco de Interoperabilidad es una herramienta que permite que las
+entidades realicen un diagnóstico interno sobre el avance en la implementación de los
+lineamientos definidos por cada uno de los dominios y orienten las acciones que deben ejecutar
+para avanzar en la adopción.
+
+
+El presente documento contiene el informe técnico y recomendaciones del Modelo de Madurez
+del Marco de interoperabilidad para Gobierno Digital.
+
+
+
+
+Ministerio de Tecnologías de la Información y las Comunicaciones
+Edificio Murillo Toro, Carrera 8, entre calles 12A y 12B
+Código Postal: 111711 . Bogotá, Colombia
+T: 601 3443460 Fax: 601 344 2248
+www.mintic.gov.co
+=== p8 ===
+       4. Resumen
+
+El modelo de madurez del Marco de Interoperabilidad es una herramienta que permite que las
+entidades realicen un diagnóstico interno sobre el avance en la implementación de los
+lineamientos definidos por cada uno de los dominios y orienten las acciones que deben ejecutar
+para avanzar en la adopción.
+
+A continuación, se presentan los resultados de las 46 entidades de orden nacional, que
+realizaron el diagnóstico del Modelo de Madurez del Marco de Interoperabilidad para el último
+trimestre del año 2021 y el primer trimestre del año 2022, obteniendo los siguientes
+resultados a nivel general y por dominio para cada entidad.
+
+
+                                   Ilustración 1 – Entidades clasificadas por nivel de madurez
+
+
+                                      Entidades clasificadas por Nivel de Madurez
+                                                                   19
+
+                                 10                                           9
+                                                  7
+                                                                                             1
+
+
+
+
+De las 46 entidades que realizaron el diagnóstico del Modelo de Madurez del Marco de
+Interoperabilidad, 10 entidades se encuentran en nivel ausente que corresponde al 21,72%, en
+nivel inicial se encuentran 7 entidades, que corresponde al 15,2%, en nivel intermedio están 19
+entidades que corresponde al 41,3%, en nivel consolidado 9 entidades que corresponde al
+19,5% y en nivel institucionalizado el 2,2% que corresponde a 1 entidad.
+
+
+Las entidades logran institucionalizar sus servicios de intercambio de información dentro del
+Marco de Interoperabilidad, una vez hayan cumplido con los lineamientos del modelo de
+
+
+Ministerio de Tecnologías de la Información y las Comunicaciones
+Edificio Murillo Toro, Carrera 8, entre calles 12A y 12B
+Código Postal: 111711 . Bogotá, Colombia
+T: 601 3443460 Fax: 601 344 2248
+www.mintic.gov.co
+=== p9 ===
+madurez de sus procesos y documentación. Esto significa que se han cumplido con los
+requerimientos tanto político-legales, de planificación, organizacional y técnicos, que han
+implementado los servicios de intercambio de información bajo las configuraciones técnicas y
+estándares de calidad para ofrecer portafolios de gestión y servicios confiables para las demás
+entidades.
+
+
+Las 10 entidades con nivel de Madurez consolidado e institucionalizado (corresponden a
+aquellas entidades que han logrado implementar de forma adecuada los lineamientos del
+Marco de interoperabilidad para sus servicios de intercambio de información) son las
+siguientes:
+
+
+                        Ilustración 2 – Entidades con nivel de Madurez consolidado e institucionalizado
+
+
+                         Nivel de Madurez Consolidado - Institucionalizado
+                5.00       4.90
+                                      4.78       4.70       4.65
+                                                                   4.50      4.50      4.45      4.40
+                                                                                                          4.25
+
+
+
+
+A continuación, se presentan los resultados obtenidos del análisis por cada uno de los
+dominios del Marco de Interoperabilidad para Gobierno Digital.
+
+
+
+
+Ministerio de Tecnologías de la Información y las Comunicaciones
+Edificio Murillo Toro, Carrera 8, entre calles 12A y 12B
+Código Postal: 111711 . Bogotá, Colombia
+T: 601 3443460 Fax: 601 344 2248
+www.mintic.gov.co
+=== p10 ===
+Dominio Organizacional
+                        Ilustración 3 – Resultados Análisis Dominio Organizacional Modelo de Madurez
+
+
+
+
+De las 46 entidades de orden nacional que realizaron el diagnóstico del Modelo de Madurez del
+Marco de Interoperabilidad, y relacionado con el dominio organizacional, 8 entidades se
+encuentran en nivel ausente que corresponde al 17 %, en nivel inicial se encuentran 18
+entidades, que corresponde al 39 %, en nivel intermedio están 13 entidades que corresponde
+al 28 %, en nivel consolidado 6 entidades que corresponde al 13 % y en nivel institucionalizado
+el 2 % que corresponde a 1 entidad.
+
+
+Dominio Semántico
+                          Ilustración 4 – Resultados Análisis Dominio Semántico Modelo de Madurez
+
+
+
+
+Ministerio de Tecnologías de la Información y las Comunicaciones
+Edificio Murillo Toro, Carrera 8, entre calles 12A y 12B
+Código Postal: 111711 . Bogotá, Colombia
+T: 601 3443460 Fax: 601 344 2248
+www.mintic.gov.co
+=== p11 ===
+De las 46 entidades que realizaron el diagnóstico del Modelo de Madurez del Marco de
+Interoperabilidad, y relacionado con el dominio semántico, 8 entidades se encuentran en nivel
+ausente que corresponde al 17 %, en nivel inicial se encuentran 7 entidades, que concierne al
+15 %, en nivel intermedio se identificaron 8 entidades que representa el 17 % de la muestra, en
+nivel consolidado 13 entidades que corresponde al 28 % y en nivel institucionalizado el 22 %
+que corresponde a 10 entidad.
+
+
+Dominio político Legal
+
+                        Ilustración 5 – Resultados Análisis Dominio Político-Legal Modelo de Madurez
+
+
+
+
+De las 46 entidades que realizaron el diagnóstico del Modelo de Madurez del Marco de
+Interoperabilidad, y relacionado con el dominio semántico, 6 entidades se encuentran en nivel
+ausente que corresponde al 13 %, en nivel inicial se encuentran 4 entidades, que concierne al 9
+%, en nivel intermedio se identificaron 11 entidades que representa el 24 % de la muestra, en
+nivel consolidado 13 entidades que corresponde al 28 % y en nivel institucionalizado el 26 %
+que corresponde a 12 entidad.
+
+
+
+
+Ministerio de Tecnologías de la Información y las Comunicaciones
+Edificio Murillo Toro, Carrera 8, entre calles 12A y 12B
+Código Postal: 111711 . Bogotá, Colombia
+T: 601 3443460 Fax: 601 344 2248
+www.mintic.gov.co
+=== p12 ===
+Dominio Técnico
+
+
+De acuerdo con la muestra poblacional de 46 entidades que realizaron el diagnóstico del
+Modelo de Madurez del Marco de Interoperabilidad, el 53% de las entidades encuestadas
+manifiestan estar suministrando servicios Web, lo que significa que han cumplido con los
+lineamientos del Marco de Interoperabilidad de documentar, hacer pruebas, y colocar en la web
+los servicios de intercambio de información.
+
+                           Ilustración 6 – Resultados Análisis Dominio Técnico Modelo de Madurez
+
+
+
+
+       5. Recomendaciones
+
+A continuación, se describen cada una de las acciones recomendadas a ejecutar por parte de
+las entidades, de acuerdo con cada uno de los dominios del Marco de Interoperabilidad,
+conforme al autodiagnóstico realizado por cada una de ellas.
+
+
+
+Ministerio de Tecnologías de la Información y las Comunicaciones
+Edificio Murillo Toro, Carrera 8, entre calles 12A y 12B
+Código Postal: 111711 . Bogotá, Colombia
+T: 601 3443460 Fax: 601 344 2248
+www.mintic.gov.co
+=== p13 ===
+5.1 Dominio Organizacional
+
+    •    Establecer el responsable de la gestión de los servicios de intercambio de información.
+
+
+    •    Socializar al interior de la entidad los resultados del diagnóstico del Modelo de Madurez
+         del Marco de Interoperabilidad.
+
+
+    •    Realizar campañas con todas las áreas de la entidad, para que se apropien en los temas
+         de interoperabilidad.
+    •    Realizar el proceso de actualización de la documentación de los procesos de la Entidad.
+
+
+    •    Divulgar las necesidades, el alcance y los compromisos de los servicios de intercambio
+         de información entre los actores involucrados.
+
+
+    •    Desarrollar         las    competencias            y      habilidades   necesarias   para el   consumo,
+         implementación y prestación de servicios de intercambio de información.
+
+
+    •    Fomentar la colaboración y participación para facilitar la gestión de conocimiento.
+
+
+    •    En conjunto con los responsables de la información del proceso se debe realizar un
+         análisis que permita determinar las modificaciones necesarias para convertirlo en un
+         servicio de intercambio de información.
+
+
+5.2 Dominio Político Legal
+
+    •    Realizar el proceso de identificación de necesidades de intercambio de información en
+         la entidad y realizar las actualizaciones respectivas en los normogramas de los procesos
+         que se vean involucrados.
+
+
+
+
+Ministerio de Tecnologías de la Información y las Comunicaciones
+Edificio Murillo Toro, Carrera 8, entre calles 12A y 12B
+Código Postal: 111711 . Bogotá, Colombia
+T: 601 3443460 Fax: 601 344 2248
+www.mintic.gov.co
+=== p14 ===
+    •    Realizar las gestiones administrativas necesarias, para que, en conjunto con la Oficina
+         Asesora Jurídica, se inicie la aplicación de la normatividad asociada a los servicios de
+         intercambio de información.
+
+
+    •    Garantizar el manejo adecuado de la información confidencial y personal.
+
+
+    •    Establecer la responsabilidad legal para la provisión de los servicios de intercambio de
+         información.
+
+
+    •    Identificar y documentar toda la normatividad relacionada y generada por la entidad,
+         que soporte el/los proceso(s) de intercambio que se pretenda(n) realizar.
+
+
+5.3 Dominio Semántico
+
+    •    Solicitar capacitación en lo relacionado con el lenguaje común de intercambio de
+         información y acompañamiento del Ministerio de Tecnologías de Información y las
+         comunicaciones - MinTIC en este proceso.
+
+
+    •    Identificar los conceptos de negocio, es decir, la información requerida para la
+         prestación del servicio y la información que exponen a otras entidades, así como los
+         elementos de dato estandarizados bajo el lenguaje común de intercambio de
+         información, utilizados para representar cada uno de los conceptos de negocio.
+
+
+    •    Iniciar el proceso de documentación de los servicios de intercambio de información.
+
+
+    •    Adecuar sus procesos de negocio para la incorporación del estándar de lenguaje común
+         de intercambio de información.
+
+
+    •    Adoptar procedimientos estandarizados para el diseño, implementación y prestación de
+         servicios de intercambio de información.
+
+
+Ministerio de Tecnologías de la Información y las Comunicaciones
+Edificio Murillo Toro, Carrera 8, entre calles 12A y 12B
+Código Postal: 111711 . Bogotá, Colombia
+T: 601 3443460 Fax: 601 344 2248
+www.mintic.gov.co
+=== p15 ===
+5.4 Dominio Técnico
+
+    •    Realizar la identificación de los requerimientos funcionales y caracterización de los
+         servicios de intercambio de información susceptible a interoperar.
+
+
+    •    Realizar una revisión de los servicios de la entidad y caracterizarlos, teniendo en cuenta
+         los lineamientos del Marco de Interoperabilidad.
+
+
+    •    Realizar un diagnóstico de validación de la infraestructura tecnológica de la entidad,
+         respecto a los lineamientos del marco de interoperabilidad.
+
+
+
+
+Ministerio de Tecnologías de la Información y las Comunicaciones
+Edificio Murillo Toro, Carrera 8, entre calles 12A y 12B
+Código Postal: 111711 . Bogotá, Colombia
+T: 601 3443460 Fax: 601 344 2248
+www.mintic.gov.co

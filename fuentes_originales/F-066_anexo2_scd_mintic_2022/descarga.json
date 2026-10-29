@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "id": "F-066",
+  "slug": "anexo2_scd_mintic_2022",
+  "archivo": "fuentes_originales/F-066_anexo2_scd_mintic_2022/articles-273733_recurso_2.pdf",
+  "texto": null,
+  "url_origen": "https://www.mintic.gov.co/portal/715/articles-273733_recurso_2.pdf",
+  "url_final": "https://www.mintic.gov.co/portal/715/articles-273733_recurso_2.pdf",
+  "fecha_consulta": "2026-10-29",
+  "sha256": "416c3c5c74aa749633d3747781fa3f85a49a9f38d7a0828fcae4cfa7f2fb3cb5",
+  "bytes": 1831360,
+  "tipo": "pdf",
+  "nombre_original": "articles-273733_recurso_2.pdf",
+  "content_type": null,
+  "via": "urllib",
+  "last_modified_servidor": null,
+  "paginas": null,
+  "paginas_ocr": [],
+  "advertencias": [
+    "No se pudo compilar el extractor de texto (swiftc no disponible: [Errno 2] No such file or directory: 'swiftc'). El original se conserva sin texto extraído."
+  ]
+}

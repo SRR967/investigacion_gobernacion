@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "id": "F-067",
+  "slug": "informe_madurez_mintic_2022",
+  "archivo": "fuentes_originales/F-067_informe_madurez_mintic_2022/Informe Técnico y Recomendaciones Modelo Madurez_0_0.pdf",
+  "texto": null,
+  "url_origen": "https://lenguaje.mintic.gov.co/sites/default/files/archivos/Informe%20T%C3%A9cnico%20y%20Recomendaciones%20Modelo%20Madurez_0_0.pdf",
+  "url_final": "https://lenguaje.mintic.gov.co/sites/default/files/archivos/Informe%20T%C3%A9cnico%20y%20Recomendaciones%20Modelo%20Madurez_0_0.pdf",
+  "fecha_consulta": "2026-10-29",
+  "sha256": "0d255ec9c4de6622e0640cf9846e5ed23d1e130ab4e982fe614c715bd3fb8393",
+  "bytes": 351563,
+  "tipo": "pdf",
+  "nombre_original": "Informe Técnico y Recomendaciones Modelo Madurez_0_0.pdf",
+  "content_type": null,
+  "via": "urllib",
+  "last_modified_servidor": null,
+  "paginas": null,
+  "paginas_ocr": [],
+  "advertencias": [
+    "No se pudo compilar el extractor de texto (swiftc no disponible: [Errno 2] No such file or directory: 'swiftc'). El original se conserva sin texto extraído."
+  ]
+}

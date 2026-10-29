@@ -53,8 +53,19 @@ Registro de cada búsqueda ejecutada:
 | Consensus | once-only principle reduce administrative burden citizens data reuse public administrations | 2026-10-28 | 10 | Ronda 1 |
 | Web | interoperabilidad trámites gobernación OR alcaldía Colombia tesis maestría reducción de requisitos documentos ciudadano | 2026-10-28 | 9 enlaces; 1 documento | Ronda 1 |
 | Web | scielo interoperabilidad gobierno digital Colombia entidades territoriales artículo | 2026-10-28 | 9 enlaces; 2 documentos | Ronda 1 |
+| Consensus | Herd Moynihan administrative burden policymaking by other means (bola de nieve) | 2026-10-28 | 10 | Ronda 2 |
+| SciSpace | What studies analyze interoperability or information exchange between public entities in Colombia to simplify procedures (trámites) for citizens? | 2026-10-28 | 10 | Ronda 2 |
+| Web | OECD case study Colombia MinTIC Government Digital Service user-driven digital services knowledge sharing 2022 English | 2026-10-28 | 9 enlaces; 2 documentos | Ronda 2 |
+| Web | redalyc OR dialnet interoperabilidad gobierno electrónico América Latina trámites artículo revista | 2026-10-28 | 9 enlaces; 3 documentos | Ronda 2 |
+| Web | "Factores habilitadores e inhibidores de la interoperabilidad G2G horizontal" Colombia Rico Pinto | 2026-10-28 | 9 enlaces; 4 documentos | Ronda 2 |
+| Web | "Libro blanco de interoperabilidad de gobierno electrónico para América Latina y el Caribe" versión 3.0 | 2026-10-28 | 9 enlaces; 1 documento | Ronda 2 |
+| Web | BID Gascó-Hernández Gil-García interoperabilidad Colombia Ecuador (y búsqueda ampliada en publications.iadb.org) | 2026-10-28 | 19 enlaces; 1 documento; informe del BID no hallado | Ronda 2 |
+| Consensus | X-Road data exchange layer Estonia interoperability public services evaluation | 2026-10-28 | 10 | Ronda 2 |
+| Web | "servicios ciudadanos digitales" Colombia interoperabilidad X-Road artículo académico evaluación entidades territoriales | 2026-10-28 | 9 enlaces; 1 documento | Ronda 2 |
+| SciSpace | How does interoperability between government databases eliminate certificates and supporting documents that citizens must submit in administrative procedures? | 2026-10-28 | 10 | Ronda 2 |
 
 ## 4. Cambios al protocolo
 
 | Fecha | Cambio | Motivo | Aprobado por |
 |---|---|---|---|
+| 2026-10-28 | Se admiten como excepción cuatro documentos fuera de los tipos fijados: un informe técnico de instituto universitario (L-004), un documento oficial territorial sin fecha (L-071) y dos artículos cuya revisión por pares no se pudo confirmar (L-050, L-053). Estos dos últimos se reemplazan si la ronda 2 trae fuentes revisadas por pares sobre lo mismo | L-071 es el único antecedente territorial colombiano; L-004 aporta un modelo de seis dimensiones; L-050 y L-053 son evidencia que matiza la tesis | Santiago («sí, guárdalos») |

@@ -318,3 +318,9 @@ Google Académico se consultó desde el navegador de la app de escritorio, despu
 
 ### 2026-10-29 · Datos del libro TOOP (consulta en link.springer.com con el navegador de la app)
 Krimmer, R., Prentza, A. y Mamrot, S. (Eds.). (2021). *The once-only principle: The TOOP project* (Lecture Notes in Computer Science, vol. 12621). Springer Cham. https://doi.org/10.1007/978-3-030-79851-2 — libro de acceso abierto, 12 capítulos. Páginas confirmadas: L-025 Mamrot y Rzyszczak, pp. 9-37; L-020 Leosk, Põder, Schmidt, Kalvet y Krimmer, pp. 38-60; L-024 Wimmer, pp. 61-82. Capítulos adicionales pertinentes para antecedentes: Prentza, Mitzman, Ehastu y Leontaridis, «TOOP pilot experiences…», pp. 191-207; Timan, van Veenstra y Karanikolova, «Measuring the impact of the once only principle for businesses across borders», pp. 208-224. Texto completo pendiente de incorporar (PDF del libro).
+
+
+### 2026-10-30 · Correcciones del verificador (antecedentes)
+- La nota del 29-10 sobre la Tabla 8 de Criado et al. es errónea: según la fuente (preprint p. 12), la Tabla 8 recoge los obstáculos «a la hora de desarrollar iniciativas de interoperabilidad entre Estados». Prevalece el texto de la fuente.
+- L-104: el orden correcto de autores es Pinzón Arana, F., González Ríos, D. E. y Avendaño Arias, J. A. («Para citar este artículo», p. 1).
+- Vacío: la búsqueda registra trabajos sobre gobernaciones o departamentos (L-115, L-117) que no tratan la reducción de requisitos en los trámites; el texto del marco ya lo dice. La bola de nieve sigue incompleta (solo Herd y Moynihan): limitación por declarar en la metodología.

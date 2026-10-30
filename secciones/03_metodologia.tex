@@ -1,4 +1,84 @@
-% GENERADO por gestor-latex (marcador) — sección sin redactar
 \section{Metodología}
 
-\pendiente{DATO PENDIENTE: sección sin redactar; usar el skill redactar-metodologia}
+\subsection{Tipo y enfoque}
+
+El estudio es descriptivo-propositivo con enfoque mixto. Es descriptivo porque caracteriza los documentos que la Gobernación del Huila exige en sus trámites y los relaciona con las bases de datos y los mecanismos de intercambio de información disponibles; es propositivo porque, a partir de esa caracterización, diseña una iniciativa de interoperabilidad para el Plan Estratégico de Tecnologías de la Información (PETI). El enfoque es mixto porque combina el análisis documental, de carácter cualitativo, con el conteo y el cálculo de proporciones de los documentos clasificados \pendiente{FALTA FUENTE: referencia metodológica para el tipo de estudio y el enfoque mixto}.
+
+La unidad de análisis es cada documento exigido en cada trámite de la Gobernación. El alcance se limita a los trámites de la administración central publicados en la sede electrónica de la entidad y registrados en el Sistema Único de Información de Trámites (SUIT), y a información pública: el estudio no accede a los sistemas internos de la Gobernación y no incluye implementar la propuesta, estimar su costo ni medir su efecto.
+
+\subsection{Diseño por fases}
+
+El estudio se organiza en cuatro fases, una por cada objetivo específico. La Tabla~\ref{tab:fases} resume la correspondencia entre objetivos, fases, actividades y productos.
+
+\begin{table}[htbp]
+\centering
+\caption{Correspondencia entre objetivos, fases y productos}
+\label{tab:fases}
+\small
+\begin{tabular}{p{2.6cm}p{2.4cm}p{4.2cm}p{3.2cm}p{1.8cm}}
+\hline
+Objetivo específico & Fase & Actividades & Producto & Se reporta en \\
+\hline
+OE1. Identificar y clasificar los documentos exigidos & 1. Inventario y clasificación & Levantar los requisitos de cada trámite; contrastarlos con el SUIT; clasificar cada documento según quién lo expide & Matriz de documentos exigidos, con conteos por categoría & Resultados \\
+OE2. Relacionar los documentos con las bases de datos y los mecanismos de intercambio & 2. Relación con datos y mecanismos & Asociar cada documento a una base de datos o sistema y a un mecanismo de intercambio; asignar los dominios de interoperabilidad que intervienen & Matriz de documentos, fuentes de datos y mecanismos & Resultados \\
+OE3. Diseñar la propuesta de interoperabilidad & 3. Diseño de la propuesta & Seleccionar y ordenar los datos y trámites a conectar; redactar la iniciativa en el formato del PETI & Iniciativa de interoperabilidad para el PETI & Resultados \\
+OE4. Evaluar la propuesta & 4. Evaluación & Contrastar la propuesta con las normas y con las barreras documentadas en los antecedentes & Lista de verificación de coherencia normativa y factibilidad & Resultados y discusión \\
+\hline
+\end{tabular}
+\end{table}
+
+\subsubsection{Fase 1: inventario y clasificación de los documentos exigidos}
+
+La fase parte del catálogo de trámites de la sede electrónica de la Gobernación, que el 18 de octubre de 2026 contenía 80 registros: 27 en línea, 12 parcialmente en línea y 41 presenciales \parencite{gobernaciondelhuila2026tramites}. De la ficha de cada trámite se registrarán los documentos que se exigen al ciudadano \pendiente{DATO PENDIENTE: levantamiento de los requisitos de cada ficha; fecha de consulta}. Esa lista se contrastará con los requisitos que la Gobernación registró en el SUIT, disponibles en el conjunto de datos abierto de Función Pública, que contiene 467 requisitos de tipo documento para la entidad pero no se actualiza desde febrero de 2022 \parencite{funcionpublica2022suit}; las diferencias entre las dos fuentes se registrarán como hallazgo.
+
+Cada documento se clasificará en una de tres categorías, según quién lo expide o custodia, de acuerdo con las distinciones normativas presentadas en el marco teórico: (a) documentos que expide o custodia la propia Gobernación; (b) documentos que expide otra autoridad pública, incluidos los registros públicos, y (c) información que solo puede aportar el ciudadano. Para cada categoría se calcularán el número de documentos y su proporción sobre el total, por trámite y para el conjunto de trámites.
+
+\subsubsection{Fase 2: relación con las bases de datos y los mecanismos de intercambio}
+
+Para los documentos de las categorías (a) y (b), se identificará la base de datos o el sistema de información que contiene el dato que el documento certifica, a partir del documento de datos maestros de referencia de la Gobernación \parencite{gobernaciondelhuila2026datosmaestros} y del catálogo de sistemas de información del PETI 2026 \parencite{gobernaciondelhuila2026peti}. Para cada uno se registrará el mecanismo de intercambio que declara la fuente (servicio web, plataforma X-Road, cargue de archivos u otro) o su ausencia. A cada documento se le asignarán los dominios del Marco de interoperabilidad \parencite{mintic2019marco} en los que tendría que resolverse algo para que la entidad deje de pedirlo. La información sobre la vinculación de la Gobernación al servicio ciudadano digital de interoperabilidad se solicitó a la entidad mediante derecho de petición \pendiente{DATO PENDIENTE: fecha de radicación y respuesta de la Gobernación}.
+
+\subsubsection{Fase 3: diseño de la propuesta}
+
+Con las matrices de las fases 1 y 2, se seleccionarán los datos que conviene conectar y los trámites que se beneficiarían, y se ordenarán por prioridad \pendiente{DATO PENDIENTE: criterios de priorización por definir; por ejemplo, número de trámites que exigen el mismo documento y disponibilidad del dato en una base de la entidad}. La propuesta se redactará como una iniciativa del PETI, porque el Decreto 088 de 2022 dispone que las iniciativas de digitalización o automatización de trámites se incorporen en ese plan y, cuando generan un beneficio directo al ciudadano, se registren como acciones de racionalización en el plan anticorrupción \parencite[Anexo 1, num. 2.3.2]{colombia2022decreto088}. En el diseño se tendrán en cuenta, como criterios, los efectos de las conexiones bilaterales entre sistemas y la estandarización de la información como paso previo, descritos en los antecedentes.
+
+\subsubsection{Fase 4: evaluación de la propuesta}
+
+La propuesta se evaluará mediante revisión documental con una lista de verificación de dos partes. La primera revisa su coherencia normativa: si cada acción corresponde a una obligación o facultad de las normas presentadas en el marco teórico. La segunda revisa su factibilidad frente a las barreras documentadas en los antecedentes, como la disposición de las entidades a publicar sus datos, la calidad de los datos, la capacidad de infraestructura, la capacitación del personal y la protección de los datos personales. El juicio de expertos es opcional y, si se realiza, se describirá en esta sección \pendiente{DATO PENDIENTE: decidir si se aplica juicio de expertos}.
+
+\subsection{Fuentes de información}
+
+Las fuentes son documentos institucionales públicos de la Gobernación del Huila y del Gobierno nacional, y la literatura académica revisada. Se eligieron porque registran los trámites y sus requisitos, los sistemas de información de la entidad o las metas que el estudio debe considerar:
+
+\begin{itemize}
+\item Catálogo de trámites de la sede electrónica de la Gobernación \parencite{gobernaciondelhuila2026tramites}, consultado el 18 de octubre de 2026.
+\item Conjunto de datos del SUIT de Función Pública, filtrado para la Gobernación del Huila \parencite{funcionpublica2022suit}, consultado el 22 de octubre de 2026; última actualización de los datos: 22 de febrero de 2022.
+\item PETI 2026 de la Gobernación, versión 1, aprobado el 27 de enero de 2026 \parencite{gobernaciondelhuila2026peti}. El archivo disponible es un documento escaneado; su texto se obtuvo con reconocimiento óptico de caracteres y las cifras se cotejan con la imagen original antes de citarlas.
+\item Programa de Transparencia y Ética Pública 2026-2027, versión 02, aprobado el 27 de enero de 2026 \parencite{gobernaciondelhuila2026ptep}.
+\item Documento de datos maestros de referencia de la Gobernación \parencite{gobernaciondelhuila2026datosmaestros}, cuya fecha y autoría no constan en el documento.
+\item Plan de Desarrollo Departamental 2024-2027 \parencite{gobernaciondelhuila2024ordenanza} y su informe de seguimiento con corte a junio de 2026 \pendiente{CONFIRMAR: clave bibliográfica del informe de seguimiento}.
+\item Normas nacionales y documentos de MinTIC presentados en el marco teórico.
+\item Respuesta de la Gobernación a la solicitud de información sobre los Servicios Ciudadanos Digitales \pendiente{DATO PENDIENTE: respuesta}.
+\end{itemize}
+
+\subsection{Técnicas de análisis}
+
+Se usa el análisis documental. Los requisitos de cada trámite se registran en una matriz con una fila por documento exigido y columnas para el trámite, la fuente (sede electrónica o SUIT), la categoría de emisor, la base de datos asociada, el mecanismo de intercambio y los dominios de interoperabilidad. Las cuantificaciones son conteos y proporciones simples sobre esa matriz. Cada clasificación se apoya en el texto de la fuente y se registra con su ubicación; una muestra de las clasificaciones será revisada por un segundo revisor \pendiente{DATO PENDIENTE: tamaño de la muestra y quién hace la segunda revisión}.
+
+\subsection{Procedimiento de la revisión de literatura}
+
+La revisión de literatura siguió un protocolo fijado antes de buscar y aprobado el 28 de octubre de 2026, con cuatro metas: conceptos, marcos y modelos, antecedentes y evidencia contraria. Se buscó en Consensus y SciSpace y, mediante búsqueda dirigida, en SciELO, Redalyc, Dialnet y Google Académico, además de los portales del BID, la OCDE, la CEPAL, la Comisión Europea, MinTIC y Función Pública, con cadenas en español y en inglés, en tres rondas realizadas entre el 28 y el 29 de octubre de 2026. Se incluyeron documentos de 2010 a 2026 en español, inglés y portugués, y obras anteriores solo si eran fundacionales; se admitieron artículos revisados por pares, libros y capítulos académicos, informes de organismos multilaterales, tesis de maestría o doctorado y documentos oficiales colombianos; se excluyeron los trabajos sobre interoperabilidad clínica o técnica sin relación con la administración pública, los blogs y las páginas comerciales. De 159 registros únicos se incluyeron 65, y 8 quedaron pendientes por falta de datos bibliográficos. Los datos bibliográficos se confirmaron en Crossref. Cada búsqueda y cada decisión de inclusión o exclusión quedaron registradas en una bitácora \pendiente{DATO PENDIENTE: número del anexo con la bitácora}.
+
+\subsection{Limitaciones}
+
+\begin{itemize}
+\item El SUIT, registro oficial de los trámites, no se actualiza en datos abiertos desde febrero de 2022, y el catálogo de la sede electrónica, aunque es actual, no es el registro oficial. Por eso se usan ambos y se reportan sus diferencias.
+\item El estudio solo usa información pública. No verifica qué datos contienen realmente los sistemas internos de la Gobernación ni cómo se intercambian; para ello depende de lo que declaran sus documentos y de la respuesta a la solicitud de información.
+\item El documento de datos maestros no tiene fecha ni autoría, y el PETI 2026 se leyó a partir de imágenes escaneadas.
+\item Los índices del FURAG que se citan son autodeclarados por las entidades.
+\item La revisión de literatura no completó el rastreo de las referencias citadas por los antecedentes, y parte de la evidencia que matiza se leyó solo en resumen.
+\item La clasificación de los documentos la realiza un solo investigador; la revisión de una muestra por un segundo revisor reduce, pero no elimina, este sesgo.
+\end{itemize}
+
+\subsection{Consideraciones éticas y de acceso a la información}
+
+El estudio usa solo información pública o solicitada mediante derecho de petición. No recoge datos personales de ciudadanos; si alguna fuente los contiene, no se transcriben al documento.

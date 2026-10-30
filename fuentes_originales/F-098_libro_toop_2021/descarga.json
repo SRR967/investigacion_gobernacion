@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "id": "F-098",
+  "slug": "libro_toop_2021",
+  "archivo": "fuentes_originales/F-098_libro_toop_2021/978-3-030-79851-2.pdf",
+  "texto": null,
+  "url_origen": "https://doi.org/10.1007/978-3-030-79851-2",
+  "url_final": "https://doi.org/10.1007/978-3-030-79851-2",
+  "fecha_consulta": "2026-10-30",
+  "sha256": "8b64d0c2ec3a2bc4c087036fdb92c05ebd14967162856cda23e43366da404991",
+  "bytes": 19544013,
+  "tipo": "pdf",
+  "nombre_original": "978-3-030-79851-2.pdf",
+  "content_type": null,
+  "via": "urllib",
+  "last_modified_servidor": null,
+  "paginas": null,
+  "paginas_ocr": [],
+  "advertencias": [
+    "No se pudo compilar el extractor de texto (swiftc no disponible: [Errno 2] No such file or directory: 'swiftc'). El original se conserva sin texto extraído."
+  ]
+}

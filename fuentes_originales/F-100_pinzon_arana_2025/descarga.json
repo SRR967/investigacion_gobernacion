@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "id": "F-100",
+  "slug": "pinzon_arana_2025",
+  "archivo": "fuentes_originales/F-100_pinzon_arana_2025/13394-RevTERRITORIOS-52_FPinzon_et_al.pdf",
+  "texto": null,
+  "url_origen": null,
+  "url_final": null,
+  "fecha_consulta": "2026-10-30",
+  "sha256": "731407ec410f7cd2956732d76f02964d7b9af7ccad2ef32fe79ae3bab6515864",
+  "bytes": 618104,
+  "tipo": "pdf",
+  "nombre_original": "13394-RevTERRITORIOS-52_FPinzon_et_al.pdf",
+  "content_type": null,
+  "via": "urllib",
+  "last_modified_servidor": null,
+  "paginas": null,
+  "paginas_ocr": [],
+  "advertencias": [
+    "No se pudo compilar el extractor de texto (swiftc no disponible: [Errno 2] No such file or directory: 'swiftc'). El original se conserva sin texto extraído."
+  ]
+}

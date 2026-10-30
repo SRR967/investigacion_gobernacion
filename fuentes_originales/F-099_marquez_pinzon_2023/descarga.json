@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "id": "F-099",
+  "slug": "marquez_pinzon_2023",
+  "archivo": "fuentes_originales/F-099_marquez_pinzon_2023/Articulo_3.pdf",
+  "texto": null,
+  "url_origen": null,
+  "url_final": null,
+  "fecha_consulta": "2026-10-30",
+  "sha256": "b3702bf28d62660a299cfe8aef87caf6c874becb72c85d8673b2d6178ec989aa",
+  "bytes": 3159586,
+  "tipo": "pdf",
+  "nombre_original": "Articulo_3.pdf",
+  "content_type": null,
+  "via": "urllib",
+  "last_modified_servidor": null,
+  "paginas": null,
+  "paginas_ocr": [],
+  "advertencias": [
+    "No se pudo compilar el extractor de texto (swiftc no disponible: [Errno 2] No such file or directory: 'swiftc'). El original se conserva sin texto extraído."
+  ]
+}

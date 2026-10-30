@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "id": "F-101",
+  "slug": "morales_moreno_2015",
+  "archivo": "fuentes_originales/F-101_morales_moreno_2015/2846012.2846030.pdf",
+  "texto": null,
+  "url_origen": "https://doi.org/10.1145/2846012.2846030",
+  "url_final": "https://doi.org/10.1145/2846012.2846030",
+  "fecha_consulta": "2026-10-30",
+  "sha256": "f658d6cc11eb7053a6a633235a0e969a967be6654246e77a6807012f8972b8be",
+  "bytes": 645026,
+  "tipo": "pdf",
+  "nombre_original": "2846012.2846030.pdf",
+  "content_type": null,
+  "via": "urllib",
+  "last_modified_servidor": null,
+  "paginas": null,
+  "paginas_ocr": [],
+  "advertencias": [
+    "No se pudo compilar el extractor de texto (swiftc no disponible: [Errno 2] No such file or directory: 'swiftc'). El original se conserva sin texto extraído."
+  ]
+}

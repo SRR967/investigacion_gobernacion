@@ -1,0 +1,2576 @@
+=== p1 ===
+Mundo Fesc
+
+E-ISSN: 2216-0388 P- ISSN: 2216-0353
+
+Artículo Original
+
+Modelo de gestión tecnológica de los servicios y
+trámites que se prestan en las Alcaldías.
+Technological management model of the services and
+procedures provided by the municipalities.
+Recibido: 22 de julio de 2022
+Aprobado: 28 de noviembre de 2022
+Forma de citar: D.A. Márquez Pinzón, T. Velásquez Pérez, A. Mauricio Puentes, “Modelo de gestión
+tecnológica de los servicios y trámites que se prestan en las Alcaldías”, Mundo Fesc, vol 13, no. 26, pp.
+40-73, 2023. https://doi.org/10.61799/2216-0388.1318
+Duvan Andrey Márquez Pinzón*
+Candidato a magister de gobierno de TI
+damarquezp@ufpso.edu.co
+Universidad Francisco de Paula Santander
+Ocaña, Colombia
+Torcoroma Velásquez Pérez
+Doctora en educación
+tvelasquezp@ufpso.edu.co
+Universidad Francisco de Paula Santander
+Ocaña, Colombia
+Andrés Mauricio Puentes
+Magister en ingeniería de sistemas y computación
+ampuentesv@misena.edu.co
+Servicio Nacional de Aprendizaje SENA
+Cúcuta, Colombia
+
+*Autor para correspondencia:
+damarquezp@ufpso.edu.co
+
+© 2023. Fundación de Estudios Superiores Comfanorte.
+
+Vol 13, no. 26, pp. 40-73, 2023
+
+=== p2 ===
+Modelo de gestión tecnológica de los servicios y trámites que se prestan en
+las Alcaldías.
+
+Resumen
+
+Modelo
+de gestión
+tecnológica de
+los servicios y
+trámites que se
+prestan en las
+Alcaldías.
+
+Las administraciones municipales al referirse en términos
+de innovación pública, deben regirse bajo la política de
+gobierno digital establecidas por el Ministerio de las
+tecnologías de la información y las comunicaciones; la
+aplicación de dichas políticas no es tan fácil en regiones
+de municipios con programas de desarrollo con enfoque
+territorial (PDET). Esta investigación enmarcada bajo el
+enfoque cuantitativo tiene como propósito estructurar
+un modelo de gestión de servicios tecnológicos que
+incorpore políticas y lineamientos bajo estándares de
+calidad que permitan integrar una estructura funcional
+y eficiente en la cadena de valor de los procesos de
+tecnologías de la información, enfocados en la política
+pública de racionalización de trámites y servicios,
+asegurando de esa manera, alineación en los objetivos del
+negocio con el uso e implementación de estrategias TI.
+Se partió del diagnóstico del estado actual de los servicios
+y trámites que se presentan en las alcaldías de la provincia
+de Ocaña a nivel de gestión tecnológica, verificando la
+brecha que se presenta entre las entidades del orden
+nacional y las del orden territorial con base en el índice de
+gobierno digital y desempeño institucional. Continuando
+con el análisis de los resultados obtenidos por medio del
+instrumento de medición aplicado a las entidades públicas
+y, por último, se identificaron los objetivos de gestión
+priorizados en el cruce de metas de alineamiento con
+las metas empresariales bajo el marco de trabajo COBIT
+2019 y que, además, estructuraran el modelo planteado.
+
+Palabras clave: Transformación digital,
+gestión de servicios, racionalización
+de
+trámites,
+gobierno
+digital.
+
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+41
+
+=== p3 ===
+Duvan Andrey Márquez Pinzón, Torcoroma Velásquez Pérez, Andrés
+Mauricio Puentes
+
+Abstract
+
+Technological
+management
+model of the
+services and
+procedures
+provided by the
+municipalities.
+
+Keywords: Digital transformation, service
+management, rationalization of procedures,
+digital government.
+
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+When referring to public innovation, municipal
+administrations must be governed by the digital government
+policy established by the Ministry of Information and
+Communications Technologies; The application of these
+policies is not so easy in municipal regions with development
+programs with a territorial approach (PDET). This research,
+framed under the quantitative approach, aims to structure a
+technological services management model that incorporates
+policies and guidelines under quality standards that allow
+the integration of a functional and efficient structure in the
+value chain of information technology processes, focused
+on in the public policy of rationalization of procedures
+and services, thus ensuring alignment in business
+objectives with the use and implementation of IT strategies.
+The starting point was a diagnosis of the current state of the
+services and procedures presented in the municipalities
+of the province of Ocaña at the level of technological
+management, verifying the gap that exists between the
+entities of the national order and those of the territorial order
+based on the digital government index and institutional
+performance. Continuing with the analysis of the results
+obtained through the measurement instrument applied
+to public entities and, finally, the prioritized management
+objectives were identified at the intersection of alignment
+goals with business goals under the COBIT 2019
+framework and that also structured the proposed model.
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+42
+
+=== p4 ===
+Modelo de gestión tecnológica de los servicios y trámites que se prestan en
+las Alcaldías.
+
+Introducción
+Los ciudadanos se han convertido año tras año en un público cada vez más exigente, ya
+que requieren mayor transparencia en las gestiones públicas; es por ello que por medio
+de una entidad técnica, la cual apoya la planificación de políticas públicas (DNP) a través
+del grupo de modernización del Estado (GME), lidera políticas de servicio al ciudadano
+y mejora regulatoria como estrategia de innovación pública para optimizar la eficiencia y
+eficacia de la prestación de procesos y trámites del Estado.
+Con el propósito de realizar seguimiento y aplicar evaluaciones en la prestación de
+servicios, se utiliza una herramienta adecuada y pertinente de captura de información
+identificada como Encuesta de Percepción Ciudadana (EPC), donde se encuestaron 2.612
+personas, alcanzando un porcentaje superior al 98%, garantizando la representatividad y
+el poder estadístico de acuerdo con la muestra calculada [1].
+El informe de resultados analizado por medio de la figura 1, nos indica que más del
+70% de los ciudadanos encuestados afirman que el Estado debe mejorar la prestación
+de servicios. Esto indica que, aparte de los retos existentes en materias particulares
+como innovación pública, mejora regulatoria, eficiencia institucional, se debe fortalecer
+y potencializar la prestación de servicios e implementación de políticas en asuntos
+transversales.
+
+Figura 1. Respuesta sobre Mejorar los servicios del Estado.
+Fuente: Obtenido de [1].
+
+Basado en los resultados anteriores, las entidades territoriales ubicadas en el
+departamento del norte de Santander tampoco son ajenas a esta mala percepción
+que emite la ciudadanía; tal es el caso del objeto del tema de estudio de la presente
+investigación, las Alcaldías de la provincia de Ocaña, entre las cuales encontramos las
+pertenecientes a los municipios del Carmen, Convención, Ocaña y San Calixto.
+Estas administraciones municipales hablando en términos de innovación publica, deben
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+43
+
+=== p5 ===
+Duvan Andrey Márquez Pinzón, Torcoroma Velásquez Pérez, Andrés
+Mauricio Puentes
+
+regirse bajo la nueva política que fomenta el aprovechamiento de las TIC en el ámbito
+público y que es comúnmente conocida como política de gobierno digital, establecidas
+por el MinTIC, una importante estrategia de generación de capacidades que cumple con
+su rol de proporcionar estándares tecnológicos, metodologías innovadoras y lineamientos
+generales que optimicen la gestión de las estructuras públicas del Estado y que además,
+permitan la resolución de problemas con un enfoque centrado en la ciudadanía [2]. Esta
+política forma parte del modelo integrado de planeación y gestión (MIPG) y se integra
+con la política de gobernanza y efectividad institucional. Dicho desempeño institucional
+se monitorea a través de una herramienta en línea denominada formulario único reporte
+de avances de la gestión (FURAG), y para el caso de las entidades seleccionadas, se
+evalúa el índice de gobierno digital en torno al nivel de implementación de las directrices
+y lineamientos de la política de gobierno digital [3].
+La metodología usada para el cálculo del índice de desempeño institucional se realiza a
+partir de los datos recopilados en las respuestas del FURAG asociadas, y luego se aplica
+un modelo de respuesta graduada. La fórmula usada en (1):
+
+Donde,
+𝜃𝑖: representa el desempeño de la entidad 𝑖
+𝑥: representa el número de categorías 𝑘 del ítem 𝑗  𝑗
+𝛼: es el parámetro de discriminación del ítem 𝑗  𝑗
+𝛿: es el parámetro que define la dificultad del ítem 𝑗  𝑗
+
+El análisis realizado de los datos obtenidos en el índice de desempeño institucional en las
+Alcaldías seleccionadas se puede apreciar en la representación de la figura 2.
+
+Figura 2. Índice de desempeño institucional de las entidades seleccionadas.
+Fuente: Elaboración propia basada en [3].
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+44
+
+=== p6 ===
+Modelo de gestión tecnológica de los servicios y trámites que se prestan en
+las Alcaldías.
+
+Ahora por medio de la figura 3, se puede apreciar el resultado obtenido de las entidades
+seleccionadas en la investigación y de esa manera conocer el desempeño de cada una
+de las entidades públicas en materia de gobierno digital.
+
+Figura 3. Índice de gobierno digital de las entidades seleccionadas.
+Fuente: Elaboración propia basada en [3].
+
+De acuerdo a los resultados mencionados anteriormente, a pesar que el Estado ha
+realizado un gran trabajo con base a la implementación de lineamientos y metodologías
+de innovación, las entidades aún mantienen diferencias notables que a su vez mantienen
+la mala percepción sobre las entidades públicas del estado, con lo cual surge la necesidad
+de avanzar en los niveles de madurez de las entidades con base a la prestación de sus
+servicios por medio de un modelo de gestión de servicios tecnológicos enfocado en
+actividades de racionalización de trámites y de esa manera fortalecer la relación ciudadano
+– Estado, asegurando un impacto positivo en la calidad de vida de las comunidades del
+territorio.
+
+Materiales y métodos
+El tipo de investigación que orienta el presente proyecto se enmarca en una investigación
+bajo el método de tipo descriptivo, tal como lo señala [4], en su tesis, la investigación
+descriptiva se refiere a catalogar las características identificables de múltiples
+componentes y sus interrelaciones. Su propósito se basa en delimitar las condiciones
+que configuran la situación problema utilizando métodos como la observación directa, la
+recolección de datos y métodos como los cuestionarios, junto a documentos elaborados
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+45
+
+=== p7 ===
+Duvan Andrey Márquez Pinzón, Torcoroma Velásquez Pérez, Andrés
+Mauricio Puentes
+
+por otros investigadores; Estos se utilizan principalmente para muestreo buscando
+recopilar datos e información obtenidos mediante codificación, tabulación y análisis
+estadístico.
+El paradigma de investigación es de naturaleza cuantitativa, basado en el supuesto de
+que es posible que todos los datos puedan ser cuantificados [5]. Para ello, se apoya
+en los fundamentos del positivismo y de la ciencia nomotética (el establecimiento de
+leyes generales), que tienden a centrar el análisis en las manifestaciones externas de la
+realidad [6].
+Para el desarrollo de la investigación se comenzó diagnosticando el estado actual de los
+servicios y trámites que se presentan en las alcaldías de la provincia de Ocaña a nivel de
+gestión tecnológica aplicando estándares internacionales para identificar las falencias
+presentadas. Para ello se caracterizaron los servicios y procedimientos de cada alcaldía,
+de tal manera que luego se elaboró ​​una herramienta para recolectar información a través
+de un cuestionario y su aplicación, y finalmente se analizaron los resultados obtenidos.
+Posteriormente, se estructuró un modelo de gestión tecnológica para las alcaldías de
+la provincia de Ocaña incorporando los elementos necesarios para mejorar la calidad
+en la gestión de los servicios que se ofrecen en las mismas. En él, se identificaron los
+elementos del modelo y su posterior diseño.
+
+Resultados y discusión
+Diagnóstico del estado actual de los servicios y trámites que se presentan en las
+alcaldías de la provincia de Ocaña
+Para diagnosticar el estado actual de los servicios de las alcaldías, debemos tener claridad
+que estos deben estar radicados e inscritos en la plataforma sistema único de información
+de trámites (SUIT), el cual es un repositorio y única fuente válida de información de los
+servicios que las instituciones de carácter público del estado ofrecen a la sociedad.
+Basado en ello, se decide analizar en el portal SUIT [7], los avances de cada municipio
+con base en el avance en la inscripción de trámites, arrojando los siguientes resultados:
+
+Figura 4. Avance de inscripción de trámites de las alcaldías seleccionada.
+Fuente: Elaboración propia basada en [7].
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+46
+
+=== p8 ===
+Modelo de gestión tecnológica de los servicios y trámites que se prestan en
+las Alcaldías.
+
+En la figura 4 se puede apreciar detalladamente como se encuentra el proceso de
+inscripción del inventario de trámites de cada entidad territorial, donde el municipio de
+el Carmen, ha completado con un avance del 100% todos sus trámites, a diferencia del
+municipio de Convención, el cual lleva un avance del 85%, el municipio de Ocaña con
+un avance del 70% y por último el municipio de San Calixto con un avance del 50%.
+Estos resultados indican que cada administración municipal ha realizado su trabajo y se
+espera que prontamente los demás municipios cumplan con un avance del 100% en la
+inscripción de todos sus trámites.
+Aplicación del instrumento de medición para conocer el estado actual de la Alcaldías
+de la provincia de Ocaña.
+El instrumento de medición fue diseñado con 20 preguntas para identificar la situación
+actual en torno a la racionalización de trámites y servicios, ligada actividades y procesos
+de transformación digital y las tecnologías de la información de la entidad, lo que permitirá
+hacer un diagnóstico con base a los resultados obtenidos por esta herramienta. Utilizando
+la encuesta definida, la cual se aplicó a líderes de oficinas de banco de proyectos (PMO)
+o secretarios de planeación, lideres de gobierno digital o enlaces TIC de las entidades
+territoriales de la provincia de Ocaña, se envió el formulario a 6 profesionales, de los
+cuales 5 completaron la encuesta y los resultados son los siguientes.
+
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+47
+
+=== p9 ===
+Duvan Andrey Márquez Pinzón, Torcoroma Velásquez Pérez, Andrés
+Mauricio Puentes
+
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+48
+
+=== p10 ===
+Modelo de gestión tecnológica de los servicios y trámites que se prestan en
+las Alcaldías.
+
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+49
+
+=== p11 ===
+Duvan Andrey Márquez Pinzón, Torcoroma Velásquez Pérez, Andrés
+Mauricio Puentes
+
+El 14,28% de los consultados indican que la mejora idónea para prestar mejores
+servicios y tramites lo enfocan en tecnologías, el 14,28% siguiente lo asocian a mejoras
+administrativas y el 71,42% lo asocian a que aplican a ambos procesos, tanto tecnológicos
+como administrativos (figura 5).
+
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+50
+
+=== p12 ===
+Modelo de gestión tecnológica de los servicios y trámites que se prestan en
+las Alcaldías.
+
+Figura 5. Resultados de la aplicación del instrumento de medición.
+
+El 57.1% de los funcionarios consultados conocen el estándar ITIL, el 14.28% conocen
+COBIT, el 14.28% conocen FEA, y el 14.28 restante no conocen dichos estándares (figura
+6)
+
+Figura 6. Resultados de la aplicación del instrumento de medición.
+
+El análisis permite determinar la validez de los resultados del estudio como contribución a
+los cambios que se deben tener en cuenta para cumplir con los objetivos de las entidades
+territoriales. Basado en la primera pregunta se aprecia que las Alcaldías de la provincia
+de Ocaña han realizado responsablemente el plan estratégico de las tecnologías de la
+información y las comunicaciones (PETI), que permitirá gestionar eficazmente los servicios
+y tramites por medio de estrategias enfocadas en las tecnologías de la información.
+En la segunda pregunta, podemos apreciar que no contamos con la misma suerte basada
+en el plan de transformación digital, ya que ninguna entidad cuenta con dicho artefacto
+y solo una se encuentra en proceso de desarrollo, por lo cual se recomienda fomentar
+este tipo de estrategias para que las autoridades locales puedan capitalizar la innovación
+digital y utilizar las nuevas tecnologías reinventando o modificando procesos, productos
+o servicios para entregar valor en el ámbito público.
+En la tercera pregunta, se puede concluir que más de la mitad de las entidades
+
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+51
+
+=== p13 ===
+Duvan Andrey Márquez Pinzón, Torcoroma Velásquez Pérez, Andrés
+Mauricio Puentes
+
+consultadas no se encuentran preparadas tanto culturalmente como tecnológicamente
+para afrontar los retos de transformación digital. Los encuestados concuerdan en que
+dichas falencias se asocian a dos problemáticas generales, la falta de capital humano
+profesional especializado que permita una mejor transición de estrategias innovadoras
+y la poca asignación de recursos presupuestales que permitan suplir deficiencias en
+software y equipos.
+En la cuarta pregunta, relacionada con las brechas que actualmente se presentan en
+las entidades públicas, se concluye que el personal de planta es unas de las causas que
+presentan resistencias al cambio, lo cual ocasiona un conflicto funcional en los procesos
+internos. Dicha problemática la asocian a falta de interés de los funcionarios, ya que se
+encuentran en procesos de jubilación; también lo asocian a la falta de capacitación y
+rotación del personal. Es por ello que se sugiere poner en marcha planes de capacitaciones
+óptimos y eficientes que incentiven a los funcionarios y garanticen una buena adopción
+de estrategias tecnológicas.
+En la quinta pregunta relacionada con las habilidades duras, los resultados se asocian
+a la pregunta anterior, donde los encuestados mencionan en altos porcentajes una baja
+calificación para los funcionarios, ya que las aptitudes que presentan generan conflictos
+en la entidad, lo que no permite fortalecer competencias y de esa manera resistirse a
+cambios organizacionales que impliquen estrategias enfocadas en las tecnologías de la
+información.
+En la sexta pregunta se puede concluir que las entidades no cuentan con un efectivo
+plan de comunicaciones y gestión del cambio, lo cual dificulta la efectiva ejecución de las
+diferentes estrategias que se pretenden implementar. Es por ello que se sugiere contar
+con este tipo de artefactos que permitan una efectiva alineación entre procesos y cultura
+organizacional. Cabe aclarar que los cambios no solamente se lideran desde la parte
+directiva, si no también que implica a toda la organización. De esta forma se obtiene
+una clara visión de las necesidades de la entidad y así garantizar la continuidad de las
+operaciones comerciales del negocio.
+En la séptima pregunta se puede concluir que no todas las organizaciones conocen el
+decreto 088 del 24 de enero de 2022, lo cual sugiere capacitar a los encargados del mismo,
+ya que se debe tener claridad acerca de las normativas relacionadas con los procesos
+digitales y automatización de tramites. A su vez se pudo apreciar en los funcionarios
+que contestaron positivamente al conocer el decreto y sus respuestas varían, pero son
+enfocadas en ideales del mismo decreto.
+En la octava pregunta el resultado es similar a la pregunta anterior, donde más de la
+mitad de los encuestado manifiestan conocer los plazos límites de cumplimiento, pero
+al indicarles mencionar las fechas exactas de los plazos, dan fechas totalmente distintas
+y erróneas, lo cual permite sugerir capacitar a los funcionarios de dichas áreas y tener
+claridad de las los plazos establecidos.
+
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+52
+
+=== p14 ===
+Modelo de gestión tecnológica de los servicios y trámites que se prestan en
+las Alcaldías.
+
+En la novena pregunta se concluye que las entidades no cuentan con un cronograma o
+un plan definido para adoptar los procesos digitales y la automatización de servicios. La
+sugerencia en este caso aplica con la pregunta anterior.
+En la décima pregunta se concluye que se tiene una amplia claridad por parte de los
+funcionarios en torno a la cantidad de trámites que se tienen registrados en el inventario
+del sistema único de información de trámites y servicios de la administración pública
+colombiana (SUIT).
+En la onceava pregunta se concluye que se tiene claridad por parte d ellos funcionarios
+encuestados en torno a la cantidad de tramites que se encuentran registrados en el
+sistema único de información de trámites y servicios de la administración pública
+Colombia, ero enfocados en los que se prestan totalmente en línea.
+En la doceava pregunta se concluye que no todas las entidades han implementado
+políticas de racionalización de tramites (simplificación, estandarización, eliminación,
+optimización y automatización). En esta ocasión las que contestaron negativamente
+concuerdan que no se han adelantado estos procesos por alto costo de inversión y por el
+tiempo de adaptación. Es por ello que se sugiere a las altas direcciones de las entidades
+tener un mayor compromiso con la transformación digital de sus alcaldías, eso incluye
+inversión y voluntad de los encargados para poder llevar a cabo este tipo de estrategias
+tan importantes para garantizar una mejor prestación de servicios a la comunidad.
+En la treceava pregunta se concluye tener claridad en los beneficios que se pueden
+conseguir en la implementación de racionalización de tramites. En los escogidos se
+presenta la mejora en la gestión de calidad del servicio, el cual es uno de los principales
+factores de su implementación.
+En la catorceava pregunta se concluye que los funcionarios conocen las fechas
+correspondientes a los términos definidos en la normatividad bajo la ley 1755 del 30 de
+junio de 2015. Llama la atención en dos de las cinco respuestas, en las cuales manifiestan
+plazos que son erróneos ya que no concuerdan con los establecidos en dicha normatividad,
+por lo cual se sugiere una mejor interpretación de los funcionarios y comprensión de la
+misma.
+En la quinceava pregunta, se concluye que la calificación de los funcionarios en torno al
+cumplimiento de los plazos establecidos es el correcto.
+En la dieciseisava pregunta, se concluye que no todas las entidades cuentan con
+herramientas digitales que permitan realizar control, seguimiento y evaluación basado en
+la calidad de los servicios que se ofertan por parte de las alcaldías, por lo cual se sugiere
+disponer de herramientas tecnológicas que garanticen una óptima respuesta de calidad
+para cada uno de los servicios que se ofrecen a la comunidad y de esa manera fortalecer
+la relación ciudadano-entidad.
+
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+53
+
+=== p15 ===
+Duvan Andrey Márquez Pinzón, Torcoroma Velásquez Pérez, Andrés
+Mauricio Puentes
+
+En la decimoséptima pregunta se concluye que la calidad de la prestación de los tramites
+no es alta, de hecho, la calificación varía entre media y muy baja. Es por ello que se
+sugiere acatar las recomendaciones anteriores y de esa manera mejorar procesos y
+prestar tramites eficientes y de calidad.
+En la decimoctava pregunta, se concluye que se han implementado metodologías que
+apoyen diferentes proyectos que impulsen la arquitectura empresarial de la organización.
+Dentro de ellas se encuentras la guía metodologías de la función pública, SUIT 3.0,
+racionalización de tramites, guías del MinTIC.
+En la decimonovena pregunta los profesionales encuestados manifiestan conocer con
+una mayor cantidad el estándar ITIL por encima de COBIT y FEA.
+En la última pregunta se concluye que para garantizar una mejor prestación de los
+tramites de las alcaldías se debe mejorar en diferentes procesos tanto tecnológicos
+como administrativos, son varios puntos que se deben analizar guiados del marco de
+transformación digital. Es importante mencionar evaluar no solo procesos y tecnologías,
+la cultura organización y la analítica de datos son fundamentales y se deben trabajar en
+conjunto para afianzar y apalancar la transformación digital de las alcaldías.
+De manera general son diferentes sugerencias que se presentan en este análisis, pero
+se debe complementar dicho instrumento con un dato bastante importante como lo es
+nivel de madurez de las entidades, así como lo menciona [8], donde a través de 3 ejes
+fundamentales, entre los que encontramos los servicios ciudadanos digitales, arquitectura
+y seguridad de la información podemos ver los factores en los cuales carecen la entidades
+objetos de estudio en esta investigación y se puede apreciar en la figura 7.
+
+Figura 7. Nivel de madurez de las Alcaldías de la provincia de Ocaña.
+Fuente: Obtenido de [2].
+
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+54
+
+=== p16 ===
+Modelo de gestión tecnológica de los servicios y trámites que se prestan en
+las Alcaldías.
+
+Ahora para el desarrollo del articulo enfocándolo en el caso de estudio de la alcaldía de
+Ocaña, el cual presenta la mayor entidad suministradora de información, presenta por
+medio de la figura 8, la calificación detallada para cada uno de los ejes mencionados
+anteriormente, donde se diagnostica que se debe articular el trabajo de las diferentes
+áreas encargadas que permitan fortalecer la prestación de servicios junto con un
+efectivo plan de transformación digital y de esa manera garantizar eficientes trámites a
+la comunidad en general.
+
+Figura 8. Nivel de madurez de la Alcaldía de Ocaña.
+Fuente: Obtenido de [2].
+
+Validación e incorporación de estándares dentro de los procesos de gestión de TI
+basados en COBIT 2019.
+COBIT es un marco enfocado en la organización para el gobierno y la gestión de la
+tecnología de la información (TI) empresarial [9]. COBIT define diferentes componentes
+para crear y mantener un sistema de gobernanza basado en elementos como procesos,
+estructura organizacional, políticas y procedimientos, flujo de información, cultura y
+comportamiento, habilidades e infraestructura, elementos llamados catalizadores en el
+modelo.
+Además, define los factores de diseño que una entidad debe considerar al crear un
+sistema de gobierno que se ajuste a sus necesidades, abordando así las cuestiones de
+gobierno agrupando los componentes de gobierno relacionados en objetivos de gobierno
+y gestión que puedan gestionarse de acuerdo con el nivel requerido de capacidad (figura
+9).
+
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+55
+
+=== p17 ===
+Duvan Andrey Márquez Pinzón, Torcoroma Velásquez Pérez, Andrés
+Mauricio Puentes
+
+Figura 9. Marco de referencia de procesos COBIT 2019.
+Fuente: Obtenido de [10].
+
+Estándar ITIL
+ITIL es una guía de buenas prácticas para la gestión de servicios de tecnologías de la
+información (figura 10) que propone buenas prácticas como herramienta para respaldar y
+mejorar la gestión de servicios de una organización. Estas entidades pueden pertenecer
+a cualquier sector empresarial dado que su enfoque es el seguimiento y la mejora de
+sus procesos de gestión, enfocado a la mejora de la calidad de los servicios y productos
+proporcionados a sus clientes, sean cuales sean [11].
+
+Figura 10 Estructura de gestión de servicios de TI.
+Fuente: Obtenido de [11].
+
+ISO 20000
+La norma ISO 20000, conocida como calidad de servicios de TI, es una poderosa
+herramienta que proporciona a las organizaciones información continua sobre el estado
+real de la prestación de servicios. También monitorea el proceso de cambio y recomienda
+acciones de mejora. Por ello, se cataloga como una herramienta clave para generar
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+56
+
+=== p18 ===
+Modelo de gestión tecnológica de los servicios y trámites que se prestan en
+las Alcaldías.
+
+confianza en las tecnologías de la información y mirar al futuro [9].
+Diseño del modelo de gestión de servicios tecnológicos para las alcaldías de la
+provincia de Ocaña.
+De acuerdo a la priorización reflejada en las figuras 11 y 12, donde se apreciar el cruce de
+metas de alineamiento con las metas empresariales, se hace efectivo y necesario trabajar
+este modelo bajo los objetivos de gestión APO08 y BAI05 y sus respectivas prácticas de
+gestión.
+
+Figura 11. Cascada de metas – cruce de metas de alineamiento con metas empresariales. Fuente:
+Obtenido de COBIT y evaluado por el autor.
+
+Figura 12. Cascada de metas – Tabla de relacionamiento: Metas de alineamiento – Objetivos de
+gobierno y gestión. Fuente: Obtenido de COBIT y evaluado por el autor.
+
+Es por ello que se decide evaluar dichos objetivos enfocados en la entidad de referencia,
+para este caso es la alcaldía de Ocaña, quien representa en esta investigación la mayor
+fuente suministradora de información. Para este caso la evaluación va dirigida en las
+actividades de cada una de las prácticas de gestión relacionados con los objetivos de
+gestión anteriormente mencionados (tabla I).
+
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+57
+
+=== p19 ===
+Duvan Andrey Márquez Pinzón, Torcoroma Velásquez Pérez, Andrés
+Mauricio Puentes
+Tabla I. Objetivos y prácticas de gestión a evaluar.
+
+Fuente: Elaboración propia basada en COBIT 2019.
+Tabla II. Evaluación de la alcaldía municipal de Ocaña enfocadas en las actividades de cada una de las
+prácticas de gestión.
+
+APO08 Gestionar las relaciones
+
+PRÁCTICA
+DE
+GOBIERNO
+
+ACTIVIDAD
+
+NIVEL
+DESEADO
+
+Nivel
+1
+
+2
+
+3
+
+Cumple
+4
+
+5
+
+SI
+
+Identificar a las partes interesadas del negocio, sus
+intereses y áreas de responsabilidad.
+
+2
+
+Revisar la dirección, problemas, objetivos estratégicos
+actuales de la empresa y su alineamiento con la
+arquitectura empresarial.
+
+2
+
+x
+
+x
+
+Entender el entorno de negocio, limitaciones o
+problemas actuales de los procesos, expansión o
+contracción geográfica y factores de la industria/
+regulatorios.
+
+2
+
+x
+
+x
+
+Mantener un conocimiento de los procesos
+empresariales y actividades asociadas. Entender los
+patrones de la demanda que se relacionan con los
+volúmenes y uso del servicio.
+
+2
+
+x
+
+x
+
+Gestionar expectativas garantizando que las unidades
+de negocio entiendan las prioridades, dependencias,
+limitaciones financieras y la necesidad de programar
+solicitudes.
+
+3
+
+x
+
+x
+
+Clarificar las expectativas empresariales para los
+servicios y soluciones habilitados por I&T. Asegurar
+que los requisitos vengan definidos con criterios y
+métricas de aceptación empresarial.
+
+4
+
+x
+
+x
+
+Confirmar que existe un acuerdo entre TI y todos
+los departamentos de la empresa acerca de las
+expectativas y cómo se medirán. Asegurar que
+este acuerdo sea confirmado por todas las partes
+interesadas.
+
+4
+
+x
+
+x
+
+Posicionar TI como un socio del negocio Jugar un
+papel proactivo a la hora de identificar y comunicarse
+con partes interesadas clave acerca de oportunidades,
+riesgo y limitaciones. Entre ellos se incluyen
+tecnologías emergentes, servicios y modelos de
+procesos empresariales actuales.
+
+3
+
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+x
+
+NO
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+x
+
+58
+
+=== p20 ===
+Modelo de gestión tecnológica de los servicios y trámites que se prestan en
+las Alcaldías.
+Continuación Tabla II. Evaluación de la alcaldía municipal de Ocaña enfocadas en las actividades de
+cada una de las prácticas de gestión.
+
+APO08 Gestionar las relaciones
+
+PRÁCTICA
+DE
+GOBIERNO
+
+ACTIVIDAD
+
+NIVEL
+DESEADO
+
+Nivel
+1
+
+2
+
+3
+
+Cumple
+4
+
+5
+
+SI
+
+NO
+
+Colaborar en las principales iniciativas nuevas
+con gestión del portafolio, programas y proyectos.
+Garantizar la participación de la organización
+de TI desde el inicio de una nueva iniciativa
+mediante consejos y recomendaciones que añadan
+valor (p. ej. desarrollo de casos de negocio,
+definición de requisitos, diseño de soluciones) y
+responsabilizándose de los flujos de trabajo de I&T.
+
+3
+
+x
+
+x
+
+Asignar un gestor de relaciones como un único punto
+de contacto para cada unidad de negocio significativa.
+Asegurar que se identifique una única contraparte
+en la organización de la empresa y que la contraparte
+entienda el negocio, conozca suficientemente la
+tecnología y tenga el nivel de autoridad adecuado.
+
+3
+
+x
+
+x
+
+Gestionar la relación de una manera formal y
+transparente que asegure un enfoque en el logro
+de una meta común y compartida de resultados
+empresariales exitosos, en apoyo de las metas
+estratégicas y dentro de las limitaciones de los
+presupuestos y la tolerancia al riesgo.
+
+3
+
+x
+
+x
+
+Definir y comunicar las reclamaciones y el
+procedimiento de escalamiento para resolver
+cualquier problema de relaciones.
+
+3
+
+x
+
+x
+
+Asegurar que las partes interesadas responsables
+relevantes. acuerden y aprueben las decisiones claves
+
+4
+
+x
+
+x
+
+Planificar interacciones y calendarios específicos
+basados en objetivos acordados y un lenguaje común
+(reunión de revisión del servicio y el rendimiento,
+revisión de nuevas estrategias o planes, etc.).
+
+4
+
+x
+
+x
+
+Coordinar y comunicar los cambios y actividades
+de transición como planes de cambios o proyectos,
+calendarios, políticas de liberación, errores conocidos
+en la liberación y capacitación de sensibilización.
+
+2
+
+x
+
+x
+
+Coordinar y comunicar actividades operativas, roles
+y responsabilidades, incluida la definición de los tipos
+de peticiones, escalamiento jerárquico, interrupciones
+mayores (planificadas y no planificadas) y contenido y
+frecuencia de los informes de servicio.
+
+2
+
+x
+
+x
+
+Hacerse responsable de la respuesta al negocio en el
+caso de eventos importantes que podrían influir en
+la relación con el negocio. Proporcionar un soporte
+directo, si fuera necesario.
+
+2
+
+x
+
+x
+
+Mantener un plan completo de comunicación que
+defina el contenido, frecuencia y destinatarios de la
+información de la prestación del servicio, incluido
+el estado del valor ofrecido y cualquier riesgo
+identificado
+
+3
+
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+x
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+x
+
+59
+
+=== p21 ===
+Duvan Andrey Márquez Pinzón, Torcoroma Velásquez Pérez, Andrés
+Mauricio Puentes
+Continuación Tabla II. Evaluación de la alcaldía municipal de Ocaña enfocadas en las actividades de
+cada una de las prácticas de gestión.
+
+BAI05 Gestionar el cambio organizativo
+
+APO08 Gestionar las
+relaciones
+
+PRÁCTICA
+DE
+GOBIERNO
+
+ACTIVIDAD
+
+NIVEL
+DESEADO
+
+Nivel
+1
+
+2
+
+3
+
+Cumple
+4
+
+5
+
+SI
+
+NO
+
+Realizar análisis de satisfacción para clientes y
+proveedores. Asegurar que se resuelvan los problemas;
+informar de los resultados y el estado.
+
+4
+
+x
+
+x
+
+Trabajar juntos para identificar, comunicar e
+implementar iniciativas de mejora.
+
+5
+
+x
+
+x
+
+Trabajar con la dirección del servicio y los dueños del
+proceso para asegurar que los servicios y los procesos
+de gestión de servicios habilitados por I&T se mejoren
+de forma continua y que las causas raíz de todos los
+problemas se identifiquen y resuelvan.
+
+5
+
+x
+
+x
+
+Evaluar el alcance e impacto de los cambios
+visualizados, las partes interesadas afectadas, la
+naturaleza del impacto y la participación requerida
+de cada grupo de interés, además de la disposición y
+capacidad real para adoptar el cambio.
+
+2
+
+x
+
+x
+
+Para establecer el deseo de cambiar, identificar,
+aprovechar y comunicar los puntos de dolor actuales,
+eventos negativos, riesgo, insatisfacción de los clientes
+y problemas del negocio, así como los beneficios
+iniciales y futuras oportunidades y recompensas y
+ventajas competitivas.
+
+2
+
+x
+
+x
+
+Emitir comunicaciones clave del comité ejecutivo o
+CEO que demuestren el compromiso con el cambio.
+
+2
+
+x
+
+x
+
+Proporcionar un liderazgo visible de la alta dirección
+para establecer el rumbo y alinear, motivar e inspirar a
+las partes interesadas para que deseen el cambio.
+
+3
+
+x
+
+x
+
+Identificar y conformar a un equipo eficaz de
+implementación principal que incluya a los miembros
+adecuados del negocio y TI con la capacidad para
+dedicar la cantidad de tiempo requerida y contribuir
+con su conocimiento y especialidad, experiencia,
+credibilidad y autoridad. Considerar la inclusión
+de personal externo, como consultores, para que
+proporcionen un punto de vista independiente y
+para abordar las brechas de habilidades. Identificar
+los posibles agentes de cambio dentro de las distintas
+partes de la empresa con las que el equipo principal
+puede trabajar para respaldar la visión y los cambios
+en cascada.
+
+3
+
+x
+
+x
+
+Crear confianza dentro del equipo de implementación
+principal a través de eventos planificados
+cuidadosamente con una comunicación eficaz y
+actividades conjuntas.
+
+3
+
+Desarrollar una visión y metas comunes que
+respalden los objetivos de la empresa
+
+3
+
+Desarrollar un plan de comunicación de la visión
+para respaldar a los grupos de audiencia principales,
+sus perfiles de comportamiento y necesidades de
+información, canales de comunicación y principios.
+
+3
+
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+x
+
+x
+
+x
+x
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+x
+x
+
+60
+
+=== p22 ===
+Modelo de gestión tecnológica de los servicios y trámites que se prestan en
+las Alcaldías.
+Continuación Tabla II. Evaluación de la alcaldía municipal de Ocaña enfocadas en las actividades de
+cada una de las prácticas de gestión.
+
+BAI05 Gestionar el cambio organizativo
+
+PRÁCTICA
+DE
+GOBIERNO
+
+ACTIVIDAD
+
+NIVEL
+DESEADO
+
+Nivel
+1
+
+2
+
+3
+
+Cumple
+4
+
+5
+
+SI
+
+NO
+
+Comunicar en los niveles adecuados de la empresa,
+conforme al plan.
+
+3
+
+x
+
+x
+
+Reforzar la comunicación a través de múltiples foros y
+repeticiones.
+
+3
+
+x
+
+x
+
+Hacer que todos los niveles de liderazgo rindan
+cuentas para demostrar la visión.
+
+3
+
+Comprobar la comprensión de la visión deseada
+y responder a cualquier cuestión señalada por el
+personal.
+
+4
+
+Planificar las oportunidades de capacitación que
+necesitará el personal para desarrollar las habilidades
+y actitudes necesarias para sentirse empoderados.
+
+2
+
+Identificar, priorizar y ofrecer oportunidades de
+ganancias rápidas. Éstas podrían estar relacionadas
+con áreas conocidas de dificultad o factores externos
+reales que deben abordarse de forma urgente.
+
+2
+
+x
+
+x
+
+Aprovechar las ganancias rápidas ofrecidas
+comunicando los beneficios a los afectados
+para mostrar que la visión va según lo previsto.
+Perfeccionar la visión, mantener a los líderes
+involucrados y construir el momentum (ganar
+impulso).
+
+2
+
+x
+
+x
+
+Identificar las estructuras organizativas compatibles
+con la visión; de ser necesario, realizar cambios para
+asegurar el alineamiento.
+
+3
+
+x
+
+x
+
+Alinear los procesos de RR. HH. y los sistemas
+de medición (p. ej. evaluación del rendimiento,
+decisiones de compensación, decisiones de
+promoción, reclutamiento y contratación) para
+respaldar la visión.
+
+3
+
+x
+
+x
+
+Identificar y gestionar a los líderes que siguen
+resistiéndose al cambio.
+
+3
+
+x
+
+x
+
+Desarrollar un plan para la operación y uso del
+cambio. El plan debería comunicar y construir a
+partir de las ganancias rápidas obtenidas, abordar,
+en términos globales, aspectos culturales y de
+comportamiento de la transición e incrementar el
+compromiso y la participación. Asegurar que el
+plan cubre una visión holística del cambio y que
+proporciona documentación (p. ej. procedimientos),
+asesoría, capacitación, tutoría, transferencia de
+conocimientos, soporte para el mejoramiento
+continuo inmediatamente después de su
+implantación.
+
+3
+
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+x
+x
+
+x
+
+x
+x
+
+x
+
+x
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+x
+
+61
+
+=== p23 ===
+Duvan Andrey Márquez Pinzón, Torcoroma Velásquez Pérez, Andrés
+Mauricio Puentes
+Continuación Tabla II. Evaluación de la alcaldía municipal de Ocaña enfocadas en las actividades de
+cada una de las prácticas de gestión.
+
+BAI05 Gestionar el cambio organizativo
+
+PRÁCTICA
+DE
+GOBIERNO
+
+ACTIVIDAD
+
+NIVEL
+DESEADO
+
+Nivel
+1
+
+2
+
+3
+
+Cumple
+4
+
+5
+
+SI
+
+x
+
+NO
+
+Implementar el plan operativo y de uso. Definir y
+hacer seguimiento de las medidas de éxito, incluyendo
+medidas difíciles para el negocio y medidas de
+percepción que indiquen cómo se sienten las personas
+con un cambio. Implementar acciones correctivas si
+fuera necesario.
+
+4
+
+x
+
+Hacer que los dueños de los procesos rindan cuentas
+sobre las operaciones normales diarias.
+
+2
+
+Celebrar los éxitos e implementar programas de
+reconocimiento y recompensas para reforzar el
+cambio.
+
+3
+
+x
+
+x
+
+Proporcionar concienciación continua a través de la
+comunicación regular del cambio y su adopción.
+
+3
+
+x
+
+x
+
+Usar sistemas de medición del rendimiento para
+identificar las causas raíz de la baja adopción.
+Emprender acciones correctivas
+
+4
+
+Llevar a cabo auditorías de cumplimiento para
+identificar las causas raíz de la baja adopción.
+Recomendar acciones correctoras
+
+4
+
+x
+
+x
+
+Sostener y reforzar el cambio a través de
+comunicación regular que demuestre el compromiso
+de la alta dirección.
+
+2
+
+x
+
+x
+
+Proporcionar asesoría, capacitación, tutoría y
+transferencia de conocimientos al personal nuevo
+para sostener el cambio.
+
+3
+
+x
+
+x
+
+Realizar revisiones periódicas de la operación y uso
+del cambio. Identificar mejoras.
+
+4
+
+Captar las lecciones aprendidas relacionadas
+con la implementación del cambio. Compartir el
+conocimiento con toda la empresa.
+
+5
+
+x
+
+x
+
+x
+x
+
+x
+
+x
+
+x
+x
+
+Fuente: Elaboración propia basada en COBIT 2019.
+
+Avanzando en el tema, seguimos evaluando en esta ocasión en el componente
+de estructuras organizativas para definir roles y responsabilidades y verificar si
+existe la asignación correspondiente en la entidad objeto de estudio. (tabla III)
+
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+62
+
+=== p24 ===
+Modelo de gestión tecnológica de los servicios y trámites que se prestan en
+las Alcaldías.
+Tabla III. Evaluación de la alcaldía municipal de Ocaña enfocadas en el componente de estructuras
+organizativas.
+
+Cargo
+
+Cumple
+Si No
+
+Observación
+
+Director general
+ejecutivo
+
+X
+
+Quien realiza dichas funciones en la entidad es el alcalde municipal de Ocaña. Encargado
+de la gestión global de la empresa.
+
+Director general
+financiero
+
+X
+
+Quien realiza dichas funciones en la entidad es el secretario de hacienda. Es quien rinde
+cuentas sobre todos los aspectos de la gestión financiera, incluido el riesgo y los controles
+financieros, así como de una contabilidad confiable y precisa.
+
+Director de
+operaciones
+
+X
+
+De manera general no se cuenta con un encargado de operaciones, dicha función las
+puede asumir los respectivos secretarios municipales. Son quienes rinden cuentas sobre la
+operación de la empresa.
+
+Director de TI
+
+X
+
+Quien realiza dichas funciones en la entidad es el líder de la oficina de sistemas, comunicaciones y vigilancia. Es quien rinde cuentas por la planificación, gestión de recursos y
+prestación de servicios y soluciones de I & T.
+
+Director de
+tecnología
+
+X
+
+Quien realiza dichas funciones en la entidad es el líder de la oficina de sistemas, comunicaciones y vigilancia. Es el encargado de los aspectos técnicos de I&T, incluida la gestión y
+supervisión de decisiones relacionadas con servicios, soluciones e infraestructura de I&T
+
+Director de
+tecnologías
+digitales
+
+X
+
+Quien realiza dichas funciones en la entidad es el líder de la oficina de sistemas, comunicaciones y vigilancia. Es quien pone en práctica la transformación digital de la empresa o
+de las unidades de negocio.
+
+Consejo de gobierno de I&T
+
+X
+
+Actualmente no se cuenta con un consejo de gobierno de I & T.
+
+Dueños del proceso de negocio
+
+X
+
+Dicha función las puede asumir los respectivos secretarios municipales, los cuales que
+rinden cuentas sobre la ejecución de los procesos y/o el logro de los objetivos de los procesos, conducir la mejora de los procesos y aprobar los cambios a los procesos.
+
+Gestor de relaciones
+
+X
+
+Quien realiza esta función son las dependencias de sistemas y planeación. Son los responsables de supervisar y gestionar la interfaz y comunicaciones internas entre las funciones
+del negocio y de I & T.
+
+Jefe de arquitectura
+
+X
+
+Dicha función la asume la encargada del plan de desarrollo municipal. Ella es la encargada del proceso de arquitectura empresarial.
+
+Jefe de desarrollo
+
+X
+
+Quien realiza dichas funciones en la entidad es un contratista de la oficina de sistemas,
+comunicaciones y vigilancia. Es quien rinde cuentas sobre los procesos de desarrollo de
+soluciones de I & T.
+
+Jefe de operacio- X
+nes de TI
+
+Quien realiza dichas funciones en la entidad es el líder de la oficina de sistemas, comunicaciones y vigilancia. Es quien rinde cuentas sobre los entornos operativos e infraestructura de TI
+
+Gestor de servicios
+
+X
+
+Dicha función la realiza el líder de la oficina de sistemas, comunicaciones y vigilancia. Es
+quien gestiona el desarrollo, la implementación, la evaluación y el mantenimiento continuo de productos y servicios nuevos o ya existentes, para un cliente específico (usuario) o
+grupo de clientes (usuarios)
+
+Gestor de
+seguridad de la
+información
+
+X
+
+Quien realiza dichas funciones en la entidad es el líder de la oficina de sistemas, comunicaciones y vigilancia. Es quien gestiona, diseña, supervisa y/o evalúa la seguridad de la
+información de una empresa
+
+Gestor de
+continuidad del
+negocio
+
+X
+
+Dicha función la asume la encargada del plan de desarrollo municipal. Es quien gestiona,
+diseña, supervisa y/o evalúa la capacidad de continuidad del negocio de una empresa,
+para garantizar que sus funciones críticas sigan operando después de eventos disruptivos.
+
+Director de
+privacidad
+
+X
+
+Quien realiza dichas funciones en la entidad es el líder de la oficina de sistemas, comunicaciones y vigilancia. Es el responsable de supervisar el riesgo e impacto de las leyes
+sobre privacidad en el negocio y de dirigir y coordinar la implementación de políticas y
+actividades que garanticen el cumplimiento de las directivas de privacidad.
+
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+63
+
+=== p25 ===
+Duvan Andrey Márquez Pinzón, Torcoroma Velásquez Pérez, Andrés
+Mauricio Puentes
+Continuación Tabla III. Evaluación de la alcaldía municipal de Ocaña enfocadas en el componente de
+estructuras organizativas.
+
+Cargo
+Comité ejecutivo
+
+Cumple
+Si No
+X
+
+Gestor de programas
+
+Observación
+Quien realiza dichas funciones en la entidad es el alcalde municipal de Ocaña junto con
+sus secretarios de Despacho. Son quienes hacen parte de los altos ejecutivos que garantizan y deciden la toma de las principales decisiones.
+Dicha función la asume la encargada del plan de desarrollo municipal. Está se encarga de
+dirigir un programa específico, incluidos la articulación y el seguimiento de las metas y
+objetivos del programa y la gestión del riesgo y su impacto en el negocio
+
+Gestor de proyectos
+
+X
+
+Quien realiza dichas funciones en la entidad es el líder de la oficina de banco de proyectos. Es el responsable de dirigir un proyecto específico, incluidos la coordinación y
+delegación del tiempo, presupuesto, recursos y tareas del equipo del proyecto.
+
+Oficina de
+gestión de proyectos
+
+X
+
+Quien realiza dichas funciones en la entidad es el líder de la oficina de banco de proyectos.
+
+Director de recursos humanos
+
+X
+
+Quien realiza dichas funciones en la entidad es el líder de la oficina de función pública.
+Es quien rinde cuentas sobre la planificación y las políticas relacionadas con los recursos
+humanos de la empresa.
+
+Fuente: Elaboración propia basada en COBIT 2019.
+
+Siguiendo
+con
+este
+proceso
+de
+evaluación,
+continuamos
+con
+el
+componente de flujos y elementos de información con sus respectivas
+entradas y salidas, el cual se puede apreciar en la siguiente tabla.
+Tabla IV: Evaluación de la alcaldía municipal de Ocaña enfocadas en el componente de flujos y
+elementos de información.
+PRÁCTICA
+PRACTICA
+DE
+DE GESTION
+GOBIERNO
+APO 08.01
+Entender las
+expectativas
+del negocio
+
+Entradas
+DE
+
+Descripción
+
+APO02.05
+
+Hoja de ruta
+estratégica.
+
+APO 08.02:
+APO09.01
+Alinear la
+APO08—
+estrategia de
+Gestionar las I & D con las
+APO09.04
+relaciones
+expectativas
+empresariales
+e identificar
+oportunidades
+para que TI
+mejore el
+APO11.03
+negocio.
+
+Si
+
+No
+
+Salidas
+
+Si
+
+Descripción
+
+A
+
+X
+
+Expectativas del
+negocio explicados
+y acordados.
+
+Interna
+
+X
+
+Brechas identificadas
+en servicios de TI
+para la empresa.
+
+X
+
+Próximos pasos y
+planes de acción
+acordados.
+
+Interna
+
+X
+
+Informes de
+rendimiento del nivel
+de servicio.
+Planes de acción
+de mejora y
+remediaciones.
+
+X
+
+Causas raíz de la falla
+al ofrecer calidad.
+
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+No
+
+X
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+64
+
+=== p26 ===
+Modelo de gestión tecnológica de los servicios y trámites que se prestan en
+las Alcaldías.
+Continuación Tabla IV: Evaluación de la alcaldía municipal de Ocaña enfocadas en el componente de
+flujos y elementos de información.
+PRÁCTICA PRACTICA
+DE
+DE
+GOBIERNO GESTION
+
+Entradas
+DE
+
+Descripción
+
+DSS02.02
+
+Peticiones de
+servicio e incidentes
+clasificados y
+priorizados.
+
+DSS02.06
+
+Si
+
+No
+
+Salidas
+
+Si
+
+No
+
+Descripción
+
+A
+
+X
+
+Estado de
+reclamaciones y
+escalamiento
+
+Interna
+
+Cerrar las peticiones
+e incidentes de
+servicio.
+Confirmación
+del usuario del
+cumplimiento
+o resolución
+satisfactoria.
+
+X
+
+Decisiones clave
+acordadas
+
+Interna
+
+X
+
+DSS02.07
+
+Estado de incidentes
+e informe de
+tendencias.
+Estado de
+cumplimiento de
+peticiones e informe
+de tendencias.
+
+X
+
+APO09.03
+
+Acuerdos de nivel
+de servicio (SLA).
+
+X
+
+Respuestas del
+cliente
+
+Interna
+
+X
+
+APO12.06
+
+Comunicación de
+impacto del riesgo.
+
+X
+
+Paquetes de
+comunicación
+
+Interna
+
+BAI 05.05
+
+Plan de uso y operación.
+
+X
+
+Plan de
+comunicación
+
+Interna
+
+BAI 07.07
+
+Plan de soporte
+suplementario.
+
+X
+
+BAI09.02
+
+Comunicaciones
+de tiempos de suspensión del servicio
+por mantenimientos
+planificados.
+
+X
+
+DSS03.04
+
+Comunicación
+de conocimientos
+adquiridos.
+
+X
+
+APO08—
+Gestionar las
+relaciones
+APO 08.03
+Gestionar
+la relación
+con el
+negocio.
+
+APO 08.04
+Coordinar
+y
+comunicar.
+
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+X
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+X
+
+65
+
+=== p27 ===
+Duvan Andrey Márquez Pinzón, Torcoroma Velásquez Pérez, Andrés
+Mauricio Puentes
+Continuación Tabla IV: Evaluación de la alcaldía municipal de Ocaña enfocadas en el componente de
+flujos y elementos de información.
+PRÁCTICA
+DE
+GOBIERNO
+
+PRACTICA
+DE
+GESTION
+
+APO08—
+Gestionar las APO 08.05
+relaciones
+Proporcionar
+aportes para
+la mejora
+continua de
+los servicios
+
+BAI05 —
+Gestionar
+el cambio
+organizativo
+
+BAI 05.01
+Establecer
+el deseo de
+cambiar.
+
+Entradas
+
+Si
+
+No
+
+Salidas
+
+Si
+
+DE
+
+Descripción
+
+APO09.02
+
+Catálogos de
+servicios.
+
+APO11.02
+
+Requisitos del
+cliente para la
+gestión de la
+calidad.
+Resultado de
+la calidad del
+servicio, incluida la
+retroalimentación
+de los clientes.
+
+APO11.03
+
+Resultados de la
+monitorización
+de la calidad para
+la prestación
+de servicios y
+soluciones.
+
+APO11.04
+
+Resultados de
+las revisiones
+y auditorías de
+calidad.
+
+X
+
+X
+
+BAI03.10
+
+Plan de
+mantenimiento.
+
+X
+
+X
+
+BAI 05.05
+
+Mediciones y
+resultados del éxito.
+
+X
+
+BAI 07.07
+
+Plan de apoyo
+complementario.
+
+APO11.02
+
+Resultados de
+la calidad del
+servicio, incluidos
+la retroalimentación
+de los clientes.
+
+BAI02.01
+
+Repositorio de
+definiciones de
+requisitos.
+Criterios de
+aceptación
+confirmados por las
+partes interesadas.
+
+X
+
+Registro de riesgos
+de los requisitos.
+Acciones de
+mitigación de
+riesgos.
+
+X
+
+BAI02.03
+
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+Descripción
+
+A
+
+X
+
+Definición
+de posibles
+proyectos de
+mejora
+
+APO02.02;
+BAI03.11
+
+X
+
+Análisis de
+satisfacción
+
+APO09.04
+
+No
+
+X
+
+X
+
+X
+
+X
+X
+
+X
+
+X
+
+X
+Comunicación
+de factores de
+cambio
+
+Interna
+
+X
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+66
+
+=== p28 ===
+Modelo de gestión tecnológica de los servicios y trámites que se prestan en
+las Alcaldías.
+
+Continuación Tabla IV: Evaluación de la alcaldía municipal de Ocaña enfocadas en el componente de
+flujos y elementos de información.
+PRÁCTICA
+DE
+GOBIERNO
+
+PRACTICA
+DE
+GESTION
+
+Entradas
+DE
+
+Descripción
+
+BAI 05.01
+Establecer
+el deseo de
+cambiar.
+
+BAI03.01
+
+Especificación de
+diseño de alto nivel
+aprobado.
+
+BAI 05.02
+Formar un
+equipo de
+
+BAI02.01
+
+Si
+
+No
+
+BAI03.02
+
+Criterios de aceptación
+confirmados por las
+partes interesadas.
+
+BAI 05.04
+Empoderar
+a los roles
+participantes
+e identificar
+las ganancias a
+corto plazo.
+BAI 05.05
+Habilitar la
+operación y
+el uso
+
+Estructura
+organizativa de la
+empresa.
+
+BAI03.03
+
+Componentes
+documentados de la
+solución.
+
+BAI03.10
+
+Componentes de la
+solución actualizados
+y documentación
+relacionada.
+
+BAI 05.06
+Incorporar
+nuevos
+enfoques.
+
+X
+
+X
+
+X
+
+Mediciones y
+resultados del
+éxito
+
+X
+
+APO 08.04;
+BAI08.03;
+DSS01.01;
+DSS01.02;
+DSS06.02
+APO 08.05;
+BAI 07.07;
+BAI 07.08;
+MEA01.03
+
+X
+
+X
+
+X
+
+X
+
+X
+
+BAI 05.07
+Sostener los
+cambios.
+
+No
+
+X
+
+Plan de operación
+y uso
+
+Fuera de
+COBIT
+
+Si
+A
+
+X
+
+BAI 05.03
+Comunicar la
+visión deseada.
+
+BAI05 —
+Gestionar
+el cambio
+organizativo
+
+Salidas
+Descripción
+
+X
+
+Resultados de
+la revisión del
+desempeño de
+RR. HH.
+
+APO07.04
+
+X
+
+Comunicaciones
+de concienciación
+
+Interna
+
+X
+
+Resultados de
+la auditoría de
+cumplimiento
+
+MEA02.02;
+MEA03.03
+
+Planes de
+transferencia del
+conocimiento
+
+BAI 08.02;
+BAI 08.03
+
+X
+
+Comunicaciones
+del compromiso
+de la dirección
+
+Interna
+
+X
+
+Revisiones del uso
+operativo
+
+MEA02.02
+
+X
+
+X
+
+Fuente: Elaboración propia basada en COBIT 2019.
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+67
+
+=== p29 ===
+Duvan Andrey Márquez Pinzón, Torcoroma Velásquez Pérez, Andrés
+Mauricio Puentes
+
+A continuación, se presenta el componente de personas, habilidades y competencias
+con sus respectivas habilidades.
+Tabla v: Evaluación de la alcaldía municipal de Ocaña enfocadas en el componente de
+personas, habilidades y competencias.
+PERSONAS, HABILIDADES Y
+COMPETENCIAS
+
+CUMPLE
+SI
+
+NO
+X
+
+Existe una brecha actualmente con respecto a la
+gestión de relaciones, ya que no hay confianza
+entre las partes interesadas y esto no permite un
+cumplimiento a cabalidad de las metas planteadas y
+lograr cumplir la visión de la entidad.
+
+X
+
+Actualmente hay mucha resistencia al cambio por
+parte de los funcionarios de la entidad, lo cual
+dificulta una eficiente gestión del cambio. Incluyendo
+a su vez, la poca voluntad política.
+
+Planificación y gestión
+de la implementación
+del cambio
+
+X
+
+Son pocos los procesos que incluyen una
+planificación y gestión al cambio. Los procesos
+exitosos han sido por voluntad de los contratistas y
+una fuerte apropiación de los mismos.
+
+Diseño e
+implementación en la
+organización
+
+X
+
+El mapa de procesos de la entidad es antiguo y muy
+generalizado, lo cual genera que diferentes actividades
+sean representadas por los mismos contratistas y
+generen sobrecargas de trabajo.
+
+Gestión de relaciones
+
+APO08 Gestionar las
+relaciones BAI05 Gestionar el
+cambio organizativo
+
+OBSERVACIÓN
+
+Gestión del cambio del
+negocio
+
+Fuente: Elaboración propia basada en COBIT 2019.
+
+Seguimos con la evaluación del componente de políticas y procedimientos con sus ítems
+más relevantes, el cual se puede apreciar en la tabla VI.
+Tabla VI: Evaluación de la alcaldía municipal de Ocaña enfocadas el componente
+políticas y procedimientos.
+CUMPLE
+
+PERSONAS, HABILIDADES Y COMPETENCIAS
+
+SI
+
+APO08
+Gestionar las
+relaciones
+
+Política de
+gestión de
+relaciones
+empresa - TI
+
+Proporciona las directrices para establecer y mantener las
+relaciones entre la empresa y TI. Fomenta la transparencia,
+una confianza mutua y un enfoque compartido en lograr las
+metas estratégicas dentro del contexto presupuestario y la
+tolerancia al riesgo.
+
+BAI05
+Gestionar
+el cambio
+organizativo
+
+Política de
+gestión de
+cambios
+organizativos
+
+Proporciona un marco y señala principios para la gestión
+del cambio organizativo. Refleja la legislación actual y
+proporciona buenas prácticas de gestión de personal;
+garantiza un enfoque consistente a la hora de gestionar el
+cambio en la organización.
+
+NO
+
+X
+
+X
+
+Fuente: Elaboración propia basada en COBIT 2019.
+
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+68
+
+=== p30 ===
+Modelo de gestión tecnológica de los servicios y trámites que se prestan en
+las Alcaldías.
+
+Por último, se puede apreciar la evaluación del componente de servicios, infraestructura
+y aplicaciones.
+Tabla VIII: Evaluación de la alcaldía municipal de Ocaña enfocadas el componente de
+servicios, infraestructura y aplicaciones.
+PERSONAS, HABILIDADES Y COMPETENCIAS
+APO08 Gestionar las
+relaciones
+BAI05 Gestionar el
+cambio organizativo
+
+CUMPLE
+SI NO
+Plataformas de colaboración
+X
+Servicios internos de capacitación y concienciación
+X
+Herramientas y canales de comunicación
+X
+Herramientas de supervisión
+X
+
+Fuente: Elaboración propia basada en COBIT 2019.
+En el análisis y evaluación del diagnóstico de cada uno de objetivos y prácticas de
+COBIT evaluados anteriormente, se detectaron algunos hallazgos enfocados en
+diferentes ámbitos que hacen parte fundamental en el proceso de transformación digital
+de la entidad. Es por esa esa razón que se busca rectificar y corregir dichos hallazgos
+encontrados por medio de una efectiva y eficiente adopción de transformación digital,
+junto con un trabajo articulado e implementación de estándares de excelencia como los
+objetivos de gestión APO08 y BAI05 y sus respectivas prácticas, además de instrumentos
+claves de arquitectura empresarial que fortalezcan las capacidades de la organización, el
+uso y apropiación de las TI, lo que permite, entre otras cosas, aumentar la confiabilidad
+y fortalecer la relación entre el ciudadano y el municipio a través de servicios de alta
+calidad. Es por ello, que se propone la formulación de un modelo de gestión de servicios
+que busque dar solución a las falencias encontradas y que, a su vez, permitirá brindar una
+herramienta de guía para las demás entidades del territorio hacia una efectiva adopción
+de diferentes procesos de transformación digital, en conjunto con estrategias de
+arquitectura empresarial y estándares de calidad que hacen parte del núcleo del modelo.
+
+Figura 12. Modelo propuesto. Fuente: Elaboración propia.
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+69
+
+=== p31 ===
+Modelo de gestión tecnológica de los servicios y trámites que se prestan en
+las Alcaldías.
+
+Descripción del modelo
+Para comprender el modelo debemos tener claridad en que, por muchos años, los
+negocios y la aplicación de las TIC han evolucionado atendiendo sus necesidades de
+manera independiente y olvidando los lineamientos del negocio como un todo. Esto
+conlleva a generar arquitecturas totalmente aisladas, las cuales generan complicaciones
+en la gobernabilidad tecnológica y empresarial.
+Es allí donde comienza el trabajo de un componente fundamental en el modelo llamado
+arquitectura empresarial, el cual es definido según [12], como la lógica organizacional de
+los procesos comerciales centrales y la infraestructura de TI que refleja la estandarización
+e integración del modelo comercial de una empresa.
+Según esta premisa, la arquitectura empresarial se incluye en el modelo porque
+aborda diversos casos en los que el crecimiento organizacional se detiene por falta de
+planificación, falta de estándares empresariales [13].
+Por ser tan importante para la organización, se decide incluir este componente junto con
+la alianza estratégica TIC. Esto permite que las decisiones tecnológicas respondan a las
+necesidades organizacionales y capitalicen las oportunidades, la innovación y el cambio.
+Para armonizar las innovaciones o modificaciones tecnológicas actualmente instaladas
+en una organización con los objetivos de negocio, es necesario trabajar con estándares
+de excelencia, ya sea marco de referencia o también llamados marcos de negocio, que
+contribuyen al proceso, pero difieren en 3 ámbitos, los cuales son composición, enfoque
+y términos de referencia. Este es el caso de Zachman, un framework estructural (estático)
+que se utiliza con mayor eficacia como modelo para el análisis de artefactos, la clasificación
+y el metaanálisis de métodos y marcos, mientras que TOGAF es un proceso (dinámico)
+que también incluye el uso de referencias. Lineamientos de modelos de procesos [13].
+El gobierno de TI, que da continuidad a la importancia de los estándares, no es una
+disciplina específica de la arquitectura empresarial, pero existen claras sinergias entre
+ITIL y COBIT.
+Es por ello que se decide incluir y trabajar con dichos objetivos y prácticas de gestión
+previamente evaluadas en las figuras 10 y 11, donde los resultados arrojados indican
+priorizar dos prácticas de gestión relacionadas con APO08 Y BAI05, las cuales se basan
+en la confianza mutua y una gestión transparente de las relaciones que presenta objetivos
+estratégicos y una gestión del cambio organizacional que maximiza la capacidad de
+implementar rápida y exitosamente un cambio organizacional sostenible dentro de la
+empresa minimizando los riesgos.
+Avanzando con los componentes del modelo, todos los procedimientos relacionados
+con las entidades públicas del estado, deben regirse por una serie de legislaciones y
+normatividades, las cuales deben ser acatadas y cumplidas obligatoriamente por cada
+una de las entidades, en este caso las de orden territorial.
+Para el componente de arquitectura empresarial se debe adoptar la última y más
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+70
+
+=== p32 ===
+Duvan Andrey Márquez Pinzón, Torcoroma Velásquez Pérez, Andrés
+Mauricio Puentes
+
+actualizada normatividad definida como Resolución 1978 del 26 de mayo de 2023 emitida
+por el Ministerio de tecnologías de la información y las comunicaciones, la cual indica que
+se debe adoptar la tercera versión del marco de referencia de arquitectura empresarial
+para el estado colombiano como el instrumento para implementar el habilitador de
+arquitectura de la política de gobierno digital. Y para el caso del componente de
+transformación digital, que es el siguiente componente a mencionar, se guía bajo el
+decreto 1262 del 22 de julio de 2022 emitido por el departamento administrativo de la
+función pública, el cual indica que se definen los lineamientos y estándares aplicables a
+la transformación digital pública.
+COmo se mencionó anteriormente, el siguiente componente es transformación digital,
+el cual conlleva un alto valor de implementación en el modelo, ya que se relaciona
+con el componente de arquitectura empresarial, pero esta termina siendo una guía de
+referencia enfocada en 4 (cuatro) ámbitos de la organización que podrán ser medidos
+periódicamente, los cuales son procesos digitales, cultura organizacional, tecnología y
+analítica de datos.
+Para el caso de las entidades territoriales, el artículo 147 de la ley 1955 del 2019 establece
+que las entidades del orden nacional incluyan un componente de transformación digital
+en sus planes de implementación, de acuerdo con los estándares definidos por el
+ministerio para este propósito. Así mismo, el CONPES 3975, define la política nacional
+de transformación digital e inteligencia artificial, en la cual se establece una acción
+a cargo de la dirección de gobierno digital para desarrollar los lineamientos y de esa
+manera garantizar que entidades públicas del orden nacional elaboren sus planes de
+transformación digital que les ayuden a centrar sus esfuerzos en este tema.
+Es por ello que contar con el componente de transformación digital, es fundamental
+para apalancar los propósitos de gobierno digital, lo que permite fomentar el desarrollo
+de iniciativas que impliquen cambios con visión a largo plazo y mejoren el acceso a la
+información pública y la provisión de servicios más agiles y efectivos para la sociedad.
+La integración e interoperabilidad de todo este tipo de componentes estratégicos y
+empresariales plasmados en el modelo, logran impulsar la gestión de servicios tecnológicos
+y fortalecer la racionalización de servicios, enfocadas en actividades relacionadas con la
+simplificación, estandarización, eliminación, optimización y automatización de trámites
+y procedimientos administrativos, que logren disminuir costos, fomenten la mejora
+continua de procesos procedimientos y beneficien a la sociedad con servicios se calidad
+y fortalezcan la relación ciudadano-estado.
+
+Conclusiones
+La definición e implementación de un modelo de gestión de TI en una entidad pública debe
+estructurarse con los marcos metodológicos establecidos por el MinTIC y desarrollarlos
+empleando las buenas prácticas de TI, normas internacionales y marcos referentes dado
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+71
+
+=== p33 ===
+Modelo de gestión tecnológica de los servicios y trámites que se prestan en
+las Alcaldías.
+
+que existe alineación que permite la adición de elementos de valor.
+De acuerdo al análisis realizado se identificó la mala percepción que tiene la ciudadanía
+basada en la prestación de tramites de las entidades públicas de Colombia por medio
+de la encuesta realizada por (GME, 2021), la cual arrojó resultados que indican que más
+del 70% de los encuestados afirman que se deben fortalecer y potencializar los tramites
+y servicios, que impacten de manera positiva en la relación ciudadano – Estado. Estos
+resultados junto con las mediciones observadas por medio del FURAG y MIPG, indican las
+falencias que actualmente se presentan ya que, además existe una diferencia porcentual
+de 25,2 en materia del índice de gobierno digital y 26.,4 puntos porcentuales en términos
+del índice de desempeño institucional entre las entidades del orden nacional y territorial.
+De igual manera se diagnosticó el estado actual de los servicios y trámites que se
+encuentran incluidos en cada uno de los inventarios de las alcaldías de la provincia
+de Ocaña a nivel de gestión tecnológica, utilizando la página del sistema único de
+información de trámites (SUIT). Para el diagnóstico se logró verificar que las entidades
+han trabajado en el respectivo proceso de inclusión en sus respectivos inventarios,
+aunque los municipios de Ocaña, convención y san Calixto aún se encuentran en proceso
+de inclusión y gestión para su respectiva inscripción y solo el municipio del Carmen ha
+incluido por completo sus trámites en el SUIT.
+Se estructuró el modelo de gestión tecnológica para las alcaldías de la provincia de Ocaña
+validando e incorporando los objetivos de gestión APO Y BAI de COBIT. En la estructura
+se analizaron diferentes artefactos como la aplicación del instrumento de medición a los
+principales actores de las entidades objeto de estudio, en la cual se pudo apreciar las
+similares falencias que se presentan en alcaldías en materia de transformación digital y
+arquitectura empresarial. Además, se analizaron los niveles de madurez de las entidades
+por medio de la evaluación emitida por el Ministerio de las tecnologías de la información
+y las comunicaciones (MinTIC), en la cual se evaluaron 3 ejes como lo son arquitectura,
+seguridad de la información y servicios ciudadanos digitales, y los resultados fueron una
+amplia diferencia de la alcaldía de san Calixto en materia de seguridad de la información
+y arquitectura con respecto a las demás entidades.
+
+Referencias
+[1] GME. “Informe de resultados de la encuesta de percepción ciudadana 2020”, Dirección
+General del Departamento Nacional de Planeación, 2021. [En línea], Disponile en:
+https://colaboracion.dnp.gov.co/CDT/ModernizacionEstado/MyE/Resultados_
+Encuesta_Percepcion_Ciudadana_2020.pdf.
+[2] MinTIC. “Manual de gobierno digital”, implementaciín de la política de gobierno
+digital, 2018. [En línea]. Disponible en: https://gobiernodigital.mintic.gov.co/692/
+channels-594_manual_gd.pdf.
+
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+72
+
+=== p34 ===
+Modelo de gestión tecnológica de los servicios y trámites que se prestan en
+las Alcaldías.
+
+[3] IGD, “Índice de Gobierno Digital”, Indicadores de seguimiento y evaluación,
+2021. [En línea]. Disponible en: https://gobiernodigital.mintic.gov.co/portal/
+Mediciones/#:~:text=El%20%C3%8Dndice%20de%20Gobierno%20Digital,en%20
+materia%20de%20Gobierno%20Digital
+[4] J. Hernández Hernández, COBIT, una metodología que genera valor en las empresas,
+Trabajo de grado, Universidad Piloto de Colombia, Bogotá, Colombia, 2018
+[5] F. Kerlinger, Investigacion del comportamiento, Santiago: McGRAW-HILL, 1975
+[6] J. Sosa, “Paradigmas, enfoques y métodos en la investigación educativa”, Revista del
+instituto de investigaciones educativas, vol. 10-11, 2003
+[7] SUIT. SISTEMA ÚNICO DE INFORMACIÓN DE TRÁMITES. 2023. [En línea]. Disponible
+en:
+http://tramites1.suit.gov.co/reportes-web/faces/reportes/gestion/rep_gestion_
+portal_departamento_municipio.jsf?_adf.ctrl-state=19ifoqpp73_7
+[8] J. A. Abril Parra, “Modelo de madurez de los municipios colombianos en gobierno
+digital”, 2020. [En línea]. Disponible en: https://colombiatic.mintic.gov.co/679/
+articles-175771_recurso_1.pdf
+[9] C. Villamizar, “Control objetives for information and related technology”,
+2019.
+[Online].
+Available:
+https://www.globalsuitesolutions.com/es/que-escobit/#:~:text=COBIT%20define%20los%20componentes%20para,en%20el%20
+modelo%20como%20Catalizadores
+[10] J. Díaz López y F. A. Fernández y Pachón, “Modelo de construcción e implementación
+del sistema de objetivos de control para tecnología de la información y tecnologías
+relacionadas COBIT 5.0 en la Red de Investigación y Tecnología avanzada RITA y su
+integración con la Universidad Distrital Francisco José De Caldas, Trabajo de grado,
+Universidad Distrital Francisco José De Caldas, Bogotá, Colombia, 2016
+[11] J. García, “ ITIL VS COBIT, características de COBIT”, 2020. [En línea]. Disponible en:
+https://netmind.net/es/itil-vs-cobit-a-quien-quieres-mas/
+[12] J. Ross, P. Weill and D. Robertson, “MIT Sloan Center For Information Systems
+Research (CISR)”, 2006. [Online]. Available: https://www.ucipfg.com/Repositorio/
+MATI/MATI-04/BLOQUE-INICIAL/001.pdf
+[13] I. Trejos Zelaya, Arquitectura empresarial y TIC”, 2018. [En línea]. Disponible en: https://
+www.camtic.org/hagamos-clic/arquitectura-empresarial-y-tic/#:~:text=Jeanne%20
+Ross%2C%20Peter%20Weill%20y,modelo%20de%20negocio%20de%20una
+
+Mundo Fesc E-ISSN 2216-0353 P-ISSN 2216-0388
+
+Vol 13, no. 26, pp. 40-73 de 2023
+
+73
+

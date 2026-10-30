@@ -1,0 +1,788 @@
+=== p1 ===
+Interoperability as a Service in Colombia
+Lina Marcela Morales Moreno,
+Javier Orlando Torres Páez
+Beyond Ideation
+TL 6 #27-10 Office 303
+Bogotá, Colombia
++ 57 (1) 2847258
+
+Jaime Leonardo Bernal Pulido
+Yobiplex Corporation
+TL 6 #27-10 Office 303
+Bogotá, Colombia
++ 57 (1) 2847258
+
+leonardo.bernal@yobiplex.com
+
+{marcela.morales, javier.torres}
+@beyondideation.com
+
+Martin Vargas Linares, Silvia
+Milena Roa Mantilla
+Colombia Digital Corporation
+Carrera 23 # 114A - 33 Office 202
+Bogotá, Colombia
++57(1) 611 30 59
+
+{martin.vargas, silvia.roa}
+@colombiadigital.net
+technology is not designed for interoperability, there is a lag in the
+e-government indexes, and so on.
+
+ABSTRACT
+In this paper, we present an initiative of the Colombian
+Government aiming at implementing interoperability as a service
+for integrating public agencies’ services and facilitating
+information exchange, publication and consumption.
+
+In order to tackle this problem and to transform the Colombian
+Government to function as a single efficient institution, that will
+provide timely information to its citizens, streamlined procedures
+and better services, public agencies must be connected and
+integrated in an articulated and coordinated manner and operate as
+a single large system. [1]
+
+CCS Concepts
+•
+Networks~Cloud
+computing
+•
+Applied
+computing~Enterprise application integration
+• Applied
+computing~Information integration and interoperability
+
+Over the past years, the Colombian Government have made many
+efforts for facilitating and promoting information exchange
+between public agencies through the development of government
+programs such as the e-Government Strategy and the
+Interoperability Framework. However, and in line with current
+technologies and existing paradigms regarding to cloud
+computing, the Colombian Government has been designing the
+interoperability as a service strategy, as a new model for
+achieving effective citizen-centered interoperability, in which
+public agencies and industry enterprises, as actors of the
+Colombian Government productive ecosystem, join together and
+exchange information through multiple integration and
+interoperability
+platforms,
+implemented
+by
+different
+manufacturers, connected in a federated model, with the adoption
+of common standards and guidelines that clearly state the rules for
+exchanging information.
+
+Keywords
+Interoperability; e-government infrastructure; interoperability as a
+service; information exchange; public agencies integration.
+
+1. INTRODUCTION
+Nowadays, public agencies in Colombia operate as information
+silos, which means that each agency designs, develops and offers
+its own services and procedures individually, without taking into
+account the needs for integration with other public agencies’
+services. When a service or procedure requires information from
+another agency in order to be completed, the citizens are the ones
+who end up connecting the public agencies’ services going
+physically from one public agency to another. [1]
+The Colombian Government has insufficient capabilities for
+transferring information, data and knowledge among public
+agencies to offer citizen-focused services. This occurs because
+public agencies do not have all the information required to attend
+citizens, there is not citizen-focused exchange of information, and
+there is a need for effective information exchange strategies and
+mechanisms.
+
+In this paper, we present an initiative of the Colombian
+Government aiming at implementing interoperability as a service
+for integrating public agencies’ services and facilitating
+information exchange, publication and consumption. In the next
+section we provide information about the context in which the
+initiative takes place. In section 3 we present a comparison of
+some related work developed in other countries. In section 4 we
+detail the interoperability as a service strategy. In section 5 we
+mention the conclusions.
+
+This scenario generates dissatisfied citizens, due to the waste of
+time and money created by going to several public agencies to
+obtain the required information. Furthermore, the State does not
+work as a whole and can not offer articulated services between
+public agencies, there is a lack of citizens’ comprehensive
+knowledge, public agencies do unnecessary information rework,
+there is insufficient quality information culture, public agencies’
+
+2. CONTEXT
+The Ministry of Information Technologies and Communications
+(MINTIC) is the entity in charge of designing, formulating,
+adopting and promoting policies, plans, programs and projects on
+the IT and communications sector, in line with the Constitution
+and the law, in order to contribute to economic, social and
+political development of the Nation and bolstering the welfare of
+Colombians, among other functions [2].
+
+Permission to make digital or hard copies of all or part of this work for
+personal or classroom use is granted without fee provided that copies are
+not made or distributed for profit or commercial advantage and that copies
+bear this notice and the full citation on the first page. Copyrights for
+components of this work owned by others than ACM must be honored.
+Abstracting with credit is permitted. To copy otherwise, or republish, to
+post on servers or to redistribute to lists, requires prior specific permission
+and/or a fee. Request permissions from Permissions@acm.org.
+
+In December 2012, the structure of the Ministry is modified and
+the Vice Ministry of Information Systems and Technologies is
+created, which corresponds to the first technical instance for
+allowing IT management articulation on public agencies. By the
+means of the Vice Ministry, MINTIC formulated the project
+
+EGOSE '15, November 24-25, 2015, St.Petersburg, Russian Federation
+© 2015 ACM. ISBN 978-1-4503-4070-0/15/11…$15.00
+
+DOI: http://dx.doi.org/10.1145/2846012.2846030
+66
+
+=== p2 ===
+"Strengthening of Information Technology in State and public
+information management" [3].
+
+Spain: 25,5 Millions transactions per year, 28 services, 11
+providers
+
+The new Colombian Government model for interoperability is
+being designed to support the implementation of the eGovernment Strategy through the Vice Ministry, across four
+components: ICT for management, ICT for services, ICT for open
+government, and security and privacy of information. [1]
+
+3.8 Time
+
+3. RELATED WORK
+
+3.9 Troubles
+
+In this section we present a comparison of the interoperability
+initiatives developed in Chile [4][5][6][7], Peru [8][9][10][11],
+Uruguay [12][13][14], Ecuador [15][16], and Spain [17][18], in
+terms of regulation, main services, operation, technology, costs,
+incomes, volume, time, difficulties and success factors.
+
+Ecuador: Maturity level of public agencies
+
+Uruguay: Since 2009
+Ecuador: Since 2013
+Chile: Since 2009
+Spain: Since 2007
+Uruguay: Publisher interest on providing data, software
+development capability, infrastructure capability, data quality
+Chile: Peak load time
+Spain: NA
+
+3.1 Regulation
+
+3.10 Success Factors
+
+Uruguay: Legal framework, Technical standards
+Ecuador: Mandatory use of open source
+Chile: Mandatory use
+Spain: Legal framework, Technical standards
+
+Uruguay: Publication of one or two massive services, helping to
+information providers in software development and infrastructure,
+first micro-services then process, government funding, gradual
+evolution, adapter development
+Ecuador: Legal framework, government funding
+Chile: Legal framework, government funding
+Spain: Legal framework, common infrastructures and services,
+permanent collaboration between public agencies, e-government
+roadmap, more services – with more offer more demand, services
+reuse.
+
+3.2 Main Services
+Uruguay: National registration, health
+Ecuador: Electronic billing, taxes, civil registration, social
+security, health, batch services
+Chile: Taxes, civil registration, social security, public health,
+Ministry of Housing and Urban Development
+
+4. INTEROPERABILITY AS A SERVICE
+
+Spain: Data verification (identity, residence, taxes, property
+register, social security, change of residence, digital signature)
+
+In this section, we describe the interoperability as a service
+initiative, which will facilitate and promote the information
+exchange, publication and consumption between public agencies.
+
+3.3 Operation
+Uruguay: Coordinated by AGESIC, funding for: interoperability,
+development and infrastructure
+Ecuador: Coordinated by ONGEI (Presidency), datacenter
+operator, 60 people at SNAP
+Chile: Coordinated by PISEE
+Spain: Coordinated by Ministry of Finance and Public
+Administration
+
+4.1 Overview
+The interoperability between public agencies is one of the main
+enablers of e-government progress in Colombia.
+In order to make public agencies interoperable, the Colombian
+Government must develop the following: (1) encouraging public
+agencies to publish information, ensuring its quality, accuracy,
+integrity, updating and availability; (2) supporting consumers in
+the use of published information; (3) securing that technology
+allows the communication between providers and consumers, in
+an adaptable manner, connecting people, processes and
+information, through heterogeneous environments (physical,
+virtual, in the cloud), and allowing agile development; and (4)
+defining the legal framework and standards and securing its
+fulfillment.
+
+3.4 Technology
+Uruguay: JBoss + IBM
+Ecuador: JBoss + 2 LDAP active-active
+Chile: JBoss
+Spain: Supports Java and .Net
+
+3.5 Costs
+Uruguay: Platform: USD 2M; Infrastructure: USD 4M;
+Operation: USD 0,5M per year
+Ecuador: Implementation: USD 0,5M + USD 1M (after one year)
+Chile: Implementation: USD 5M; Operation: USD 0,8M
+Spain: NA
+
+In Figure 1 we present the current state of the Colombian
+Government interoperability, which is characterized by the
+complexity in service consumption, governability and supporting,
+difficulty in report consolidation, diverse authentication and
+authorization mechanisms, services published in multiple
+platforms and obsolete and inefficient publishing mechanisms.
+
+3.6 Incomes
+Uruguay: No incomes - Free use
+Ecuador: No incomes - Free use
+Chile: No incomes - Free use. Public agencies sell services.
+Spain: No incomes - Free use
+
+3.7 Volume
+Uruguay: 50.000 transactions per day, 104 services, and 20
+public agencies
+Ecuador: Millions transactions per day, 38 services
+Chile: 2 Millions transactions per day, 87 services, 55 public
+agencies
+
+67
+
+=== p3 ===
+4.3 Business model
+Interoperability as a service is a service pack that can be acquired
+by public agencies letting them to: (1) access to the
+interoperability platform for information services publication, (2)
+install information services in the interoperability platform, (3)
+access to specialized accompaniment and support for using
+information services, (4) consume information services through
+the interoperability platform, (5) access to specialized
+accompaniment and support for developing information services,
+and (6) data virtualization as an optional feature.
+The business model of the interoperability as a service initiative is
+composed by the following: (1) Value propositions: provide
+information exchange services and support its publication and
+consumption; (2) Key activities: platform deployment, service
+life-cycle management, service monitoring, service pricing,
+incident management and publication support; (3) Key resources:
+GNAP, interoperability service, portal provider, operational and
+commercial staff and financial resources; (4) Key partners:
+platform manufacturers, Ministry of ICT and information
+providers; (5) Customer relationship: marketing and sales staff,
+support staff and help desk; (6) Channels: interoperability
+platform, provider portal and support staff; (7) Customer
+segments: public agencies – around 7000 for Government-toGovernment services, private enterprises – around 5000 for
+Government-to-Business services and citizen folder providers; (8)
+Cost structure: operational and commercial staff salaries,
+interoperability platform and GNAP costs, portal costs, support
+costs and management costs; (9) Revenue streams: payment per
+enabled service, payment per additional services and payment per
+transaction (compensation scheme); and (10) Societal Benefits:
+saving time, opportunity in the delivery of information, reliable
+information from the source, integrating services, saving in
+transportation, meal and so on and information Security.
+
+Figure 1. Current state of interoperability
+In Figure 2 we present the expected future state of the Colombian
+Government interoperability, after the implementation of the
+interoperability as a service strategy, which is characterized by
+service consumption standardization, supporting simplification,
+consolidated reports in real time, standardized authentication and
+authorization, single point of contact and centralized monitoring,
+and interoperability government and integration.
+
+4.4 Principles
+Interoperability as a service is guided by the following set of
+principles: (1) incremental growth, (2) technological neutrality,
+(3) federation, (4) reuse, (5) scalability and (6) self-sustainability.
+
+Figure 2. Expected future state of interoperability
+In this new interoperability model, public agencies and industry
+institutions, as actors of the Colombian Government productive
+ecosystem, join together and exchange information through
+multiple integration and interoperability platforms of different
+manufacturers, connected in a federated model, with the adoption
+of common standards and guidelines that clearly state the rules for
+exchanging information.
+
+4.5 Main Characteristics
+In Figure 3 we present the main characteristics of the current state
+of the interoperability platform of the Colombian Government and
+the expected future state of the interoperability as a service, in
+terms of the business model, service model, implementation
+scheme and operation and management model.
+
+It is expected that at least two operators will drive the service in a
+coordinated and collaborative manner, for a minimum period of 4
+years.
+
+4.2 Methodology
+The methodological approximation for implementing the
+interoperability as a service strategy, is composed by the
+following: (1) a business model that defines the viability of the
+project and contains the principles, objectives, canvas model,
+related work, general conditions and activities; (2) a service model
+that specifies the interoperability service and contains the general
+interoperability service architecture, service quality criteria and
+service enabling phases; (3) the call for proposals model that
+includes the calling and contractual process and contains the
+market study, reference terms and operators selection; and (4)
+management model that defines the interoperability service
+provision and contains the service enabling, operation model,
+support model and service use overcrowding model.
+
+Figure 3. Current and expected future state of interoperability
+In the current state, the interoperability business model is
+centralized and subsidized; the service model is basic, with few
+public agencies and services; the implementation scheme is
+composed by a single standard platform; and the operation and
+management model is supported by a technical group and
+supporting activities.
+
+68
+
+=== p4 ===
+In the future state, the interoperability as a service business model
+will be federated and self-sustaining; the service model will be
+wide, including Government-to-Government, Government-toBusiness and Government-to-Citizen services; the implementation
+scheme will be composed by enterprise service buses,
+orchestration, standards and coordination; and the operation and
+management model will be supported by private operators and
+supporting activities.
+
+all its components, (4) provide technical teams to provide support,
+(5) ensure the functioning of interoperability service, and (6) plan
+platform capacity and all its components.
+The promotion process refers to promoting and encouraging the
+use of the interoperability service by information producers and
+consumers. This includes the development of the following
+activities: (1) Inform: tell public agencies about the
+interoperability service and its benefits; (2) Understand: make
+public agencies appropriate interoperability concepts, create an
+inventory of information services candidates to be published in
+the interoperability service, define the required services to be
+published (roadmap) for each public agency; (3) Locate: assess
+the current state of the services to be published, and evaluate the
+necessary activities required to consume the required services; (4)
+Act: identify the responsible people for developing publication
+and consumption web services, advise public agencies on the use
+of interoperability service, support the definition of working
+plans, and track working plans; (5) Encourage information
+providers: support the development of information services.
+
+The implementation of interoperability as a service, implies cost
+savings for public agencies due to the use of a shared platform
+that avoids unnecessary investments in infrastructure and
+middleware software, and shared resource management that
+impact on reducing the load and operating costs as well as
+increased operational efficiency, which at the end is reflected in
+more and better services to citizens. Furthermore, it represents an
+opportunity for operators to access and develop information
+services and earn money through its consumption.
+This model requires manufacturers to develop an initial effort to
+jointly develop a scalable, reliable and functional architecture, and
+provide integral services, ranging from supporting public agencies
+in information services definition and discovery, and enabling
+them into the corresponding platforms. It is important to
+understand that information services are the result of internal
+integration, information systems redesigns, and infrastructure
+refinement processes.
+
+Finally, the use process refers to using the interoperability service
+by information producers and consumers. This includes the
+development of the following activities: (1) publish information
+services, (2) consume information services, and (3) develop valueadded services.
+
+4.7 Platform Capabilities
+
+4.6 Core Processes
+
+In Figure 5 we present the interoperability as a service platform
+capabilities, which must be addressed by the platform providers.
+
+In Figure 4, we present the five core processes that compose the
+interoperability as a service: coordination, implementation,
+operation, promotion and use.
+
+Figure 4. Interoperability processes
+
+Figure 5. Interoperability platform capabilities
+
+The coordination process refers to organizing the efforts and
+resources that lead to the achievement of interoperability in the
+Colombian Government. This includes the development of the
+following activities: (1) monitor the activities of authorization,
+operation and promotion of the interoperability service, (2) define
+governance scheme such as the interoperability committee, (3)
+establish the roadmap resolution, (4) set rules and enforce them,
+(5) manage financial resources, (6) search self-sustainability, (7)
+manage information service providers and (8) manage information
+services consumers.
+
+The required capabilities of the platforms that support the
+interoperability as a service initiative are the following: (1) a
+service directory that contains all available services; (2)
+management capabilities, including logs, audit, monitoring and
+service management; (3) composition capabilities, including
+orchestration, business processes and inter-institutional service
+procedures; (4) connection and transport capabilities, including
+application program interfaces, adapters and messaging; (5)
+security capabilities, including timestamp, digital signatures,
+authentication and authorization; (6) management and monitoring
+portal; (7) information portal; and (8) value-added services,
+including online payments, electronic notification of
+administrative acts and citizen folder.
+
+The implementation process refers to installing and operating the
+interoperability service. This includes the development of the
+following activities: (1) ensure necessary technological resources
+(connectivity, hardware, database and middleware software), (2)
+install, configure and deploy platform, (3) verify the correct
+operation of the platform and other components of the
+interoperability service (portal and table service).
+
+4.8 Incremental Implementation Strategy
+In figure 6, we present the phases that compound the incremental
+implementation strategy of the interoperability as a service
+initiative: preparation, activation, adoption, massification and
+auto-sustainability.
+
+The operation process refers to ensuring the functioning of the
+interoperability service and the support for its use. This includes
+the development of the following activities: (1) install and publish
+information services, (2) address incidents and requirements of
+information providers and consumers, (3) monitor platform and
+
+69
+
+=== p5 ===
+Figure 6. Incremental implementation strategy
+The preparation phase includes the following: business model
+definition, market study, and contractual documents elaboration.
+The activation phase includes the following: activation of the
+interoperability as a service, add-value services and interinstitutional service procedures identification.
+The adoption phase includes the following: added-value services,
+inter-institutional service procedures, 300 services, 30 government
+consumers, 0 private consumers and 10.000 transactions per day.
+
+Figure 8. Expected services and consumers growth
+
+The massification phase includes the following: added-value
+services, inter-institutional service procedures, 500 services, 50
+government consumers, 30 private consumers and 40.000
+transactions per day.
+Finally, the auto-sustainability phase includes the following: autosustainable interoperability as a service, inter-institutional service
+procedures implementation, 600 services, 60 government
+consumers, 100 private consumers and 70.000 transactions per
+day.
+In figure 7, we present the implementation strategy of the
+interoperability as a service initiative, showing the development
+of the core processes.
+
+Figure 9. Expected transactions growth
+We are now working on the estimation of the transaction volume
+of the interoperability as a service. Table 1 shows the identified
+paid transactions from the financial, insurance, education,
+jubilation, health, and construction sectors [26][27][28][29][30]
+[31][32][33].
+Figure 7. Incremental implementation strategy and core
+processes development
+
+Table 1. Paid transactions per sector
+Sector
+Financial
+Insurance
+Education
+Jubilation
+Health
+Construction
+
+The coordination process is developed constantly during all the
+implementation phases. The implementation process is developed
+during the activation phase, and then it is updated at the end of the
+adoption, massification and self-sustainability phases. The
+operation process is developed incrementally when the activation
+phase finishes. The promotion process is developed incrementally
+during all implementation phases, increasing since the activation
+phase. The use process is developed incrementally and starts also
+since the activation phase.
+
+Paid transactions
+1.842.871
+3.128.000
+970.000
+2.698.000
+7.581.000
+1.426.646
+
+There are also near to 30 million non-paid transactions. Which
+creates a universe of around 47 million transactions.
+According to the above, and taking into account that commonly
+the cost of a transaction is around USD 0,34. The revenue
+obtained from the paid transactions will be near to USD 6 million.
+
+In Figure 8 and 9 we present the expected services, consumers and
+transactions growth, according to the information provided above
+for each of the incremental implementation strategy phases.
+
+70
+
+=== p6 ===
+install information services in the interoperability platform, (3)
+access to specialized accompaniment and support for using
+information services, (4) consume information services through
+the interoperability platform, (5) access to specialized
+accompaniment and support for developing information services,
+and (6) data virtualization as an optional feature.
+
+4.9 Financial Model
+Aiming at building up a sustainable interoperability in Colombia,
+a financial model has been developed which seeks to address the
+following questions: (1) number of payable transactions to be
+executed in the interoperability platform to make business viable,
+(2) estimated price per transaction, (3) payback period under
+transactional and price conditions, (4) service duration to make
+business viable, and (5) provider margin under transactional and
+price conditions.
+
+We first presented the context in which the initiative takes place;
+we mentioned the related work in Uruguay, Ecuador, Chile and
+Spain, in terms of regulation, main services, operation,
+technology, costs, incomes, volume, time, difficulties and success
+factors; we presented the interoperability as a service initiative,
+including: overview, methodology, business model, principles,
+main characteristics, core processes, platform capabilities,
+implementation strategy and financial model; finally we
+mentioned some of the main benefits, barriers and success factors
+for the implementation of the initiative.
+
+The financial model is based on maximizing the margin function
+of the interoperability platform private provider, as shown in
+Figure 10.
+
+Pi ≥ USD 0.2, Pi > Ci, Xi > 0 and 1 ≤ n ≤ 5
+
+By exchanging information, public agencies will gain the
+following benefits: (1) better services to citizens, (2) greater
+efficiency, (3) reduced time and cost in the deployment and
+servicing, (4) reuse of services and multi-propose solutions, (5)
+cooperation between public agencies, (6) minimizing of public
+agencies’ effort fragmentation, (7) improvement of public policies
+implementation, and (8) value-added services such as citizen
+folder, electronic authentication, notification of administrative
+acts, and online payment.
+
+M = Margin
+Xi = Number of transactions in i time
+Pi = Price per transaction in i time
+Ci = Cost per transaction in i time
+CFi = Service fixed cost in i time
+CHi = Service enable amortized cost in i time.
+
+Figure 10. Maximizing the margin function
+
+4.10 Benefits, Barriers and Success Factors
+Some of the main benefits that can be obtained through the
+implementation of the interoperability as a service initiative are
+the following: (1) better services to citizens due to the exchanging
+of information; (2) greater efficiency, reduced time and cost in the
+deployment and servicing; (3) services can be reused, creating a
+multi-purpose solution; (4) facilitation of cooperation between
+entities; (5) improve of public policies implementation,
+minimizing the fragmentation of efforts entities; (6) added value
+services such as citizen folder, electronic authentication,
+electronic notification of administrative acts and online payment.
+
+6. REFERENCES
+[1] Ministry of Information and Communication Technologies.
+2015. Interoperability.
+http://www.mintic.gov.co/arquitecturati/630/w3propertyvalue-8117.html
+[2] Ministry of Information and Communication Technologies.
+2012. Decrees 2618 of 2012.
+[3] Planning National Department of Colombia. 2015. SPI,
+Investment Basic Statistics Records. https://spi.dnp.gov.co
+
+There are also some barriers that must be addressed during the
+implementation of the interoperability as a service initiative,
+including: (1) publisher interest on providing data, (2) software
+development capabilities, (3) infrastructure capacity and (4) data
+quality.
+
+[4] Chile Government. 2015. Digital Guide Beta –
+Interoperability and Metadata Standards
+http://www.guiadigital.gob.cl/articulo/interoperabilidad-yestandares-de-metadatos
+[5] Chile Government. 2015. Interoperability Platform.
+http://20112014.modernizacion.gob.cl/interoperabilidad/plataforma-deintegracion-pisee/
+
+The development of service interoperability under a selfsustaining model depends on the following success factors: (1)
+identify the services or micro-high transactional services, whose
+exposure and consumption generate value for organizations and
+companies; (2) support agencies in the discovery, development,
+publication and consumption of services through the
+interoperability platform; (3) monitor the operation of the
+platform to ensure compliance with service levels and mitigate the
+risk of failure; (4) build and maintain confidence in the
+organizations publishing and consuming services through solid
+and secure operating models; and (5) achieve high levels of
+transactional events allowing the interoperability to evolve toward
+a self-sustainable model.
+
+[6] Chile Government. 2015. Interoperability – Workshops egovernment.
+http://es.slideshare.net/modernizacioncl/interoperabilidad-agarcia
+[7] Patricio Gutiérrez. 2015. Interoperability in Chile: a reality in
+evolution.
+http://201.195.239.27/congreso_innovacion/images/ppt/proy
+ecto-interoperabilidad-chile-sr-patricio-gutierrez.pdf
+[8] Peru e-government. 2015. Interoperability.
+http://www.ongei.gob.pe/interoperabilidad/
+
+5. CONCLUSIONS
+In this paper, we presented an initiative of the Colombian
+Government aiming at implementing interoperability as a service
+for integrating public agencies’ services and facilitating
+information exchange, publication and consumption.
+
+[9] Presidency of Ministries Council, National Office of Egovernment and Informatics - Peru. 2015. Interoperability in
+the Peruvian State.
+http://www.ongei.gob.pe/eventos/programas_docu/59/progra
+ma_446.pdf
+
+Interoperability as a service is a service pack that can be acquired
+by public agencies letting them to: (1) access to the
+interoperability platform for information services publication, (2)
+
+[10] National Council of Competitiveness. Diagnostics of the
+interoperability situation in public agencies of the Peruvian
+
+71
+
+=== p7 ===
+State
+http://www.cnc.gob.pe/images/upload/paginaweb/archivo/25
+/Diagnóstico%20de%20la%20Interoperabilidad%20en%20E
+ntidades%20del%20Estado%20Peruano.pdf
+
+Public Serices.
+http://ec.europa.eu/isa/documents/eif_brochure_2011.pdf
+[23] Saekow A., Thammasat Univ., Pathumthani, Boonmee C.
+2009. Towards a Practical Approach for Electronic
+Government Interoperability Framework (e-GIF).
+http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=4755
+546&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2F
+abs_all.jsp%3Farnumber%3D4755546
+
+[11] Presidency of Ministries Council. 2015. Interoperability
+Platform of the State.
+http://es.slideshare.net/cesarvilchezinga/plataforma-deinteroperabilidad-pide-para-servicios-pblicos-en-lnea-per
+
+[24] A. -J. Berre, B Elvesæter, N. Figay, C. Guglielmina, S. G.
+Johnsen, D. Karlsen, T. Knothe, S. Lippe2007. The
+ATHENA Interoperability Framework.
+http://link.springer.com/chapter/10.1007/978-1-84628-8586_62#page-1
+
+[12] Agency of e-government and information society. 2015.
+Interoperability Platform.
+http://www.agesic.gub.uy/innovaportal/file/1619/1/plataform
+a_de_interoperabilidad.pdf
+[13] Agency of e-government and information society. 2015. Use
+guide of the E-government Platform of the Uruguayan State.
+http://www.agesic.gub.uy/innovaportal/v/1454/1/agesic/guia
+_de_uso_de_la_plataforma_de_ge_del_estado_uruguayo.htm
+l
+
+[25] Australian Government, Department of Finance and
+Administration. 2006. Australian Government Information
+Interoperability Framework.
+http://www.finance.gov.au/files/2012/04/Information_Intero
+perability_Framework.pdf
+
+[14] Agency of e-government and information society. 2015.
+Interoperability Platform.
+http://www.agesic.gub.uy/innovaportal/v/1710/1/agesic/plata
+forma_de_interoperabilidad.html
+
+[26] Asobancaria. 2015. Statistics.
+http://www.asobancaria.com/portal/page/portal/Asobancaria/
+asobancaria/quienes_somos/estadisticas
+
+[15] National Secretary of Public Administration. 2015. Web
+Services Catalogue https://interoperabilidad.bsg.gob.ec/csg/
+
+[27] Asobancaria. 2015. Economic Week 2015.
+http://www.asobancaria.com/portal/page/portal/Asobancaria/
+publicaciones/economica_financiera/semana_economica/201
+5
+
+[16] BID. 2014. Interoperability Workshop.
+http://www.administracionpublica.gob.ec/wpcontent/uploads/downloads/2014/10/Interoperabilidadpuesta-a-punto-Mag.-Jorge-Albin.pdf
+
+[28] Asofondos. 2014. Publicashions.
+http://www.asofondos.org.co/publicaciones?term_node_tid_
+depth=3
+
+[17] Spain Government, Electronic Administration Portal. 2015.
+Interoperability.
+http://administracionelectronica.gob.es/pae_Home/pae_Estrat
+egias/pae_Interoperabilidad_Inicio.html#.VickxnhzDow
+
+[29] Colombian Association of Hospitals and Clinics. 2015.
+Supersalud Statistics.
+http://www.achc.org.co/investigaciones.php?idcat=321
+
+[18] Spain Government, Electronic Administration Portal. 2015.
+Technical Regulation of Interoperability.
+http://administracionelectronica.gob.es/pae_Home/pae_Estrat
+egias/pae_Interoperabilidad_Inicio/pae_Normas_tecnicas_de
+_interoperabilidad.html#.Vick63hzDow
+
+[30] Ministry of National Education. 2015. Statistics of the
+National Information System of Superior Education.
+http://www.mineducacion.gov.co/sistemasdeinformacion/173
+5/w3-article-212400.html
+[31] CAMACOL. 2015. Construction in numbers.
+http://camacol.co/informacion-economica/cifrassectoriales/construccion-en-cifras
+
+[19] STORK. 2015. Stork at a Glance. https://www.eid-stork.eu
+[20] UK Cabinet Office, Office of the e-Envoy. 2015. eGovernment Interoperability Framework
+http://edina.ac.uk/projects/interoperability/e-gif-v6-0_.pdf
+
+[32] DANE. 2015. Education Statistics.
+http://www.dane.gov.co/index.php/estadisticas-portema/educacion
+
+[21] European Commission. 2010. European Interoperability
+Framework (EIF) for European public services.
+http://ec.europa.eu/isa/documents/isa_annex_ii_eif_en.pdf
+
+[33] DANE. 2015. Construction Statistics.
+http://www.dane.gov.co/index.php/estadisticas-portema/construccion
+
+[22] European Union. 2011. European Interoperability
+Framework (EIF) – Towards Interoperability for European
+
+72
+

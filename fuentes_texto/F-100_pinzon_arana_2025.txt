@@ -1,0 +1,1492 @@
+=== p1 ===
+Caracterización del Sistema de
+Administración Territorial colombiano:
+dimensiones y retos (2016-2023)*
+
+Sección general
+
+Territorios 52 / Bogotá, 2025, pp. 1-23
+ISSN: 0123-8418
+ISSNe: 2215-7484
+
+Characterization of the Colombian Territorial Administration
+System: Dimensions and Challenges (2016-2023)
+Caracterização do Sistema de Administração Territorial
+colombiano: dimensões e desafios (2016-2023)
+Federico Pinzón Arana R.**
+Daniel Estiven González Ríos***
+Johan Andrés Avendaño Arias****
+Recibido: 15 de junio de 2023
+Aprobado: 10 de febrero de 2024
+https://doi.org/10.12804/revistas.urosario.edu.co/territorios/a.13394
+
+Para citar este artículo
+Pinzón Arana, F., González R íos, D. E., & Avendaño Arias, J. A. (2025). Caracterización del Sistema de
+Administración Territorial colombiano: dimensiones y retos (2016-2023). Territorios, (52), 1-23. https://
+doi.org/10.12804/revistas.urosario.edu.co/territorios/a.13394
+
+* Artículo de investigación que se construye entre
+la Dirección de Investigación y Prospectiva (dip)
+del Instituto Geográfico
+Agustín Codazzi (igac) y
+Daniel E. González.
+** Investigador de la Dirección de Investigación y
+Prospectiva del Instituto
+Geográfico Agustín Codazzi (Colombia). Correo
+electrónico: federico.pinzon@igac.gov.co. orcid:
+https://orcid.org/00000001-9394-5473
+*** Ser vicio Nacional
+de Aprendizaje (sena)
+(Colombia). Correo elect r ó n i c o: i n g d e g o n z alezr@gmail.com. orcid:
+https://orcid.org/00090005-8747-9046
+
+⇒
+
+1
+
+=== p2 ===
+Palabras clave
+Administración;
+dimensiones; enfoques;
+retos; sistema y
+territorio.
+
+Keywords
+Administration;
+dimensions; approaches;
+challenges; system and
+territory.
+
+Palavras-chave
+Administração;
+dimensões; abordagens;
+desafios; sistema;
+território.
+
+territorios 52
+2
+
+R esumen
+En este proyecto se hace una caracterización del Sistema de Administración del Territorio (sat)
+colombiano entre 2016 y 2023. Para alcanzar el objetivo, se analizan los enfoques del sat, se
+identifican las dimensiones que se involucran en su desarrollo misional, se explican los retos
+para su implementación y se estudia su relación con el catastro y la gobernanza. Se adopta un
+método cualitativo en el que se emplea el análisis bibliográfico como técnica de investigación.
+El sat se define desde los planteamientos de Enemark et al., cuyos postulados complementan
+los documentos Conpes para su fortalecimiento. El sat se ha caracterizado por ser ‘débil’, no
+está formalmente constituido, y persiste la inconciencia frente al rol que juegan algunos agentes en su implementación. Se distinguen las dimensiones ambientales, económicas, políticas y
+sociales. Y los retos se asocian a cambios de gobierno, adaptación a transiciones normativas y
+escasez de profesionales para su desarrollo.
+Abstr act
+This project characterizes the Colombian Territorial Administration System (tas) between
+2016 and 2023. To achieve this objective, the approaches of the tas are analyzed, the dimensions involved in its mission development are identified, the challenges for its implementation
+are explained, and its relationship with the Cadastre and governance are analyzed. A qualitative method was adopted, where bibliographic analysis wasused as a research technique. The
+tas is defined from the approaches of Enemark, Rajabifard and Williamson, whose postulates
+complement the Conpes documents for its strengthening. The tas has been characterized as
+‘weak’, it is not formally constituted, and there is still a lack of awareness of the role played by
+some agents in its implementation. Environmental, economic, political and social dimensions
+are distinguished. Furthermore, the challenges are associated with changes in government,
+adaptation to regulatory transitions, and shortage of professionals for its development.
+R esumo
+Este estudo caracteriza o Sistema de Administração Territorial (sat) da Colômbia entre 2016
+e 2023. Para isso, são analisadas as abordagens do sat, identificadas as dimensões envolvidas
+no desenvolvimento de sua missão, explicados os desafios para sua implementação e analisada
+sua relação com o Catastro [entidade colombiana encarregada do levantamento e manutenção
+das informações cadastrais de bens imóveis no território nacional] e a governança. É adotado
+um método qualitativo, em que a análise bibliográfica é usada como técnica de pesquisa. O
+sat é definido com base nas abordagens de Enemark, Rajabifard e Williamson, cujos postulados complementam os documentos da Conpes [Conselho Nacional de Política Econômica
+e Social] para seu fortalecimento. O sat foi caracterizado como ‘fraco’, não está formalmente
+constituído e ainda há falta de consciência sobre o papel desempenhado por alguns agentes em
+sua implementação. As dimensões ambiental, econômica, política e social são diferenciadas, e
+os desafios estão associados às mudanças de governo, à adaptação às transições regulatórias e
+à escassez de profissionais para seu desenvolvimento.
+Federico Pinzón Arana R., Daniel Estiven González Ríos, Johan Andrés Avendaño Arias
+
+=== p3 ===
+En la investigación, se hace la caracterización del Sistema de Administración Territorial (sat) en Colombia (2016-2023),
+instante en el que se firma el Acuerdo de
+Paz a hoy, en el que la coexistencia de las
+formas preexistentes de la administración
+de tierras y la incursión contemporánea,
+con enfoque multilateral, de la administración del territorio establece una visión
+integral para el desarrollo de actividades
+de gobernanza.
+Así las cosas, en Colombia, se ha desarrollado un sat, de facto, que aún no
+ha sido formalizado, pero que funciona
+hasta cierto punto con unas peculiaridades especiales. Entre 2016 y 2023, el sat
+ha adoptado una serie de características
+específicas, fruto del contexto que Colombia afronta en materia de transformación digital, la firma del Acuerdo de
+Paz, las políticas públicas enfocadas a la
+gestión del territorio, la implementación
+del Catastro Multipropósito, los planes
+de ordenamiento territorial (pot) y el
+registro de la propiedad.
+Para alcanzar el objetivo de llevar a
+cabo una caracterización completa del sat
+en Colombia (2016-2023), se realiza una
+explicación y posterior descripción de sus
+enfoques, dimensiones y retos. En este
+sentido, y por cómo se ha desarrollado el
+sat en el contexto colombiano contemporáneo, la indagación posee un alcance
+exploratorio, dado que a la fecha no se ha
+publicado un estudio de corte académico
+
+sobre las características propias del sat, su
+enfoque, dimensiones vinculadas y retos
+que presenta.
+Aun cuando se han generado documentos explicativos de política pública
+que describen su naturaleza jurídica y
+objetivos, estos no cuentan con un alcance suficiente para exponer dichas características, debido a las condiciones
+cambiantes y evolutivas del sat, fruto de
+la frecuente incorporación de diversos
+actores, la adopción de múltiples estándares y la corrección de varios errores en
+materia de implementación técnica. Como ha sucedido en el accionamiento del
+sat, en el que el catastro y el registro de
+la propiedad se encontraban totalmente
+desconectados, y, por eso, se ha entrado
+en un proceso de transición en el cual los
+actores institucionales, como el Ministerio de Tecnologías de la Información y
+Comunicaciones (MinTIC), el Instituto
+Geográf ico Agustín Codazzi (igac) y
+otros han llegado a acuerdos para actuar
+bajo los estándares de la administración
+del territorio, la norma internacional iso
+19152 de 20121 y la adopción del modelo
+ladm-col 2 (MinTIC, 2015).
+Es preciso vincular a los actores responsables del sat, puesto que las transiciones y acoplamientos del sistema no
+son instantáneos y requieren de amplios
+lapsos para su preparación, adecuación de
+la información y formación del personal
+que produce, procesa y analiza los datos
+territoriales. Así las cosas, la investigación se desarrolla a través de una serie de
+
+Caracterización del Sistema de Administración Territorial colombiano
+
+⇒
+
+Introducción
+
+**** Inves t igad o r d e
+la Dirección de Investigación y Prospectiva
+del Instituto Geográfico
+Agustín Codazzi (Colombia). Correo electrónico:
+johan.avendano@igac.
+gov.co. orcid: https://orcid.org/0000-0002-71932070
+Norma internacional
+para la estandarización
+semántica de la información territorial mediante
+la creación de un modelo
+de datos que comprende
+la definición de posibles
+relaciones entre diferentes objetos territoriales,
+de derechos, responsabilidades y restricciones
+relacionadas con la administración territorial
+(MinTIC, 2015, p. 5).
+1
+
+Define la semántica y
+estructura de datos para
+la información de los componentes físico, jurídico y
+económico de los procesos
+de formación o actualización catastral multipropósito ( igac , 2023,
+párr. 4).
+2
+
+territorios 52
+3
+
+=== p4 ===
+Principal guerrilla colombiana, de ideología
+marxista-leninista. Al
+firmar el Acuerdo de Paz,
+se desintegró en una serie
+de disidencias que aún
+realizan actividades delictivas (InSight Crime,
+2023).
+3
+
+territorios 52
+4
+
+incisos en los que, en primera instancia,
+se exhibe un contexto general en el cual se
+enuncia el problema de investigación. A
+partir de la formulación del problema, se
+presenta el interrogante central, junto con
+su respectiva justificación. En segundo
+lugar, se exhibe un marco de referencia
+en el que se hace hincapié en la metodología y rumbo teórico de la investigación.
+Luego, se abordan las metas específicas, en tres apartados en los que, en primer lugar, se hace un análisis exhaustivo
+sobre los enfoques esenciales del sat;
+después, se exponen sus dimensiones; y,
+en tercera instancia, se enuncian sus mayores retos asociados a la implementación
+y acertada puesta en marcha. Por último,
+se exponen las conclusiones producto de
+la investigación y se enlistan las referencias bibliográficas consultadas para su
+construcción argumentativa.
+Con el ánimo de consumar este versículo introductorio, es imprescindible
+esclarecer que la construcción y levantamiento de esta indagación se logra a través
+de la consulta bibliográfica que se hace a
+notas y aportes académicos, documentos
+oficiales emitidos por entidades públicas
+y conjeturas y experiencias presentes en
+archivos oficiales, capítulos de libro y artículos de revistas indexadas producto de
+investigación de numerosos expertos en
+las asignaturas de la ingeniería catastral y
+geodesia, la administración del territorio,
+etc. Los contenidos expuestos en esta obra
+se sustentan por medio de diagramas, organigramas y diferentes ayudas gráficas
+
+que le permiten al lector interesado tener
+una ilación afable con el artículo, lo que
+le permite comprender en profundidad
+los postulados y acontecimientos que acá
+se exhiben.
+
+Contexto: problema y justificación
+La discusión sobre cómo se debe administrar el territorio ha venido tomando
+protagonismo a nivel global y, sobre todo,
+en el contexto sociopolítico colombiano.
+De hecho, hoy toma más fuerza y relevancia luego de la firma del Acuerdo Final
+de Paz para la Terminación del Conflicto y la Construcción de una Paz Estable
+y Duradera (2016), que se efectuó en
+Cartagena de Indias, entre el gobierno
+nacional y las extintas Fuerzas Armadas
+Revolucionarias de Colombia-Ejército del
+Pueblo (farc-ep)3 (InSight Crime, 2023).
+En el acuerdo se resalta, entre uno
+de sus apéndices esenciales, la necesidad de impulsar una reforma rural integral, mejor conocida bajo el eslogan
+nacional de “Hacia un nuevo campo”, instancia en la que priman proyectos vinculados al desarrollo integral, la restitución,
+la formalización masiva de la pequeña y
+mediana propiedad rural, la actualización
+del catastro e impuesto predial rural, la
+protección de zonas de reserva y mecanismos para promover el acceso a la tierra
+(Cancillería, 2016).
+En esta coyuntura, son múltiples las
+funciones y quehaceres emergentes que
+buscan cumplir las metas del Acuerdo
+
+Federico Pinzón Arana R., Daniel Estiven González Ríos, Johan Andrés Avendaño Arias
+
+=== p5 ===
+de Paz. Por tal motivo, existe hoy una
+iniciativa en específico que busca fortalecer el sat en toda su implementación,
+y es la puesta en marcha del Catastro
+Multipropósito (dnp, 2016). Diseño que
+desempeña el papel de ‘eje nodal’ para
+censar tierras y propiedades como base de
+la búsqueda de la seguridad jurídica de la
+tenencia de la tierra sobre una condición
+indispensable hacia la deseada eliminación
+de los conflictos históricos de Colombia.
+Junto a la implementación de un
+nuevo modelo de catastro, con enfoque
+multipropósito, emerge en Colombia la
+necesidad de pensar no solo en el ejercicio censal (catastral), sino, mejor, en una
+práctica con mayor alcance que articule el
+conjunto de unidades, entidades, jurisdicciones y dimensiones sobre las relaciones
+de la tenencia de la tierra: la administración óptima del territorio (dnp, 2022).
+Cabe destacar que en Colombia siempre ha existido un sat tácito, o de facto, y
+cuasiinformal y casquivano, implementado sobre la marcha, que ha soportado los
+vaivenes de las necesidades geohistóricas,
+sociopolíticas e institucionales (BalcázarVanegas, 2021). La diferencia entre el
+contexto contemporáneo y lo que se ha
+hecho de manera tradicional es que hoy se
+desea formalizar el sat, bajo el paraguas
+de una serie de marcos institucionales,
+normativos y regulatorios debidamente
+implementados.
+Según el Consejo Nacional de Política
+Económica y Social (Conpes4 4007), el
+
+sat es débil, ya que no está formalmente
+constituido, y, por este motivo, hay un
+desconocimiento del rol que desempeñan
+algunos actores en su despliegue (Rodríguez-Ospino, 2020). Con este inconveniente, cada actor establece sus propios
+estándares, generando así obstáculos para
+la transferencia y multiplicidad de la información territorial.
+En este campo, se plantea la necesidad de realizar una caracterización del
+sat tomando en cuenta sus dimensiones,
+enfoques y principales retos y desafíos,
+tanto clásicos como emergentes. Igualmente, se asume como prioritario plantear
+el discernimiento entre la perspectiva de
+la administración de tierras contra la administración del territorio. Lo anterior
+bajo el supuesto de que tener una mirada
+territorial les permite a los tomadores de
+decisiones colombianos apreciar un panorama más amplio en materia de manejo de
+tierras, dado que se tiene una proyección
+más allá del enfoque ‘contenedor’ de la
+tierra, sus propiedades físicas, entre otras
+(Balcázar-Vanegas, 2021).
+Para el desarrollo de esta indagación,
+se toma en consideración la noción de territorio que adoptan Rosero y Sarmiento
+(2020), basándose en los postulados de
+Beuf (2017), concepto que se entiende
+como un “espacio político-administrativo
+identificado por límites o fronteras, administrado o gestionado por autoridades
+cuya legitimidad les permite tomar e implementar decisiones […], este espacio
+
+Caracterización del Sistema de Administración Territorial colombiano
+
+El principal organismo
+asesor del gobierno de Colombia en la formulación
+de políticas económicas y
+sociales, encargado de
+coordinar y planificar
+estratégicamente el desarrollo del país.
+4
+
+territorios 52
+5
+
+=== p6 ===
+Se refiere al período tras
+la firma del Acuerdo de
+Paz en 2016, abarcando
+su implementación y desafíos.
+5
+
+territorios 52
+6
+
+político administrativo puede ser el Estado nacional o una entidad territorial, en
+este caso los municipios” (p. 39).
+Ahora bien, la necesidad de generar
+un espacio de discusión académica que
+permita poner sobre la mesa lo que implican las nuevas perspectivas de la administración del territorio en el campo del sat
+hace que en esta investigación se aborde
+el siguiente interrogante: ¿cuáles son las
+características esenciales del Sistema de
+Administración del Territorio (sat) en
+el escenario sociopolítico colombiano
+contemporáneo (2016-2023)?
+Ante tal interrogante, es importante
+aclarar que, en la práctica, lo que se puede denominar en el entorno colombiano
+como el sat preexiste y se ha constituido
+sobre la marcha, lo cual ha hecho que los
+procesos institucionales tengan una frágil e insatisfactoria relación con respecto
+a la comprensión sobre la certeza de la
+tenencia, el valor, el uso de las tierras e,
+incluso, sobre sus relaciones y características socioculturales y territoriales.
+Con la f irma del Acuerdo de Paz,
+se generó un conjunto de lineamientos
+para formalizar lo que podría ser un sat
+nacional-oficial (legítimo), estableciendo
+estándares como la inclusión del modelo ladm-col (igac, 2021), políticas de
+Catastro Multipropósito y de gobernanza
+para este, lo que ha producido cambios
+en el núcleo de la administración fáctica
+del territorio colombiano.
+La administración del territorio en
+Colombia ha evolucionado de manera
+
+gradual. En primera instancia, preexistía
+una administración de tierras en la que
+los sistemas de información del territorio estaban desconectados, como lo era
+el catastro y los registros. En cambio,
+ahora se puede apreciar que, debido a
+la ineficacia y a la adopción de políticas
+públicas en el marco del posacuerdo, 5 el
+sat ha cambiado de manera estructural
+y conceptual. De manera general, se lleva a cabo la administración del territorio
+con la integración de diferentes sistemas
+de información territorial, es decir que
+se ha gestado un sat en el que, en un
+primer momento, se establece la interoperabilidad del catastro-registro y se
+adoptan estándares para la integridad de
+la información.
+También, se incluyen actores públicos
+y privados (tanto nacionales como internacionales), junto con la adopción de
+métodos de transferencia de información
+y conocimientos entre las partes competentes. La incursión contemporánea de la
+administración del territorio ha llevado
+a los interesados en la gestión territorial
+y gobernantes a tener una concepción
+holística de la administración del territorio en vista de que, desde 2016, se ha
+producido un ‘momento de cambio’, en
+el cual el sat involucra los sistemas de
+información del territorio.
+En este sentido, se debe tener en
+cuenta que los errores y aciertos que se
+presentan en el sat son la consecuencia
+de la interacción entre sus componentes centrales: el catastro, el registro y el
+
+Federico Pinzón Arana R., Daniel Estiven González Ríos, Johan Andrés Avendaño Arias
+
+=== p7 ===
+ordenamiento territorial. Esto conlleva
+que sea necesario establecer estándares
+para que los componentes que integran el
+sat funcionen de manera sincronizada, a
+fin de alcanzar metas asociadas al manejo
+y administración del territorio.
+Con el avance de las discusiones sobre
+las dimensiones, retos y perspectivas que
+se asocian al sat, se requiere que, desde
+las perspectivas académicas de la administración pública y la ingeniería catastral y
+geodesia, se hagan análisis sobre lo que ha
+implicado la incursión de esta perspectiva
+en Colombia, junto con sus recorridos,
+sus conexiones entre lo que implica asumir si se están administrando tierras o
+territorios, por lo que es indispensable
+que se documenten los alcances de formalizar un sat con las características que
+le han sido asignadas. Lo anterior con el
+ánimo de adquirir un mayor número de
+herramientas y reflexiones que, incluso,
+planteen un nuevo encauzamiento de la
+ingeniería catastral y geodesia considerando los retos vigentes.
+Como desenlace de este apartado,
+es imprescindible manifestar que, hoy
+en día, los componentes del sat están en
+plena consolidación. Así mismo, durante
+esta etapa de ‘transformación’, los elementos inherentes al sistema precisan de
+una estandarización adecuada con miras
+a adaptarse a reglamentos y estatutos
+internacionales, y, sobre todo, para que
+sus propiedades coincidan con las variables que sirven como base lógica del
+modelo ladm-col (MinTIC, 2015). Esto
+
+ha generado que, desde las instituciones
+encargadas del funcionamiento y desarrollo del sat, se haga un diagnóstico de
+la información territorial y se propongan
+iniciativas para la adopción de algunas reformas, viendo que el sistema está sujeto
+a cambios normativos para su correcta
+activación.
+Por esta razón, el sat se encuentra en
+una situación de evolución, por lo cual los
+procesos de incorporación de sistemas de
+información territorial son puntos de gran
+importancia, con los que se han logrado
+avances en la interoperabilidad entre el
+catastro y el registro. Y, recientemente, se
+ha vinculado el ordenamiento territorial,
+que está en estudio y acoplamiento; con
+ello se establece que la integración de
+sistemas de información debe ser gradual.
+
+Marco de referencia
+Esta obra se construye a través de un
+exhaustivo ejercicio en el que se emplea
+una metodología cualitativa, cuyo alcance temporal es transversal y en la cual
+se tiene en cuenta un lapso delimitado
+(2016-2023) para caracterizar el sat, sus
+dimensiones, enfoques y retos. La investigación cualitativa es aquella que “estudia
+la calidad de las actividades, relaciones,
+asuntos, medios, materiales o instrumentos en una determinada situación o problema. La misma [sic] procura por lograr
+una descripción holística […], que intenta
+analizar, con sumo detalle, un asunto o
+actividad en particular” (Vera, 2018, p. 1).
+
+Caracterización del Sistema de Administración Territorial colombiano
+
+territorios 52
+7
+
+=== p8 ===
+territorios 52
+8
+
+Igualmente, se pone en práctica una
+técnica de recolección de información
+mejor conocida como análisis bibliográfico. Ayala (2020) describe esta destreza
+como una revisión de “material bibliográfico existente con respecto al tema a [sic]
+estudiar […], [que] incluye un conjunto
+de fases que abarcan la observación, la
+indagación, la interpretación, la reflexión
+y el análisis para obtener bases necesarias
+para el desarrollo de cualquier estudio”
+(párr. 3). Además del marco metodológico, se acoge un foco teórico en el que se
+define el sat desde la perspectiva teórica
+de Enemark et al. (2010).
+Los sistemas de administración del
+territorio se establecen bajo un concepto
+transversal, en el cual, para Enemark y
+Williamson (2004), la idea de construcción de sistemas estatales de administración de territorios es determinar la
+infraestructura básica para la implementación de políticas y estrategias de gestión
+de la tierra en apoyo del desarrollo sostenible. Williamson (2001) sostiene que la
+base de los sistemas para la administración
+del territorio está fundamentada en el
+catastro, el cual debe asistir a las funciones de tenencia, valor, uso y desarrollo
+de la tierra. De este modo, dentro del
+sistema, el catastro (o sistema catastral)
+se convierte en el núcleo vital o ‘motor
+técnico’ que proporciona la capacidad de
+controlar y gestionar el territorio a través
+de las funciones del sistema.
+Para Rajabifard et al. (2004), el despliegue de los sistemas de administración
+
+de territorios es responsabilidad de las
+entidades gubernamentales; en este se
+llevan a cabo procesos, por medio de herramientas técnicas, para la recopilación
+de datos y referencias. Las notas y la información desempeñan un papel fundamental, puesto que el sat le proporciona
+datos claros y fidedignos a la ciudadanía,
+y ofrece insumos primordiales a los líderes
+para la juiciosa toma de decisiones. Las
+ciencias de la tierra y los fundamentos de
+la administración del territorio están rigurosamente ligados, pues el accionamiento
+de tecnologías e innovadores métodos
+para afinar procesos es el reto que tienen
+los procedimientos sistémicos (modernos
+y tradicionales) (Rajabifard et al., 2004).
+Enemark y Williamson (2004) realizan un análisis del sat y, en especial, del
+marco espacial subyacente de la cartografía a gran escala, que debe diseñarse con
+el fin de gestionar soluciones a problemas
+actuales con enfoques participativos e inclusivos que satisfagan necesidades humanas, en lugar de limitarse a seguir normas
+técnicas más avanzadas. Bajo el marco de
+la optimización y la administración efectiva del territorio, es preciso mencionar
+que la tierra es uno de los recursos más
+apreciados y valiosos de la comunidad, y
+su administración y manejo requieren de
+un enfoque pleno y optimizado (Enemark
+& Williamson, 2004).
+Por lo tanto, los sistemas de administración eficientes, con sus diagnósticos
+catastrales de base, son cruciales para
+la gestión inteligente y responsable de
+
+Federico Pinzón Arana R., Daniel Estiven González Ríos, Johan Andrés Avendaño Arias
+
+=== p9 ===
+los recursos. Independientemente de su
+condición de prosperidad o nivel de desarrollo, los Estados deben acatar y adoptar
+reformas y actualizaciones jurídico-técnicas, en el marco de los esfuerzos que
+deben ejercer para la precavida activación
+de su sat (Rajabifard et al., 2004).
+Las reformas, en el campo propio del
+sat, están impulsadas por esquemas político-económicos, pero cada vez más por
+la necesidad de abordar desafíos sociales
+y medioambientales, así como por la presión que ejerce la evolución tecnológica
+y las transformaciones organizativas o
+normativas. La urgencia de evaluar sistemas de administración y documentar sus
+alteraciones, retos y dinámicas es casi tan
+primordial como el funcionamiento del
+sistema en sí.
+Por lo anterior, la productividad y
+el rendimiento de los sistemas de administración están siendo evaluados por
+organizaciones internacionales y entidades nacionales (alcaldías, gobernaciones,
+ministerios, etc.), al igual que por los
+propios organismos de administración
+de territorios, con el ánimo de evaluar
+los sistemas para planificar, patrocinar o
+llevar a cabo proyectos de reforma (Rajabifard et al., 2004).
+El Departamento Nacional de Planeación (dnp, 2020)6 publicó en octubre de
+2020 el documento Conpes 4007 “Estrategia para el fortalecimiento de la gobernanza en el Sistema de Administración
+del Territorio”. A
+­ rchivo que ­juega el rol
+de ‘hoja de ruta’ en la que se desarrolla el
+
+concepto del sat ­tomando como punto
+de referencia las conjeturas y p
+­ ostulados de
+Enemark et al. (2010), quienes lo definen
+como “una infraestructura que incluye
+acuerdos institucionales, un marco legal,
+procesos, estándares, información, sistemas de administración y diseminación y
+las tecnologías requeridas para implementar las políticas del territorio y las estrategias para su administración” (p. 39).
+En el Conpes 4007 se aclara que el sat
+ha tenido una transformación importante
+en la cual el Catastro Multipropósito le
+ha dado un enfoque integral que pretende
+contribuir al avance sostenible del territorio, incorporando una visión holística de
+las competencias y funciones de desarrollo, tenencia, uso y valor, para satisfacer
+necesidades alineadas al desenvolvimiento
+económico, la gestión medioambiental y
+la estabilidad social (dnp, 2020), por lo
+que es preciso que en Colombia se adopte
+un sistema catastral sustentado en una
+infraestructura de datos espaciales.
+En este ámbito, se requiere que se tomen en consideración aspectos como un
+marco integrado de gestión de los procesos relacionados con la administración
+del territorio, junto con una adecuada
+articulación y coordinación entre actores,
+y la implementación de planes basados en
+información asociada al territorio (Enemark et al., 2010, p. 40).
+Desde el dnp (2021), se señala que el
+sat “constituye una política del gobierno
+[…] que busca armonizar los principales
+procesos de transformación de la gestión
+
+Caracterización del Sistema de Administración Territorial colombiano
+
+El dnp coordina la planificación del desarrollo
+en Colombia, asesora en
+políticas públicas, gestiona inversión, evalúa
+programas y facilita la
+cooperación gubernamental para un crecimiento
+sostenible e inclusivo.
+6
+
+territorios 52
+9
+
+=== p10 ===
+del territorio” (p. 3); que, adicionalmente, está asociado a leyes, instituciones
+y procesos en los que “los ciudadanos
+solicitan trámites, permisos o licencias
+relacionadas con el territorio y las instituciones toman decisiones para promover
+el desarrollo. Es como una ‘maquinaria’
+que necesita que todas sus piezas trabajen
+de forma coordinada para ser efectiva”
+(dnp, 2021, p. 5). El dnp indica que,
+entre los principios para la gobernanza
+en la administración del territorio en el
+marco del sat, predomina la eficiencia, la
+efectividad y la transparencia (Samsudin,
+2014) (figura 1).
+
+El enfoque del sat ¿administrar las
+tierras o administrar el territorio?
+La discusión sobre si en Colombia se administran tierras o territorios se produce
+
+en la contemporaneidad por las dinámicas
+que ha vivido el país en materia de administración territorial, puesto que no
+se puede administrar un país pensando
+únicamente en el enfoque contenedor de
+la tierra, y desconociendo otros elementos
+territoriales que hacen parte del Estado.
+Esta visión ha llevado a que el gobierno no
+administre acertadamente el territorio, ya
+que el desconocimiento hace que Colombia se vea inmersa en disputas territoriales
+multilaterales, tanto a nivel interno como
+externo (Rodríguez-Ospino, 2020).
+En el marco de la globalización y el
+desarrollo sostenible, esta discusión ha
+sido parte de nuevos procesos para que
+la gobernanza sea eficiente. En Colombia, han coexistido las formas preexistentes de la administración de tierras y
+la administración del territorio, ambas
+labores disímiles pero consustanciales,
+
+Figura 1. Principios de la gobernanza de administración del territorio
+Transparencia, eficacia y efectividad
+Claridad y simplicidad
+
+Responsabilidad
+
+Sostenibilidad
+
+Gobernanza
+de la
+administración
+del territorio
+
+Empoderamiento
+
+territorios 52
+10
+
+Responsabilidad local,
+regional y nacional
+
+Marco legal objetivo
+Seguridad
+y estabilidad
+
+Consistencia e
+imparcialidad
+
+Fuente: Conpes 4007 (dnp, 2020, p. 24).
+
+Federico Pinzón Arana R., Daniel Estiven González Ríos, Johan Andrés Avendaño Arias
+
+=== p11 ===
+una más limitada que la otra, sin embargo, cumplen con el mismo propósito: un
+sat efectivo.
+El Estado ha administrado las tierras
+por medio de diversas instituciones que
+a través de los años han generado cambios en la estructura agraria. Según lo
+que plantea Machado (2017), “Colombia
+pasó de una estructura agraria de tipo
+latifundio-minifundio generada especialmente desde inicios del siglo xix, y
+fortalecida con el otorgamiento de baldíos
+por el Estado sin criterios definidos, a una
+estructura multimodal (definida por el
+peso relativo de los diversos tamaños de
+propiedad) que registra los mismos conf lictos y características de la estructura
+tradicional” (p. 2).
+Los problemas de la estructura tradicional no solo perduran, también se han
+agudizado y fomentan un fenómeno social que se enmarca en el conflicto armado
+que aún persiste. La administración de la
+tierra no ha sido efectiva y no garantiza
+la seguridad y la tenencia jurídica. El
+reparto inequitativo y desproporcional
+de la tierra ha hecho que su posesión se
+concentre en una minoría. Así mismo,
+la responsabilidad de administrar tierras
+ha estado en función de los gobiernos de
+turno, esto hace que el manejo de tierras
+se torne en una cuestión política, y no satisface las necesidades de los ciudadanos,
+lo que genera desconfianza sobre la legitimidad de los derechos de la propiedad
+(Machado, 2017).
+
+Este problema se presenta en cada
+gobierno, en que la búsqueda de soluciones no ha sido una prioridad. Fue hasta
+el Acuerdo de Paz cuando el tema de la
+tierra y la reforma rural integral salieron
+a colación. Hasta ese punto, administrar la tierra era un tema poco visible,
+con un encuadre de dimensiones físicas
+y económicas de la tierra como un bien
+productivo, sin la trascendencia y el alcance necesario. Las necesidades y dinámi­
+cas que se presentaron en Colombia en
+las dimensiones económicas, sociales,
+ambientales y políticas llevaron a que,
+en 2016, el gobierno buscara soluciones
+que permitieran volver funcional el sat,
+con un enfoque actualizado, asociado a
+dinámicas presentes en los territorios.
+En ese sentido, el enfoque territorial del
+Acuerdo de Paz
+supone reconocer y tener en cuenta necesidades, características y particularidades
+económicas, culturales y sociales de territorios y comunidades, garantizando la
+sostenibilidad socio-ambiental; y procurar
+implementar medidas de manera integral y
+coordinada, con la participación activa de
+la ciudadanía. La implementación se haría
+desde las regiones y territorios y con la
+participación de las autoridades territoriales y los diferentes sectores de la sociedad
+(Cancillería, 2016, p. 13).
+
+El enfoque territorial extrapola la administración de la tierra, en la que el foco
+
+Caracterización del Sistema de Administración Territorial colombiano
+
+territorios 52
+11
+
+=== p12 ===
+territorios 52
+12
+
+es el conjunto del territorio, basado en el
+desarrollo sostenible y la gobernabilidad.
+La transición del concepto de “administrar tierras” a “administrar el territorio”
+no se ha fijado de manera precisa. Si bien
+en el país se siguen administrando las tierras desde las entidades gubernamentales,
+el proceso de incorporación de nuevos actores y participantes se ha hecho tomando
+en cuenta iniciativas para el enfoque territorial de la administración, que se presentan desde el Catastro Multipropósito.
+Proyecto que, actualmente, funciona
+como ‘motor’ del sat, junto con la adopción de estándares para la transferencia
+de información e interoperabilidad de las
+instituciones, gestándose así un “entorno
+completo de instituciones, leyes y procesos, donde los ciudadanos solicitan trámites, permisos, licencias; relacionadas con
+el territorio y las instituciones que toman
+decisiones para promover el desarrollo”
+(Albarracín, 2022, p. 23).
+El Catastro Multipropósito es un sistema que “registra datos actualizados
+de la tierra, basado en predios formales
+e informales. La información obtenida
+contiene especificaciones sobre derechos,
+responsabilidades, restricciones, descripciones geométricas, valores […]; y registra
+intereses sobre los predios, en términos
+de ocupación, valor, uso y urbanización”
+(igac, 2023, párr. 1). Además, se desarrolla en el marco de un sat que se ha ido
+construyendo, constituyendo y vinculando a través de políticas públicas referentes
+al manejo de la tierra y el territorio.
+
+Tener un enfoque netamente territorial no establece un marco excepcional, al
+contrario, al involucrar nuevos actores y
+participantes, emergen inconvenientes, en
+los que la adopción de estándares para el
+tratamiento de la información desempeña
+un papel fundamental, pues busca que
+las entidades se interrelacionen bajo los
+mismos parámetros y, sobre todo, bajo los
+preceptos de normas internacionales (iso
+19152: 2012) para el manejo de la información que permiten construir un modelo de datos de forma flexible y de acuerdo
+a las características propias del sistema
+local, junto con el desarrollo del modelo
+ladm-col (MinTIC, 2015).
+
+Dimensiones del sat: económica,
+social, política y ambiental
+En el marco del sat, se distinguen cuatro
+dimensiones: la de orden económico, la de
+corte social, la política y la de naturaleza
+ambiental. En primera instancia, la fase
+propiamente económica hace hincapié
+en todo lo relacionado con el recaudo de
+recursos por la actualización de la información catastral y con la disposición de
+los insumos en obras de prioridad en los
+municipios (figura 2).
+En ese orden de ideas, en el entorno
+propio del sat, el Catastro Multipropósito ha jugado un papel importante para
+la economía, ya que, anteriormente, el
+recaudo de los tributos en los municipios que no contaban con información
+actualizada de catastro era mínimo. La
+
+Federico Pinzón Arana R., Daniel Estiven González Ríos, Johan Andrés Avendaño Arias
+
+=== p13 ===
+desactualización del catastro permitía que
+la ilegalidad y la evasión de impuestos estuviera por encima del bienestar nacional,
+por lo que desde la política pública se
+buscó establecer metodologías que permitieran a los municipios ser partícipes
+del mismo avance que el país requería en
+materia catastral. En cabeza del igac y los
+municipios, con la propuesta de que cada
+entidad territorial contara con información actualizada, se ha implementado la
+política de Catastro Multipropósito, en
+la cual los municipios han sido llamados
+a ser gestores catastrales, a conocer su
+territorio y a administrarlo de manera
+oportuna y completa (dnp, 2022).
+El problema que se ha presentado
+en algunos municipios está asociado a
+la parte económica, y esto se relaciona
+con la categorización de los municipios,
+pues no todos cuentan con una amplia
+cartera para soportar la carga económica
+requerida para crear y sostener un catastro adecuado, lo que ha llevado a que
+municipios funcionales realicen esquemas
+asociativos de entidades territoriales. Los
+levantamientos en campo son costosos
+y, en algunos casos, demorados, dependiendo de la topografía del municipio,
+el orden público, la capacidad técnica y
+tecnológica, que, a su vez, debe ser de
+vanguardia para obtener resultados que
+permitan obtener beneficios.
+La dimensión económica se ha enmarcado en la consecución de recursos
+por medio del catastro, la actualización
+
+ha permitido en estos años un aumento
+en los recaudos de los tributos municipales, por el volumen de predios que no
+se encontraban incorporados al catastro
+y que nunca habían tributado. Al 30 de
+junio de 2022, según cifras del igac, “el
+país llegó a una actualización catastral
+equivalente al 40,31 %, más de 45,9 millones de hectáreas” (dnp, 2022, s. p.). Por
+esto, la necesidad de la interoperabilidad
+de catastro registro permite encontrar
+cientos de procesos que jurídicamente se
+realizaron, pero que catastralmente no
+se contaba con información.
+Desde otro ángulo, el componente
+social es una de las dimensiones más importantes en el sat. El ciudadano ya no
+es un actor ajeno a la administración del
+territorio, dado que en Colombia se ha
+priorizado la participación (­c iudadana)
+permanente en la construcción de políti­
+cas públicas para el desarrollo de la gestión
+territorial, al igual que para la identificación de problemas y análisis de otras dinámicas inherentes a los territorios.
+Si bien antes el ciudadano cuando
+requería hacer un proceso para cualquier
+tipo de transacción se encontraba en una
+situación compleja, ahora el sat se enfoca
+en el individuo, especialmente para reducir los trámites (y costos) para que los
+procesos sean oportunos. El sat, en su
+fase de acoplamiento y estandarización,
+aún posee problemas en su sistema operativo, pues estos trámites varían según
+el municipio, y la autonomía municipal
+
+Caracterización del Sistema de Administración Territorial colombiano
+
+territorios 52
+13
+
+=== p14 ===
+Figura 2. Dimensiones del sat colombiano (2016-2023)
+
+Fuente: elaboración de los autores, basándose en el Conpes 4007 (dnp, 2020).
+
+territorios 52
+14
+
+puede establecer parámetros que todavía
+no se tienen en cuenta en el sat.
+Ahora bien, la cadena de valor de los
+procesos del sat colombiano establece
+que en los procesos de apoyo debe participar la ciudadanía, debido a que el interés de un propietario por su predio hace
+que requiera información que el Estado,
+como responsable de la administración
+del territorio, debe brindar. Por ello, la
+información debe ser interoperable, se
+deben gestar procesos de implementación
+de mecanismos que permitan la difusión
+y consulta de la información territorial,
+que coadyuve al desarrollo de las comunidades, permitiendo la toma de decisiones sobre un territorio en específico. Los
+procesos de participación de la ciudadanía hacen parte del desarrollo misional
+
+del sat, el Catastro Multipropósito ha
+permitido establecer relaciones del ciudadano con su predio, pero el sat es
+el responsable de integrar los derechos,
+las responsabilidades y las restricciones
+(Rodríguez-Ospino, 2020).
+Por otro lado, la dimensión política
+se ha visto enmarcada en el desarrollo de
+los planes de gobierno con respecto a las
+políticas del Catastro Multipropósito y
+la gobernanza del sat. En este sentido,
+cabe resaltar que hay un gran interés político en la gestión territorial; las líneas
+de trabajo enfocadas en potenciar los sistemas de información del territorio han
+permitido que el país avance en materia
+de gobernabilidad y consecución de objetivos; el diseñar y estructurar políticas que
+permitan registrar, analizar y compartir
+
+Federico Pinzón Arana R., Daniel Estiven González Ríos, Johan Andrés Avendaño Arias
+
+=== p15 ===
+información del territorio generan confianza en la ciudadanía.
+Las políticas públicas que más se destacaron entre 2016 y 2023 fueron los documentos Conpes, que, conceptualmente,
+establecieron una visión general del Catastro Multipropósito, su financiamiento
+y la gobernanza del sat, pasando de la
+función pública a un servicio público de
+gestión catastral con alcance multipropósito. Para hacer posible su ejecución,
+el dnp contribuyó en la preparación de
+adelantos normativos, institucionales y
+tecnológicos. Prueba de ello es el mismo
+Plan Nacional de Desarrollo (pnd) (20182022), que incluyó elementos necesarios
+para la implementación de la política de
+Catastro Multipropósito previendo la gestión catastral como un servicio público;
+y los Conpes 3859 (2016), 3951 (2018),
+3958 (2019) y 4007 (2020), que determinaron recursos y lineamientos para
+impulsar esta misma iniciativa y fijaron
+la estrategia para el fortalecimiento de la
+gobernanza en el sat.
+La dimensión ambiental del sat hace un llamado para la incorporación de
+actores productores de información del
+territorio con referencia al medio ambiente y recursos naturales. Esta apuesta
+vincula entidades como las corporaciones
+autónomas regionales (car)7 y los parques nacionales naturales (pnn),8 que son
+productores de información con sentido
+ambiental. La ayuda que proporciona
+la información territorial para administrar, cuidar, proteger, planear y fomentar
+
+proyectos enfocados al cuidado del medio
+ambiente ha permitido definir políticas
+públicas ‘verdes’ para la preservación de
+los ecosistemas con desarrollo sostenible.
+En ese sentido, el conocimiento del
+territorio se hace indispensable para la
+gestión de riesgos y los desastres naturales; las entidades regionales que producen información independiente, como las
+unidades de gestión del riesgo, han sido
+llamadas a ser partícipes en la interoperabilidad de la información. Este entorno ha
+permitido que los avances en materia de
+mitigación del riesgo sean implementados
+en otros municipios que no contaban o
+tenían una insuficiente administración
+para la gestión del riesgo.
+
+Entidades públicas autónomas responsables de
+gestionar y proteger el medio ambiente a nivel regional, enfocándose en la
+conservación, uso sostenible y manejo de los recursos
+naturales renovables en su
+jurisdicción.
+7
+
+Son zonas de protección
+destinadas a preservar la
+biodiversidad, los ecosistemas y los recursos naturales del país.
+8
+
+Retos vigentes del sat
+(2016-2023)
+En primer lugar, uno de los principales
+desafíos que desde antaño afligen la implementación del sat en Colombia son
+los cambios de gobierno. Iniciativas clave
+para el correcto desarrollo del sat, como
+el Catastro Multipropósito y lineamientos asociados a la gobernanza territorial,
+requieren que desde los gobiernos de
+turno se fijen políticas que garanticen su
+continuidad y consolidación, en las que
+los cambios de administración gubernamental no influyan negativamente, pues
+estas políticas deben ser impulsadas en
+cada gobierno, dado que son de interés
+general, y la voluntad política de continuar con ciertos proyectos fomentan
+
+Caracterización del Sistema de Administración Territorial colombiano
+
+territorios 52
+15
+
+=== p16 ===
+territorios 52
+16
+
+en la sociedad una mayor percepción de
+confianza en los líderes (figura 3).
+En el marco del sat, entre 2010 y
+2018, Juan M. Santos priorizó en el pnd
+(2014-2018) “Todos por un nuevo país”
+la necesidad de consolidar un sistema de
+gestión territorial para la adecuada administración del territorio, idea que se aceleró y fortaleció con la firma del Acuerdo
+de Paz. A posteriori, con el pnd (20182022) “Pacto por Colombia, pacto por la
+equidad”, Iván Duque le dio continuidad
+a aspectos como la generación de políticas
+públicas para el mejoramiento del sat, la
+financiación del Catastro Multipropósito y la normativa para realizar procesos
+catastrales de manera oportuna desde la
+perspectiva de la interoperabilidad, lo que
+se presentó en la sección “Pacto por la
+descentralización” de su pnd, en el que se
+buscó constituir una tríada que integrara
+a territorios, gobiernos y poblaciones en
+un esquema funcional único.
+En la actualidad, el gobierno de Gustavo Petro busca implementar numerosas
+estrategias y programas con miras a fortalecer el Catastro Multipropósito para la
+correcta consolidación del sat, en el que
+instituciones como el igac desempeñan
+un rol protagónico para el afianzamiento
+completo del sat en Colombia, ya que
+en el cuatrienio 2022-2026 se quiere alcanzar el cubrimiento catastral del 74,4 %
+del territorio nacional, lo que equivale a
+598 municipios que representan un área
+de 84 844 235 hectáreas (igac, 2023).
+
+A pesar de que los últimos gobiernos
+han hecho lo posible por gestionar una
+serie de proyectos y programas alineados
+a impulsar adecuadamente el establecimiento de un sat efectivo, los cambios
+administrativos afectan cualquier estrategia que se quiera implementar, puesto
+que aspectos como el presupuesto destinado para su correcta puesta en marcha,
+junto con otros planteamientos para su
+ejecución, son susceptibles a modificaciones dependiendo del enfoque político
+que se tenga.
+En segunda instancia, desde su surgimiento hasta hoy, el sat se ha tenido que
+acondicionar a numerosos cambios. Por
+consiguiente, los profesionales vinculados
+al accionamiento del sat han realizado
+múltiples ajustes a las metodologías que,
+históricamente, se tenían para el desarrollo de procesos catastrales y obtención de
+información especial. Tales ajustes se han
+venido efectuando debido a mudanzas
+normativas y de estándares que se han
+llevado a cabo sobre la marcha, por las necesidades mismas de la administración de
+los territorios, las capacidades y las características propias de la gestión catastral.
+Por lo tanto, uno de los retos que
+emergen en el marco actual del sat es la
+adaptación a los cambios normativos y
+metodológicos, pues no es sencillo acoplarse a ellos, y, usualmente, los funcionarios precisan de capacitaciones extensas y
+exigentes, en las que las entidades también
+deben modificar sus sistemas, procesos,
+etc., e, incluso, deben invertir en nuevos
+
+Federico Pinzón Arana R., Daniel Estiven González Ríos, Johan Andrés Avendaño Arias
+
+=== p17 ===
+Figura 3. Retos del sat en Colombia (2016-2023)
+
+Modelo extendido para
+modelar información relativa a los pot del país,
+con el propósito de estandarizar objetos espaciales,
+categorías y dominios para el intercambio de datos
+entre los diferentes niveles
+territoriales, compatible
+con el modelo predial del
+repositorio de datos maestros (Res. 495/2022, p. 5).
+9
+
+Fuente: elaboración de los autores, basándose en el Conpes 4007 (dnp, 2020).
+
+equipos y demás recursos técnicos. Desde
+otra perspectiva, en el enfoque territorial,
+también se establecen nuevas metas en las
+cuales participan más actores, que deben
+acoplarse a un contexto propio de interoperabilidad en un sat moderno.
+Entre 2016 y 2023, se han presentado
+variados canjes en cuanto a la aplicación
+e inserción de novedosas normas y metodologías para la realización de procesos
+catastrales. Sobre lo enunciado es clave
+esclarecer que la aplicación de modelos,
+como el ladm-col, y demás iniciativas
+técnicas, como el modelo ladm-pot, 9
+establecen esos cambios de estándares
+normativos en los que el sat ha tenido que
+rediseñarse y ajustarse a las necesidades
+de métodos recientes.
+En un primer momento, el reto fue
+estandarizar la información del ‘catastroregistro’ con la implementación del modelo ladm-col, definiendo parámetros
+
+técnicos para la transferencia de información. Y, más recientemente, se viene
+adelantando el modelo ladm-pot, que
+involucra la interoperabilidad de los pot
+y el Catastro Multipropósito (CorreaBorrero, 2022).
+En tercer lugar, otro de los impedimentos para la puesta en marcha del sat
+está relacionado con la escasez de personal capacitado, desde el punto de vista
+académico-técnico, para la ejecución de
+labores catastrales. En el ámbito de este
+desafío, es determinante declarar que
+entre los incisos del Conpes 3859 hay un
+enunciado que hace referencia a la escasez
+del recurso profesional calificado (dnp,
+2016, p. 28).
+Verso en el que se aclara que “Colombia no cuenta con un registro de profesionales certificados que puedan realizar
+actividades catastrales, a pesar de que
+actualmente es posible identificar varios
+
+Caracterización del Sistema de Administración Territorial colombiano
+
+territorios 52
+17
+
+=== p18 ===
+Entidad pública colombiana encargada de
+la formación técnica y
+profesional de los ciudadanos, orientada a mejorar la competitividad
+y el desarrollo económico
+del país.
+10
+
+Proyecto financiado por
+el gobierno de Suiza que
+apoya la modernización
+de la administración de
+tierras en Colombia.
+11
+
+Herramientas tecnológicas utilizadas para
+capturar, almacenar,
+analiz ar, ges tionar y
+visualizar datos geoespaciales o información
+geográfica.
+12
+
+territorios 52
+18
+
+perfiles profesionales que, complementados, podrían realizar los procesos […]”
+(dnp, 2016, p. 28). Particularmente, el
+país ha carecido de colaboradores y operarios especializados en las asignaturas
+de la teledetección, sistemas geodésicos,
+valoración catastral, geomática, administración de sistemas de información
+geográfica y geoespacial.
+El desafío para los responsables de la
+puesta en marcha del sat ha sido el adiestramiento de profesionales en las áreas de
+ingeniería catastral y geodesia, topografía, geografía, agrología, etc., dado que,
+para 2023, se reconoce que sí se cuenta
+con perfiles académicos idóneos, pero
+el permanente cambio normativo exige
+múltiples capacitaciones en el empleo de
+metodologías innovadoras y el uso de las
+tecnologías de la información y las comunicaciones (tic) que se deben implementar para el óptimo desarrollo del sat y del
+Catastro Multipropósito. Los profesionales de las áreas en cuestión poseen unas
+bases teórico-prácticas sólidas y es preciso profundizar en temas específicamente
+técnicos asociados a la creación y posterior
+implementación del modelo ladm-col, y
+en la apropiada aplicación e inserción de
+las normas internacionales para la administración territorial (Steudler, 2018).
+Por lo tanto, es imprescindible y perentorio que, desde la academia colombiana, se amplíe la oferta de cursos con miras
+a afinar y fortalecer las aptitudes y destrezas en materia técnica de los profesionales de las áreas citadas. De hecho, desde
+
+agencias e instituciones como el igac, el
+Servicio Nacional de Aprendizaje (sena)10
+y Swiss Tierras,11 se han ofrecido diversos
+programas formativos para conocer el
+marco normativo del Catastro Multipropósito, junto con entrenamientos para el
+reconocimiento predial, y demás sesiones
+para entender la preponderancia del rol
+que juega el sat (y el catastro) en la gobernanza territorial (Swiss Tierras, 2017).
+Desde una óptica catedrática, entidades como la Universidad Distrital Francisco José de Caldas (udfjc), la Universidad
+Pedagógica y Tecnológica de Colombia
+(uptc) y la Universidad Militar Nueva
+Granada (umng) en su quehacer misional ofrecen programas acreditados de
+pregrado (para la udfjc) y posgrado en
+los que sus planes de estudio incluyen
+cursos en catastro, geodesia, geomática,
+planificación, ordenamiento territorial,
+topografía, entre otros. Los proyectos
+y esquemas académicos que ofrecen hoy
+las instituciones comprometidas con la
+formación de los profesionales involucran
+múltiples tecnologías para los análisis
+territoriales.
+Desde el igac, se recomienda que
+ingenieros y demás profesionales se especialicen en temas ‘de avanzada’ que
+actualmente son de vital importancia para la puesta en funcionamiento del sat,
+como la ciencia de datos, la inteligencia
+artificial (ia), la programación, el manejo de sistemas de información geográfica (sig)12 y el empleo de geotecnologías
+cartográficas. Lo anterior sin perder de
+
+Federico Pinzón Arana R., Daniel Estiven González Ríos, Johan Andrés Avendaño Arias
+
+=== p19 ===
+vista la trascendencia teórico-práctica de
+otras áreas de estudio como la geografía
+tradicional, la estadística y la cartografía
+(igac, 2023).
+
+Conclusiones
+A modo de conclusión, y con miras a
+realizar una caracterización detallada del
+sat en Colombia (2016-2023), es imprescindible aclarar que la coexistencia de las
+formas preexistentes de la administración
+de tierras y la administración del territorio ha permitido establecer una discusión
+contemporánea en el marco del desarrollo
+sostenible y la gobernanza, en la que el
+enfoque territorial abarca una visión más
+amplia que la del enfoque contenedor de
+la tierra. Integrar elementos territoriales
+que también pertenecen al país permite que se genere un entorno en el cual
+converge la información territorial, en el
+que se toman decisiones basadas en datos del territorio, reduciendo el margen
+de error que compromete la gobernanza.
+La tierra se debe administrar tomando en cuenta las características del territorio, y, sobre todo, sus dimensiones:
+económica, social, política y ambiental.
+Igualmente, las actividades alrededor del
+sat han permitido que, por medio de la
+actualización catastral, se incorporen nuevos predios al sat, reflejando el aumento
+en la tributación de los municipios. La
+dimensión social se enmarca en buscar
+soluciones a los problemas que tienen
+los ciudadanos al efectuar algún trámite.
+
+En este sentido, se han minimizado los
+trámites, utilizando sistemas de información entrelazada e interoperable, en los
+que los requisitos y tiempos se reducen,
+además de convertir al ciudadano en un
+actor partícipe en la actualización y corrección de la información de su predio,
+y que permite manifestar inconvenientes
+que se presentan en los municipios.
+También, el Catastro Multipropósito
+se ha transformado en un servicio público
+(gratuito) regulado por el Estado. La dimensión política se ha caracterizado por
+ser un medio en el que se implementan
+diversas políticas públicas que hacen que
+el sat y el Catastro Multipropósito sean
+interoperables, y que la información tenga la misma semántica para los actores
+comprometidos. Los planes de gobierno
+buscan que las políticas en el ámbito del
+sat sean perdurables y que se optimicen
+los procesos de la gestión territorial.
+En la dimensión ambiental, se ha hecho el llamado para que se involucren
+aquellas instituciones que producen y
+analizan la información territorial con
+perspectivas asociadas al desarrollo sostenible y el cambio climático. Múltiples
+entidades, como las car y los pnn, han
+estandarizado su información por medio
+de la Infraestructura Colombiana de Datos Espaciales (icde, 2022).
+Los retos emergentes más relevantes
+para implementar el sat se manifiestan en
+tres escenarios: los cambios de gobierno,
+la formación académica del personal y la
+adaptación a diversos marcos normativos.
+
+Caracterización del Sistema de Administración Territorial colombiano
+
+territorios 52
+19
+
+=== p20 ===
+territorios 52
+20
+
+Para superar los cambios de gobierno, es
+necesario que las políticas públicas no
+cuenten con una obsolescencia programada (de un período de gobierno). Al
+contrario, estas deben ser perdurables
+y deben estar en el pnd de cada gobierno, y deben funcionar como políticas de
+Estado, para fortalecer la gobernanza y
+la efectiva administración del territorio.
+La ejecución de procesos de mejora en
+la formación académica del personal que
+participa en los procesos técnicos y tecnológicos es uno de los grandes desafíos que
+emergen en el marco del sat. Si bien los
+profesionales cuentan con conocimientos
+sólidos en las asignaturas del catastro,
+geodesia, planeación, etc., se requiere que
+la formación técnica para el enfoque territorial sea integral. Además de aumentar
+el volumen de profesionales en el área, es
+preciso, para la acertada evolución del sat,
+la adaptación a cambios normativos.
+Los cambios para afinar procesos se
+han hecho sobre la marcha y la capacidad de adaptarse a ciertas mudanzas
+ha permitido que el sat pueda mejorar
+constantemente. Los estándares de información y la incorporación a la icde han
+permitido que la información y los datos
+tengan mayor calidad, con el fin de que la
+información sea utilizada para tomar decisiones sobre el territorio. Paralelamente,
+hay que resaltar que “un sat formalmente
+establecido y con una gobernanza robusta
+permite interacciones y retroalimentación constante desde la generación de
+información, la interoperabilidad de los
+
+sistemas de información” (Albarracín,
+2022, p. 28).
+La estandarización de la información
+ha sido de manera considerable el primer
+paso para la interoperabilidad, dado que
+la producción de información territorial se
+encontraba desconectada y cada entidad
+producía su información, lo que generó
+múltiples versiones de un mismo objeto
+territorial. Por lo tanto, el Catastro Multipropósito y demás iniciativas hacen parte
+de la transformación digital del Estado. El
+Catastro Multipropósito, por el papel que
+juega en el sat, ha realizado sus primeros
+pasos para establecer parámetros con el
+registro de la propiedad, pero fue hasta
+2020 que de manera mancomunada buscó
+involucrar otros productores de información territorial para tratar de integrar dos
+sistemas de datos del territorio.
+El catastro colombiano tradicional
+contaba con altos índices de desactualización, lo que ha generado nuevas líneas
+de acción para poder cerrar la brecha de
+información. La administración del territorio colombiano es responsabilidad del
+Estado, y este debe fomentar un escenario propicio para que funcionen los procesos de manera sinérgica. Las políticas
+públicas han permitido que el sat se esté
+formando con características especiales,
+desde la planificación y la visión futura
+de un sistema que integre programas de
+información territorial interoperables, que
+promuevan la eficiencia en la gobernanza.
+Es menester destacar que el proceso
+de paz ‘abre las puertas’ a considerar el
+
+Federico Pinzón Arana R., Daniel Estiven González Ríos, Johan Andrés Avendaño Arias
+
+=== p21 ===
+catastro con enfoque multipropósito, como un macroproyecto cuyos programas y
+planes pilotos permiten establecer bases
+para requerimientos futuros del accionamiento del sat. Con el pnd (2018-2022),
+se impulsan políticas de catastro multipropósito para el sat. Es hasta este punto del análisis que se lleva a cabo desde
+las perspectivas de administrar tierras o
+administrar el territorio cuando hay que
+definir que Colombia administra las tierras desde un ámbito general, que es la
+administración del territorio, por lo que
+la apuesta de la gobernanza es administrar
+de manera eficaz el territorio para planificar y establecer políticas que permitan
+el desarrollo sostenible del país.
+El sat en Colombia representa “[un]
+beneficio integrador de los principales
+esfuerzos de transformación […], busca
+fortalecer la gobernanza del territorio, de
+manera que el Estado, las organizaciones
+de la sociedad civil, las empresas privadas
+y en general, la ciudadanía, interactúen,
+cooperen armónicamente y se coordinen
+en la toma de decisiones sobre el territorio” (Albarracín, 2022, p. 29).
+
+Referencias
+Albarracín, J. (2022). El Sistema de Administración del Territorio (sat) en
+Colombia. Academia de Ciencias
+Geográf icas, Sociedad Geográf ica
+de Colombia (sgc). https://tinyurl.
+com/4emztrzm
+
+Ayala, A. (2020). Investigación bibliográfica: definición, tipos y técnicas. Editorial
+Digital Lifeder. https://www.studocu.
+com/es-mx/document/centro-universitario-une/metrologia/investigacion-bibliografica/52505057
+Balcázar-Vanegas, l. (2021). La persistencia del problema de la tierra rural en
+Colombia: ¿concepción de la política
+o de implementación? Revista Universidad Nacional de Colombia, 1(2).
+http://revista.unal.edu.co/detalle/
+la-persistencia-del-problema-de-la-tierra-rural-en-colombia-concepcion-dela-politica-o-de-implementacion
+Beuf, A. (2017). El concepto de territorio:
+de las ambigüedades semánticas a las
+tensiones sociales y políticas. Pluralidad de concepciones y usos de los
+territorios. En A. Beuf & P. RincónAvellaneda (Eds.), Ordenar los territorios: perspectivas críticas desde América
+Latina (pp. 4-21). Universidad Nacional de Colombia (unal).
+Cancillería. (2016). abc del Acuerdo Final. Acuerdo para la Terminación del
+Conflicto y la Construcción de una
+Paz Estable y Duradera. https://www.
+cancilleria.gov.co/sites/default/files/
+cartillaabcdelacuerdofinal2.pdf
+Departamento Nacional de Planeación (dnp).
+(2016). Escasez de recurso profesional
+calificado. Conpes 3859. Política para la
+adopción e implementación de un catastro multipropósito rural-urbano. dnp.
+https://colaboracion.dnp.gov.co/cdt/
+
+Caracterización del Sistema de Administración Territorial colombiano
+
+territorios 52
+21
+
+=== p22 ===
+territorios 52
+22
+
+Conpes/Econ%C3%B3micos/3859.
+pdf
+Departamento Nacional de Planeación
+(dnp). (2020). Conpes 4007. Estrategia para el fortalecimiento de la gobernanza en el Sistema de Administración
+del Territorio (sat). https://colaboracion.d np.gov.co/cdt/C onpes/
+Econ%C3%B3micos/4007.pdf
+Departamento Nacional de Planeación
+(dnp). (2021). ¿Qué es entonces un
+Sistema de Administración del Territorio? abc del Sistema de Administración del Territorio (sat) en Colombia.
+https://www.catastromultiproposito.gov.co/sistema-administracionterritorio/ Paginas/Que-es-el-sat.
+aspx#:~:text=El%20Sistema%20de%20
+Administraci%C3%B3n%20del,confiable%20
+y%20actualizada%20de%20este
+Departamento Nacional de Planeación
+(dnp). (2022). Consolidación de las bases para la implementación del Catastro
+Multipropósito y el sat, entre los logros
+del dnp en el cuatrienio. https://2022.
+dnp.gov.co/sala-de-prensa/Paginas/
+consolidacion-catastro-multiproposito.aspx
+Enemark, S., & Williamson, I. (2004). Capacity building in land administration:
+a conceptual approach. Survey Review, 37(294), 639-650. https://doi.
+org/10.1179/sre.2004.37.294.639
+Enemark, S., Rajabifard, A., Wallace, J., &
+Williamson, I. (2010). Diez principios
+de la administración de la tierra. En
+Administración de la tierra para un
+
+desarrollo sostenible (pp. 39-40). esri
+Press Academic.
+Infraestructura Colombiana de Datos Espaciales (icde). (2022). Lineamientos
+para la gobernanza de modelos extendidos y de aplicación ladm _ col . icde.
+https://tinyurl.com/w5h4tkwj
+InSight Crime. (2023). Fuerzas Armadas
+Revolucionarias de Colombia-Ejército
+del Pueblo ( farc-ep). Perfil de Colombia. Fundación ic. https://tinyurl.
+com/4zb5fzdj
+Instituto Geográf ico Agustín Codazzi
+(igac). (2021). ladm _ col . Resolución de adopción del Modelo Extendido de Catastro Registro del Modelo
+ladm _ col . https://igac.gov.co/catastro-multiproposito/ladmcol
+Instituto Geográf ico Agustín Codazzi
+(igac). (2023). Gestión de proyectos
+geográficos y cartográficos. https://
+www.igac.gov.co/el-igac/areas-estrategicas/direccion-de-gestion-catastral/subdireccion-de-proyectos-0
+Machado, A. (2017). El problema de la tierra: conflicto y desarrollo en Colombia.
+Debate-Penguin Random House.
+Ministerio de Tecnologías de la Información y Comunicaciones de Colombia
+(MinTIC). (2015). Concepto de incorporación estándar Land Administration Domain Model-ladm iso 19152 (v.
+1.0). MinTIC. https://tinyurl.com/
+mr2f9jvm
+Rajabifard, A., Steudler, D., & Williamson,
+I. (2004). Evaluation of land administration systems. Land Use Policy, 21(4),
+
+Federico Pinzón Arana R., Daniel Estiven González Ríos, Johan Andrés Avendaño Arias
+
+=== p23 ===
+371-380. https://doi.org/10.1016/j.
+landusepol.2003.05.001
+Resolución 495 de 2022, “por la cual se
+adopta el modelo de datos extendido
+ladm_col-pot para la formulación
+de planes de ordenamiento territorial”. https://minvivienda.gov.co/
+sites/default/f iles/normativa/resolucion-0495_2022.pdf
+Rosero, L. F., & Sarmiento, Á. (2020).
+Gestión territorial y violencia armada:
+análisis de las dificultades administrativas para la gobernabilidad local.
+El caso del municipio de Santa Rosa
+del Sur (Bolívar). En L. F. Rosero
+(Dir.), Capacidad institucional y posacuerdos (pp. 39-63). Universidad del
+Norte. https://doi.org/10.2307/j.
+ctv103xd0q.5
+Samsudin, S. (2014). Decentralisation
+and governance in land administration systems [Doctoral dissertation].
+University of Ulster. https://eprints.
+utm.my/78513/1/SalfarinaSamsudinPFAB2014.pdf
+
+Steudler, D. (2018). El sistema suizo de
+administración de tierras. Revista de
+Ingeniería, (46), 16-23. https://doi.
+org/10.16924/revinge.46.5
+Swiss Tierras. (2017). Modernización de la
+administración de tierras en Colom­bia:
+documentación del perfil colombia­no
+de la norma iso 19152:2021. Agencia de Implementación Swiss Tierras.
+https://ceicol.com/models/ladm_
+col/
+Vera, L. (2018). La investigación cualitativa. Universidad Nacional de La Plata
+(unlp). https://www.trabajosocial.
+unlp.edu.ar/uploads/docs/velez_vera__investigacion_cualitativa_pdf.pdf
+Williamson, I. P. (2001). Land administration “best practice” providing the
+infrastructure for land policy implementation. Land Use Policy, 18(4),
+297-307. https://www.fig.net/resources/proceedings/2004/mexico/papers_eng/ts2_enemark_eng.pdf
+
+Caracterización del Sistema de Administración Territorial colombiano
+
+territorios 52
+23
+

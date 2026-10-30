@@ -315,3 +315,6 @@ Google Académico se consultó desde el navegador de la app de escritorio, despu
   - L-011: Moynihan et al. (2015), posiblemente de pago;
   - L-080: tesis de Rico Pinto;
   - L-105: Guía de racionalización de Función Pública (2017).
+
+### 2026-10-29 · Datos del libro TOOP (consulta en link.springer.com con el navegador de la app)
+Krimmer, R., Prentza, A. y Mamrot, S. (Eds.). (2021). *The once-only principle: The TOOP project* (Lecture Notes in Computer Science, vol. 12621). Springer Cham. https://doi.org/10.1007/978-3-030-79851-2 — libro de acceso abierto, 12 capítulos. Páginas confirmadas: L-025 Mamrot y Rzyszczak, pp. 9-37; L-020 Leosk, Põder, Schmidt, Kalvet y Krimmer, pp. 38-60; L-024 Wimmer, pp. 61-82. Capítulos adicionales pertinentes para antecedentes: Prentza, Mitzman, Ehastu y Leontaridis, «TOOP pilot experiences…», pp. 191-207; Timan, van Veenstra y Karanikolova, «Measuring the impact of the once only principle for businesses across borders», pp. 208-224. Texto completo pendiente de incorporar (PDF del libro).

@@ -310,6 +310,10 @@ Verificación del 2026-10-20: texto de los PDF obtenido por extracción automát
 | D-020 | Fuente de los trámites: catálogo de la sede electrónica (2026) como base, contrastado con el SUIT (datos abiertos, 2022) | Decisión de Santiago (2026-10-30) | 2026-10-30 |
 | D-021 | Tipo y enfoque: descriptivo-propositivo, mixto (análisis documental más conteos y proporciones) | Decisión de Santiago (2026-10-30) | 2026-10-30 |
 | D-022 | Las secciones se escriben directamente en `secciones/*.tex` y se versionan con git; `borrador_reescrito/` queda como historial | Decisión de Santiago (2026-10-29) | 2026-10-29 |
+| D-023 | Universo: los trámites publicados en la sede electrónica; los que solo figuran en el SUIT se reportan aparte como diferencia | Decisión de Santiago (2026-10-30), tras el informe 10 (79 frente a 87 trámites, H-055 y H-135) | 2026-10-30 |
+| D-024 | Priorización (fase 3): categoría (a) primero, luego número de trámites que exigen el mismo documento, luego disponibilidad del dato en una base declarada; demanda solo si la Gobernación la entrega. Evaluación (fase 4): lista con lineamientos del Marco de MinTIC y obligaciones normativas, escala cumple / parcial / no cumple / no verificable | Decisión de Santiago (2026-10-30); evita la evaluación circular señalada en el informe 10 | 2026-10-30 |
+| D-025 | No se declara en el documento el uso de asistentes de IA | Decisión de Santiago (2026-10-30) | 2026-10-30 |
+| D-026 | Se descarta anclar al producto 4599025: su meta del cuatrienio figura cumplida (H-136) y el estudio no implementa un sistema. Producto alternativo por decidir | Decisión de Santiago (2026-10-30); reemplaza a D-018 | 2026-10-30 |
 
 ## E. Pendientes
 

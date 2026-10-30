@@ -19,17 +19,11 @@ Cordial saludo.
 
 Mi nombre es Jesús Santiago Ramón Ramos, beneficiario del Fondo Jenaro Díaz Jordán. Como parte del trabajo de investigación que exige el Fondo, estoy averiguando sobre los Servicios Ciudadanos Digitales que maneja la Gobernación del Huila, y para ello solicito respetuosamente la siguiente información:
 
-1. Si la Gobernación del Huila está vinculada al servicio ciudadano digital de interoperabilidad que opera la Agencia Nacional Digital (plataforma X-Road), si está en proceso de vinculación o si no ha iniciado ese proceso, y la fecha de vinculación o de inicio, según el caso.
-2. Si la Gobernación consume o publica servicios de intercambio de información, a través de esa plataforma o de otros mecanismos, que se usen en sus trámites: con qué entidades, qué información se intercambia y en cuáles trámites.
-3. Las acciones adelantadas o previstas para mejorar el resultado en el índice de Servicios Ciudadanos Digitales, que el Programa de Transparencia y Ética Pública 2026-2027 reporta en 0,0 para la medición de 2024 (p. 64), en particular las relacionadas con la meta de ese indicador que fija el PETI 2026 (Tabla 16, p. 52).
-4. Si la entidad ha aplicado el modelo de madurez del Marco de Interoperabilidad para Gobierno Digital de MinTIC y, en caso afirmativo, la fecha y el nivel obtenido en cada dominio (político-legal, organizacional, semántico y técnico).
-5. Si la entidad cuenta con el plan de estandarización de los servicios de intercambio de información que prevé la guía del Anexo 1 del Decreto 088 de 2022 (numeral 2.4.2) y, si existe, copia digital o el enlace donde se publica.
+1. ¿La Gobernación está vinculada al servicio de interoperabilidad de los Servicios Ciudadanos Digitales (plataforma X-Road)? Si lo está, ¿desde cuándo?; si no, ¿está en proceso de vinculación?
+2. ¿En qué trámites la Gobernación consulta información directamente a otras entidades, en lugar de pedirle el documento al ciudadano, y con qué entidades lo hace?
+3. ¿La entidad ha aplicado el modelo de madurez del Marco de Interoperabilidad de MinTIC? Si es así, ¿qué nivel obtuvo?
 
-La información se usará solo con fines académicos y se citará como fuente en el documento. Si alguno de los puntos no corresponde a ese Grupo, solicito que se dé traslado a la dependencia competente y se me informe de ello. Si alguna información tiene carácter reservado, agradezco que se me indique.
-
-La solicitud se presenta en ejercicio del derecho de petición y del derecho de acceso a la información pública [CONFIRMAR: norma aplicable y artículo; por ejemplo, el artículo 23 de la Constitución Política, la Ley 1755 de 2015 y la Ley 1712 de 2014]. Agradezco que la respuesta se envíe preferiblemente en formato digital al correo [DATO PENDIENTE: correo electrónico].
-
-Agradezco de antemano su colaboración.
+La información se usará solo con fines académicos. Si algún punto no corresponde a ese Grupo, agradezco que se dé traslado a la dependencia competente. Esta solicitud se presenta en ejercicio del derecho de petición [CONFIRMAR: norma aplicable], y agradezco que la respuesta se envíe al correo [DATO PENDIENTE: correo electrónico].
 
 Atentamente,
 
@@ -55,6 +49,8 @@ Jesús Santiago Ramón Ramos
 - **Punto 3 (importante):** qué piensa hacer la entidad con el 0,0. El PETI pone una meta para ese indicador pero, según nuestra revisión, ninguna iniciativa con presupuesto para cumplirla.
 - **Punto 4 (importante):** si la entidad se evaluó con el modelo de madurez de MinTIC (cinco niveles, de «ausente» a «institucionalizado»). Si lo hizo, nos da una línea base oficial por dominio.
 - **Punto 5 (menor):** si existe el plan que exige la guía del Decreto 088 para poner sus servicios de intercambio en el lenguaje común de MinTIC. Si no existe, eso también es un hallazgo.
+
+**Versión corta (decisión de Santiago, 2026-10-29).** Se dejaron 3 preguntas. Se quitaron: acciones sobre el índice 0,0 de 2024 y plan de estandarización del Decreto 088 (Anexo 1, num. 2.4.2). El punto «Qué estamos pidiendo» de abajo describe la versión larga.
 
 **Decisiones tuyas antes de enviar**
 1. **Presentación corta (decisión tuya, 2026-10-29).** La carta ya no menciona título, tema ni Plan de Desarrollo: solo que es parte del trabajo de investigación del Fondo.

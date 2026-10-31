@@ -1,0 +1,372 @@
+codigo,n_catalogo,tramite,en_linea_govco,documento,categoria,marcas,emisor,condicional,filas_ficha,nombres_en_ficha
+10925,,Inscripción existencia y representación legal de dignatarios de los organismos comunales,,acreditación de delegado,c,,solicitante,False,1,Certificación que acredite la calidad de delegado
+10925,,Inscripción existencia y representación legal de dignatarios de los organismos comunales,,actas de asamblea o junta,c,,solicitante,False,1,Acta de Asamblea General
+10925,,Inscripción existencia y representación legal de dignatarios de los organismos comunales,,listados y relaciones del solicitante,c,,solicitante,True,3,Listado de asistentes a la Asamblea General o de votantes en caso de elección directa | Planchas o listas presentadas | Programa de trabajo inscrito por cada plancha o lista
+10925,,Inscripción existencia y representación legal de dignatarios de los organismos comunales,,solicitud,excluido,solicitud,solicitante,False,1,Solicitud escrita de inscripción de dignatarios
+10950,,Inscripción reforma de estatutos de las organizaciones comunales de primero y segundo grado,,actas de asamblea o junta,c,,solicitante,False,1,Acta de asamblea de aprobación o reforma de estatutos
+10950,,Inscripción reforma de estatutos de las organizaciones comunales de primero y segundo grado,,estatutos,c,,solicitante,False,1,Estatutos aprobados por la asamblea
+10950,,Inscripción reforma de estatutos de las organizaciones comunales de primero y segundo grado,,listados y relaciones del solicitante,c,,solicitante,False,1,Listado de asistentes a la asamblea
+10950,,Inscripción reforma de estatutos de las organizaciones comunales de primero y segundo grado,,solicitud,excluido,solicitud,solicitante,False,1,Solicitud escrita de aprobación de los estatutos
+10977,,Registro libro de las organizaciones comunales de primero y segundo grado,,libros de la entidad,c,,solicitante,False,2,Libro nuevo y foliado para el registro | Libros anteriores
+10977,,Registro libro de las organizaciones comunales de primero y segundo grado,,sentencia judicial,b,emisor_variable,autoridad que adelantó el proceso,False,1,Fallo del proceso en el cual se investigó el asunto
+10977,,Registro libro de las organizaciones comunales de primero y segundo grado,,solicitud,excluido,solicitud,solicitante,False,1,Solicitud escrita de apertura y registro de libros
+14324,,Liquidación impuesto(s)  sobre vehículos automotores,,recibo o declaración de pago a la Gobernación,excluido,pago,Gobernación (recaudo propio),False,1,Recibo de pago
+14328,,Autorización carné  de protección radiológica,,carné de protección radiológica,c,tercero_privado;emisor_variable,entidad que imparte el curso,False,3,Certificado de asistencia a un curso sobre protección radiológica
+14328,,Autorización carné  de protección radiológica,,diploma o acta de grado,b,emisor_variable,institución educativa,False,2,Acta de grado o diploma
+14328,,Autorización carné  de protección radiológica,,recibo o declaración de pago a la Gobernación,excluido,pago,Gobernación (recaudo propio),False,1,Recibo de pago
+14333,,"Liquidación impuesto(s)  del registro de actos, contratos o negocios jurídicos",,"acto, contrato o providencia objeto de registro",c,tercero_privado;emisor_variable,"partes, notaría o juez",False,1,"Acto, contrato, negocio jurídico o providencia judicial"
+14333,,"Liquidación impuesto(s)  del registro de actos, contratos o negocios jurídicos",,recibo o declaración de pago a la Gobernación,excluido,pago,Gobernación (recaudo propio),False,1,Recibo de pago según el acto
+14341,,"Cancelación impuesto(s)  al consumo de licores, vinos, aperitivos y similares de origen nacional",,recibo o declaración de pago a la Gobernación,excluido,pago,Gobernación (recaudo propio),False,1,Recibo de pago
+14342,,Reconocimiento auxilio funerario por fallecimiento de un docente pensionado,,comprobante de pago de mesada pensional,b,,FOMAG / Fiduprevisora,False,1,Comprobante de pago de la última mesada pensional
+14342,,Reconocimiento auxilio funerario por fallecimiento de un docente pensionado,,documento de identidad,b,registro_publico,Registraduría Nacional / Migración Colombia,False,2,Cédula de ciudadanía
+14342,,Reconocimiento auxilio funerario por fallecimiento de un docente pensionado,,factura,c,tercero_privado,vendedor,False,1,Factura con sello de cancelación
+14342,,Reconocimiento auxilio funerario por fallecimiento de un docente pensionado,,registro civil de defunción,b,registro_publico,Registraduría / notarías,False,1,Registro civil de defunción
+14342,,Reconocimiento auxilio funerario por fallecimiento de un docente pensionado,,resolución de pensión del docente,a,misma_competencia,Gobernación (acto expedido para el FOMAG; por confirmar),False,1,Resolución que lo pensionó
+16295,,"Reconocimiento existencia y representación legal de fundaciones, corporaciones y/o asociaciones de u",,acta de recibo del patrimonio o aportes,c,,solicitante,False,1,Acta de recibo
+16295,,"Reconocimiento existencia y representación legal de fundaciones, corporaciones y/o asociaciones de u",,actas de asamblea o junta,c,,solicitante,False,1,Actas de sesiones
+16295,,"Reconocimiento existencia y representación legal de fundaciones, corporaciones y/o asociaciones de u",,estatutos,c,,solicitante,False,1,Estatutos
+16295,,"Reconocimiento existencia y representación legal de fundaciones, corporaciones y/o asociaciones de u",,poder,c,,solicitante,False,1,Poder debidamente otorgado
+16295,,"Reconocimiento existencia y representación legal de fundaciones, corporaciones y/o asociaciones de u",,solicitud,excluido,solicitud,solicitante,False,1,Carta de solicitud
+16296,,Expedición certificado(s) de libertad y tradición de un vehículo automotor,,poder,c,,solicitante,False,1,Poder
+16296,,Expedición certificado(s) de libertad y tradición de un vehículo automotor,,solicitud,excluido,solicitud,solicitante,False,1,Carta de solicitud
+22952,,Reconocimiento pensión(es) por medio de reliquidación pensional,,acto administrativo de retiro del servicio docente,a,misma_competencia,Gobernación (nominadora del docente),False,1,Resolución de retiro definitivo del servicio docente
+22952,,Reconocimiento pensión(es) por medio de reliquidación pensional,,certificado de salarios,a,emisor_variable,empleador (Gobernación para docentes oficiales),False,1,Certificado de Salarios
+22952,,Reconocimiento pensión(es) por medio de reliquidación pensional,,certificado de tiempo de servicio,a,emisor_variable,Gobernación; otra entidad si hubo servicio en otra parte,False,1,Certificado de Tiempo de Servicio
+22952,,Reconocimiento pensión(es) por medio de reliquidación pensional,,comprobante de pago de mesada pensional,b,,FOMAG / Fiduprevisora,False,1,Comprobante de pago de la última mesada pensional
+22952,,Reconocimiento pensión(es) por medio de reliquidación pensional,,documento de identidad,b,registro_publico,Registraduría Nacional / Migración Colombia,False,2,Cédula de ciudadanía | Cédula de extranjería
+22952,,Reconocimiento pensión(es) por medio de reliquidación pensional,,resolución de pensión del docente,a,misma_competencia,Gobernación (acto expedido para el FOMAG; por confirmar),False,1,Resolución con que lo pensionó el fondo del magisterio
+22989,,Registro título(s)  en el área de la salud,,convalidación de título extranjero,b,,Ministerio de Educación Nacional,False,1,Resolución de convalidación
+22989,,Registro título(s)  en el área de la salud,,diploma o acta de grado,b,emisor_variable,institución educativa,False,2,Acta de grado | Diploma
+22989,,Registro título(s)  en el área de la salud,,documento de identidad,b,registro_publico,Registraduría Nacional / Migración Colombia,False,2,Cédula de ciudadanía | Cédula de extranjería
+22989,,Registro título(s)  en el área de la salud,,tarjeta profesional,b,emisor_variable,consejo o colegio profesional,False,1,Tarjeta profesional
+23010,,Aprobación pensión(es) de jubilación,,certificación laboral de otras entidades,b,emisor_variable,cada empleador,False,1,Certificación laboral de cada entidad donde laboró indicando tiempo de servicio y entidad donde se h
+23010,,Aprobación pensión(es) de jubilación,,certificado de administradora de pensiones,b,emisor_variable,Colpensiones o fondo privado,False,2,Certificado de entidades administradoras de pensión | Certificado de semanas cotizadas al ISS
+23010,,Aprobación pensión(es) de jubilación,,certificado de salarios,a,emisor_variable,empleador (Gobernación para docentes oficiales),False,1,Certificado de salarios de los últimos 12 meses a partir de la fecha de retiro
+23010,,Aprobación pensión(es) de jubilación,,certificado de tiempo de servicio,a,emisor_variable,Gobernación; otra entidad si hubo servicio en otra parte,False,1,Certificado de tiempo de servicio
+23010,,Aprobación pensión(es) de jubilación,,declaración de terceros o manifestación,c,declaracion,ciudadano o terceros,True,1,Manifestación expresa si devenga o no pensión
+23010,,Aprobación pensión(es) de jubilación,,documento de identidad,b,registro_publico,Registraduría Nacional / Migración Colombia,False,2,Cédula de ciudadanía | Cédula de extranjería
+23010,,Aprobación pensión(es) de jubilación,,registro civil de nacimiento,b,registro_publico,Registraduría / notarías,False,1,Registro civil de nacimiento o partida de bautismo para los nacidos antes del 11 de junio de 1938
+23010,,Aprobación pensión(es) de jubilación,,resolución de pensión del docente,a,misma_competencia,Gobernación (acto expedido para el FOMAG; por confirmar),False,1,Resolución que lo pensionó
+23011,,Reconocimiento seguro(s) por muerte,,acta del accidente de trabajo,a,emisor_variable,empleador (Gobernación para docentes oficiales),False,1,Acta del accidente firmada por el superior inmediato
+23011,,Reconocimiento seguro(s) por muerte,,acto administrativo de retiro del servicio docente,a,misma_competencia,Gobernación (nominadora del docente),True,1,Acto administrativo de retiro definitivo del servicio si está retirado o acto administrativo que dec
+23011,,Reconocimiento seguro(s) por muerte,,certificado de administradora de pensiones,b,emisor_variable,Colpensiones o fondo privado,True,1,Certificado de entidades administradoras de pensión indicando si se encuentran o no pensionadas
+23011,,Reconocimiento seguro(s) por muerte,,certificado de ingresos y retenciones,b,emisor_variable,pagador (FOMAG u otro empleador),False,1,Certificado de ingresos y retenciones del educador
+23011,,Reconocimiento seguro(s) por muerte,,certificado de salarios,a,emisor_variable,empleador (Gobernación para docentes oficiales),False,1,Certificado de Salarios
+23011,,Reconocimiento seguro(s) por muerte,,certificado de tiempo de servicio,a,emisor_variable,Gobernación; otra entidad si hubo servicio en otra parte,False,1,Certificado de Tiempo de Servicios
+23011,,Reconocimiento seguro(s) por muerte,,declaración de terceros o manifestación,c,declaracion,ciudadano o terceros,False,1,Manifestación expresa de dependencia económica
+23011,,Reconocimiento seguro(s) por muerte,,documento de identidad,b,registro_publico,Registraduría Nacional / Migración Colombia,False,5,Cédula de ciudadanía | Cédula de extranjería | Documento de identidad de cada uno de los beneficiarios
+23011,,Reconocimiento seguro(s) por muerte,,publicación en medios,c,tercero_privado,medio de comunicación,False,1,Publicación de los edictos
+23011,,Reconocimiento seguro(s) por muerte,,registro civil de defunción,b,registro_publico,Registraduría / notarías,False,1,Registro civil de defunción del educador
+23011,,Reconocimiento seguro(s) por muerte,,registro civil de matrimonio,b,registro_publico,Registraduría / notarías,False,1,Registro civil de matrimonio
+23011,,Reconocimiento seguro(s) por muerte,,registro civil de nacimiento,b,registro_publico,Registraduría / notarías,False,2,Registro civil de nacimiento | Registro civil de nacimiento del educador
+23011,,Reconocimiento seguro(s) por muerte,,resolución de pensión del docente,a,misma_competencia,Gobernación (acto expedido para el FOMAG; por confirmar),False,1,Resolución que la pensionó
+23022,,Aprobación cesantías definitivas,,acto administrativo de retiro del servicio docente,a,misma_competencia,Gobernación (nominadora del docente),False,1,Acto administrativo de retiro definitivo del servicio docente
+23022,,Aprobación cesantías definitivas,,certificado de la entidad que pagaba las cesantías,b,emisor_variable,entidad pagadora anterior,False,1,Certificado de la entidad que cancelaba las cesantías antes de la creación del Fondo Nacional de Pre
+23022,,Aprobación cesantías definitivas,,certificado de salarios,a,emisor_variable,empleador (Gobernación para docentes oficiales),False,1,Certificado de Salarios
+23022,,Aprobación cesantías definitivas,,certificado de tiempo de servicio,a,emisor_variable,Gobernación; otra entidad si hubo servicio en otra parte,False,1,Certificado de Tiempo de Servicio
+23022,,Aprobación cesantías definitivas,,documento de identidad,b,registro_publico,Registraduría Nacional / Migración Colombia,False,2,Cédula de ciudadanía | Cédula de extranjería
+23022,,Aprobación cesantías definitivas,,extracto de intereses de cesantías,b,,FOMAG,False,2,Extracto de Intereses
+23022,,Aprobación cesantías definitivas,,paz y salvo de la pagaduría del empleador,a,emisor_variable,empleador (Gobernación para docentes oficiales),False,1,Paz y salvo expedido por la pagaduría de la entidad empleadora sobre cancelación de pagos y deudas
+23022,,Aprobación cesantías definitivas,,paz y salvo o estado de deuda del Fondo Nacional del Ahorro,b,,Fondo Nacional del Ahorro,False,2,Certificado actualizado de la deuda o en su defecto el paz y salvo del Fondo Nacional del Ahorro | Paz y salvo del Fondo Nacional del Ahorro
+23022,,Aprobación cesantías definitivas,,resolución de cesantías pagadas,a,misma_competencia,Gobernación (acto expedido para el FOMAG; por confirmar),False,1,Resolución de cesantías pagas
+23027,,"Inscripción directivo(s) de fundaciones, corporaciones y/o asociaciones  de utilidad común y/o sin á",,actas de asamblea o junta,c,,solicitante,False,1,Actas en donde conste las designaciones o elecciones objeto de la solicitud de inscripción
+23027,,"Inscripción directivo(s) de fundaciones, corporaciones y/o asociaciones  de utilidad común y/o sin á",,solicitud,excluido,solicitud,solicitante,False,1,Carta de solicitud
+23030,,"Modificación estatuto(s) de fundaciones, corporaciones y/o asociaciones de utilidad común y/o sin án",,actas de asamblea o junta,c,,solicitante,False,1,Acta o actas de la asamblea general
+23030,,"Modificación estatuto(s) de fundaciones, corporaciones y/o asociaciones de utilidad común y/o sin án",,estatutos,c,,solicitante,False,1,Estatutos
+23030,,"Modificación estatuto(s) de fundaciones, corporaciones y/o asociaciones de utilidad común y/o sin án",,poder,c,,solicitante,False,1,Poder
+23030,,"Modificación estatuto(s) de fundaciones, corporaciones y/o asociaciones de utilidad común y/o sin án",,solicitud,excluido,solicitud,solicitante,False,1,Carta de solicitud
+23048,,Reconocimiento existencia y representación legal de ligas y asociaciones deportivas,,acta de constitución,c,,solicitante,False,1,Acta de constitución
+23048,,Reconocimiento existencia y representación legal de ligas y asociaciones deportivas,,acta de recibo del patrimonio o aportes,c,,solicitante,False,1,Certificación que acredite la efectividad de los aportes
+23048,,Reconocimiento existencia y representación legal de ligas y asociaciones deportivas,,estatutos,c,,solicitante,False,1,Estatutos de la Asociación
+23048,,Reconocimiento existencia y representación legal de ligas y asociaciones deportivas,,recibo o declaración de pago a la Gobernación,excluido,pago,Gobernación (recaudo propio),False,1,recibo de pago
+23048,,Reconocimiento existencia y representación legal de ligas y asociaciones deportivas,,reconocimiento deportivo,b,emisor_variable,ente deportivo competente (por confirmar),False,1,Reconocimiento deportivo
+23051,,Aprobación reforma estatutaria de ligas y clubes deportivos,,actas de asamblea o junta,c,,solicitante,False,1,Acta de la asamblea
+23051,,Aprobación reforma estatutaria de ligas y clubes deportivos,,estatutos,c,,solicitante,False,1,Estatutos modificados
+23051,,Aprobación reforma estatutaria de ligas y clubes deportivos,,solicitud,excluido,solicitud,solicitante,False,1,Solicitud de aprobación de reforma estatutaria
+23205,,Inscripción registro(s) como prestador de servicios de salud,,RUT o NIT,b,registro_publico,DIAN,False,2,Número de Identificación Tributaria - NIT | Registro único tributario - RUT
+23205,,Inscripción registro(s) como prestador de servicios de salud,,acto administrativo de creación de la entidad,b,,autoridad que crea la entidad,False,1,Acto administrativo  de creación
+23205,,Inscripción registro(s) como prestador de servicios de salud,,autoevaluación,c,,solicitante,False,1,Autoevaluación
+23205,,Inscripción registro(s) como prestador de servicios de salud,,certificación de conexión a internet,c,tercero_privado,operador,False,1,Certificación de conexión a internet
+23205,,Inscripción registro(s) como prestador de servicios de salud,,certificado de suficiencia patrimonial,c,tercero_privado,contador o revisor fiscal,False,1,Certificación de suficiencia patrimonial y financiera
+23205,,Inscripción registro(s) como prestador de servicios de salud,,contrato,c,tercero_privado,partes del contrato,False,1,Contrato o convenio con el centro de referencia
+23205,,Inscripción registro(s) como prestador de servicios de salud,,diploma o acta de grado,b,emisor_variable,institución educativa,False,1,Diploma
+23205,,Inscripción registro(s) como prestador de servicios de salud,,documento de identidad,b,registro_publico,Registraduría Nacional / Migración Colombia,False,1,Cédula de ciudadanía
+23205,,Inscripción registro(s) como prestador de servicios de salud,,licencia de funcionamiento expedida por la Gobernación,a,misma_competencia,Gobernación (Educación o Salud),False,1,Licencia de funcionamiento vigente
+23205,,Inscripción registro(s) como prestador de servicios de salud,,licencia de tránsito,b,registro_publico,organismo de tránsito / RUNT,False,1,Tarjeta de propiedad de los vehículos
+23205,,Inscripción registro(s) como prestador de servicios de salud,,revisión técnico-mecánica,b,particular_funcion_publica,centro de diagnóstico automotor,False,1,Revisión técnico mecánica
+23205,,Inscripción registro(s) como prestador de servicios de salud,,tarjeta profesional,b,emisor_variable,consejo o colegio profesional,False,2,Tarjeta profesional
+23256,,Expedición licencia(s) de funcionamiento para equipos de rayos X y otras fuentes emisoras de radiaci,,carné de protección radiológica,c,tercero_privado;emisor_variable,entidad que imparte el curso,False,2,Carné de protección radiológica
+23256,,Expedición licencia(s) de funcionamiento para equipos de rayos X y otras fuentes emisoras de radiaci,,certificado de especialidad médica,b,emisor_variable,institución de educación superior,False,3,Certificado de la especialidad en medicina nuclear o radioterapia | Certificado de la especialidad en radiología de los médicos que utilizan los equipos | Certificado de la especialidad en radioterapia
+23256,,Expedición licencia(s) de funcionamiento para equipos de rayos X y otras fuentes emisoras de radiaci,,estudio de la instalación de rayos X,c,tercero_privado,institución autorizada,False,1,Estudio y evaluación de la instalación de rayos X efectuada por instituciones autorizadas por el Min
+23256,,Expedición licencia(s) de funcionamiento para equipos de rayos X y otras fuentes emisoras de radiaci,,licencia de material radiactivo,b,,autoridad nuclear nacional,False,1,Licencia de uso y manejo de material radiactivo
+23256,,Expedición licencia(s) de funcionamiento para equipos de rayos X y otras fuentes emisoras de radiaci,,planos,c,,solicitante,False,2,Planos de la instalación | Planos de ubicación de los equipos de rayos x
+23256,,Expedición licencia(s) de funcionamiento para equipos de rayos X y otras fuentes emisoras de radiaci,,recibo o declaración de pago a la Gobernación,excluido,pago,Gobernación (recaudo propio),False,1,Recibo de pago
+23256,,Expedición licencia(s) de funcionamiento para equipos de rayos X y otras fuentes emisoras de radiaci,,reglamento de seguridad,c,,solicitante,False,1,Reglamento de seguridad
+23256,,Expedición licencia(s) de funcionamiento para equipos de rayos X y otras fuentes emisoras de radiaci,,solicitud,excluido,solicitud,solicitante,False,1,Solicitud escrita de licencia de funcionamiento de equipos emisores de radiaciones ionizantes
+23256,,Expedición licencia(s) de funcionamiento para equipos de rayos X y otras fuentes emisoras de radiaci,,tarjeta profesional,b,emisor_variable,consejo o colegio profesional,False,1,Tarjeta profesional
+23354,,Cancelación existencia y representación legal de las organizaciones comunales de primero y segundo g,,actas de asamblea o junta,c,,solicitante,False,1,Acta de asamblea
+23354,,Cancelación existencia y representación legal de las organizaciones comunales de primero y segundo g,,decisión de la entidad de inspección,b,,"entidad de inspección, control y vigilancia",False,1,"Decisión de la entidad que ejerce inspección, control y vigilancia"
+23354,,Cancelación existencia y representación legal de las organizaciones comunales de primero y segundo g,,paz y salvo DIAN,b,,DIAN,False,1,Paz y salvo expedido por la dian
+23354,,Cancelación existencia y representación legal de las organizaciones comunales de primero y segundo g,,publicación en medios,c,tercero_privado,medio de comunicación,False,1,publicacion en diario regional
+23354,,Cancelación existencia y representación legal de las organizaciones comunales de primero y segundo g,,solicitud,excluido,solicitud,solicitante,False,1,Solicitud de cancelación de personería jurídica
+23356,,Registro organismo(s) de acción comunal de primero y segundo grado,,acta de constitución,c,,solicitante,False,1,Acta de constitución y de elección de las directivas
+23356,,Registro organismo(s) de acción comunal de primero y segundo grado,,actas de asamblea o junta,c,,solicitante,False,1,Acta de aprobación de estatutos
+23356,,Registro organismo(s) de acción comunal de primero y segundo grado,,certificación de delimitación del territorio,b,,municipio,False,1,Certificación de delimitación de territorio
+23356,,Registro organismo(s) de acción comunal de primero y segundo grado,,estatutos,c,,solicitante,False,1,Estatutos de la organización comunal
+23356,,Registro organismo(s) de acción comunal de primero y segundo grado,,listados y relaciones del solicitante,c,,solicitante,False,1,Relación de los afiliados(as) al organismo comunal
+23356,,Registro organismo(s) de acción comunal de primero y segundo grado,,solicitud,excluido,solicitud,solicitante,False,1,Solicitud escrita de reconocimiento de personería jurídica
+23424,,Legalización permiso(s) de transporte de mercancías gravadas con impuestos al consumo,,solicitud,excluido,solicitud,solicitante,False,1,Carta de solicitud
+23489,,Legalización permiso(s) para el manejo de medicamentos de control especial,,acta de posesión del representante legal,c,,solicitante,False,1,Acta de posesión del Representante Legal
+23489,,Legalización permiso(s) para el manejo de medicamentos de control especial,,acta de visita sanitaria,a,emisor_variable,Secretaría de Salud Departamental u otra autoridad sanitaria,False,1,Acta de visita con fecha no mayor a un (1) año
+23489,,Legalización permiso(s) para el manejo de medicamentos de control especial,,acto administrativo de creación de la entidad,b,,autoridad que crea la entidad,False,1,Acto administrativo mediante el cual se crean las entidades públicas
+23489,,Legalización permiso(s) para el manejo de medicamentos de control especial,,acto administrativo del ICA,b,,ICA,False,1,Acto administrativo emitido por el Instituto Colombiano Agropecuario - ICA
+23489,,Legalización permiso(s) para el manejo de medicamentos de control especial,,acto de nombramiento del representante legal,c,,solicitante,False,1,Acto administrativo de nombramiento del Representante Legal
+23489,,Legalización permiso(s) para el manejo de medicamentos de control especial,,certificado de habilitación,a,,Secretaría de Salud Departamental,False,1,Certificado y/o visita de habilitación
+23489,,Legalización permiso(s) para el manejo de medicamentos de control especial,,contrato,c,tercero_privado,partes del contrato,False,1,Contrato en el caso del tecnólogo en regencia de farmacia
+23489,,Legalización permiso(s) para el manejo de medicamentos de control especial,,contrato o inscripción del químico farmacéutico,c,tercero_privado;emisor_variable,empleador o autoridad sanitaria,False,1,Contrato del químico farmacéutico o el certificado de inscripción ante la autoridad sanitaria compet
+23489,,Legalización permiso(s) para el manejo de medicamentos de control especial,,listado de medicamentos,c,,solicitante,False,1,Listado de medicamentos sometidos a fiscalización
+23489,,Legalización permiso(s) para el manejo de medicamentos de control especial,,poder,c,,solicitante,False,1,Poder
+23489,,Legalización permiso(s) para el manejo de medicamentos de control especial,,registro profesional en salud,a,emisor_variable,Secretaría de Salud Departamental u otra autoridad,False,1,Registro profesional del director médico
+23489,,Legalización permiso(s) para el manejo de medicamentos de control especial,,solicitud,excluido,solicitud,solicitante,False,1,Solicitud firmada por el representante legal o su apoderado debidamente facultado
+23489,,Legalización permiso(s) para el manejo de medicamentos de control especial,,tarjeta profesional,b,emisor_variable,consejo o colegio profesional,False,1,Tarjeta profesional del químico farmacéutico
+23491,,Aprobación cupo(s) o plaza para prestar el servicio social obligatorio,,certificado de disponibilidad presupuestal,b,emisor_variable,entidad que contrata al profesional,False,1,Disponibilidad presupuestal
+23491,,Aprobación cupo(s) o plaza para prestar el servicio social obligatorio,,descripción de la ubicación,c,,solicitante,False,1,Descripción de la ubicación y lugares de desplazamiento
+23491,,Aprobación cupo(s) o plaza para prestar el servicio social obligatorio,,programa o proyecto,c,,solicitante,False,1,Programa o proyecto según parámetros establecidos por el Sistema General de Seguridad en Salud
+23491,,Aprobación cupo(s) o plaza para prestar el servicio social obligatorio,,reconocimiento de Minciencias,b,,Minciencias,False,1,Reconocimiento - Colciencias
+23491,,Aprobación cupo(s) o plaza para prestar el servicio social obligatorio,,solicitud,excluido,solicitud,solicitante,False,1,Solicitud escrita
+23493,,Aprobación credencial(es)  expendedor de drogas,,certificado de estudios o notas,b,emisor_variable,institución educativa,False,1,Certificación de terminación de estudios primarios
+23493,,Aprobación credencial(es)  expendedor de drogas,,certificado de residencia,b,,alcaldía,False,1,Certificado de vecindad
+23493,,Aprobación credencial(es)  expendedor de drogas,,certificado médico de salud,c,tercero_privado,médico,False,1,Certificado de salud
+23493,,Aprobación credencial(es)  expendedor de drogas,,constancia de no sanción por comercio ilegal de medicamentos,a,emisor_variable,autoridad sanitaria,False,1,Certificación no haber sido sancionados por comercio ilegal de drogas de control especial
+23493,,Aprobación credencial(es)  expendedor de drogas,,declaración de terceros o manifestación,c,declaracion,ciudadano o terceros,False,1,Manifestación expresa de dos (2) de médicos graduados o químicos farmacéuticos
+23493,,Aprobación credencial(es)  expendedor de drogas,,documento de identidad,b,registro_publico,Registraduría Nacional / Migración Colombia,False,2,Cédula de ciudadanía | Cédula de extranjería
+23493,,Aprobación credencial(es)  expendedor de drogas,,fotografías,c,,solicitante,False,1,Fotografias
+23493,,Aprobación credencial(es)  expendedor de drogas,,libreta militar,b,,Ejército Nacional,False,1,Tarjeta de reservista (Libreta militar)
+23493,,Aprobación credencial(es)  expendedor de drogas,,registro civil de nacimiento,b,registro_publico,Registraduría / notarías,False,1,Registro civil de nacimiento
+23493,,Aprobación credencial(es)  expendedor de drogas,,solicitud,excluido,solicitud,solicitante,False,1,Carta de solicitud
+23495,,Expedición concepto(s) sanitario para empresas aplicadoras de plaguicidas,,certificado de existencia y representación legal,b,registro_publico;particular_funcion_publica,Cámara de Comercio,False,1,Registro mercantil
+23495,,Expedición concepto(s) sanitario para empresas aplicadoras de plaguicidas,,contrato,c,tercero_privado,partes del contrato,False,1,Contrato de asesoría técnica
+23495,,Expedición concepto(s) sanitario para empresas aplicadoras de plaguicidas,,póliza,c,tercero_privado,aseguradora,False,1,Póliza
+23495,,Expedición concepto(s) sanitario para empresas aplicadoras de plaguicidas,,solicitud,excluido,solicitud,solicitante,False,1,Solicitud escrita ante la dirección seccional de salud o la autoridad competente
+23498,,Autorización sanitaria favorable para la concesión de aguas para el consumo humano,,descripción de actividades,c,,solicitante,False,1,Documento que describa las actividades desarrolladas y disponibles que contribuyan con la identifica
+23498,,Autorización sanitaria favorable para la concesión de aguas para el consumo humano,,información técnica de la planta de agua,c,,solicitante,False,1,Información sobre las operaciones unitarias que conforman la planta de tratamiento de agua para cons
+23498,,Autorización sanitaria favorable para la concesión de aguas para el consumo humano,,planos,c,,solicitante,False,1,"Planos, memorias y cálculo de diseño de la planta de tratamiento de agua para el consumo humano"
+23498,,Autorización sanitaria favorable para la concesión de aguas para el consumo humano,,registros históricos de caracterización,c,,solicitante,False,1,Registros históricos de caracterización disponibles
+23605,,Aprobación licencia(s) para seguridad y salud en el trabajo,,apostilla o legalización consular,b,,Cancillería,False,1,Autorización ante el Ministerio de Relaciones Exteriores u oficinas consulares de la república
+23605,,Aprobación licencia(s) para seguridad y salud en el trabajo,,certificado de estudios o notas,b,emisor_variable,institución educativa,False,1,Pensum académico o asignaturas aprobadas
+23605,,Aprobación licencia(s) para seguridad y salud en el trabajo,,convalidación de título extranjero,b,,Ministerio de Educación Nacional,False,1,Convalidación de títulos de estudios de pregrado otorgados en el exterior
+23605,,Aprobación licencia(s) para seguridad y salud en el trabajo,,diploma o acta de grado,b,emisor_variable,institución educativa,False,1,Título o diploma legalizados que demuestren el nivel académico otorgados por una institución de educ
+23605,,Aprobación licencia(s) para seguridad y salud en el trabajo,,licencia de funcionamiento expedida por la Gobernación,a,misma_competencia,Gobernación (Salud),False,1,Licencia anterior de salud ocupacional
+23605,,Aprobación licencia(s) para seguridad y salud en el trabajo,,listados y relaciones del solicitante,c,,solicitante,False,2,Relación de las personas vinculadas a la persona jurídica pública o privada que cuenten con licencia | Relación de los equipos e instalaciones
+23605,,Aprobación licencia(s) para seguridad y salud en el trabajo,,registro calificado del programa,b,,Ministerio de Educación Nacional,False,1,Certificado que acredite que el programa académico cursado es de educación formal de carácter superi
+23607,,Expedición carné  aplicador de plaguicidas,,certificado de capacitación o curso,b,emisor_variable,institución que dicta el curso,False,1,certificación del curso de manipulador de alimentos
+23607,,Expedición carné  aplicador de plaguicidas,,certificado de curso de aplicador,c,tercero_privado;emisor_variable,entidad que imparte el curso,False,1,Certificado de idoneidad
+23607,,Expedición carné  aplicador de plaguicidas,,certificado de existencia y representación legal,b,registro_publico;particular_funcion_publica,Cámara de Comercio,False,1,constitución legal en cámara de comercio
+23607,,Expedición carné  aplicador de plaguicidas,,solicitud,excluido,solicitud,solicitante,False,1,Carta de solicitud
+23607,,Expedición carné  aplicador de plaguicidas,,tarjeta profesional,b,emisor_variable,consejo o colegio profesional,False,1,tarjeta profesional del capacitador
+23612,,Modificación registro(s) especial de prestadores de servicios de salud,,acta de nombramiento,c,,solicitante,False,1,Acta de nombramiento extraída del libro de actas
+23612,,Modificación registro(s) especial de prestadores de servicios de salud,,autoevaluación,c,,solicitante,False,1,Autoevaluación
+23612,,Modificación registro(s) especial de prestadores de servicios de salud,,certificado de suficiencia patrimonial,c,tercero_privado,contador o revisor fiscal,False,1,Certificado de suficiencia patrimonial y financiera
+23612,,Modificación registro(s) especial de prestadores de servicios de salud,,descripción del servicio,c,,solicitante,False,1,Carta especificando el servicio a prestar
+23612,,Modificación registro(s) especial de prestadores de servicios de salud,,diploma o acta de grado,b,emisor_variable,institución educativa,False,2,Diploma | Diploma de profesional o especialista
+23612,,Modificación registro(s) especial de prestadores de servicios de salud,,documento de identidad,b,registro_publico,Registraduría Nacional / Migración Colombia,False,3,Cédula de ciudadanía | Cédula de extranjería
+23612,,Modificación registro(s) especial de prestadores de servicios de salud,,solicitud,excluido,solicitud,solicitante,False,1,Carta del prestador
+23612,,Modificación registro(s) especial de prestadores de servicios de salud,,tarjeta profesional,b,emisor_variable,consejo o colegio profesional,False,1,Tarjeta profesional del contador y/o revisor fiscal
+23653,,"Registro libro de fundaciones, corporaciones y/o asociaciones  de utilidad común y/o sin ánimo de lu",,actas de asamblea o junta,c,,solicitante,False,2,Actas de la asamblea general | Actas de la junta directiva
+23653,,"Registro libro de fundaciones, corporaciones y/o asociaciones  de utilidad común y/o sin ánimo de lu",,libros de la entidad,c,,solicitante,False,2,Libros de asociados | Libros de contabilidad
+23719,,Devolución saldo(s) y/o compensación de pagos en exceso y pagos de lo no debido,,certificación bancaria,c,tercero_privado,banco,False,3,Certificación Bancaria | Certificación bancaria
+23719,,Devolución saldo(s) y/o compensación de pagos en exceso y pagos de lo no debido,,certificado de existencia y representación legal,b,registro_publico;particular_funcion_publica,Cámara de Comercio,False,1,Certificado de Camara de Comercio
+23719,,Devolución saldo(s) y/o compensación de pagos en exceso y pagos de lo no debido,,certificado de tradición y libertad,b,registro_publico,Oficina de Registro de Instrumentos Públicos,False,1,Documento que fue objeto de liquidación y certificado de libertad y tradición del inmueble
+23719,,Devolución saldo(s) y/o compensación de pagos en exceso y pagos de lo no debido,,documento de identidad,b,registro_publico,Registraduría Nacional / Migración Colombia,False,4,Cédula de ciudadanía | Cédula de extranjería | Documento de identificación del Contribuyente
+23719,,Devolución saldo(s) y/o compensación de pagos en exceso y pagos de lo no debido,,licencia de tránsito,b,registro_publico,organismo de tránsito / RUNT,False,1,Licencia de Tránsito - Tarjeta de Propiedad
+23719,,Devolución saldo(s) y/o compensación de pagos en exceso y pagos de lo no debido,,nota devolutiva de registro,b,registro_publico,Oficina de Registro de Instrumentos Públicos,False,1,Nota devolutiva de registro
+23719,,Devolución saldo(s) y/o compensación de pagos en exceso y pagos de lo no debido,,recibo o declaración de pago a la Gobernación,excluido,pago,Gobernación (recaudo propio),False,2,Acreditación de los pagos | Declaración de impuesto
+23719,,Devolución saldo(s) y/o compensación de pagos en exceso y pagos de lo no debido,,solicitud,excluido,solicitud,solicitante,False,2,Carta de solicitud | Solicitud por escrito de devolución y/o compensación
+23747,,Expedición acuerdo(s) de pago para los deudores de obligaciones tributarias,,contrato,c,tercero_privado,partes del contrato,False,1,Contrato de compraventa
+23747,,Expedición acuerdo(s) de pago para los deudores de obligaciones tributarias,,declaración ante notario,c,declaracion,ciudadano o terceros ante notario,False,1,Declaraciones extra proceso
+23747,,Expedición acuerdo(s) de pago para los deudores de obligaciones tributarias,,documento de identidad,b,registro_publico,Registraduría Nacional / Migración Colombia,False,3,Cédula de ciudadanía | Cédula de extranjería
+23747,,Expedición acuerdo(s) de pago para los deudores de obligaciones tributarias,,licencia de tránsito,b,registro_publico,organismo de tránsito / RUNT,False,1,Tarjeta de propiedad vehiculo
+23747,,Expedición acuerdo(s) de pago para los deudores de obligaciones tributarias,,recibo de servicio público,c,tercero_privado;emisor_variable,empresa de servicios públicos,False,1,Recibo Servicio Público
+23747,,Expedición acuerdo(s) de pago para los deudores de obligaciones tributarias,,recibo o declaración de pago a la Gobernación,excluido,pago,Gobernación (recaudo propio),False,1,Recibo de pago
+23747,,Expedición acuerdo(s) de pago para los deudores de obligaciones tributarias,,título valor,c,tercero_privado,partes,False,1,Títulos firmados
+23763,,Renovación licencia(s) de equipos de rayos x y otras fuentes de radiaciones ionizantes,,carné de protección radiológica,c,tercero_privado;emisor_variable,entidad que imparte el curso,False,1,Carné de protección radiológica
+23763,,Renovación licencia(s) de equipos de rayos x y otras fuentes de radiaciones ionizantes,,certificado de especialidad médica,b,emisor_variable,institución de educación superior,False,1,"Certificado de especialidad en radioterapia, medicina nuclear o radioterapia de los médicos que util"
+23763,,Renovación licencia(s) de equipos de rayos x y otras fuentes de radiaciones ionizantes,,certificados de control de calidad de equipos,c,tercero_privado,empresa de control de calidad,False,1,Certificados de control de calidad de los equipos destinados a diagnóstico médico y a tratamientos t
+23763,,Renovación licencia(s) de equipos de rayos x y otras fuentes de radiaciones ionizantes,,estudio de la instalación de rayos X,c,tercero_privado,institución autorizada,False,1,Estudio y evaluación de la instalación de rayos x efectuada por instituciones autorizadas para este
+23763,,Renovación licencia(s) de equipos de rayos x y otras fuentes de radiaciones ionizantes,,licencia de material radiactivo,b,,autoridad nuclear nacional,False,1,Licencia vigente de uso y manejo de material radioactivo expedido por la autoridad competente
+23763,,Renovación licencia(s) de equipos de rayos x y otras fuentes de radiaciones ionizantes,,planos,c,,solicitante,False,1,Planos de ubicación de las unidades de rayos X
+23763,,Renovación licencia(s) de equipos de rayos x y otras fuentes de radiaciones ionizantes,,reglamento de seguridad,c,,solicitante,True,1,"Reglamento de seguridad sobre el uso y manejo de los equipos, cuando sean móviles"
+23763,,Renovación licencia(s) de equipos de rayos x y otras fuentes de radiaciones ionizantes,,solicitud,excluido,solicitud,solicitante,False,1,Solicitud de renovación de licencia formulada ante el servicio de salud por el interesado
+23763,,Renovación licencia(s) de equipos de rayos x y otras fuentes de radiaciones ionizantes,,tarjeta profesional,b,emisor_variable,consejo o colegio profesional,False,1,Tarjeta profesional de los profesionales que utilizan los equipos
+23787,,Autorización capacitación para manipuladores de alimentos,,certificado de existencia y representación legal,b,registro_publico;particular_funcion_publica,Cámara de Comercio,False,1,certificado de existencia de la representación Legal
+23787,,Autorización capacitación para manipuladores de alimentos,,contenido de la capacitación,c,,solicitante,False,1,contenido de la capacitación
+23787,,Autorización capacitación para manipuladores de alimentos,,documento de identidad,b,registro_publico,Registraduría Nacional / Migración Colombia,False,4,Cédula de ciudadanía | Cédula de extranjería
+23787,,Autorización capacitación para manipuladores de alimentos,,hojas de vida,c,,solicitante,False,1,Hojas de vida del personal docente
+23787,,Autorización capacitación para manipuladores de alimentos,,materiales de capacitación,c,,solicitante,False,1,materiales
+23795,,Autorización funcionamiento(s) de establecimientos farmacéuticos,,certificado de idoneidad sanitaria,b,emisor_variable,autoridad sanitaria,False,1,Certificado de idoneidad sanitaria
+23795,,Autorización funcionamiento(s) de establecimientos farmacéuticos,,certificado o concepto de uso del suelo,b,,municipio,False,1,Certificado de uso de suelo
+23795,,Autorización funcionamiento(s) de establecimientos farmacéuticos,,diploma o acta de grado,b,emisor_variable,institución educativa,False,4,Diploma | Diploma o acta de grado | Diploma o certificado
+23797,,"Expedición concepto(s) sanitario favorable, condicional o desfavorable",,certificado de existencia y representación legal,b,registro_publico;particular_funcion_publica,Cámara de Comercio,False,1,certificado de existencia y representacion legal
+23797,,"Expedición concepto(s) sanitario favorable, condicional o desfavorable",,contenido de la capacitación,c,,solicitante,False,1,contenido de la capacitación
+23797,,"Expedición concepto(s) sanitario favorable, condicional o desfavorable",,documento de identidad,b,registro_publico,Registraduría Nacional / Migración Colombia,False,1,Cédula de ciudadanía
+23797,,"Expedición concepto(s) sanitario favorable, condicional o desfavorable",,hojas de vida,c,,solicitante,False,1,Hoja de vida del docente
+23797,,"Expedición concepto(s) sanitario favorable, condicional o desfavorable",,materiales de capacitación,c,,solicitante,False,1,"CD que contenga la siguiente información: videos, cartillas, volantes que se le entregará al persona"
+23798,,Cancelación registro(s) para el manejo de medicamentos de control especial,,informe del solicitante,c,,solicitante,False,1,Informe donde se especifique el destino final de las existencias que posea a la fecha de sustancias
+23798,,Cancelación registro(s) para el manejo de medicamentos de control especial,,solicitud,excluido,solicitud,solicitante,False,1,Solicitud indicando la cancelación de la resolución para el manejo de medicamentos de control especi
+24031,,Aprobación pensión(es) por invalidez,,certificación laboral de otras entidades,b,emisor_variable,cada empleador,False,1,Certificación laboral de cada entidad donde laboró indicando tiempo de servicio y entidad donde se h
+24031,,Aprobación pensión(es) por invalidez,,certificado de administradora de pensiones,b,emisor_variable,Colpensiones o fondo privado,False,1,Certificado de entidades administradoras de pensión
+24031,,Aprobación pensión(es) por invalidez,,certificado de invalidez,b,emisor_variable,prestador de salud,False,1,Certificación medico de invalidez expedido por el contratista médico en donde se encuentre afiliado
+24031,,Aprobación pensión(es) por invalidez,,certificado de salarios,a,emisor_variable,empleador (Gobernación para docentes oficiales),False,1,Certificado de Salarios
+24031,,Aprobación pensión(es) por invalidez,,certificado de tiempo de servicio,a,emisor_variable,Gobernación; otra entidad si hubo servicio en otra parte,False,1,Certificado de tiempo de servicio
+24031,,Aprobación pensión(es) por invalidez,,declaración de terceros o manifestación,c,declaracion,ciudadano o terceros,False,1,Manifestación expresa
+24031,,Aprobación pensión(es) por invalidez,,documento de identidad,b,registro_publico,Registraduría Nacional / Migración Colombia,False,2,Cédula de ciudadanía | Cédula de extranjería
+24031,,Aprobación pensión(es) por invalidez,,registro civil de nacimiento,b,registro_publico,Registraduría / notarías,False,1,Registro civil de nacimiento o partida de bautismo para los nacidos antes del 11 de junio de 1938
+24031,,Aprobación pensión(es) por invalidez,,resolución de pensión del docente,a,misma_competencia,Gobernación (acto expedido para el FOMAG; por confirmar),False,1,Resolución que lo pensionó
+24033,,Aprobación pensión(es) de retiro por vejez,,acto administrativo de retiro del servicio docente,a,misma_competencia,Gobernación (nominadora del docente),False,1,Acto administrativo de retiro definitivo del servicio
+24033,,Aprobación pensión(es) de retiro por vejez,,certificación laboral de otras entidades,b,emisor_variable,cada empleador,False,1,Certificado laboral de cada entidad donde laboró
+24033,,Aprobación pensión(es) de retiro por vejez,,certificado de administradora de pensiones,b,emisor_variable,Colpensiones o fondo privado,False,1,Certificado de entidades administradoras de pensión
+24033,,Aprobación pensión(es) de retiro por vejez,,certificado de ingresos y retenciones,b,emisor_variable,pagador (FOMAG u otro empleador),False,1,Certificado de ingresos y retenciones
+24033,,Aprobación pensión(es) de retiro por vejez,,certificado de salarios,a,emisor_variable,empleador (Gobernación para docentes oficiales),False,1,Certificado de salarios
+24033,,Aprobación pensión(es) de retiro por vejez,,certificado de tiempo de servicio,a,emisor_variable,Gobernación; otra entidad si hubo servicio en otra parte,False,1,Certificado de tiempo de servicio
+24033,,Aprobación pensión(es) de retiro por vejez,,declaración de terceros o manifestación,c,declaracion,ciudadano o terceros,True,1,Manifestación expresa si devenga o no pensión
+24033,,Aprobación pensión(es) de retiro por vejez,,documento de identidad,b,registro_publico,Registraduría Nacional / Migración Colombia,False,2,Cédula de ciudadanía | Cédula de extranjería
+24033,,Aprobación pensión(es) de retiro por vejez,,registro civil de nacimiento,b,registro_publico,Registraduría / notarías,False,1,Registro civil de nacimiento
+24033,,Aprobación pensión(es) de retiro por vejez,,resolución de pensión del docente,a,misma_competencia,Gobernación (acto expedido para el FOMAG; por confirmar),False,1,Resolución que lo pensionó
+24044,,Aprobación pensión(es) Post-mortem,,acto administrativo de retiro del servicio docente,a,misma_competencia,Gobernación (nominadora del docente),False,1,Acto administrativo de retiro definitivo del servicio
+24044,,Aprobación pensión(es) Post-mortem,,certificación laboral de otras entidades,b,emisor_variable,cada empleador,False,1,Certificado laboral por cada entidad donde indique tiempos de servicio y entidad a donde se hicieron
+24044,,Aprobación pensión(es) Post-mortem,,certificado de administradora de pensiones,b,emisor_variable,Colpensiones o fondo privado,True,1,Certificado de entidades administradoras de pensión indicando si se encuentran o no pensionados
+24044,,Aprobación pensión(es) Post-mortem,,certificado de escolaridad,b,emisor_variable,establecimiento educativo,False,1,Certificado de escolaridad
+24044,,Aprobación pensión(es) Post-mortem,,certificado de invalidez,b,emisor_variable,prestador de salud,False,1,Certificado de invalidez de hijos mayores o hermanos
+24044,,Aprobación pensión(es) Post-mortem,,certificado de salarios,a,emisor_variable,empleador (Gobernación para docentes oficiales),False,2,Certificado de Salarios
+24044,,Aprobación pensión(es) Post-mortem,,certificado de tiempo de servicio,a,emisor_variable,Gobernación; otra entidad si hubo servicio en otra parte,False,1,Certificado de Tiempo de Servicio
+24044,,Aprobación pensión(es) Post-mortem,,declaración ante notario,c,declaracion,ciudadano o terceros ante notario,False,2,Declaración extrajuicio de terceros | Declaración juramentada ante notario
+24044,,Aprobación pensión(es) Post-mortem,,declaración de terceros o manifestación,c,declaracion,ciudadano o terceros,True,5,"Manifestación de terceros en donde conste que el cónyuge sobreviviente convivió con el docente hasta | Manifestación expresa de dependencia económica de hijos mayores estudiantes y/o inválidos | Manifestación expresa de dependencia económica de padres y/o hermanos inválidos | Manifestación expresa de los beneficiarios sobre si devenga o no  pensión | Manisfestación de terceros en donde conste que el cónyuge sobreviviente, compañera o compañero perma"
+24044,,Aprobación pensión(es) Post-mortem,,documento de identidad,b,registro_publico,Registraduría Nacional / Migración Colombia,False,3,Cédula de ciudadanía | Cédula de extranjería | Documento de identidad de cada uno de los beneficiarios
+24044,,Aprobación pensión(es) Post-mortem,,registro civil de defunción,b,registro_publico,Registraduría / notarías,False,1,Registro civil de defunción del educador
+24044,,Aprobación pensión(es) Post-mortem,,registro civil de matrimonio,b,registro_publico,Registraduría / notarías,False,1,Registro civil de matrimonio
+24044,,Aprobación pensión(es) Post-mortem,,registro civil de nacimiento,b,registro_publico,Registraduría / notarías,False,2,Registro civil de nacimiento de cada uno de los beneficiarios | Registro civil de nacimiento o partida de bautismo para los nacidos antes del 11 de junio de 1938
+24044,,Aprobación pensión(es) Post-mortem,,resolución de pensión del docente,a,misma_competencia,Gobernación (acto expedido para el FOMAG; por confirmar),False,1,Resolución que lo pensionó
+24044,,Aprobación pensión(es) Post-mortem,,sentencia judicial,b,,Rama Judicial,False,1,Fallo o sentencia judicial que otorga curaduria o tutoría
+24045,,Acreditación nivel de ascenso o reubicación salarial en el escalafón docente oficial,,diploma o acta de grado,b,emisor_variable,institución educativa,False,2,Diploma o acta de grado
+24050,,Reconocimiento sustitución pensional para docentes oficiales,,acto administrativo de retiro del servicio docente,a,misma_competencia,Gobernación (nominadora del docente),False,1,Acto administrativo de retiro definitivo del servicio
+24050,,Reconocimiento sustitución pensional para docentes oficiales,,certificado de administradora de pensiones,b,emisor_variable,Colpensiones o fondo privado,True,1,Certificado de entidades administradoras de pensión indicando si se encuentran o no pensionados
+24050,,Reconocimiento sustitución pensional para docentes oficiales,,certificado de escolaridad,b,emisor_variable,establecimiento educativo,False,1,Certificado de escolaridad
+24050,,Reconocimiento sustitución pensional para docentes oficiales,,certificado de invalidez,b,emisor_variable,prestador de salud,False,1,Certificado de  invalidez de hijos mayores o hermanos
+24050,,Reconocimiento sustitución pensional para docentes oficiales,,certificado de tiempo de servicio,a,emisor_variable,Gobernación; otra entidad si hubo servicio en otra parte,False,1,Certificado de tiempo de servicio
+24050,,Reconocimiento sustitución pensional para docentes oficiales,,comprobante de pago de mesada pensional,b,,FOMAG / Fiduprevisora,False,1,Comprobante de pago de la última mesada pensional
+24050,,Reconocimiento sustitución pensional para docentes oficiales,,declaración ante notario,c,declaracion,ciudadano o terceros ante notario,False,2,Declaración extrajuicio de terceros | Declaración juramentada ante notario
+24050,,Reconocimiento sustitución pensional para docentes oficiales,,declaración de terceros o manifestación,c,declaracion,ciudadano o terceros,True,4,"Manifestación de terceros donde conste que el cónyuge sobreviviente, compañera o compañero permanent | Manifestación expresa de dependencia económica de hijos mayores estudiantes y/o inválidos | Manifestación expresa de dependencia económica de padres y/o hermanos inválidos | Manifestación expresa de los beneficiarios sobre si devengan o no pensión"
+24050,,Reconocimiento sustitución pensional para docentes oficiales,,documento de identidad,b,registro_publico,Registraduría Nacional / Migración Colombia,False,3,Cédula de ciudadanía | Cédula de extranjería
+24050,,Reconocimiento sustitución pensional para docentes oficiales,,registro civil de defunción,b,registro_publico,Registraduría / notarías,False,1,Registro civil de defunción
+24050,,Reconocimiento sustitución pensional para docentes oficiales,,registro civil de matrimonio,b,registro_publico,Registraduría / notarías,False,1,Registro civil de matrimonio
+24050,,Reconocimiento sustitución pensional para docentes oficiales,,registro civil de nacimiento,b,registro_publico,Registraduría / notarías,False,2,Registro civil de nacimiento
+24050,,Reconocimiento sustitución pensional para docentes oficiales,,resolución de pensión del docente,a,misma_competencia,Gobernación (acto expedido para el FOMAG; por confirmar),False,1,Resolución que  pensionó al docente
+24050,,Reconocimiento sustitución pensional para docentes oficiales,,sentencia judicial,b,,Rama Judicial,False,1,Fallo o sentencia judicial que otorga curaduría o tutoría
+24063,,Certificación existencia y representación legal de las organizaciones comunales de primero y segundo,,solicitud,excluido,solicitud,solicitante,False,1,Solicitud de certificación
+24383,,Inscripción directivo(s) de ligas y clubes deportivos,,certificación de experiencia,c,tercero_privado;emisor_variable,empleadores,False,2,"Certificación o constancia de la experiencia superior a tres (3) años, en cargos del órgano de admin | Certificación que acredite experiencia superior a tres (3) años en cargos directivos en las division"
+24383,,Inscripción directivo(s) de ligas y clubes deportivos,,certificado de capacitación o curso,b,emisor_variable,institución que dicta el curso,False,1,"Certificado de curso, taller o seminario de administración deportiva"
+24383,,Inscripción directivo(s) de ligas y clubes deportivos,,diploma o acta de grado,b,emisor_variable,institución educativa,False,1,Títulos profesionales o tecnológicos de los miembros
+24383,,Inscripción directivo(s) de ligas y clubes deportivos,,solicitud,excluido,solicitud,solicitante,False,1,Solicitud de inscripción de dignatarios
+24759,,Ajuste impuesto(s)  de vehículo automotor,,certificado de aseguradora,c,tercero_privado,aseguradora,False,1,Certificado de la compañia aseguradora
+24759,,Ajuste impuesto(s)  de vehículo automotor,,contrato,c,tercero_privado,partes del contrato,False,1,Documento de venta
+24759,,Ajuste impuesto(s)  de vehículo automotor,,declaración ante notario,c,declaracion,ciudadano o terceros ante notario,False,1,Declaracion extraproceso
+24759,,Ajuste impuesto(s)  de vehículo automotor,,denuncia penal,b,,Fiscalía General de la Nación,False,1,Copia del denuncio
+24759,,Ajuste impuesto(s)  de vehículo automotor,,registro civil de defunción,b,registro_publico,Registraduría / notarías,False,1,Registro de defuncion del propietario
+24759,,Ajuste impuesto(s)  de vehículo automotor,,solicitud,excluido,solicitud,solicitante,False,1,Derecho de peticion
+24761,,Corrección información en declaraciones y recibos de pago,,certificado de existencia y representación legal,b,registro_publico;particular_funcion_publica,Cámara de Comercio,False,1,Certificado de existencia y representacion legal
+24761,,Corrección información en declaraciones y recibos de pago,,contrato,c,tercero_privado,partes del contrato,False,1,Contrato de compraventa
+24761,,Corrección información en declaraciones y recibos de pago,,declaración ante notario,c,declaracion,ciudadano o terceros ante notario,False,1,Declaraciones extra proceso
+24761,,Corrección información en declaraciones y recibos de pago,,documento de identidad,b,registro_publico,Registraduría Nacional / Migración Colombia,False,1,Cédula de ciudadanía
+24761,,Corrección información en declaraciones y recibos de pago,,licencia de tránsito,b,registro_publico,organismo de tránsito / RUNT,False,1,Tarjeta de propiedad vehiculo
+24761,,Corrección información en declaraciones y recibos de pago,,proyecto de corrección,c,,solicitante,False,1,Proyecto de corrección
+24761,,Corrección información en declaraciones y recibos de pago,,recibo o declaración de pago a la Gobernación,excluido,pago,Gobernación (recaudo propio),False,1,Declaración tributaria
+24761,,Corrección información en declaraciones y recibos de pago,,solicitud,excluido,solicitud,solicitante,False,1,Solicitud de corrección
+24762,,Liquidación sobretasa departamental a la gasolina motor,,recibo o declaración de pago a la Gobernación,excluido,pago,Gobernación (recaudo propio),False,1,"Formulario de declaración y pago de impuestos de vehículos, con sello del banco respectivo"
+24809,,"Cancelación impuesto(s)  al consumo de cervezas, sifones, refajos y mezclas de origen extranjero",,declaración de importación,b,,DIAN,False,1,Declaración de importación
+25278,,Autorización horario(s) o calendario académico especial,,solicitud,excluido,solicitud,solicitante,False,1,Carta de Solicitud al Ministerio de Educación Nacional
+25280,,Duplicado diploma(s)  y modificación del registro del título,,declaración de terceros o manifestación,c,declaracion,ciudadano o terceros,False,1,Manifestación expresa de la pérdida del diploma
+25280,,Duplicado diploma(s)  y modificación del registro del título,,diploma o acta de grado,b,emisor_variable,institución educativa,False,1,Diploma
+25280,,Duplicado diploma(s)  y modificación del registro del título,,escritura pública,b,particular_funcion_publica,notaría,False,1,Escritura pública
+25412,,Cambio propiedad de establecimientos educativos,,certificado de existencia y representación legal,b,registro_publico;particular_funcion_publica,Cámara de Comercio,False,1,Certificado de existencia y representación legal
+25412,,Cambio propiedad de establecimientos educativos,,licencia de funcionamiento expedida por la Gobernación,a,misma_competencia,Gobernación (Educación o Salud),False,1,Licencia de funcionamiento
+25420,,Cancelación programa(s) de educación para el trabajo y el desarrollo humano,,solicitud,excluido,solicitud,solicitante,False,1,Carta de Solicitud
+25425,,Concesión registro(s) de un establecimiento educativo,,acta de comité municipal de directivos docentes,b,,municipio,False,1,Acta Comité Municipal de Directivos Docentes
+27011,,"Liquidación impuesto(s)  al consumo de cervezas, sifones, refajos y mezclas nacionales",,tornaguía,a,emisor_variable,Gobernación (Hacienda) u otro departamento,False,1,tornaguías de movilización
+27023,,Cambio denominación o razón social de un establecimiento educativo estatal o privado,,certificado de existencia y representación legal,b,registro_publico;particular_funcion_publica,Cámara de Comercio,False,1,Certificado de existencia y representación legal
+27023,,Cambio denominación o razón social de un establecimiento educativo estatal o privado,,licencia de funcionamiento expedida por la Gobernación,a,misma_competencia,Gobernación (Educación o Salud),False,1,Licencia de funcionamiento
+27023,,Cambio denominación o razón social de un establecimiento educativo estatal o privado,,solicitud,excluido,solicitud,solicitante,False,1,Solicitud cambio de nombre o razón social
+27031,,Cancelación licencia(s) de un establecimiento educativo,,solicitud,excluido,solicitud,solicitante,False,1,Solicitud de cierre del establecimiento
+27038,,Modificación registro(s) de establecimientos educativos oficiales,,acta de comité municipal de directivos docentes,b,,municipio,False,1,Acta Comité Municipal de Directivos Docentes
+27230,,Cancelación impuesto(s)  al consumo de cigarrillos y tabaco elaborado,,declaración de importación,b,,DIAN,False,1,Declaración de importación
+27336,,"Permiso transporte de mercancías gravadas con el impuesto al consumo, o que sean objeto de monopolio",,solicitud,excluido,solicitud,solicitante,False,1,Solicitud de tornaguia
+27339,,"Cancelación transporte de mercancías gravadas con el impuesto al consumo, o que sean objeto de monop",,solicitud,excluido,solicitud,solicitante,False,1,Solicitud de anulación
+27339,,"Cancelación transporte de mercancías gravadas con el impuesto al consumo, o que sean objeto de monop",,tornaguía,a,emisor_variable,Gobernación (Hacienda) u otro departamento,False,1,Tornaguia a anular
+27343,,Autorización sello(s) de los productos gravados con el impuesto al consumo,,solicitud,excluido,solicitud,solicitante,False,1,Solicitud de señalización
+27344,,Permiso transporte de mercancías gravadas con el impuesto al consumo,,factura,c,tercero_privado,vendedor,False,1,factura de compra
+27344,,Permiso transporte de mercancías gravadas con el impuesto al consumo,,solicitud,excluido,solicitud,solicitante,False,1,Sulicitud de señalización de productos
+27344,,Permiso transporte de mercancías gravadas con el impuesto al consumo,,tornaguía,a,emisor_variable,Gobernación (Hacienda) u otro departamento,False,1,"Tornaguia de movilización, reenvio y transito"
+29488,,"Cancelación impuesto(s)  al consumo de licores, vinos, aperitivos y similares de origen extranjero",,declaración de importación,b,,DIAN,False,1,Declaración de importación
+29493,,Inscripción registro(s) de los sujetos pasivos o responsables del impuesto al consumo,,RUT o NIT,b,registro_publico,DIAN,False,1,Registro único tributario - RUT
+29493,,Inscripción registro(s) de los sujetos pasivos o responsables del impuesto al consumo,,certificado de antecedentes disciplinarios,b,,Procuraduría General de la Nación,False,1,Certificado de antecedentes disciplinarios
+29493,,Inscripción registro(s) de los sujetos pasivos o responsables del impuesto al consumo,,certificado de antecedentes fiscales,b,,Contraloría General de la República,False,1,Certificado de antecedentes fiscales
+29493,,Inscripción registro(s) de los sujetos pasivos o responsables del impuesto al consumo,,certificado de existencia y representación legal,b,registro_publico;particular_funcion_publica,Cámara de Comercio,False,1,Certificado de existencia y representación legal
+29493,,Inscripción registro(s) de los sujetos pasivos o responsables del impuesto al consumo,,documento de identidad,b,registro_publico,Registraduría Nacional / Migración Colombia,False,1,Cédula de extranjería
+29493,,Inscripción registro(s) de los sujetos pasivos o responsables del impuesto al consumo,,resolución de autorización de etiquetas,a,,Gobernación (Hacienda; por confirmar),False,1,Resolución de autorización de las etiquetas y Rotulado
+29493,,Inscripción registro(s) de los sujetos pasivos o responsables del impuesto al consumo,,solicitud,excluido,solicitud,solicitante,False,1,Carta de solicitud
+29495,,Permiso transporte de mercancías al interior de la misma entidad territorial o en tránsito hacia otr,,factura,c,tercero_privado,vendedor,False,1,Factura de compra y/o relación de productos
+29495,,Permiso transporte de mercancías al interior de la misma entidad territorial o en tránsito hacia otr,,solicitud,excluido,solicitud,solicitante,False,1,Solicitud de señalización de productos
+29495,,Permiso transporte de mercancías al interior de la misma entidad territorial o en tránsito hacia otr,,tornaguía,a,emisor_variable,Gobernación (Hacienda) u otro departamento,False,1,"Tornaguía de movilización, reenvío y de tránsito, adjunta a la factura o relación de producto."
+34127,,Ampliación servicio(s)  educativo,,acta de comité municipal de directivos docentes,b,,municipio,False,1,Acta de aprobación de propuesta
+34127,,Ampliación servicio(s)  educativo,,acta de visita sanitaria,a,emisor_variable,Secretaría de Salud Departamental u otra autoridad sanitaria,False,1,Concepto sanitario o acta de visita
+34127,,Ampliación servicio(s)  educativo,,certificado o concepto de uso del suelo,b,,municipio,False,1,Concepto uso del suelo
+34127,,Ampliación servicio(s)  educativo,,licencia de construcción,b,particular_funcion_publica,curaduría urbana o municipio,False,1,Licencia de Construcción o permiso de ocupación o acto de reconocimiento de la planta física
+37691,,Acreditación nivel en el escalafón docente,,certificado de capacitación o curso,b,emisor_variable,institución que dicta el curso,False,20,Certificación de capacitación
+37691,,Acreditación nivel en el escalafón docente,,certificado de estudios o notas,b,emisor_variable,institución educativa,False,2,Certificado de notas universitarias
+37691,,Acreditación nivel en el escalafón docente,,certificado de idoneidad del título de posgrado,b,,Ministerio de Educación Nacional,False,2,Certificado de idoneidad del título de posgrado | Certificado de idoneidad del título de postgrado
+37691,,Acreditación nivel en el escalafón docente,,certificado de tiempo de servicio,a,emisor_variable,Gobernación; otra entidad si hubo servicio en otra parte,False,1,Certificación del tiempo de servicio en la docencia
+37691,,Acreditación nivel en el escalafón docente,,diploma o acta de grado,b,emisor_variable,institución educativa,False,2,Título posgrado
+37691,,Acreditación nivel en el escalafón docente,,documento de identidad,b,registro_publico,Registraduría Nacional / Migración Colombia,False,1,Cédula de ciudadanía
+37691,,Acreditación nivel en el escalafón docente,,informe del solicitante,c,,solicitante,False,1,Informe final de la investigación
+37691,,Acreditación nivel en el escalafón docente,,obra científica o pedagógica,c,,solicitante,False,2,"Obra de carácter científico, pedagógico y/o técnico"
+50272,,Aprobación cesantías definitivas a beneficiarios,,acto administrativo de retiro del servicio docente,a,misma_competencia,Gobernación (nominadora del docente),False,1,Acto administrativo de retiro definitivo del servicio docente
+50272,,Aprobación cesantías definitivas a beneficiarios,,certificado de administradora de pensiones,b,emisor_variable,Colpensiones o fondo privado,True,1,Certificado de entidades administradoras de pensión indicando si se encuentra o no pensionado
+50272,,Aprobación cesantías definitivas a beneficiarios,,certificado de ingresos y retenciones,b,emisor_variable,pagador (FOMAG u otro empleador),False,1,Certificado de ingresos y retenciones del educador
+50272,,Aprobación cesantías definitivas a beneficiarios,,certificado de la entidad que pagaba las cesantías,b,emisor_variable,entidad pagadora anterior,False,1,Certificado de la entidad que cancelaba antes de la creación del Fondo nacional de Prestaciones Soci
+50272,,Aprobación cesantías definitivas a beneficiarios,,declaración de terceros o manifestación,c,declaracion,ciudadano o terceros,False,1,Manifestación en donde conste dependencia económica de hermanos menores de 18 años y hermanas mayore
+50272,,Aprobación cesantías definitivas a beneficiarios,,documento de identidad,b,registro_publico,Registraduría Nacional / Migración Colombia,False,3,Cédula de ciudadanía | Cédula de extranjería | Documento de identidad de cada uno de los beneficiarios
+50272,,Aprobación cesantías definitivas a beneficiarios,,escritura pública,b,particular_funcion_publica,notaría,False,1,Escritura pública de sucesión
+50272,,Aprobación cesantías definitivas a beneficiarios,,paz y salvo de la pagaduría del empleador,a,emisor_variable,empleador (Gobernación para docentes oficiales),False,1,Paz y salvo expedido por la pagaduría de la entidad empleadora sobre cancelación de pagos y deudas
+50272,,Aprobación cesantías definitivas a beneficiarios,,paz y salvo o estado de deuda del Fondo Nacional del Ahorro,b,,Fondo Nacional del Ahorro,False,1,Paz y salvo del Fondo Nacional del Ahorro
+50272,,Aprobación cesantías definitivas a beneficiarios,,publicación en medios,c,tercero_privado,medio de comunicación,False,1,Publicación de los edictos
+50272,,Aprobación cesantías definitivas a beneficiarios,,registro civil de defunción,b,registro_publico,Registraduría / notarías,False,1,Registro civil de defunción del educador
+50272,,Aprobación cesantías definitivas a beneficiarios,,registro civil de matrimonio,b,registro_publico,Registraduría / notarías,False,1,Registro civil de matrimonio
+50272,,Aprobación cesantías definitivas a beneficiarios,,registro civil de nacimiento,b,registro_publico,Registraduría / notarías,False,2,Registro civil de nacimiento de cada uno de los beneficiarios | Registro civil de nacimiento del educador
+50272,,Aprobación cesantías definitivas a beneficiarios,,reportes anuales de cesantías,a,emisor_variable,empleador (Gobernación para docentes oficiales),False,1,Reporte anuales de las cesantías de 1990 en adelante o reportes desde la fecha de posesión
+57638,,Legalización certificado(s) de actas de grado y diplomas,,certificado de escolaridad,b,emisor_variable,establecimiento educativo,False,1,Certificado de escolaridad
+77292,,Certificación servicio(s)  social obligatorio,,acta de comité de exoneración del servicio social obligatorio,a,emisor_variable,comité de servicio social obligatorio,True,1,"En caso de haber sido exonerado del Servicio Social Obligatorio, deberá adjuntar Acta de Comité de S"
+77292,,Certificación servicio(s)  social obligatorio,,certificado de inducción al servicio social obligatorio,b,emisor_variable,institución del servicio social,False,1,Certificado de Inducción al Servicio Social Obligatorio
+77292,,Certificación servicio(s)  social obligatorio,,certificado de terminación del servicio social obligatorio,b,emisor_variable,institución del servicio social,False,1,Certificado de terminación de la institución donde realizo el servicio social
+77292,,Certificación servicio(s)  social obligatorio,,diploma o acta de grado,b,emisor_variable,institución educativa,False,2,Acta de Grado | Diploma de Grado
+77292,,Certificación servicio(s)  social obligatorio,,documento de identidad,b,registro_publico,Registraduría Nacional / Migración Colombia,False,2,Cédula de ciudadanía | Cédula de extranjería
+77292,,Certificación servicio(s)  social obligatorio,,paz y salvo de Medicina Legal,b,,Instituto Nacional de Medicina Legal,False,1,Paz y Salvo Medicina Legal
+77292,,Certificación servicio(s)  social obligatorio,,solicitud,excluido,solicitud,solicitante,False,1,Carta de solicitud
+79218,,Expedición certificado(s) Paz y Salvo,,documento de identidad,b,registro_publico,Registraduría Nacional / Migración Colombia,False,1,Cédula de ciudadanía
+79220,,Expedición certificado(s) Grado Escalafón,,documento de identidad,b,registro_publico,Registraduría Nacional / Migración Colombia,False,1,Cédula de ciudadanía
+79221,,Expedición certificado(s) Protocolización,,documento de identidad,b,registro_publico,Registraduría Nacional / Migración Colombia,False,1,Cédula de ciudadanía
+79221,,Expedición certificado(s) Protocolización,,relación del personal docente,c,,solicitante,False,1,Relación del personal docente y directivo docente que prestó sus servicios en el plantel
+79248,,Expedición certificado(s) para Ascenso,,documento de identidad,b,registro_publico,Registraduría Nacional / Migración Colombia,False,1,Cédula de ciudadanía
+79250,,"Expedición certificado(s) Laboral, Salarial y Tiempo de Servicio",,formato de la entidad,excluido,formulario_de_la_entidad,Gobernación,False,1,Formato SED-C050-P618-F01
+79251,,Expedición certificado(s) Antecedentes Disciplinarios,,solicitud,excluido,solicitud,solicitante,False,1,Carta de solicitud
+82552,,Expedición acreditación Medicamentos,,carpeta,excluido,no_es_documento,—,False,1,Carpeta folder color azul
+82552,,Expedición acreditación Medicamentos,,certificación de experiencia,c,tercero_privado;emisor_variable,empleadores,False,1,Constancia de Trabajo y/o fotocopia de los contratos de trabajo
+82552,,Expedición acreditación Medicamentos,,certificado de estudios o notas,b,emisor_variable,institución educativa,False,1,Certificación de estudios
+82552,,Expedición acreditación Medicamentos,,certificado de existencia y representación legal,b,registro_publico;particular_funcion_publica,Cámara de Comercio,False,1,Certificado de cámara de comercio
+82552,,Expedición acreditación Medicamentos,,certificado de residencia,b,,alcaldía,False,1,Certificado de residencia o vecindad
+82552,,Expedición acreditación Medicamentos,,certificado médico de salud,c,tercero_privado,médico,False,1,Certificado de salud original
+82552,,Expedición acreditación Medicamentos,,constancia de no sanción por comercio ilegal de medicamentos,a,emisor_variable,autoridad sanitaria,False,1,Constancia de no haber sido sancionado por comercio ilegal de medicamentos
+82552,,Expedición acreditación Medicamentos,,declaración de profesionales,c,declaracion,profesionales,False,1,Declaración original de dos (2) químicos farmacéuticos o Médicos debidamente autorizados
+82552,,Expedición acreditación Medicamentos,,documento de identidad,b,registro_publico,Registraduría Nacional / Migración Colombia,False,1,Cédula de ciudadanía
+82552,,Expedición acreditación Medicamentos,,examen,excluido,no_es_documento,—,False,1,Presentación de examen de conocimientos en manejo de medicamentos
+82552,,Expedición acreditación Medicamentos,,fotografías,c,,solicitante,False,1,Fotografias
+82552,,Expedición acreditación Medicamentos,,libreta militar,b,,Ejército Nacional,False,1,Tarjeta de reservista (Libreta militar)
+82552,,Expedición acreditación Medicamentos,,registro civil de nacimiento,b,registro_publico,Registraduría / notarías,False,1,Registro civil de nacimiento

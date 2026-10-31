@@ -101,3 +101,41 @@ El SUIT registra 144 verificaciones que la Gobernación realiza por su cuenta, e
 El extracto del SUIT publicado en datos abiertos, con datos de febrero de 2022, registraba 87 trámites de la Gobernación \parencite{funcionpublica2022suit}. Entre esa fecha y octubre de 2026 salieron del registro ocho trámites, cinco de ellos de organizaciones comunales, y entraron seis: las cesantías parciales para docentes, las facilidades de pago de obligaciones no tributarias, la asistencia técnica a establecimientos educativos, la clasificación en el régimen de educación, la cancelación de la personería jurídica de ligas y clubes deportivos, y la inscripción y concepto sanitario de establecimientos farmacéuticos.
 
 Para los 79 trámites presentes en ambas fechas se compararon los requisitos documentales codificados con las mismas reglas. En 70 trámites el conjunto de documentos exigidos es idéntico. En los otros nueve se añadieron 13 documentos y se retiraron 7; en tres de ellos la última modificación registrada es anterior a febrero de 2022, por lo que la diferencia puede deberse a la forma en que cada fuente publica los nombres y no a un cambio de requisitos. Los documentos de la categoría (a) en estos 79 trámites pasaron de 51 a 52. En conjunto, entre 2022 y 2026 la Gobernación no retiró de sus trámites ningún documento expedido por ella misma.
+
+\subsection{Fase 2: relación de los documentos con las bases de datos y los mecanismos de intercambio}
+
+Esta fase se aplicó a los 223 requisitos de las categorías (a) y (b), que corresponden a 69 documentos distintos. La relación entre cada documento y una base de datos se basa en lo que declaran el documento de datos maestros de referencia de la Gobernación \parencite{gobernaciondelhuila2026datosmaestros} y el catálogo de sistemas de información del PETI 2026 \parencite[pp.~34-37]{gobernaciondelhuila2026peti}; el estudio no verificó qué contienen realmente esos sistemas. Los resultados son preliminares y están pendientes de verificación independiente \pendiente{DATO PENDIENTE: verificación de la Fase 2}.
+
+\subsubsection{Documentos que expide la Gobernación}
+
+De los 56 requisitos de la categoría (a), solo uno corresponde a un dato que una base declarada contiene por completo: el certificado de habilitación de prestadores de servicios de salud, cuyo estado y fecha registra la tabla de instituciones prestadoras de servicios de salud. En 47 requisitos, la base declarada contiene solo parte del dato o solo para una parte de los casos. Por ejemplo, la tabla de docentes del sector educativo registra la fecha de ingreso y el grado en el escalafón, pero no el tiempo de servicio por entidad ni el salario; la tabla de historial laboral guarda los actos de vinculación y retiro de los servidores como expedientes digitalizados, y la tabla de pensionados registra el acto administrativo de reconocimiento de los pensionados a cargo del departamento. En los 8 requisitos restantes, como los reportes anuales de cesantías o la resolución de cesantías pagadas, ninguna base declarada contiene el dato.
+
+\subsubsection{Documentos que expiden otras autoridades}
+
+De los 167 requisitos de la categoría (b), 37 (22\,\%) corresponden a datos de entidades con las que la Gobernación declara un servicio web: el RUNT, para la licencia de tránsito; la DIAN, para el RUT; Colpensiones, para la información pensional; el RUP de las cámaras de comercio; el SIMAT del Ministerio de Educación, para la matrícula, y el registro de talento humano en salud (RETHUS). Todas son conexiones bilaterales, y varias cubren solo una parte del dato: la conexión con Colpensiones no incluye a los fondos privados de pensiones, la del RUP no equivale al certificado de existencia y representación legal, y la de RETHUS solo cubre las profesiones de la salud. Los otros 130 requisitos (78\,\%) corresponden a entidades con las que no se declara ningún mecanismo de intercambio. Entre ellos están los 50 requisitos de documento de identidad y de registro civil de nacimiento, matrimonio o defunción, que son los más frecuentes del conjunto, y para los cuales no se declara ninguna conexión con la Registraduría. Ninguna de las fuentes declara el uso de la plataforma X-Road ni del servicio ciudadano digital de interoperabilidad; varias tablas del documento de datos maestros indican expresamente que no existe servicio web, X-Road, enlace de base de datos ni conexión P2P.
+
+\subsubsection{Dominios de interoperabilidad}
+
+La Tabla~\ref{tab:dominios} resume los dominios en los que tendría que resolverse algo para que la entidad deje de pedir cada documento, según la regla del estudio.
+
+\begin{table}[htbp]
+\centering
+\caption{Requisitos de las categorías (a) y (b) según los dominios de interoperabilidad que intervienen}
+\label{tab:dominios}
+\begin{tabular}{p{7cm}rr}
+\hline
+Dominio & Requisitos & \% de 223 \\
+\hline
+Organizacional & 223 & 100,0 \\
+Técnico: falta el medio de intercambio & 138 & 61,9 \\
+Técnico: el medio existe solo para una parte del dato & 75 & 33,6 \\
+Semántico & 115 & 51,6 \\
+Político-legal & 0 & 0,0 \\
+\hline
+\end{tabular}
+
+\smallskip
+\footnotesize\textit{Nota.} Un requisito puede requerir más de un dominio. Elaboración propia con base en \textcite{gobernaciondelhuila2026datosmaestros}, \textcite{gobernaciondelhuila2026peti} y el Visor del SUIT \parencite{funcionpublica2026visorsuit}.
+\end{table}
+
+El dominio organizacional interviene en todos los requisitos, porque en ningún caso la fuente muestra un procedimiento por el cual la entidad verifique el dato en lugar de pedir el documento. El técnico interviene cuando no hay medio de intercambio o cuando el medio cubre solo una parte del dato, y el semántico, cuando el emisor varía o la base no registra el dato como un campo definido. Ninguna fuente pública muestra que falte una norma que faculte el intercambio, por lo que el dominio político-legal no se asignó a ningún requisito; esto no significa que no existan obstáculos de ese tipo, sino que las fuentes consultadas no permiten identificarlos.

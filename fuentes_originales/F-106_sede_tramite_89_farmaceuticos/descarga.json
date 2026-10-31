@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "id": "F-106",
+  "slug": "sede_tramite_89_farmaceuticos",
+  "archivo": "fuentes_originales/F-106_sede_tramite_89_farmaceuticos/Inscripcio_n y concepto sanitario de establecimientos farmace_uticos_ farmacia- drogueri_a_ drogueri_a_ depo_sito de med",
+  "texto": null,
+  "url_origen": "https://www.huila.gov.co/tramites/89/",
+  "url_final": "https://www.huila.gov.co/tramites/89/",
+  "fecha_consulta": "2026-10-31",
+  "sha256": "3f79d22fc991c06343c5cc3a3cfe41bc31b0a517cc68d9cb3420da308df1ae10",
+  "bytes": 312335,
+  "tipo": "pdf",
+  "nombre_original": "Inscripcio_n y concepto sanitario de establecimientos farmace_uticos_ farmacia- drogueri_a_ drogueri_a_ depo_sito de med",
+  "content_type": null,
+  "via": "urllib",
+  "last_modified_servidor": null,
+  "paginas": null,
+  "paginas_ocr": [],
+  "advertencias": [
+    "No se pudo compilar el extractor de texto (swiftc no disponible: [Errno 2] No such file or directory: 'swiftc'). El original se conserva sin texto extraído."
+  ]
+}

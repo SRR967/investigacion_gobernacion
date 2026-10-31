@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "id": "F-104",
+  "slug": "govco_buscador_2026_10_31",
+  "archivo": "fuentes_originales/F-104_govco_buscador_2026_10_31/govco_buscador_y_fichas_adicionales_2026-10-31.json",
+  "texto": "fuentes_texto/F-104_govco_buscador_2026_10_31.txt",
+  "url_origen": "https://buscador.www.gov.co/tramite/buscar/",
+  "url_final": "https://buscador.www.gov.co/tramite/buscar/",
+  "fecha_consulta": "2026-10-31",
+  "sha256": "56a8ece82c279694f217d7f04e1bcc4c58284a666aebf31751c2c4df0dc004b9",
+  "bytes": 248625,
+  "tipo": "texto",
+  "nombre_original": "govco_buscador_y_fichas_adicionales_2026-10-31.json",
+  "content_type": null,
+  "via": "urllib",
+  "last_modified_servidor": null,
+  "paginas": 1,
+  "paginas_ocr": [],
+  "advertencias": []
+}

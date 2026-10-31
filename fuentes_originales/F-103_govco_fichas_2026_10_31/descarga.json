@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "id": "F-103",
+  "slug": "govco_fichas_2026_10_31",
+  "archivo": "fuentes_originales/F-103_govco_fichas_2026_10_31/govco_fichas_gobernacion_huila_2026-10-31.json",
+  "texto": "fuentes_texto/F-103_govco_fichas_2026_10_31.txt",
+  "url_origen": "https://api-interno.www.gov.co/api/ficha-tramites-y-servicios/FichaTramite/",
+  "url_final": "https://api-interno.www.gov.co/api/ficha-tramites-y-servicios/FichaTramite/",
+  "fecha_consulta": "2026-10-31",
+  "sha256": "cc6c43d30cb5a6ddfed7c9887b7b8c1798c3ca9d7b1183b68f70ebfa9caaf5f1",
+  "bytes": 776773,
+  "tipo": "texto",
+  "nombre_original": "govco_fichas_gobernacion_huila_2026-10-31.json",
+  "content_type": null,
+  "via": "urllib",
+  "last_modified_servidor": null,
+  "paginas": 1,
+  "paginas_ocr": [],
+  "advertencias": []
+}

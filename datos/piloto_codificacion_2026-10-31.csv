@@ -1,0 +1,45 @@
+codigo,requisito,categoria,subcodigo,emisor_o_custodio,nota
+25412,Licencia de funcionamiento,a,,Secretaría de Educación Departamental (Gobernación),
+25412,Certificado de existencia y representación legal,b,registro_publico;particular_funcion_publica,Cámara de Comercio,
+24050,Cédula de ciudadanía / Cédula de extranjería (educador fallecido),b,registro_publico,Registraduría Nacional / Migración Colombia,alternativas fusionadas
+24050,Registro civil de nacimiento,b,registro_publico,Registraduría / notarías,aparece dos veces (educador y beneficiario): se cuenta una vez con 2 personas
+24050,Registro civil de defunción,b,registro_publico,Registraduría / notarías,
+24050,Registro civil de matrimonio,b,registro_publico,Registraduría / notarías,
+24050,Cédula de ciudadanía (beneficiario),b,registro_publico,Registraduría Nacional,"documento ya contado para el educador: se fusiona (mismo documento, otra persona)"
+24050,Declaración extrajuicio de terceros,c,declaracion,Ciudadano ante notario,el notario solo autentica
+24050,Certificado de escolaridad,b,emisor_variable,Establecimiento educativo (oficial o privado),"si es privado, sería c"
+24050,Certificado de invalidez de hijos mayores o hermanos,b,emisor_variable,Entidad médico asistencial (pública o privada),"si es privada, sería c"
+24050,Manifestación expresa de dependencia económica de hijos mayores estudiantes y/o inválidos,c,declaracion,Ciudadano,
+24050,Manifestación expresa de dependencia económica de padres y/o hermanos inválidos,c,declaracion,Ciudadano,
+24050,Fallo o sentencia judicial que otorga curaduría o tutoría,b,,Rama Judicial,
+24050,Certificado de entidades administradoras de pensión indicando si se encuentran o no pensionados,b,emisor_variable,Colpensiones o fondo privado de pensiones,"si es fondo privado, sería c"
+24050,Resolución que pensionó al docente,a,,Secretaría de Educación Departamental (acto expedido por la entidad territorial para el FOMAG),por confirmar en la norma del trámite
+24050,Declaración juramentada ante notario,c,declaracion,Ciudadano ante notario,
+24050,Comprobante de pago de la última mesada pensional,b,,FOMAG / Fiduprevisora,por confirmar
+24050,Acto administrativo de retiro definitivo del servicio,a,,Gobernación (nominadora del docente),
+24050,Certificado de tiempo de servicio,a,emisor_variable,Gobernación; otra entidad si hubo servicio en otra parte,la excepción de la ficha prevé tiempos en otras entidades
+24050,Manifestación de terceros sobre convivencia del cónyuge o compañero(a),c,declaracion,Terceros,
+24050,Manifestación expresa de los beneficiarios sobre si devengan o no pensión,c,declaracion,Ciudadano,
+79250,Formato SED-C050-P618-F01,excluido,formulario_de_la_entidad,Gobernación,"registrado como DOCUMENTO en la ficha, pero es el formato de solicitud"
+14324,Recibo de pago (original y copia),a,,Gobernación (liquidación del impuesto),original y copia fusionados
+24759,Derecho de petición,excluido,solicitud,Ciudadano,"registrado como DOCUMENTO, pero es la solicitud"
+24759,Copia del denuncio,b,,Fiscalía General de la Nación,solo si el vehículo fue robado
+24759,Certificado de la compañía aseguradora,c,tercero_privado,Aseguradora,solo si el vehículo fue robado
+24759,Declaración extraproceso,c,declaracion,Ciudadano ante notario,solo si el vehículo fue destruido
+24759,Registro de defunción del propietario,b,registro_publico,Registraduría / notarías,
+24759,Documento de venta,c,tercero_privado,Particulares (contrato),
+23787,Cédula de ciudadanía / Cédula de extranjería (solicitante o representante legal),b,registro_publico,Registraduría Nacional / Migración Colombia,la ficha repite la cédula tres veces; alternativas fusionadas
+23787,Contenido de la capacitación,c,,Solicitante,
+23787,Materiales,c,,Solicitante,
+23787,Certificado de existencia y representación legal,b,registro_publico;particular_funcion_publica,Cámara de Comercio,
+23787,Hojas de vida del personal docente,c,,Solicitante,
+16295,Carta de solicitud,excluido,solicitud,Solicitante,"registrado como DOCUMENTO, pero es la solicitud"
+16295,Estatutos,c,,Solicitante,
+16295,Poder debidamente otorgado,c,,Solicitante,solo si actúa mediante apoderado
+16295,Actas de sesiones,c,,Solicitante,
+16295,Acta de recibo del patrimonio inicial,c,,Solicitante,
+23048,Acta de constitución,c,,Solicitante,
+23048,Estatutos de la asociación,c,,Solicitante,
+23048,Certificación que acredite la efectividad de los aportes,c,,Solicitante,
+23048,Reconocimiento deportivo,b,entidad_descentralizada_departamental,Ente deportivo que otorga el reconocimiento (por confirmar),"si lo otorga la propia Gobernación, sería a"
+23048,Recibo de pago,a,,Gobernación (recaudo propio),por confirmar a qué pago corresponde

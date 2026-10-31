@@ -13,38 +13,48 @@ import csv, collections, sys
 # mecanismo: 'interno' (el dato es de la propia Gobernación), 'servicio web bilateral con X', 'ninguno declarado'.
 B = {
  # (a) documentos de la propia Gobernación
- 'certificado de tiempo de servicio': ('Docentes_Sector_Educativo (F-008, tabla 45); Historial_Laboral (tabla 31); SIFA, módulo de nómina (F-007, p. 35)', 'parcial', 'interno', 'tabla 45 tiene Fecha_Ingreso pero no tiempos por entidad; tabla 31 guarda actos digitalizados; la nómina de SIFA emite certificaciones laborales'),
+ 'certificado de tiempo de servicio': ('Docentes_Sector_Educativo (F-008, tabla 45); Historial_Laboral (tabla 31); Servidores_Publicos (tabla 37); SIFA, módulo de nómina (F-007, p. 35)', 'parcial', 'interno', 'tabla 45 tiene Fecha_Ingreso pero no tiempos por entidad; tabla 31 guarda actos digitalizados y declara como caso de uso la elaboración de certificaciones de tiempo de servicio y salarios para trámites de pensión, entregadas por oficio o correo; la nómina de SIFA emite certificaciones laborales (texto OCR)'),
  'resolución de pensión del docente': ('Pensionados_Departamento (tabla 24)', 'parcial', 'interno', 'la tabla 24 registra Acto_Administrativo de reconocimiento, pero de los pensionados a cargo del departamento'),
- 'certificado de salarios': ('SIFA, módulo de nómina (F-007, p. 35)', 'parcial', 'interno', 'la tabla 45 no tiene campo de salario; la nómina de SIFA emite certificaciones'),
+ 'certificado de salarios': ('Servidores_Publicos (tabla 37); SIFA, módulo de nómina (F-007, p. 35)', 'parcial', 'interno', 'la tabla 37 tiene Salario de los servidores; la tabla 45 de docentes no tiene campo de salario'),
  'acto administrativo de retiro del servicio docente': ('Historial_Laboral (tabla 31); Docentes_Sector_Educativo (tabla 45, campo Estado)', 'parcial', 'interno', 'tabla 31: actos de retiro de servidores, como expediente digitalizado; tabla 45: solo el estado'),
  'licencia de funcionamiento expedida por la Gobernación': ('Instituciones_Educativas (tabla 42); IPS_Prestadoras_Salud (tabla 50); Farmacias (tabla 56)', 'parcial', 'interno', 'la tabla 42 solo incluye instituciones oficiales; las tablas 50 y 56 registran habilitación'),
- 'tornaguía': ('Sistema de información tributario (F-007, p. 35)', 'parcial', 'interno', 'el PETI describe el sistema de renta departamental; ninguna tabla de F-008 registra tornaguías'),
+ 'tornaguía': ('—', 'ninguna', 'interno', 'ni F-008 ni F-007 mencionan tornaguías ni el impuesto al consumo'),
  'reportes anuales de cesantías': ('—', 'ninguna', 'interno', 'ninguna tabla declarada'),
  'paz y salvo de la pagaduría del empleador': ('SIFA, módulo de nómina (F-007, p. 35)', 'parcial', 'interno', ''),
  'resolución de cesantías pagadas': ('—', 'ninguna', 'interno', 'ninguna tabla declarada'),
  'acta de visita sanitaria': ('Farmacias (tabla 56, sistema IVC-Salud)', 'parcial', 'interno', ''),
  'acta del accidente de trabajo': ('—', 'ninguna', 'interno', 'ninguna tabla declarada'),
- 'certificado de habilitación': ('IPS_Prestadoras_Salud (tabla 50)', 'completa', 'interno', 'campos Estado_Habilitacion y Fecha_Habilitacion; la tabla consume el REPS del MSPS por servicio web'),
+ 'certificado de habilitación': ('IPS_Prestadoras_Salud (tabla 50)', 'completa', 'interno', 'campos Estado_Habilitacion y Fecha_Habilitacion; la fuente dice que el REPS del MSPS es la fuente oficial y que la Gobernación consume el dato por servicio web'),
  'registro profesional en salud': ('Medicos (tabla 54); Enfermeras (tabla 55)', 'parcial', 'interno', 'las tablas consumen RETHUS por servicio web'),
  'resolución de autorización de etiquetas': ('—', 'ninguna', 'interno', 'ninguna tabla declarada'),
  'acta de comité de exoneración del servicio social obligatorio': ('—', 'ninguna', 'interno', 'ninguna tabla declarada'),
  'constancia de no sanción por comercio ilegal de medicamentos': ('Farmacias (tabla 56)', 'parcial', 'interno', 'la tabla no declara un campo de sanciones'),
  # (b) documentos de otras autoridades con mecanismo declarado
- 'licencia de tránsito': ('Impuestos_Vehiculos (tabla 17); Contribuyentes_Rentas (tabla 22)', 'completa', 'servicio web bilateral con el RUNT', 'tablas 17 y 22: validación de propietarios y datos de vehículos'),
+ 'licencia de tránsito': ('Impuestos_Vehiculos (tabla 17); Contribuyentes_Rentas (tabla 22)', 'parcial', 'servicio web bilateral con el RUNT', 'tablas 17 y 22: validación de propietarios y datos de vehículos; no registran el número de la licencia'),
  'RUT o NIT': ('Contratistas_Proponentes (tabla 16); Contribuyentes_Rentas (tabla 22)', 'completa', 'servicio web bilateral con la DIAN (API RUT)', ''),
  'certificado de administradora de pensiones': ('Pensionados_Departamento (tabla 24)', 'parcial', 'servicio web bilateral con Colpensiones', 'solo Colpensiones; no los fondos privados'),
- 'certificado de existencia y representación legal': ('Contratistas_Proponentes (tabla 16); Entidades_Juridicas (tabla 89)', 'parcial', 'servicio web bilateral con el RUP (Confecámaras/CCE)', 'el RUP no es el certificado de existencia y representación legal'),
- 'certificado de escolaridad': ('Instituciones_Educativas (tabla 42), SIMAT', 'parcial', 'servicio web bilateral con el SIMAT (MEN)', 'solo matrícula oficial'),
- 'tarjeta profesional': ('Medicos (tabla 54); Enfermeras (tabla 55)', 'parcial', 'servicio web bilateral con RETHUS (MSPS)', 'solo profesiones de la salud'),
+ 'certificado de existencia y representación legal': ('Contratistas_Proponentes (tabla 16)', 'parcial', 'servicio web bilateral con el RUP (según la fuente, administrado por la CCE)', 'el RUP no es el certificado de existencia y representación legal'),
+ 'certificado de escolaridad': ('Estudiantes_Matriculados (tabla 44), SIMAT', 'parcial', 'servicio web bilateral con el SIMAT (MEN)', 'solo matrícula oficial'),
+ 'certificado catastral': ('Predios_Rurales (tabla 71)', 'parcial', 'servicio web bilateral con el IGAC', 'solo predios rurales; campos matricula_inmobiliaria y avaluo'),
+ 'tarjeta profesional': ('Medicos (tabla 54); Enfermeras (tabla 55)', 'parcial', 'servicio web bilateral con RETHUS (MSPS)', 'solo profesiones de la salud; la tabla declara RETHUS como fuente y Web Services como medio en sus columnas'),
 }
 
 
 def dominios(cat, cobertura, mecanismo, marcas):
-    d = ['organizacional']  # siempre: falta el procedimiento o el acuerdo para verificar en lugar de pedir
-    if mecanismo == 'ninguno declarado' or cobertura == 'ninguna':
-        d.append('técnico')
-    elif cobertura == 'parcial':
-        d.append('técnico (parcial)')
+    # Organizacional: se asigna a todos, porque ninguna fuente describe un procedimiento para verificar el dato dentro
+    # de los trámites (supuesto de la regla; no se evaluó documento por documento). La regla no tiene rama para el
+    # dominio político-legal.
+    d = ['organizacional']
+    if cat == 'a':
+        if cobertura == 'ninguna':
+            d.append('técnico: no hay base')
+        elif cobertura == 'parcial':
+            d.append('técnico: base parcial')
+    else:
+        if mecanismo == 'ninguno declarado':
+            d.append('técnico: no hay medio')
+        elif cobertura == 'parcial':
+            d.append('técnico: medio parcial')
     if 'emisor_variable' in marcas or cobertura == 'parcial':
         d.append('semántico')
     return d

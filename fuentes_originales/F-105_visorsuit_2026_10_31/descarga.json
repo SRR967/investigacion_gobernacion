@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "id": "F-105",
+  "slug": "visorsuit_2026_10_31",
+  "archivo": "fuentes_originales/F-105_visorsuit_2026_10_31/visorsuit_gobernacion_huila_2026-10-31.json",
+  "texto": "fuentes_texto/F-105_visorsuit_2026_10_31.txt",
+  "url_origen": "https://visorsuit.funcionpublica.gov.co/api/tramite?fi=",
+  "url_final": "https://visorsuit.funcionpublica.gov.co/api/tramite?fi=",
+  "fecha_consulta": "2026-10-31",
+  "sha256": "5f7e719812f6bab9ff6e4bcb34891f3d4f1761bf3c2ce45399a8b1990112d779",
+  "bytes": 2119108,
+  "tipo": "texto",
+  "nombre_original": "visorsuit_gobernacion_huila_2026-10-31.json",
+  "content_type": null,
+  "via": "urllib",
+  "last_modified_servidor": null,
+  "paginas": 1,
+  "paginas_ocr": [],
+  "advertencias": []
+}

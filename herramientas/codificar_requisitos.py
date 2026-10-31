@@ -54,6 +54,13 @@ SSO_T = ('b', 'certificado de terminación del servicio social obligatorio', 'em
 R = [
     ('', ('excluido', 'sin nombre', 'sin_nombre', '—')),
     ('acreditacion de los pagos', GOB_PAGO),
+    ('acto administrativo mediante el cual se otorga el certificado de buenas practicas', ('b', 'certificado de buenas prácticas de manufactura', '', 'INVIMA')),
+    ('carta especificando numero de ambulancias', ('c', 'descripción del servicio', '', 'solicitante')),
+    ('certificacion de manipulacion de alimentos', CURSO),
+    ('certificado catastral', ('b', 'certificado catastral', 'registro_publico', 'gestor catastral / IGAC')),
+    ('publicacion de edictos', PUBLI),
+    ('registros sanitarios o licencias de venta', ('b', 'registro sanitario', '', 'INVIMA')),
+    ('reporte anual de las cesantias', REPCES),
     ('acta comite municipal de directivos', ('b', 'acta de comité municipal de directivos docentes', '', 'municipio')),
     ('acta de aprobacion de propuesta', ('c', 'acta de aprobación de propuesta', '', 'solicitante')),
     ('acta de constitucion', ('c', 'acta de constitución', '', 'solicitante')),

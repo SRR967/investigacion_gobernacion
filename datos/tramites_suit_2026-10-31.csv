@@ -1,0 +1,86 @@
+codigo,n_catalogo,nombre,medio_electronico,fecha_modificacion,estado,version
+14324,46,Impuesto sobre vehículos automotores,TOTALMENTE,2026-10-01,PUBLICADO,12
+14333,45,Impuesto de registro,NO_DISPONIBLE,2026-02-03,PUBLICADO,16
+14341,44,"Impuesto al consumo de licores, vinos, aperitivos y similares de origen nacional",PARCIALMENTE,2015-03-17,PUBLICADO,4
+14342,11,Auxilio funerario por fallecimiento de un docente pensionado,PARCIALMENTE,2023-11-15,PUBLICADO,7
+14346,42,Impuesto al consumo de cigarrillos y tabaco elaborado de origen nacional,PARCIALMENTE,2026-10-30,PUBLICADO,7
+16295,61,"Reconocimiento de personería jurídica de fundaciones, corporaciones y/o asociaciones de utilidad común y/o sin ánimo de lucro",NO_DISPONIBLE,2015-03-17,PUBLICADO,4
+16296,20,Certificado de libertad y tradición de un vehículo automotor,NO_DISPONIBLE,2026-04-22,PUBLICADO,17
+22952,67,Reliquidación pensional para docentes oficiales,PARCIALMENTE,2023-11-15,PUBLICADO,4
+22989,66,Registro y autorización de títulos en el área de la salud,TOTALMENTE,2026-10-13,PUBLICADO,7
+23010,,Pensión de jubilación para docentes oficiales,PARCIALMENTE,2025-12-09,PUBLICADO,4
+23011,71,Seguro por muerte a beneficiarios de docentes oficiales,PARCIALMENTE,2023-11-15,PUBLICADO,4
+23022,25,Cesantía definitiva para docentes oficiales,PARCIALMENTE,2023-11-15,PUBLICADO,4
+23027,47,"Inscripción de dignatarios de las fundaciones, corporaciones y/o asociaciones de utilidad común y/o sin ánimo de lucro",NO_DISPONIBLE,2025-09-15,PUBLICADO,6
+23030,62,"Reforma de estatutos de fundaciones, corporaciones y/o asociaciones de utilidad común y/o sin ánimo de lucro",NO_DISPONIBLE,2015-04-14,PUBLICADO,4
+23048,60,Reconocimiento de la personería jurídica de los organismos deportivos y recreativos vinculados al Sistema Nacional del Deporte,NO_DISPONIBLE,2026-04-22,PUBLICADO,19
+23051,4,Aprobación de las reformas estatutarias de los organismos deportivos y/o recreativos vinculados al Sistema Nacional del Deporte,NO_DISPONIBLE,2020-12-16,PUBLICADO,1
+23205,50,Inscripción en el registro especial de prestadores de servicios de salud,NO_DISPONIBLE,2021-04-29,PUBLICADO,5
+23238,68,Renovación de la habilitación de prestadores de servicios de salud,PARCIALMENTE,2015-05-21,PUBLICADO,3
+23256,54,Licencia de funcionamiento para equipos de rayos x y otras fuentes emisoras de radiaciones ionizantes,TOTALMENTE,2026-10-06,PUBLICADO,15
+23424,53,Legalización de las tornaguías,NO_DISPONIBLE,2023-11-15,PUBLICADO,2
+23489,52,"Inscripción, renovación, ampliación o modificación para el manejo de medicamentos de control especial",TOTALMENTE,2019-12-20,PUBLICADO,7
+23491,5,Aprobación y renovación de plazas para el servicio social obligatorio,TOTALMENTE,2025-09-22,PUBLICADO,6
+23495,31,Concepto sanitario para empresas aplicadoras de plaguicidas,TOTALMENTE,2022-02-02,PUBLICADO,3
+23498,10,Autorización sanitaria para la concesión de aguas para el consumo humano,TOTALMENTE,2026-02-27,PUBLICADO,8
+23605,55,Licencia para prestación de servicios en seguridad y salud en el trabajo,TOTALMENTE,2025-08-28,PUBLICADO,8
+23607,63,Refrendación del carné de aplicador de plaguicidas,NO_DISPONIBLE,2015-04-30,PUBLICADO,3
+23612,70,Reporte de novedades al registro especial de prestadores de servicios de salud,NO_DISPONIBLE,2015-08-13,PUBLICADO,3
+23653,64,"Registro de libros de fundaciones, corporaciones y/o asociaciones de utilidad común y/o sin ánimo de lucro",NO_DISPONIBLE,2015-05-05,PUBLICADO,4
+23719,35,Devolución y/o compensación de pagos en exceso y pagos de lo no debido,NO_DISPONIBLE,2020-11-30,PUBLICADO,1
+23747,37,Facilidades de pago para los deudores de obligaciones tributarias,NO_DISPONIBLE,2023-11-15,PUBLICADO,4
+23763,69,Renovación de la licencia de funcionamiento para equipos de rayos x y otras fuentes emisoras de radiaciones ionizantes,TOTALMENTE,2026-10-05,PUBLICADO,20
+23787,9,Autorización para capacitar a manipuladores de alimentos,NO_DISPONIBLE,2015-05-11,PUBLICADO,4
+23795,,Autorización de funcionamiento de establecimientos farmacéuticos,TOTALMENTE,2024-06-24,PUBLICADO,6
+23797,30,Concepto sanitario,NO_DISPONIBLE,2019-09-24,PUBLICADO,4
+23798,16,Cancelación de la inscripción para el manejo de medicamentos de control especial,NO_DISPONIBLE,2015-05-11,PUBLICADO,3
+24031,57,Pensión de retiro de invalidez para docentes oficiales,PARCIALMENTE,2025-12-09,PUBLICADO,4
+24033,58,Pensión de retiro por vejez para docentes oficiales,NO_DISPONIBLE,2015-05-12,PUBLICADO,5
+24044,59,Pensión post-mortem para beneficiarios de docentes oficiales,PARCIALMENTE,2023-11-15,PUBLICADO,4
+24045,7,Ascenso o reubicación de nivel salarial en el escalafón docente oficial,PARCIALMENTE,2026-02-03,PUBLICADO,16
+24050,76,Sustitución pensional para docentes oficiales,PARCIALMENTE,2023-11-15,PUBLICADO,5
+24066,17,Certificación de existencia y representación legal de las ligas y asociaciones deportivas,PARCIALMENTE,2020-12-21,PUBLICADO,4
+24072,,Cancelación de la personería jurídica de ligas y clubes deportivos,NO_DISPONIBLE,2026-01-29,PUBLICADO,1
+24383,49,Inscripción de dignatarios de los organismos deportivos y recreativos vinculados al Sistema Nacional del Deporte,NO_DISPONIBLE,2020-12-16,PUBLICADO,1
+24759,33,Condonación del impuesto de vehículos,NO_DISPONIBLE,2017-01-03,PUBLICADO,2
+24761,34,Corrección de errores e inconsistencias en declaraciones y recibos de pago,PARCIALMENTE,2020-12-01,PUBLICADO,2
+24762,73,Sobretasa departamental a la gasolina motor,TOTALMENTE,2023-11-15,PUBLICADO,3
+24809,39,"Impuesto al consumo de cervezas, sifones, refajos y mezclas de origen extranjero",PARCIALMENTE,2026-10-23,PUBLICADO,5
+25278,8,Autorización de calendario académico especial,PARCIALMENTE,2026-04-22,PUBLICADO,5
+25280,36,Duplicaciones de diplomas y modificaciones del registro del título,NO_DISPONIBLE,2015-06-17,PUBLICADO,3
+25412,13,Cambio de propietario de un establecimiento educativo,PARCIALMENTE,2020-12-21,PUBLICADO,6
+25415,15,Cambio de sede de un establecimiento educativo,NO_DISPONIBLE,2026-07-13,PUBLICADO,4
+25420,27,Cierre temporal o definitivo de programas de educación para el trabajo y el desarrollo humano,NO_DISPONIBLE,2015-06-22,PUBLICADO,2
+25424,,Clasificación en el régimen de educación a un establecimiento educativo privado,PARCIALMENTE,2026-04-22,PUBLICADO,3
+25425,32,Concesión de reconocimiento de un establecimiento educativo oficial,NO_DISPONIBLE,2015-06-22,PUBLICADO,2
+27011,40,"Impuesto al consumo de cervezas, sifones, refajos y mezclas nacionales",TOTALMENTE,2026-10-30,PUBLICADO,7
+27023,12,Cambio de nombre o razón social de un establecimiento educativo privado,PARCIALMENTE,2020-12-21,PUBLICADO,7
+27031,28,Clausura de un establecimiento educativo,NO_DISPONIBLE,2026-04-22,PUBLICADO,4
+27038,38,Fusión o conversión de establecimientos educativos oficiales,NO_DISPONIBLE,2015-08-12,PUBLICADO,3
+27230,41,Impuesto al consumo de cigarrillos y tabaco elaborado de origen extranjero,TOTALMENTE,2026-10-30,PUBLICADO,7
+27336,77,Tornaguía de movilización,TOTALMENTE,2026-10-01,PUBLICADO,2
+27339,2,Anulación de las tornaguías,TOTALMENTE,2026-09-30,PUBLICADO,3
+27343,72,Señalización de los productos gravados con el impuesto al consumo,TOTALMENTE,2026-10-01,PUBLICADO,2
+27344,78,Tornaguía de reenvíos,TOTALMENTE,2026-10-01,PUBLICADO,3
+29488,43,"Impuesto al consumo de licores, vinos, aperitivos y similares de origen extranjero",TOTALMENTE,2026-10-02,PUBLICADO,4
+29493,65,Registro de los sujetos pasivos o responsables del impuesto al consumo,NO_DISPONIBLE,2020-11-03,PUBLICADO,1
+29495,79,Tornaguía de tránsito,TOTALMENTE,2026-10-01,PUBLICADO,2
+29515,21,Certificado de paz y salvo,TOTALMENTE,2026-10-01,PUBLICADO,4
+34127,1,Ampliación del servicio educativo,NO_DISPONIBLE,2026-04-22,PUBLICADO,3
+37691,6,Ascenso en el escalafón nacional docente,PARCIALMENTE,2023-11-15,PUBLICADO,4
+50272,26,Cesantías definitivas a beneficiarios de un docente fallecido,NO_DISPONIBLE,2020-12-16,PUBLICADO,4
+57638,3,"Apostillaje de Certificados de Estudios, Actas de Grados y Diplomas",PARCIALMENTE,2023-11-15,PUBLICADO,2
+77290,29,Compra de medicamentos de control especial monopolio del estado,PARCIALMENTE,2020-11-04,PUBLICADO,1
+77292,80,Solicitud de certificado de culminación del servicio social obligatorio para programas del área de la salud,TOTALMENTE,2020-11-04,PUBLICADO,1
+79082,18,Certificación de Prestación de Servicios para Contratistas,PARCIALMENTE,2025-11-24,PUBLICADO,3
+79218,22,"Certificado de Paz y Salvo Docente, Directivos Docentes y Administrativos",TOTALMENTE,2021-06-02,PUBLICADO,1
+79220,23,Certificado Grado de Escalafón,TOTALMENTE,2021-06-02,PUBLICADO,1
+79221,24,Certificado Protocolización,TOTALMENTE,2021-06-02,PUBLICADO,1
+79248,19,Certificado Crédito para Ascenso,TOTALMENTE,2021-06-04,PUBLICADO,1
+79250,74,"Solicitud Certificados: ""Labora, Salarial y Tiempo de Servicio""",TOTALMENTE,2021-06-08,PUBLICADO,1
+79251,75,Solicitud de Certificado de Antecedentes Disciplinarios,TOTALMENTE,2021-06-08,PUBLICADO,1
+82552,56,Credencial de Expendedor de Medicamentos,TOTALMENTE,2025-12-11,PUBLICADO,3
+83734,,Cesantías parciales para docentes oficiales,NO_DISPONIBLE,2025-08-28,PUBLICADO,3
+83735,,Facilidades de pago para los deudores de obligaciones no tributarias,NO_DISPONIBLE,2022-08-23,PUBLICADO,3
+86010,,Asistencia Técnica a Establecimientos Educativos Oficiales y No oficiales,PARCIALMENTE,2023-10-13,PUBLICADO,2
+86815,51,"Inscripción y concepto sanitario de establecimientos farmacéuticos: droguería, farmacia-droguería, depósito de medicamentos y dispositivos médicos, agencias de especialidades farmacéuticas",TOTALMENTE,2024-06-26,PUBLICADO,1

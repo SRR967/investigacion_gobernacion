@@ -4,6 +4,9 @@ requisito documental distinto por trámite) y un resumen por consola.
 La tabla R asigna a cada nombre normalizado (por prefijo): categoría (a/b/c/excluido), nombre canónico (para fusionar
 el mismo documento dentro de un trámite), marcas y emisor. La atribución del emisor es conocimiento general por
 verificar con la norma de cada trámite.
+Marca «misma_competencia»: acto previo que, por tratarse de un trámite de la Gobernación, se presume expedido por la
+misma dependencia en ejercicio de la misma competencia (p. ej., la resolución de pensión de un docente de la planta
+departamental); es una interpretación del estudio, por confirmar con la norma del trámite.
 Uso: python3 -I herramientas/codificar_requisitos.py <requisitos_csv> <salida_csv>"""
 import csv, unicodedata, re, sys
 
@@ -14,7 +17,7 @@ def norm(s):
     return ' '.join(re.sub(r'[^a-z0-9 ]', ' ', s).split())
 
 
-GOB_PAGO = ('a', 'recibo o declaración de pago a la Gobernación', '', 'Gobernación (recaudo propio)')
+GOB_PAGO = ('excluido', 'recibo o declaración de pago a la Gobernación', 'pago', 'Gobernación (recaudo propio)')  # regla: el pago no es documento
 ID = ('b', 'documento de identidad', 'registro_publico', 'Registraduría Nacional / Migración Colombia')
 CCIO = ('b', 'certificado de existencia y representación legal', 'registro_publico;particular_funcion_publica', 'Cámara de Comercio')
 ACTAS = ('c', 'actas de asamblea o junta', '', 'solicitante')
@@ -35,11 +38,11 @@ VISITA = ('a', 'acta de visita sanitaria', 'emisor_variable', 'Secretaría de Sa
 SUELO = ('b', 'certificado o concepto de uso del suelo', '', 'municipio')
 TRAD = ('b', 'certificado de tradición y libertad', 'registro_publico', 'Oficina de Registro de Instrumentos Públicos')
 CREA = ('b', 'acto administrativo de creación de la entidad', '', 'autoridad que crea la entidad')
-RETIRO = ('a', 'acto administrativo de retiro del servicio docente', '', 'Gobernación (nominadora del docente)')
-PENSION = ('a', 'resolución de pensión del docente', '', 'Gobernación (acto expedido para el FOMAG; por confirmar)')
-CESANT = ('a', 'resolución de cesantías pagadas', '', 'Gobernación (acto expedido para el FOMAG; por confirmar)')
+RETIRO = ('a', 'acto administrativo de retiro del servicio docente', 'misma_competencia', 'Gobernación (nominadora del docente)')
+PENSION = ('a', 'resolución de pensión del docente', 'misma_competencia', 'Gobernación (acto expedido para el FOMAG; por confirmar)')
+CESANT = ('a', 'resolución de cesantías pagadas', 'misma_competencia', 'Gobernación (acto expedido para el FOMAG; por confirmar)')
 REPCES = ('a', 'reportes anuales de cesantías', 'emisor_variable', 'empleador (Gobernación para docentes oficiales)')
-LICGOB = ('a', 'licencia de funcionamiento expedida por la Gobernación', '', 'Gobernación (Educación o Salud)')
+LICGOB = ('a', 'licencia de funcionamiento expedida por la Gobernación', 'misma_competencia', 'Gobernación (Educación o Salud)')
 LICRAD = ('b', 'licencia de material radiactivo', '', 'autoridad nuclear nacional')
 TRANS = ('b', 'licencia de tránsito', 'registro_publico', 'organismo de tránsito / RUNT')
 RUT = ('b', 'RUT o NIT', 'registro_publico', 'DIAN')
@@ -62,7 +65,7 @@ R = [
     ('registros sanitarios o licencias de venta', ('b', 'registro sanitario', '', 'INVIMA')),
     ('reporte anual de las cesantias', REPCES),
     ('acta comite municipal de directivos', ('b', 'acta de comité municipal de directivos docentes', '', 'municipio')),
-    ('acta de aprobacion de propuesta', ('c', 'acta de aprobación de propuesta', '', 'solicitante')),
+    ('acta de aprobacion de propuesta', ('b', 'acta de comité municipal de directivos docentes', '', 'municipio')),
     ('acta de constitucion', ('c', 'acta de constitución', '', 'solicitante')),
     ('acta de grado', DIPL),
     ('acta de la asamblea', ACTAS),
@@ -117,7 +120,7 @@ R = [
     ('certificado de idoneidad sanitaria', ('b', 'certificado de idoneidad sanitaria', 'emisor_variable', 'autoridad sanitaria')),
     ('certificado de idoneidad', ('c', 'certificado de curso de aplicador', 'tercero_privado;emisor_variable', 'entidad que imparte el curso')),
     ('certificado de induccion al servicio social', ('b', 'certificado de inducción al servicio social obligatorio', 'emisor_variable', 'institución del servicio social')),
-    ('certificado de ingresos y retenciones', ('a', 'certificado de ingresos y retenciones', 'emisor_variable', 'empleador (Gobernación para docentes oficiales)')),
+    ('certificado de ingresos y retenciones', ('b', 'certificado de ingresos y retenciones', 'emisor_variable', 'pagador (FOMAG u otro empleador)')),
     ('certificado de invalidez', INVAL),
     ('certificado de la compania aseguradora', ('c', 'certificado de aseguradora', 'tercero_privado', 'aseguradora')),
     ('certificado de la entidad oficial financiera', ('c', 'certificado de crédito', 'tercero_privado;emisor_variable', 'entidad financiera o persona natural')),
@@ -142,10 +145,11 @@ R = [
     ('concepto sanitario o acta de visita', VISITA),
     ('concepto uso del suelo', SUELO),
     ('constancia de no haber sido sancionado', ('a', 'constancia de no sanción por comercio ilegal de medicamentos', 'emisor_variable', 'autoridad sanitaria')),
-    ('constancia de trabajo', LAB),
+    ('constancia de trabajo', EXPER),
     ('constitucion legal en camara', CCIO),
     ('contenido de la capacitacion', ('c', 'contenido de la capacitación', '', 'solicitante')),
     ('contrato', CONTR),
+    ('contrato del quimico farmaceutico o el certificado', ('c', 'contrato o inscripción del químico farmacéutico', 'tercero_privado;emisor_variable', 'empleador o autoridad sanitaria')),
     ('convalidacion de titulos', CONV),
     ('copia del denuncio', ('b', 'denuncia penal', '', 'Fiscalía General de la Nación')),
     ('declaracion de importacion', ('b', 'declaración de importación', '', 'DIAN')),
@@ -243,7 +247,7 @@ R = [
     ('titulo valor', TVAL),
     ('titulos firmados', TVAL),
     ('titulos profesionales', DIPL),
-    ('tornaguia', ('a', 'tornaguía', '', 'Gobernación (Hacienda)')),
+    ('tornaguia', ('a', 'tornaguía', 'emisor_variable', 'Gobernación (Hacienda) u otro departamento')),
     ('ultima resolucion de cesantias', CESANT),
 ]
 R.sort(key=lambda x: -len(x[0]))
@@ -271,7 +275,7 @@ for x in rows:
                          'emisor': emisor, 'nombres_en_ficha': set(), 'filas_ficha': 0, 'condicional': False})
     m['nombres_en_ficha'].add(x['nombre'].strip())
     m['filas_ficha'] += 1
-    if x['excepcion'] or re.search(r'\b(si |en caso|cuando|solo aplica)', (x['detalle'] or '').lower()):
+    if x['excepcion'] or re.search(r'\b(si |en caso|cuando|solo aplica)', ((x['detalle'] or '') + ' ' + (x['nombre'] or '')).lower()):
         m['condicional'] = True
 cols = ['codigo', 'n_catalogo', 'tramite', 'en_linea_govco', 'documento', 'categoria', 'marcas', 'emisor',
         'condicional', 'filas_ficha', 'nombres_en_ficha']

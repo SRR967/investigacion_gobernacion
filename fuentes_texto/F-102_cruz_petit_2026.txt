@@ -1,0 +1,932 @@
+=== p1 ===
+ARTÍCULOS
+
+Relmecs, junio - noviembre 2026, vol. 16, núm. 1, e167, ISSN 1853-7863
+Universidad Nacional de La Plata. Facultad de Humanidades y Ciencias de la Educación.
+IdIHCS (UNLP-CONICET). Centro Interdisciplinario de Metodología de las Ciencias Sociales.
+Red Latinoamericana de Metodología de las Ciencias Sociales
+
+Los métodos mixtos: retos de integración metodológica en las ciencias sociales
+Mixed methods, challenges of methodological integration in social sciences
+Métodos mistos: desafios da integração metodológica nas ciências sociais
+
+Bruno Cruz Petit
+Universidad Nacional Autónoma de México, México
+cruzpetit@hotmail.com
+
+Recepción: 19 marzo 2025
+Aprobación: 10 marzo 2026
+Publicación: 1 junio 2026
+
+Cita sugerida: Cruz Petit, B. (2026). Los métodos mixtos: retos
+de integración metodológica en las ciencias sociales. Revista
+Latinoamericana de Metodología de las Ciencias Sociales, 16(1),
+e167. https://doi.org/10.24215/18537863e167
+
+Resumen: El rápido crecimiento de los métodos mixtos en este
+siglo ha venido acompañado de una reflexión teórica sobre las
+posibilidades y dificultades en la integración de los métodos
+cualitativos y cuantitativos. La propuesta del presente trabajo
+es abordar las reticencias a la lógica integradora de manera
+crítica, con el argumento de que los métodos mixtos se están
+perfeccionando en nuevas corrientes muy distintas entre sí que
+diluyen la separación rígida de métodos y paradigmas como
+bloques unificados. Se aboga por la continuidad de la reflexión
+en los métodos mixtos respecto a propuestas de integración
+anteriores, así como por considerar la producción realizada en
+la academia hispanohablante como punto de partida a una
+revisión de distintas corrientes metodológicas actuales. Se
+sostiene la idea de que es posible avanzar en la integración
+metodológica, sin simplificar la riqueza inherente a las
+tradiciones epistemológicas, en el contexto del estudio de los
+fenómenos complejos actuales, que requieren aproximaciones
+creativas, interdisciplinares y abiertas al pluralismo
+metodológico.
+Palabras clave: Métodos mixtos, Integración metodológica,
+Método cualitativo, Método cuantitativo
+Abstract: The rapid expansion of mixed methods research has
+been accompanied by sustained theoretical reflection on both
+the potential and the challenges of integrating qualitative and
+quantitative approaches. This paper critically examines the
+reluctance to embrace integrative logics, arguing that mixed
+methods are increasingly being refined in diverse and
+innovative ways that move beyond rigid divisions between
+methods and paradigms conceived as unified blocks. It also
+highlights the continuity of mixed methods with earlier
+proposals for integration and considers the contributions of
+Ibero-American scholarship, as a prelude to reviewing
+emerging methodological trends that bring together distinct
+
+Esta obra está bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional.
+
+=== p2 ===
+Revista Latinoamericana de Metodología de las Ciencias Soc…, 2026, vol. 16, núm. 1, e167, Junio-Diciembre, ISSN: 1853-7863
+
+research traditions in original ways. The central claim is that
+methodological integration can advance without reducing the
+epistemological richness of each tradition, particularly in the
+study of today’s complex phenomena, which call for creative,
+interdisciplinary approaches grounded in methodological
+pluralism.
+Keywords: Mixed methods, Methodological integration,
+Qualitative, Quantitative method, Qualitative method
+Resumo: O rápido crescimento dos métodos mistos neste
+século tem sido acompanhado por uma reflexão teórica sobre
+as possibilidades e dificuldades na integração dos métodos
+qualitativos e quantitativos. A proposta do presente trabalho é
+abordar criticamente as reticências à lógica integradora, com o
+argumento de que os métodos mistos estão a ser aperfeiçoados
+em novas correntes muito distintas entre si, que diluem a
+separação rígida de métodos e paradigmas como blocos
+unificados. Defende-se a continuidade da reflexão sobre os
+métodos mistos em relação às propostas de integração
+anteriores, bem como considerar a produção realizada na
+academia hispânica como ponto de partida para uma revisão
+das diferentes correntes metodológicas atuais. Defende-se a
+ideia de que é possível avançar na integração metodológica, sem
+simplificar a riqueza inerente às tradições epistemológicas, no
+contexto do estudo dos fenómenos complexos atuais, que
+exigem abordagens criativas, interdisciplinares e abertas ao
+pluralismo metodológico.
+Palavras-chave: Métodos mistos, Integração metodológica,
+Qualitativo, Método quantitativo, Método qualitativo
+
+=== p3 ===
+Bruno Cruz Petit, Los métodos mixtos: retos de integración metodológica en las ciencias sociales
+
+Introducción
+Los métodos mixtos (MM) han experimentado un indudable auge y popularidad en las ciencias sociales en
+los últimos años. Desde que se publicara en 1998 Mixed Methodology: Combining the Qualitative and
+Quantitative Approaches y en 2003 el Sage Handbook of Mixed Methods in Social and Behavioral Research1
+editados por Tashakkori y Teddlie, la disciplina se ha consolidado, ya que además, cuenta con un Journal of
+Mixed Methods, en cuyo primer número (2007) figura una definición de la investigación que usa métodos
+mixtos: "investigación en la que el investigador recopila y analiza datos, integra los resultados y extrae
+conclusiones utilizando enfoques o métodos cualitativos y cuantitativos en un único estudio o programa de
+investigación" (Tashakkori y Creswell, 2007, p. 4). La idea de integración es esencial a la definición de
+métodos mixtos (Bazeley, 2009), en tanto marca la diferencia respecto a las anteriores propuestas
+metodológicas de Triangulación y Multimétodos; en éstas hay vinculación de métodos, pero su integración
+completa no es un requisito ni existe un paradigma unificador.
+En la academia hispanohablante la difusión y discusión de los métodos mixtos (MM), si bien es un hecho
+consolidado (Piovani, 2018; Santos, Puig, Rausky, Piovani, Muñoz & Burawoy, 2018; Pericás y Lozares,
+2022), aún tiene recorrido por delante en cuanto a volumen de producción. Sánchez-Gómez, MartínCilleros, Sá & Costa (2020) y Chavez-Montero (2018) han expuesto las ventajas de la utilización de MM,
+dadas por la complementariedad entre el enfoque cualitativo y el cuantitativo, así como las dificultades
+prácticas de aplicación. Dichos autores proporcionan un panorama introductorio interesante, del que puede
+partir una revisión que matice la diferenciación completa entre métodos cualitativos y cuantitativos como
+bloques homogéneos, así como la de los paradigmas que los sustentan. Mendizábal (2018) recuerda las
+posturas críticas con los MM: desde las de Denzin (2012), quien advierte que bajo esa etiqueta se presentan
+trabajos postpositivistas que ignoran la esencia y riqueza del enfoque cualitativo, así como las de Flick (2017),
+para quien gran parte de los MM ignoran los desarrollos anteriores, como la triangulación. Mendizábal revisa
+la literatura anglosajona y llega a la conclusión de que la novedad de los métodos mixtos no es completa, pues
+existe una importante tradición en la triangulación metodológica, en la que destaca el sentido amplio que le
+da Denzin (1978), con triangulación de observadores, teorías y métodos. A. Chavez-Montero (2018) y Forni
+y Grande (2020) dan a la triangulación un papel importante en un su análisis del nacimiento de los MM. E.
+Bericat (1998), siguiendo a L. Morgan (1998), ve en la triangulación uno de los tres modos de integración de
+métodos, junto a la complementariedad y la combinación. En el presente trabajo se verá cómo gran parte de la
+reflexión que Bericat hizo en su momento para discutir los retos de integración en los Multimétodos es
+aplicable a los MM. Este autor plantea de manera muy clarificadora una clasificación de los autores que
+piensan que los métodos están asociados a orientaciones epistemológicas y ontológicas (y que hay atender a la
+“coherencia vertical” entre postulados metateóricos y desarrollo del proyecto, como hacen Denzin –2012– y
+Guba y Lincoln –1994–) de aquellos que llama “técnicos” para los cuales la tendencia a vincular métodos
+concretos con posiciones epistemológicas es una prácticamente una convención (Bryman, 1988), y que no
+creen en la “coherencia horizontal” (no piensan que todos los atributos de un determinado paradigma estén
+indisolublemente unidos). Bericat defiende una postura intermedia, basada en la prudencia metodológica, en
+la que hay vigilar que se puedan integrar las posturas metateóricas.
+
+=== p4 ===
+Revista Latinoamericana de Metodología de las Ciencias Soc…, 2026, vol. 16, núm. 1, e167, Junio-Diciembre, ISSN: 1853-7863
+
+El presente trabajo rescata y desarrolla la propuesta anterior como marco válido para pensar los retos de la
+integración que en este siglo presentan los MM. Ante la pregunta sobre si es posible no sólo combinar sino
+integrar dos tradiciones metodológicas con tradiciones y paradigmas distintos (dos “culturas” distintas, en
+términos de Goertz y Mahoney, 2012), el argumento propuesto aquí no sólo es que ello es posible, sino que,
+al igual que la separación entre métodos se ha ido construyendo históricamente, su integración es un modelo
+que se va elaborando para responder a la necesidad de investigar los problemas complejos del mundo actual
+con las nuevas herramientas disponibles. Éste es un proceso relativamente incipiente que, si bien puede
+presentar carencias para incorporar el espíritu de cada una de las tradiciones, está haciendo avanzar las
+ciencias sociales con enfoques como el Qualitative Comparative Analysis, el Nested Analysis, o la Teoría de
+Redes. Además de detectar en dichas corrientes una creatividad metodológica notable se sugiere que ésta
+puede incrementarse al nutrirse de las diferencias metateóricas como fuente interesante para ampliar el
+alcance de las investigaciones en un espacio metodológico con múltiples dimensiones (extensión-intensión,
+análisis-síntesis, deducción-inducción y reactividad-neutralidad, sincronía-diacronía, objetividadsubjetividad), neutralidad axiológica-compromiso.
+
+Metodología
+Para responder a la problemática planteada se procedió a una exploración bibliográfica de más una centena de
+textos, que dio lugar una revisión cualitativa en profundidad de 69 publicaciones académicas localizadas en
+las principales bases de datos (Google scholar, Scimago, Scopus, Sage). La procedencia de los documentos se
+dividió de la siguiente forma:
+-12 libros o capítulos de libro en volúmenes sobre metodología de la investigación.
+-10 libros o capítulos de libro específicos de métodos mixtos.
+-10 libros sobre Método Cualitativo Comparado (QCA).
+-15 artículos de métodos mixtos, cualitativos y cuantitativos en revistas de metodología.
+-7 artículos de métodos mixtos en revista de métodos mixtos (Journal of Mixed Methods).
+-10 artículos en revistas de política.
+-5 artículos en revistas sociología y otros temas (dedicados a la metodología).
+El criterio de selección, además del nivel de impacto de la revista (número de citas, prestigio de la
+indexación) y la actualidad del documento (fecha reciente de publicación, a menos que fuera un clásico de la
+disciplina), fue la atención prestada por los autores a las dificultades de integración de métodos cualitativos y
+cuantitativos. Se buscaron trabajos que específicamente trataran las dificultades de integración, para poder
+compararlos y realizar una discusión al respecto.
+
+Resultados y discusión
+La práctica científica históricamente ha combinado procesos y herramientas que luego fueron etiquetadas
+como cuantitativas o cualitativas. Según Maxwell (2023), la combinación de métodos se remonta a los
+astrónomos de Babilonia y a sus observaciones descriptivas apoyadas por cálculos, a los dibujos de Galileo y al
+trabajo de Snow sobre el cólera en 1850, con entrevistas a los afectados combinadas con la revisión estadística
+de la mortalidad en el Londres victoriano. En el siglo XIX, al extenderse la especialización de las ciencias,
+surgen debates acerca de la validez de un solo método para estudiar todo tipo de fenómenos (Dilthey,
+representante del historicismo, sostuvo la postura contraria al monismo metodológico aplicado a las ciencias
+
+=== p5 ===
+Bruno Cruz Petit, Los métodos mixtos: retos de integración metodológica en las ciencias sociales
+
+del hombre). Por su parte, la antropología cultural estaba perfeccionando herramientas como la observación
+participante y la descripción etnográfica (deudora del empirismo positivista) que serán incorporadas por
+otras ciencias sociales en el siglo XX, junto con la hermenéutica y la fenomenología (donde hay margen para
+la subjetividad del investigador). A partir de los años 50 y 60 surge la denominación “metodología cualitativa”
+como término paraguas que abarcaba movimientos heterogéneos (Denzin y Lincoln, 1998); con ello se
+fortaleció una respuesta al cientifismo cuantitativo dominante en la academia de la posguerra.
+En esos mismos años ya hay una propuesta, la triangulación, que tendía puentes entre métodos para
+aprovechar la complementariedad entre ellos y aumentar la validez de los hallazgos sobre un mismo
+fenómeno. En 1966, Webb, Campbell, Schwartz & Sechrest (1999) defendieron la triangulación,
+sosteniendo que "una vez que una proposición ha sido confirmada por dos o más procesos de medición
+independientes, la incertidumbre de su interpretación se reduce considerablemente”.2 Se recomienda la
+medición múltiple, aunque en Denzin (1978) también la triangulación metodológica. Se está afirmando, así,
+la idea de que es posible ver un mismo objeto de estudio desde distintas perspectivas. En las décadas de 1970 y
+1980 se vivió una fuerte polarización de las relaciones entre investigadores cuantitativos y cualitativos: estos
+últimos estaban logrando una legitimidad académica aupada por la ola los estudios culturales, de género,
+teoría critica, posmodernidad, entre otras corrientes. En respuesta a la guerra de los paradigmas de los años 80
+los MM surgirán a fines de los años 90 como una tercera vía, la que considera que en la práctica la
+investigación cualitativa y cuantitativa pueden colaborar entre sí de manera óptima.
+
+La integración en los MM
+La propuesta de métodos mixtos es coherente, en nuestro tiempo, con la búsqueda de nuevas herramientas
+para enfrentar la creciente complejidad de la sociedad, siguiendo también la estela de los enfoques
+interdisciplinares que varios campos de conocimiento desarrollaron desde fines del siglo pasado (Morin,
+2010). Es una propuesta que, pese a la aceptación general en la comunidad científica, enfrenta numerosos
+retos, siendo uno de ellos el de integrar realmente los paradigmas cualitativo y cuantitativo, más allá de
+recurrir a una yuxtaposición de herramientas que no aproveche la riqueza de ambas tradiciones. Los autores
+contrarios a la integración o defensores de la llamada tesis de la inconmensurabilidad sostienen que los
+métodos nacen de paradigmas irreconciliables entre sí (Guba y Lincoln, 1994 y 2002), con visiones
+ontológicas y epistemológicas sobre la realidad y el conocimiento distintas. Bergman (2008 y 2011) cree es
+complicado unir en un proyecto un enfoque que cree en la neutralidad del investigador y en la objetividad de
+los resultados con otro que admite la subjetividad como elemento implícito en el trabajo del investigador.3 A
+ello se unen dificultades de carácter procedimental y logístico. Bryman (2007) identificó, a partir de 20
+entrevistas a investigadores, numerosas dificultades a la integración en MM: la distinta naturaleza de los datos
+(y su ponderación en el análisis4), las preferencias corporativas de las publicaciones y audiencias, los distintos
+ritmos y capacidades que implica el uso de cada método o la dificultad en el estilo de presentación de
+resultados para que el producto sea más que la suma de las partes. En una sola entrevista de las 20 entrevistas
+detectó dificultades en el manejo de la dualidad de los paradigmas objetivista y constructivista, subyacentes a
+los métodos.5
+
+=== p6 ===
+Revista Latinoamericana de Metodología de las Ciencias Soc…, 2026, vol. 16, núm. 1, e167, Junio-Diciembre, ISSN: 1853-7863
+
+J. Creswell (Creswell & Creswell, 2005 y 2018; Creswell, 2021), uno de los fundadores de la disciplina,
+sostiene que no sólo se pueden combinar ambos métodos, sino que estamos ante un tercer tipo de enfoque
+metodológico, con un nuevo lenguaje propio, basado en un tercer paradigma filosófico, el pragmatismo, que
+vincula la noción de verdad a aquello que funciona en la práctica dentro de un acceso limitado a lo
+verdadero.6 Entre las razones más citadas para combinar métodos cualitativos y cuantitativos se encuentra la
+oportunidad de beneficiarse de las ventajas complementarias que ofrecen, al conjuntar la mayor precisión de
+resultados y posibilidad de generalizar en el análisis cuantitativo (CN) con la mayor profundidad contextual
+de la investigación cualitativa (CL).
+En principio, en el análisis CN la recopilación y análisis de información numérica se enfoca a obtener
+objetividad y replicabilidad en los resultados obtenidos. Está dirigido a realizar predicciones formales,
+mayormente usando estadística, con amplias muestras de datos. El modo de muestreo preferente es el
+probabilístico lo que, junto al tamaño de la muestra (generalmente grande, aunque en estadística bayesiana
+puede ser pequeña), permite realizar generalizaciones en cuanto a la validez de una teoría.
+Por otro lado, el análisis cualitativo se refiere a un análisis de observaciones no comparables, ya que se
+abordan contextos muy específicos, no reproducibles, ejemplos de cosas diferentes; se pueden enriquecer la
+teoría pero no generalizar a población. Es un análisis “informal” (según Gerring, 2006, p. 155), en la medida
+en que está expresado con lenguaje verbal, se permite cierta flexibilidad en el proceso, pudiendo ser reiniciado
+a partir de nuevas hipótesis obtenidas en el trabajo de campo, con generación inductiva de categorías e
+hipótesis, hallazgos casuales (serendipity) o casos atípicos (deviant cases). Las tradiciones que nutren el análisis
+cualitativo (etnografía, interpretativismo weberiano, hermenéutica, fenomenología, posmodernidad) se
+interesan por captar la verdad subjetivamente percibida por los actores (significados, experiencias, con
+percepciones a menudo contradictorias en un mismo grupo o sujeto), una realidad construida socialmente de
+la que el investigador es parte, por lo que los valores intervienen en la investigación.7 Se admite el muestreo
+no probabilístico, intencional o teórico, y el tamaño de la muestra suele ser pequeño para ganar en
+profundidad, identificar variables nuevas, incorporando a menudo la dimensión temporal del fenómeno
+(análisis longitudinal). Si la debilidad del CN es que explica grandes agregados de casos, pero no uno en
+particular, con su complejidad y especificidad, la del CL es que los resultados no se pueden replicar
+automáticamente a una población mayor.
+La dicotomía descrita así da claridad, estructura la enorme oferta de metodologías y permite que haya un
+diálogo a partir del reconocimiento las diferencias entre dos culturas metodológicas (Goertz y Mahoney,
+2012). Sin embargo, autores como Allwood (2012) y Pilcher y Cortazzi (2024) sostienen que la distinción
+entre CL y CN es en sí misma problemática y reduccionista, ya que no se corresponde totalmente con la
+práctica real de la investigación. Bericat (1998) ya señaló la necesidad de una deconstrucción de la distinción
+como premisa para poder pensar caminos interesantes de integración. Si bien las diferencias entre las dos
+culturas metodológicas han permitido sofisticar técnicas, la diferenciación excluyente olvida que todo
+fenómeno tiene aspectos cualitativos y cuantitativos (Bericat señala que “no puede postularse una cantidad
+sino de una predeterminada calidad y, a la inversa, que no se puede postular cualidad sino en una cantidad
+predeterminada”, 1998, p. 34). Los investigadores cualitativos pueden valorar la intensidad de un fenómeno,
+mencionar datos numéricos (presentes en su investigación documental, en entrevistas o en la observación);
+pueden buscar no sólo descripciones acotadas sino la inferencia causal que también están buscando los
+modelos CN (King, Keohane & Verba, 2021). Por su parte, los investigadores cuantitativos escogen
+categorías descriptivas, interpretan y contextualizan sus datos generando textos que son posteriormente
+interpretados; no solo comprueban teorías, sino que pueden generar hipótesis nuevas a partir de correlaciones
+novedosas o escoger temas donde el investigador se compromete socialmente.
+
+=== p7 ===
+Bruno Cruz Petit, Los métodos mixtos: retos de integración metodológica en las ciencias sociales
+
+Pese a lo anterior, históricamente se han generado dos tradiciones con una historia propia, códigos,
+supuestos y prácticas consolidadas en departamentos académicos no siempre abiertos a la innovación y a la
+interdisciplinariedad, por lo que, en un inicio, los MM tuvieron que respaldar su enfoque con una
+producción de manuales y artículos muy intensa. Los metodólogos defensores de los métodos mixtos
+empezaron por hacer tipologías de los diseños de investigación que en la práctica estaban funcionando, los
+cuales podían servir de orientación a los investigadores que se quisieran incorporar a esta corriente. La idea de
+estudiar tipos de diseños de investigación fue realzar que la compatibilidad entre los enfoques CL y CN a
+partir de una planificación anticipada sobre qué papel van a jugar ambos métodos en un diseño de
+investigación.
+
+Diseños con MM, afinidades y complementariedades en objetivos
+Las posibilidades de combinación que los autores han sugerido son numerosas.8 Los criterios que emplean
+para sus clasificaciones son la temporalidad (si CL y CN se llevan a cabo simultánea o secuencialmente), peso
+(qué método es dominante, cuál es complementario), nivel de integración (con qué profundidad se integran
+datos y enfoques) y propósito (qué papel tiene cada método en el objetivo de la investigación, si es de
+iniciación, expansión, complementariedad o corroboración).
+Los seis tipos de MM de Creswell y Plano Clark (2017) son seis opciones que el autor propuso para
+trabajar combinando métodos y revelan compatibilidades importantes. Son el convergente-paralelo (se aplican
+las vertientes CN y CL durante la misma fase del estudio, de manera simultánea pero no mezclados, en esta
+opción conviene que los supuestos en cuanto a paradigmas sean pragmáticos, nos dice el autor); el explicativo
+secuencial (en dos fases, la segunda ayuda a explicar o ampliar los datos de la primera, se produce cuando un
+segundo estudio CL explica las razones que se observan en un caso de unos datos encontrado con CN); el
+exploratorio secuencial (después de una fase exploratoria cualitativa, donde se identifican temas, hay recogida y
+el análisis de datos cuantitativos para poder generalizar; en este tipo); los integrados (en un único diseño, con
+datos de los dos tipos); el transformativo (se toma como criterio de uso la necesidad de cambio de una
+población estudiada); y, finalmente, el multifase (se combinan vertientes secuenciales y concurrentes, ya que
+la ejecución de distintos proyectos en fases se ubica dentro de un programa de largo plazo).
+A nivel de temporalidad, se plantean dos grandes grupos de diseños en MM, los secuenciales y
+concurrentes; estos últimos pueden ser paralelos o integrados. Los métodos concurrenciales presentan la
+dificultad de poder repartir esfuerzos y mantener la identidad de los métodos combinados al ser éstos llevados
+a cabo al mismo tiempo. El reto en los métodos secuenciales es lograr que el método que se aplica en primer
+lugar no condicione a priori los resultados que se van a obtener en una segunda fase, que sea realizada, para
+facilitar la investigación, solo como confirmación de la primera. Para los estudios secuenciales, también se
+prescribe que la recolección de datos tiene que realizarse sin dejar pasar un lapso de tiempo importante, ya
+que en los métodos secuenciales es importante no estudiar fenómenos distintos. Un riesgo que existe en estos
+proyectos es que las distintas fases pierdan contacto entre sí y aborden preguntas o temas distintos, sin llegar a
+reforzarse entre sí y no haya una integración a nivel analítico.
+Entre los secuenciales encontramos ejemplos en las ciencias sociales que proporcionan una idea de los
+alcances que se pueden lograrse. Parmelee, Perkins & Sayre (2007) emplearon un diseño de investigación con
+métodos mixtos transformativos secuenciales para examinar la recepción por parte de los jóvenes de los
+anuncios de Bush y Kerry en la campaña política del 2004. El objetivo era explicar por qué la publicidad
+política no atrae a los estudiantes universitarios. Para ello, se organizaron focus groups (diseño cualitativo) con
+estudiantes que se expresaron sobre el valor que tenía para ellos la publicidad política de la compaña. Los
+participantes señalaron que se sentían decepcionados porque la publicidad de los dos partidos descuidó a su
+
+=== p8 ===
+Revista Latinoamericana de Metodología de las Ciencias Soc…, 2026, vol. 16, núm. 1, e167, Junio-Diciembre, ISSN: 1853-7863
+
+grupo de edad en términos de estilo y mensaje, ignorando las cuestiones que más preocupan a los jóvenes de la
+universidad. En una segunda etapa de la investigación, se llevó a cabo un análisis cuantitativo de contenido de
+118 anuncios de la campaña, codificando los temas y tipos de anuncios para determinar qué porcentajes de
+éstos están dedicados, por un lado, a jóvenes y por otro, a los demás grupos de edad. El ejemplo incluye una
+transformación de los temas o códigos cualitativos en parámetros cuantitativos. El análisis confirmó las quejas
+de los participantes en el grupo focal, detectando que los anuncios ignoraban temas como las colegiaturas, la
+inestabilidad en los trabajos de los jóvenes, y se centraban en temas como la atención sanitaria de los ancianos
+o la educación de los niños de primaria. El artículo que resume la investigación destaca las ventajas de un uso
+secuencial de método mixto, con dos fases separadas, que estuvieron marcadas por dos aproximaciones
+teóricas distintas: estudios de audiencia (detectando los marcos cognitivos con los cuales los usuarios
+interpretan mensajes políticos) y estudios de medios, centrados en los contenidos de la campaña. De este
+modo, no sólo se pudieron confirmar y ampliar los datos de la primera fase, sino que también se observó
+cómo interactúan el enfoque teórico basado en la audiencia y el basado en los medios de comunicación y
+cómo ambos se combinan para llegar a la interpretación de los mensajes de la publicidad política por parte de
+los estudiantes universitarios. El ejemplo ilustra los propósitos de iniciación (del CL salieron temas),
+corroboración, expansión, complementariedad (el CN complementó el CL con conceptos propios de la
+teoría de mass media) en métodos mixtos. El uso de dos teorías retoma la idea de triangulación teórica de N.
+Denzin y da una idea de las posibilidades de avanzar en interdisciplinariedad en el marco de los MM.
+A nivel de propósito, la tipología de Creswell recuerda a la diferenciación que los Multimétodos (Morgan,
+1998; Bericat, 1998) contemplaban entre diseños de triangulación (responden a una misma pregunta y
+objeto de estudio con diseños convergentes), complementariedad (acumulan distintas visiones sobre una
+variedad aspectos del objeto de estudios) y combinación (perfeccionan el resultado obtenido con un método
+con otro). Bericat planteó, siguiendo ideas seminales de Denzin, seis dimensiones para los Multimétodos que
+podemos incorporar para los MM, ya que ofrecen numerosas posibilidades de complementar y combinar CN
+y CL, enriqueciendo el proyecto con las tradiciones ontológicas y epistemológicas afines a cada una.
+La primera dimensión es extensión-intensión (un estudio en profundidad no puede replicarse en miles de
+casos y una estadística no contextualiza un caso en particular, por lo que ambas opciones se pueden
+complementar). En esta línea es pionero el trabajo de Giddens (1984) que busca reconciliar las perspectivas
+macro y micro, la sociología que aborda grandes estructuras (de raíz durkheimiana) con la que aborda la
+acción social (inclinada al interpretativismo weberiano y desarrollada por la microsociología y el
+interaccionismo simbólico). Otra dimensión es que la forman los planos sincrónicos y diacrónicos (con una
+atención al proceso o a la estructura, a la historia o actualidad del fenómeno). Las dicotomías induccióndeducción, así como la de análisis-síntesis, se pueden complementar como estrategias de conocimiento en un
+mismo proyecto. También la consideración a los aspectos objetivos y subjetivos de un fenómeno (y los
+posibles puentes entre ellos, como postula el teorema de Thomas). Finalmente, Bericat propone la dimensión
+dada por la reactividad (la consideración al efecto que la propia investigación tiene en el objeto de estudio) y
+la neutralidad (priorizando técnicas que no interfieren en el estudio como la observación oculta en un
+entorno cotidiano, social o natural). Puede añadirse una séptima dimensión, relacionada con la anterior pero
+que cubre el elemento axiológico, la cual sería la consideración del proyecto como parte de un
+posicionamiento o compromiso ideológico (en la elección del tema o con el carácter transformativo de una
+investigación-acción, descrito por Mertens, 2012). En las corrientes más recientes de MM es posible detectar
+intereses en ampliar el alcance de la investigación en varias de las dimensiones descritas.
+
+=== p9 ===
+Bruno Cruz Petit, Los métodos mixtos: retos de integración metodológica en las ciencias sociales
+
+Propuestas recientes de avances en integración CL y CN
+En las últimas décadas han emergido propuestas metodológicas que, al proponer conceptos y herramientas
+novedosas, avanzan en la integración de CN y CL sin que ello pueda ser un objetivo explícito.
+Una de ellas es el Nested Analysis, propuesta por Lieberman, profesor en la Universidad de Princeton. La
+intención fue crear un método que estandarizara y detallara las fases por las que investigador puede recorrer al
+combinar un estudio con N grande de casos (LNA, large n analysis) con otro basado en un N pequeño de
+caso (SNA, small n analysis). El método comienza generalmente con un LNA preliminar. Se estudian datos
+cuantitativos para dar plausibilidad a las hipótesis (obtenidas por deducción en la fase de revisión teórica),
+normalmente mediante análisis de regresión lineal que ubica correlaciones entre variables independientes y el
+fenómeno estudiado (la variable dependiente); éste proporciona información y orienta la ejecución posterior
+de un SNA, con método CL.9 Los resultados del SNA pueden iterativamente retroalimentar nuevos intentos
+en LNA para ir generando resultados que construyan teoría. En teoría, se logra así una integración mayor que
+en los métodos secuenciales puros, lineales, sin renunciar al propósito de expansión e iniciación. La
+dimensión extensión-intensión y la de inducción-deducción están presentes a lo largo de todo el proceso.
+Un ejemplo donde se aplica la iteración del Nested Analysis es el trabajo de Varshney (2001), quien realizó
+un conjunto de análisis estadísticos y datos periodísticos sobre localización y escala de los disturbios entre
+hindúes y musulmanes en la India. Del análisis estadístico se obtuvieron patrones que el autor pudo ver en
+profundidad en seis ciudades seleccionadas con el objetivo de comparar por parejas casos históricos de
+ciudades propensas a los disturbios y ciudades menos propensas a la violencia. Con ello, Varshney usó
+pruebas cualitativas a nivel local que demostraron que la existencia de lazos interétnicos favorece la no
+ocurrencia de disturbios.
+El ejemplo muestra que la visión estructuralista desde una perspectiva macro puede complementarse con
+una perspectiva micro que dé cuenta de la experiencia cualitativa, detallando significados y contextos
+particulares.10 Por ello, en este método no se trata sólo tener posibilidades de triangulación; según el
+Lieberman, el Nested Analysis aprovecha las distintas complementariedades, ya que en el SNA hay un cambio
+en el nivel de análisis (por ejemplo, entrando a una parte emocional-experiencial de un fenómeno), viendo
+procesos y variaciones que no se han visto en la fase anterior, ya sea para profundizar y confirmar resultados
+obtenidos en la fase cuantitativa, para refutarlos o para construir un modelo que resuelva las incógnitas que el
+LNA ha generado.
+Rohlfing (2008) advierte que en este método es muy posible que, si hay una variable omitida, ésta no se
+reconozca en el SNA si no se busca específicamente esa variable, lo cual es muy probable que ocurra cuando se
+usa un modelo previo, como se propone para la primera fase con LNA. Es una dificultad que Bryman (2007)
+detectó en su trabajo, cuando el formato de un proyecto inicial condiciona y coarta futuros hallazgos. Si el
+modelo tiene sesgos es posible que el caso de estudio escogido sea erróneo; a su vez, los errores en el caso de
+estudio pueden alimentar un ajuste deficiente del modelo cuantitativo. Rohlfing recomienda verificar cada
+fase con otros estudios paralelos, tanto CN como CL, que eliminen posibles errores y sesgos (lo cual agrega
+complejidad al proyecto de investigación); se trata de garantizar que los casos de estudio cualitativos no se
+seleccionen para ajustarse a los modelos cuantitativos.
+
+=== p10 ===
+Revista Latinoamericana de Metodología de las Ciencias Soc…, 2026, vol. 16, núm. 1, e167, Junio-Diciembre, ISSN: 1853-7863
+
+Los MM han ido expandiéndose en metodologías donde la vertiente CN no manipula datos numéricos
+sino otros lenguajes, como la teoría de gráficas, en los que se pueden integrar, convertir y formalizar datos
+cualitativos de manera novedosa. El Social Network Analysis es un marco teórico-metodológico que se
+interesa en modelar y analizar la estructura de las redes en una multitud de ámbitos de la vida cotidiana actual
+(sociedad, cultura, política).Las redes pueden representar relaciones entre individuos, grupos, organizaciones
+o cualquier otro tipo de entidad social. Se estudian nodos o vértices, aristas y patrones detectados
+matemáticamente (con teoría de gráficas); las aristas (expresadas en líneas) determinan si entre dos nodos
+(personas, grupos, ideas) existe una relación (una conexión de amistad, relación comercial, afinidad en el
+sentido del voto a una ley, etc.). El investigador emplea datos cualitativos que se usan no sólo para generar el
+modelo de red que se estudia, sino para comprender el sentido profundo de las relaciones en las redes
+descritas.
+Domínguez y Hollstein (2014) consideran que el método de investigación de redes es intrínsecamente un
+MM, algo que apenas es mencionado en las publicaciones de la disciplina (como tampoco posibles conflictos
+en paradigmas epistemológicos). Dichos autores consideran, además, que las redes se prestan a ser objetos de
+estudio a la antropología, la sociología, los estudios de comunicación y las ciencias políticas (donde las
+comunidades se organizan cada vez más en red), por lo que proporcionan una oportunidad para un análisis
+que aproveche la tradición cualitativa de estas disciplinas, combinado con un alto grado de formalización
+matemática. Entre los politólogos, el método posibilita ir más allá del debate entre individualismo
+metodológico y la abstracción del estructuralismo de los años 60 y 70; en la dimensión extensión-intension
+vemos las acciones no se explican por el comportamiento individual (individualismo metodológico), ni
+tampoco por macroestructuras o normas (estructuralismo, neo-institucionalismo) sino por redes entendidas
+como estructuras concretas de interacción (Emirbayer y Goodwin, 1994).
+El análisis utiliza métodos y técnicas matemáticas, estadísticas y computacionales para examinar patrones,
+propiedades y dinámicas dentro de las redes sociales. Examinando la configuración y características de las
+redes sociales, los investigadores pueden descubrir, de manera inductiva, tendencias emergentes, distinguir
+nodos y clusters de alto impacto, comprender la unión y la fragmentación en la sociedad, y anticipar cómo se
+transmitirá la información y se difundirán las influencias.
+Hacer una correcta interpretación cualitativa de datos cuantitativos es esencial, ya que se pueden presentar
+dificultades cuando hay relaciones ocultas en una red, pertenencias subjetivas a una red o discrepancias entre
+la percepción subjetiva de un actor sobre la red y su posición objetiva en ella (Coward, 2018). También puede
+existir un carácter conflictivo o la desconfianza en una red que presenta una buena densidad, opuesta a una
+alta valoración de vínculos débiles (y ser débil la atención a la dimensión objetividad-subjetividad). Coward
+(2018), en su trabajo de revisión, advierte sobre el peligro de la metáfora de la red como base metodológica ya
+que ésta resta importancia a elementos que quedan fuera de la representación matemática de la red, como son
+los factores derivados de la contigüidad espacial y cultural. Es aquí donde el trabajo de análisis con enfoque
+cualitativo puede contribuir a contextualizar la información obtenida, considerando entornos geográficos
+(los límites en los puede haber importantes factores a considerar), sociales y antecedentes históricos (process
+tracing) que enmarquen redes post-territoriales de las que no se han obtenido datos dinámicos. Lo anterior
+expande el carácter del proyecto a la dimensión diacronía-sincronía.
+
+=== p11 ===
+Bruno Cruz Petit, Los métodos mixtos: retos de integración metodológica en las ciencias sociales
+
+Las técnicas cualitativas no solo pueden tener un papel importante en el análisis sino en el mismo muestreo
+de la investigación. Para plantear los actores y las relaciones entre ellos en una red, es posible usar el snowball
+sampling, en el que se elige una población inicial a la que se le hacen entrevistas y los mismos entrevistados
+refieren a otros actores a los que el investigador les también puede entrevistar. Con ello, no sólo se facilita el
+proceso de muestreo, sino que se ubican las conexiones entre las entrevistados, mismas que se traducirán por
+las aristas de la red estudiada. Una vez planteada la red (cuya calidad depende el trabajo QL), se aplican
+distintos métodos matemáticos que rebelan su estructura11.
+Otra dirección que incrementa las posibilidades de los MM es la entrada de herramientas CN en los
+proyectos, que no estén basadas en la estadística frecuentista. Humphreys y Jacobs (2015) han propuesto un
+modelo llamado Integración bayesiana de datos cualitativos y cuantitativos (BIQQ, por sus siglas en inglés),
+el cual aprovecha el hecho de que la estadística bayesiana puede llevarse a cabo con muestras pequeñas de
+casos, con lo que encaja de forma muy natural con el análisis L.12 Las mediciones dependen fuertemente del
+conocimiento previo de las probabilidades en un fenómeno (en ciencias sociales de que se den unas hipótesis
+determinadas). Al igual que en la estadística más conocida, la frecuentista, la probabilidad de un evento es un
+número entre 0 y 1, pero mientras que en la estadística tradicional se requieren muchos eventos para poder
+aproximar a ese número, en la estadística bayesianas se puede hacer el cálculo a partir de nuevas evidencias
+que aparecen y se acumulan. Los métodos bayesianos permiten actualizar las creencias, confirmando o
+refutando las hipótesis del estudio (Western y Jackman, 1994). El tratamiento de la dimensión análisissíntesis es atractivo por el hecho de que se pueden ir realizando síntesis periódicas sobre un fenómeno sin
+dejar de trabajar aspectos analíticos. En los casos en los que hay una cuantificación de datos cualitativos hay
+que cuidar la objetividad del proceso (Fairfield y Charman, 2015). La calidad del análisis del resultado
+depende de la riqueza de los datos cualitativos sobre el hecho social, pues con ella, además, se interpretan los
+datos obtenidos al usar la ecuación de Bayes.
+
+Retos de integración en Análisis Cualitativo Comparado
+La última corriente que abordamos es el Análisis Cualitativo Comparado(Qualitative Comparative Analysis,
+QCA), creado por Charles Ragin (1987, 2000 y 2008), en el cual los aspectos CN tampoco se tratados con
+estadística, sino que son abordados con otros lenguajes formales (teoría de conjuntos y el álgebra booleana),
+los cuales enmarcan la conversión de datos cualitativos en numéricos. El QCA ha sido definido como un
+método mixto por Olsen (2022), ya que plantea la unión integral de CN y CL, incluso yendo más allá
+(beyond) de la dicotomía, como propone el título de la primera obra sobre el tema del autor. John Gerring
+(2001) asegura que es una las pocas metodologías genuinamente innovadoras de los últimos años; ha sido
+aplicada en más de 700 publicaciones de varias disciplinas13. Otros autores (Clarke, 2020; Lucas y
+Szatrowski, 2014) como veremos, han publicado rigurosas críticas a este método que ilustra la dificultad de
+los MM para combinar tradiciones metodológicas arraigadas satisfaciendo a los expertos en ellas.
+
+=== p12 ===
+Revista Latinoamericana de Metodología de las Ciencias Soc…, 2026, vol. 16, núm. 1, e167, Junio-Diciembre, ISSN: 1853-7863
+
+El reto al que se ha enfrentado Ragin en sus obras ha sido formalizar un método que una las virtudes de la
+investigación basada en casos (propia de los métodos cualitativos, donde se profundiza en casos, pero no se
+generaliza a toda la población) con las de la investigación basada en variables (típica de los estudios
+cuantitativos, cruzando casos con variables independientes distintas y resultados distintos en la variable
+dependiente). En su tesis doctoral, Ragin utilizó el método CL (con un análisis histórico proporcionó una
+contextualización del tema) y CN para evaluar los orígenes y las bases sociales del nacionalismo galés y escocés
+en Gran Bretaña.14 Creó su método QCA para abordar la causalidad conjuntiva múltiple (el origen de un
+fenómeno radica en una cadena de múltiples causas). La esencia de su enfoque analítico es buscar no causas
+aisladas, sino configuraciones de condiciones causalmente relevantes respecto a los resultados estudiados.
+El atractivo del método es que incorpora una idea compleja de causalidad mediante un trabajo importante
+en la dimensión análisis-síntesis y en el proceso de inducción. Por ejemplo, una condición dada puede tener
+un impacto distinto, dependiendo del contexto, incluso tener efectos opuestos según las circunstancias o
+presencia de otras condiciones. Son posibles distintas combinaciones entre las condiciones que provoquen un
+mismo resultado. El dispositivo usado es la tabla de verdad, que muestra los datos en una matriz de todas las
+configuraciones lógicamente posibles de condiciones causales para que el investigador, viendo las filas de
+configuraciones, pueda detectar la presencia de las que son simultaneas a la presencia del fenómeno
+estudiado. Se sofistica así el método inductivo de J. S. Mill,15 en un proceso donde hay un extenso trabajo de
+análisis, identificando cuali y cuantitativamente condiciones y configuraciones, que guían un trabajo formal
+de síntesis también extenso, dado por la fase llamada “minimización lógica”, a partir de los resultados de las
+tablas. Si en la tabla de verdad se detectan configuraciones contradictorias (con resultados distintos), hay
+posibilidad de reexaminar de manera cualitativa los casos, añadiendo condiciones o cambiando la calibración,
+la cuantificación de la presencia de una condición en un caso determinado.16
+Uno de los autores preocupados por los aspectos cuantitativos del QCA es Skaaning (2011) quien
+desarrolló pruebas matemáticas de robustez mediante procedimientos sistemáticos y señaló una alta
+sensibilidad de los resultados en relación con la conversión en calibración desde datos brutos (problemáticos
+ya que son obtenidos de fuentes muy distintas) en valores de pertenencia a conjuntos, elección de umbrales de
+coherencia y frecuencia de casos vinculados a configuraciones. El papel de los datos y la perspectiva cualitativa
+en la conversión a datos de calibración, claves para la fase cuantitativa, puede llegar a ser controvertido, como
+se señaló para el enfoque bayesiano.
+Los defensores del QCA han respondido a las críticas haciendo hincapié en la importancia del
+conocimiento cualitativo de casos (Olsen, 2014; Ragin, 2014), lo que hace el método muy dependiente de las
+buenas prácticas que existan en su aplicación. Otras críticas (Lucas y Szatrowski, 2014)17 provienen de la
+falta de guía sistemática que plantea QCA en la etapa de estudio de casos, por lo que en muchos trabajos
+quedan fuera de la vista y del escrutinio de la comunidad de investigadores.18 Desde el enfoque cualitativo
+encontramos críticas en Munck (2016), para quien un análisis de la causalidad totalmente en términos
+formales es un error, ya que una relación causal, señala, no es una relación lógica entre eventos sino una
+relación en términos de cambios en las propiedades de los fenómenos (relación que los estudios comparativos
+de casos tradicionales pueden describir). Por otra parte, Mello (2021) opina que el QCA no ha encontrado
+una solución satisfactoria al problema de la temporalidad, especialmente si no sabemos si la calibración se
+obtiene de datos que coinciden exactamente en el tiempo. Se ha propuesto un método “QCA basado en la
+trayectoria" (Pagliarin y Gerrits, 2020) que es prometedor al incluir indirectamente la secuencia en la
+formación de las condiciones. Otra opción es combinar en un trabajo de MM de QCA con otro de process
+tracing, que contemple la dimensión diacronía-sincronía. Estamos hablando de diseños híbridos que se van
+construyendo a medida de las necesidades de cada proyecto de investigación.
+
+=== p13 ===
+Bruno Cruz Petit, Los métodos mixtos: retos de integración metodológica en las ciencias sociales
+
+El debate sobre los alcances del QCA ilustra los beneficios, pero también las dificultades de integración de
+métodos, a nivel de los paradigmas implícitos en cada uno de ellos. Para los analistas cualitativos el QCA, al
+entender que existen no sólo condiciones necesarias sino suficientes para que se produzca un resultado,
+constituye una defensa, a nivel ontológico, del determinismo. Así lo ve Mahoney (2008) y el mismo Ragin
+(2008, p. 44) aunque el autor en alguna ocasión se ha descrito como estocástico (Ragin, 2000, p. 109), es
+decir, defensor de la probabilidad (y, por lo tanto, de cierta intervención del azar).19 Al buscar una
+conciliación entre las posturas partidarias del determinismo con las defensoras de la contingencia se plantea
+una dimensión que contemple la posibilidad de ubicar un suceso en un punto intermedio entre los extremos.
+
+Conclusiones
+Pese a las dificultades para la integración de métodos, el crecimiento de los MM se desprende, como se ha
+visto en estas páginas, de las ventajas de combinar los métodos CN y CL, obteniendo así un conocimiento
+más completo en varias direcciones del espacio metodológico, en extensión-intensión, análisis-síntesis,
+deducción-inducción, reactividad-neutralidad, sincronía-diacronía, objetividad-subjetividad, neutralidad
+axiológica-compromiso y determinismo-contingencia. La sofisticación de los programas de investigación y las
+herramientas disponibles en este siglo permiten abordar el estudio de mundos que “tienen múltiples capas
+con muchos niveles de estructuras que interactúan simultáneamente” (Cupchik, 2001, p. 5), realidades
+complejas en las que se pueden indagar, por ejemplo, los niveles materiales, sociales y psicológicos en un
+mismo proyecto. En un mundo social cada vez más interconectado, en el que pueblos y regiones se ven
+afectados por los acontecimientos económicos, climáticos, demográficos globales, los MM pueden aportar
+herramientas para comprender mejor numerosos fenómenos. La lógica integradora enfatiza el hecho de que
+CL y CN son productos de una especialización del trabajo en distintas dimensiones de la realidad y del
+conocimiento, todas ellas igualmente importantes. Ambos métodos refinaron en el siglo pasado
+procedimientos concretos que los MM pretenden aprovechar cuando se requiera tener una visión amplia
+sobre un tema o una pregunta sólo pueda ser respondidas atendiendo a varias dimensiones del fenómeno.
+Munck y Snyder (2019) advierten que existe en riesgo que los proyectos adecuen su alcance y sus objetivos
+a la validez del método usado, y no al revés, en menoscabo del interés y originalidad de sus resultados. La
+preeminencia del tema u objetivo sobre el método va unida, en la propuesta que aquí defendemos, a la
+flexibilidad en el uso de herramientas y teorías, a una creatividad metodológica que se suma al criterio de
+prudencia que Bericat postuló como criterio para integrar métodos. Denzin (2012) también ha sido
+partidario de este proceder que ha descrito como propio de un bricoleur. Sin embargo, Denzin no cree que
+deban mezclarse los paradigmas, ya que éstos suponen, para él, cosmovisiones que compiten entre sí. Aquí
+sostenemos, por el contrario, que la lógica integradora debe llegar a nivel del debate de paradigmas. No solo es
+necesario matizar, como hemos hecho, la división entre CL y CN (dos bloques, además, con propuestas muy
+variadas en cada uno, como se ha detallado aquí) sino también la oposición completa de los paradigmas
+positivista y constructivista20, ya que su deconstrucción en un espacio metodológico multidimensional encaja
+mejor con el estudio de fenómenos con múltiples capas. Positivismo y constructivismo pueden
+complementarse cuando se necesiten ver, por ejemplo, las dimensiones objetivas y subjetivas de un fenómeno
+en un mismo trabajo.
+
+=== p14 ===
+Revista Latinoamericana de Metodología de las Ciencias Soc…, 2026, vol. 16, núm. 1, e167, Junio-Diciembre, ISSN: 1853-7863
+
+Gran parte de los autores consideran al pragmatismo como núcleo filosófico de los MM. La idea se expone
+a la crítica desde dos argumentos. El primero es que, al adoptar un paradigma nuevo, puede perderse la
+riqueza de los paradigmas anteriores, los cuales alimentan el estudio de dimensiones de fenómenos que a veces
+quedan relegadas en los trabajos. El segundo es que la misma idea de paradigma es controvertida. Margaret
+Masterman (1970) escribió que su uso en la obra de Kuhn (1962) se realizaba en ese texto con 21 acepciones
+distintas, lo cual generaba confusión y, sin embargo, dicha obra inspiró a metodólogos que promovieron
+culturas académicas separadas. Laudan (1996), prefiere el término “tradiciones de investigación”, el cual ha
+aparecido en estas páginas. Sobre el relativismo el autor indica que negar que se puedan acordar criterios
+universales de comparación (lo que permita que se puedan hallar sinergias entre paradigmas) sería caer en un
+escepticismo radical; por otro lado, aboga por suavizar la exagerada confianza en la verificación empírica del
+positivismo, así como la rígida aplicación del método científico. Si bien la actitud pragmática que observamos
+enfocada a la resolución de problemas da lugar a ver compatibilidades entre paradigmas, la idea simplificada
+del pragmatismo como basado en “lo que funciona”21 no siempre es útil en investigación básica, donde los
+problemas son conceptuales, y no hay terreno práctico para contrastar teoremas, o en investigación que
+integra valores. Para Denzin (2012) el pragmatismo es un escudo bajo el cual los MM pueden desentenderse
+de los compromisos sociales que tenía el paradigma cualitativo. Para él los MM necesitan una narrativa que
+vaya más allá del pragmatismo e impulse la investigación como actividad transformativa de la realidad. Por
+ello, aquí hemos defendible la idea de una continuidad de los MM con las tradiciones de investigación
+anteriores, que incorporen su riqueza, sin necesidad de oponer paradigmas o proclamar la adhesión a uno
+nuevo.
+
+=== p15 ===
+Bruno Cruz Petit, Los métodos mixtos: retos de integración metodológica en las ciencias sociales
+
+Referencias bibliográficas
+Abell, P. (2004). Narrative explanation: An alternative to variable-centered explanation? Annual Review of Sociology,
+30, 287-310.
+Allwood, C. M. (2012). The distinction between qualitative and quantitative research methods is problematic. Quality
+& Quantity, 46(5), 1417-1429.
+Barrington Moore, J. (1966). Social origins of Dictatorship and Democracy. Lord and Peasant in the Making of the
+Modern World. Beacon Press.
+Bazeley, P. (2009). Integrating data analysis in mixed methods research. Journal of Mixed Methods Research, 3(3), 203–
+207.
+Bennett, A. & Checkel, J. T. (Eds.). (2015). Process tracing: From metaphor to analytic tool. Cambridge University
+Press.
+Bergman, M. M. (Ed.). (2008). Introduction: Whither mixed methods? En M. M. Bergman (Ed.), Advances in mixed
+methods research: Theories and applications (pp. 1-7). SAGE.
+Bergman, M. M. (2011). The good, the bad, and the ugly in mixed methods research and design. Journal of Mixed
+Methods Research, 5(4), 271-275.
+Bericat, E. (1998). La integración de los métodos cualitativo y cuantitativo en la investigación social. Ariel
+Blatter, J. & Blume, T. (2008). In search of co-variance, causal mechanisms or congruence? Swiss Political Science
+Review, 14, 315-355.
+Brady, H. E. (2004). Data-set observations vs. causal-process observations. En H. E. Brady & D. Collier (Eds.),
+Rethinking social inquiry: Diverse tools, shared standards. Rowman & Littlefield.
+Bryman, A. (1988). Quantity and quality in social research. Unwin Hyman.
+Bryman, A. (2007). Barriers to integrating quantitative and qualitative research. Journal of Mixed Methods Research,
+1(1), 8-22.
+Chaves-Montero, A. (2018). La utilización de una metodología mixta en investigación social. En Rompiendo barreras
+en la investigación (pp. 164-184). Universidad Técnica de Machala.
+Clarke, K. A. (2020). Logical constraints: The limitations of QCA. Political Analysis, 28(4), 552-568. https://doi.org/
+10.1017/pan.2020.7
+Collier, D. (2011). Understanding process tracing. PS: Political Science & Politics, 44(4), 823-830.
+Coward, M. (2018). Against network thinking. European Journal of International Relations, 24(2), 440-463.
+Creswell, J. W. (2021). A concise introduction to mixed methods research. SAGE.
+Creswell, J. W. & Creswell, J. D. (2005). Mixed methods research: Developments, debates, and dilemmas. BerrettKoehler.
+Creswell, J. W. & Creswell, J. D. (2018). Research design: Qualitative, quantitative, and mixed methods approaches.
+SAGE.
+Creswell, J. W. & Plano Clark, V. L. (2017). Designing and conducting mixed methods research. SAGE.
+
+=== p16 ===
+Revista Latinoamericana de Metodología de las Ciencias Soc…, 2026, vol. 16, núm. 1, e167, Junio-Diciembre, ISSN: 1853-7863
+
+Creswell, J. W. & Plano Clark, V. L. (2023). Revisiting mixed methods research designs twenty years later. Handbook
+of mixed methods research designs, 1(1), 21-36.
+Cupchik, G. (2001). Constructivist realism: An ontology that encompasses positivist and constructivist approaches to
+the social sciences. Forum Qualitative Sozialforschung/Forum: Qualitative Social Research, 2(1), 10. DEU.
+Denzin, N. K. (1978). The research act. McGraw-Hill.
+Denzin, N. K. (2012). Triangulation 2.0. Journal of Mixed Methods Research, 6(2), 80-88.
+Denzin, N. K. & Lincoln, Y. S. (1998). Introduction: Entering the field of qualitative research. En N. K. Denzin & Y.
+S. Lincoln (Eds.), Strategies of qualitative inquiry (pp. 1-34). SAGE.
+Domínguez, S. & Hollstein, B. (2014). Mixed methods social networks research: Design and applications. Cambridge
+University Press.
+Emirbayer, M. & Goodwin, J. (1994). Network analysis, culture, and the problem of agency. American Journal of
+Sociology, 99(6), 1411-1454.
+Fairfield, T. & Charman, A. (2015). Formal Bayesian process tracing: Guidelines, opportunities, and caveats. London
+School of Economics.
+Flick, U. (2017). Mantras and myths in mixed-methods research. Qualitative Inquiry, 23(1), 46-57.
+Forni, P. & Grande, P. D. (2020). Triangulación y métodos mixtos en las ciencias sociales contemporáneas. Revista
+mexicana de sociología, 82(1), 159-189.
+Gerring, J. (2001). Social science methodology: A critical framework. Cambridge University Press.
+Gerring, J. (2006). Case study research: Principles and practices. Cambridge University Press.
+Giddens, A. (1984). The constitution of society. UCL Press.
+Giddings, L. S. (2006). Mixed-methods research: Positivism dressed in drag? Journal of Research in Nursing, 11(3),
+195-203.
+Goertz, G. & Mahoney, J. (2012). A tale of two cultures: Qualitative and quantitative research in the social sciences.
+Princeton University Press.
+Greene, J. C. & Caracelli, V. J. (1997). Defining the paradigm issue. New Directions for Evaluation, 74, 5-17. https://
+doi.org/10.1002/ev.1068
+Greene, J. C., Caracelli, V. J., & Graham, W. F. (1989). Toward a conceptual framework. Educational Evaluation and
+Policy Analysis, 11(3), 255-274. https://doi.org/10.3102/01623737011003255
+Guba, E. G. & Lincoln, Y. S. (1994). Competing paradigms in qualitative research. En N. K. Denzin & Y. S. Lincoln
+(Eds.), Handbook of qualitative research (pp. 105-117). SAGE.
+Guba, E. & Lincoln, Y. (2002). Paradigmas en competencia en la investigación cualitativa. Por los rincones. Antología
+de métodos cualitativos en la investigación social, 3(2), 113-145.
+Guest, G. & Fleming, P. (2015). Mixed methods research. Public Health Research Methods, 5, 581-614. https://
+doi.org/10.4135/97814833988395
+
+=== p17 ===
+Bruno Cruz Petit, Los métodos mixtos: retos de integración metodológica en las ciencias sociales
+
+Hollstein, B. & Wagemann, C. (2014). Fuzzy-set analysis of network data. En Mixed methods social networks research
+(pp. 237-268). Cambridge University Press.
+Humphreys, M. & Jacobs, A. M. (2015). Mixing methods: A Bayesian approach. American political science review,
+109(4), 653-673.
+Inguanzo, I. (2020). Asian women’s paths to office. Contemporary Politics, 26(2), 186–205. https://doi.org/
+10.1080/13569775.2020.1712005
+King, G., Keohane, R. O. & Verba, S. (2021). Designing social inquiry. Princeton University Press.
+Kuhn, Th. (1962). The Structure of Scientific Revolutions. University of Chicago Press.
+Laudan, L. (1996). Beyond positivism and relativism. Westview Press.
+Lieberson, S. (1991). Small N’s and big conclusions. Social Forces, 70(2), 307-320. https://doi.org/10.2307/2580241
+Lieberson, S. (1994). More on the uneasy case. Social Forces, 72(4), 1225-1237.
+Lieberson, S. (2004). Comments on QCA. Qualitative Methods, 2(2), 13-14.
+Lucas, S. R. & Szatrowski, A. (2014). QCA in critical perspective. Sociological Methodology, 44(1), 1-79. https://
+doi.org/10.1177/0081175014532763
+Mahoney, J. (2008). Toward a unified theory of causality. Comparative Political Studies, 41(4-5), 412-436.
+Masterman, M. (1970). The nature of a paradigm. Criticism and the growth of knowledge. Latakos, and A. Musgrave.
+Maxwell, J. A. (2023). Mixed methods design in historical perspective. En C. N. Poth (Ed.), The SAGE handbook of
+mixed methods research design. SAGE.
+Mello, P. A. (2021). Qualitative comparative analysis. Georgetown University Press.
+Mendizábal, N. (2018). La osadía en la investigación. Espacio Abierto, 27(2), 5-20.
+Mertens, D. M. (2012). Transformative mixed methods: Addressing inequities. American Behavioral Scientist, 56(6),
+802-813.
+Miles, M. B. & Huberman, A. M. (1994). Qualitative data analysis. SAGE.
+Morgan, D. L. (1998). Practical strategies. Qualitative Health Research, 8(3), 362-376.
+Morin, E. (2010). Sobre la interdisciplinariedad. Universidad Icesi.
+Morse, J. M. (1991). Methodological triangulation. Nursing Research, 40, 120–123.
+Morse, J. M. & Niehaus, L. (2009). Mixed method design. Left Coast Press.
+Munck, G. L. (2016). Assessing set-theoretic methods. Comparative Political Studies, 49(6), 775-780.
+Munck, G. L. & Snyder, R. (2019). La política comparada en la encrucijada. Política y Gobierno, 26(1), 139-158.
+Olsen, W. (2014). Comment: The usefulness of QCA under realist assumptions. Sociological Methodology, 44(1),
+101-107.
+Olsen, W. (2022). Qualitative comparative analysis (QCA): a classic mixed method using theory. In Systematic MixedMethods Research for Social Scientists (pp. 131-156). Cham: Springer International Publishing.
+
+=== p18 ===
+Revista Latinoamericana de Metodología de las Ciencias Soc…, 2026, vol. 16, núm. 1, e167, Junio-Diciembre, ISSN: 1853-7863
+
+Pagliarin, S. & Gerrits, L. (2020). Trajectory-based QCA. Methodological Innovations. https://doi.org/
+10.1177/2059799120959170
+Parmelee, J. H., Perkins, S. C. & Sayre, J. J. (2007). Political ads and college students. Journal of Mixed Methods
+Research, 1(2), 183-199.
+Pericás, J. M. V. & Lozares, C. (2022). Retos metodológicos. En La sociología en España (pp. 127-145). Marcial Pons.
+Pilcher, N. & Cortazzi, M. (2024). 'Qualitative'and'quantitative'methods and approaches across subject fields:
+implications for research values, assumptions, and practices. Quality & Quantity, 58(3), 2357-2387.
+Piovani, J. I. (2018). Triangulación y métodos mixtos. En A. Marradi, N. Archenti & J. I. Piovani, Manual de
+metodología de las ciencias sociales. Siglo XXI.
+Poth, C. & Onwuegbuzie, A. J. (2015). Special issue: Mixed methods. International Journal of Qualitative Methods,
+14(2), 1-4.
+Ragin, C. (1987). The comparative method. University of California.
+Ragin, C. C. (2000). Fuzzy-set social science. University of Chicago Press.
+Ragin, C. C. (2008). Redesigning social inquiry. University of Chicago Press.
+Ragin, C. C. (2014). The comparative method. UCL Press.
+Rivero, J. A. (2018). Compositional equivalence. Connections, 37(1-2), 53-68.
+Rohlfing, I. (2008). Nested analysis. Comparative Political Studies, 41(11), 1492-1514.
+Rubinson, C., Gerrits, L., Rutten, R., & Greckhamer, T. (2019). Avoiding errors in QCA. Sociological Methods &
+Research, 9, 397-418.
+Sánchez-Gómez, M. C., Martín-Cilleros, M. V., Sá, P. & Costa, A. P. (2020). Reflexiones sobre métodos mixtos.
+Revista Baiana de Enfermagem, e31851.
+Santos, J., Puig, P., Rausky, M., Piovani, J., Muñoz, L. & Burawoy, M. (2018). Métodos mixtos y reflexividad: explorando
+posibles articulaciones.¿ Condenados a la reflexividad?: apuntes para repensar el proceso de investigación social.
+254-283. CLACSO.
+Schneider, C. Q. y Wagemann, C. (2010). Standards of good practice in qualitative comparative analysis (QCA) and
+fuzzy-sets. Comparative sociology, 9(3), 397-418.
+Seawright, J. (2005). QCA vs regression. Studies in Comparative International Development, 40(1), 3-26.
+Skaaning, S. E. (2011). Assessing the robustness of crisp-set and fuzzy-set QCA results. Sociological Methods &
+Research, 40(2), 391-40
+Tashakkori, A. & Creswell, J. (2007). The new era of mixed methods. Journal of Mixed Methods Research, 1(1), 3-7.
+Tashakkori, A. & Teddlie, C. (1998). Mixed methodology. SAGE.
+Tashakkori, A., & Teddlie, C. (Eds.). (2003). Handbook of mixed methods. SAGE.
+Teddlie, C. y Tashakkori, A. (2009). Fundamentos de la investigación con métodos mixtos. Sage Publications.
+
+=== p19 ===
+Bruno Cruz Petit, Los métodos mixtos: retos de integración metodológica en las ciencias sociales
+
+Tufekci, Z. & Wilson, C. (2012). Social media and the decision to participate in political protest: Observations
+from Tahrir Square. Journal of communication, 62(2), 363-379.
+Varshney, A. (2001). Ethnic conflict and civil society: India and beyond. World politics, 53(3), 362-398.
+Webb, E. J., Campbell, D. T., Schwartz, R. D. & Sechrest, L. (1999). Unobtrusive measures. SAGE.
+Western, B. & Jackman, S. (1994). Bayesian inference. American Political Science Review, 88(2), 412-423.
+
+Notas
+1 Sage Handbook of Mixed Methods in Social and Behavioral Research incluía una visión general de los MM y
+marcó un parteaguas en la disciplina. Según Tashakkori y Teddlie (2009, p. 7) el libro “fue la
+declaración de independencia de los métodos mixtos respectos a los métodos cualitativos y
+cuantitativos”. Creswell y Plano Clark (2023, p. 22) cuentan que su capítulo representó ir “a lo
+desconocido al intentar mostrar diseños fundacionales” en un campo que aún no tenía claro si tenía
+un paradigma propio, o si se trataba de un “tercer” método con rasgos definitorios propios.
+2 Aunque los MM aún no habían surgido como un campo diferenciado de conocimiento teórico, académicos
+importantes (Festinger, Lazarsfield, Merton, en sociología, Kurt Lewin en psicología) abogaban por
+el uso simultaneo de métodos cualitativos y cuantitativos en investigación social, para compensar la
+limitada posibilidad de acceso humano al conocimiento de la realidad. A fines de los años ochenta y
+noventa ya existían propuestas para desarrollar un enfoque unificado en cuanto a estándares de rigor
+científico y producción de inferencias en el campo de la investigación cualitativa (King, Keohane &
+Verba, 2021). Varios libros (Greene y Caracelli, 1997; Greene & Caracelli, 1989; Morse, 1991; Miles
+y Huberman, 1994,) estaban revisando cómo eran los diseños de investigación emergentes de MM.
+3 Bergman (2011) recuerda que, si a menudo los miembros de equipos no consiguen ponerse de acuerdo
+sobre un tema, pregunta o enfoque, en el caso de los MM ello puede darse con más frecuencia. La
+ponderación que se da a cada enfoque puede ser desequilibrada, con un análisis centrado sobre todo
+en variables y tendencias (dadas por lo cuantitativo) que no sea compensado por el de significados de
+historias y vivencias de casos particulares (cualitativo). Se asume así tácitamente un consenso
+positivista y el método cualitativo queda dominado por el cuantitativo, sobre todo en la fase de
+análisis o al redactar conclusiones que enfatizan grandes tendencias, pero no las sutilezas o aspectos
+debatibles o paradójicos detectados en el trabajo cualitativo (Giddings, 2006).
+4 Un estudio con MM manipula unidades de análisis muy diferentes; puede ocurrir que los resultados
+cualitativos no coincidan o incluso contradigan los cuantitativos (por ejemplo, una encuesta arroja
+un nivel importante de satisfacción en una situación laboral, mientras que en las entrevistas abiertas
+se detecta una insatisfacción latente profunda).
+5 También hay dificultades de orden económico. El investigador, si no domina todas las fases de la
+investigación debe trabajar en equipos interdisciplinares, con lo que el presupuesto de la misma se
+encarece. Por ello, es importante saber qué investigaciones requieren realmente el uso de métodos
+mixtos, de lo contrario se podría estar no solo malgastando recursos y tiempo sino añadiendo
+confusión a los temas que se trabajan.
+6 Existe un consenso qué es la realidad, la sociedad y la política), epistemológica (cómo y en qué medida se
+puede conocer dicha realidad), axiológica (cómo los valores inciden y/o deben integrarse en el
+conocimiento) y metodológica (qué procesos se proponen en una investigación). Creswell (2017)
+observa que en los artículos con método CN no hay referencias a la cuestión de los paradigmas, algo
+
+=== p20 ===
+Revista Latinoamericana de Metodología de las Ciencias Soc…, 2026, vol. 16, núm. 1, e167, Junio-Diciembre, ISSN: 1853-7863
+
+que sí puede aparecer en los de QL. Para los proyectos de Métodos Mixtos recomienda se inserte un
+breve párrafo al respecto, después de los objetivos, donde se aclare si se reflejan en la investigación y en
+qué fase de ésta ocurre. Este autor cree que es posible conciliar las visiones de mundo (lebenswelten),
+inherentes a cada método; otros autores sostienen que dichas visiones no afectan en la práctica al
+desarrollo de la investigación (Bergman, 2011). La descripción es muy común en análisis QL, con la
+etnografía y sus técnicas de observación participante como arquetipo de ello. Para la inferencia causal
+hay técnicas como la inferencia de observaciones del proceso causal (Brady 2004), los indicios
+(Collier 2011, quien retoma a M. Ginzburg), congruencia (Blatter y Blume, 2008), análisis narrativo,
+o el rastreo de procesos (Bennett y Checkel 2015).generalizado en señalar que un paradigma
+filosófico es aquel conjunto de supuestos previos a la implantación de método, en los que se refleja
+una posición ontológica (sobre qué es la realidad, la sociedad y la política), epistemológica (cómo y en
+qué medida se puede conocer dicha realidad), axiológica (cómo los valores inciden y/o deben
+integrarse en el conocimiento) y metodológica (qué procesos se proponen en una investigación).
+Creswell (2017) observa que en los artículos con método QN no hay referencias a la cuestión de los
+paradigmas, algo que sí puede aparecer en los de QL. Para los proyectos de Métodos Mixtos
+recomienda se inserte un breve párrafo al respecto, después de los objetivos, donde se aclare si se
+reflejan en la investigación y en qué fase de ésta ocurre. Este autor cree que es posible conciliar las
+visiones de mundo (lebenswelten), inherentes a cada método; otros autores sostienen que dichas
+visiones no afectan en la práctica al desarrollo de la investigación (Bergman, 2011a).
+7 La descripción es muy común en análisis CL, con la etnografía y sus técnicas de observación participante
+como arquetipo de ello. Para la inferencia causal hay técnicas como la inferencia de observaciones del
+proceso causal (Brady 2004), los indicios (Collier, 2011), congruencia (Blatter y Blume, 2008),
+análisis narrativo, o el rastreo de procesos (Bennett y Checkel, 2015).
+8 Guest y Flemming (2015) proporciona una buena revisión de las numerosas tipologías existentes: Morgan
+(1998), propone cuatro cuadrantes según peso y temporalidad, Morse y Niehaus (2009), añaden la
+dimensión teórica y el timing simultáneo, obtienen 8 tipologías), Teddlie y Tashakkoris (2009)
+establecen cinco tipos y distinguen los paralelos de los secuenciales, los de conversión de datos,
+multinivel y totalmente integrados.
+9 Algunas investigaciones, inician con un estudio de caso cualitativo. Liberman sugiere hacerlo cuando el
+modelo aplicado a LNA inicial no funciona). Creswell (2004, p. 249) concibe una Concurrent Nested
+Strategy en el que hay un método predominante que guía el proyecto, dentro del cual es está
+incrustado o anidado (nested) el método cualitativo o cuantitativo.
+10 Giddens (1984) sostiene que las acciones de los actores sociales están moldeadas por la estructura y a la vez
+la producen. Los MM son idóneos para tratar la interacción estructura-agencia, también entender
+weberianamente (verstehen) los hechos sociales a partir de una comprensión holística de la acción
+social.
+11 Uno de ellos es el método de medidas de centralidad ayuda a identificar los nodos más importantes dentro
+de una red, ya sea por su grado de conexión, intermediación, cercanía u otras propiedades (por
+ejemplo, actores políticos o sociales que conforman grupos de poder). Otra herramienta clásica en
+estudios de redes es el análisis de comunidades (clusters). A través de cálculos QN sobre la estructura
+de conexión entre los nodos se busca identificar grupos densamente conectados de nodos dentro de
+una red, lo que puede ayudar a identificar estructuras organizativas o subculturas dentro de una
+comunidad; por grupos de legisladores que tienden a votar juntos o que comparten actitudes
+políticas similares. Por su parte, el método de análisis de difusión en una red está enfocado a la
+propagación de la información, las influencias o los comportamientos a través de una red. Tufekci y
+
+=== p21 ===
+Bruno Cruz Petit, Los métodos mixtos: retos de integración metodológica en las ciencias sociales
+
+Wilson (2012) examinaron cómo las redes sociales, en particular Twitter, facilitaron la difusión de
+información y la organización de protestas políticas durante la Primavera Árabe, con un enfoque
+específico en las protestas en la Plaza Tahrir en Egipto.
+12 Mientras que la estadística frecuentista proporciona intervalos de confianza que capturan la variabilidad
+de la estimación de la probabilidad en múltiples muestras, la estadística bayesiana ofrece intervalos
+de credibilidad que reflejan la incertidumbre sobre los parámetros dados por los conocimientos que
+se incorporen sobre el problema a estudiar. Los datos cuantitativos que utiliza generalmente se
+refieren a datos numéricos recopilados mediante métodos estructurados como encuestas o
+experimentos, mientras que los datos cualitativos se refieren a datos no numéricos recopilados
+mediante métodos como entrevistas, observaciones o encuestas abiertas
+13 Un ejemplo de aplicación de QCA es el análisis de condiciones favorables para que las mujeres alcancen
+cargos políticos, en Inguanzo (2020). El autor observa que en los países asiáticos ya no son necesarias
+ni suficientes condiciones como los vínculos familiares con dinastías políticas o los contextos de
+inestabilidad o transición.
+14 La lectura del libro de Barrington Moore Social Origins of Dictatorship and Democracy, de 1966, donde se
+presenta un análisis comparativo en profundidad de un número limitado de países, centrado en las
+combinaciones de condiciones previas al cambio de régimen, lo inspiró en su tesis y en la
+elaboración de su método. La investigación de Moore se resiste, según Raguin, al lenguaje de las
+variables independientes y sus efectos netos; no se trata de ubicar una variable explicativa
+(económica, institucional o cultural, por ejemplo) que confirme una gran teoría, sino ver “cómo” las
+condiciones se combinan entre sí para producir hechos sociales o políticos, en una coyuntura
+determinada”.
+15 Una primera crítica del modelo fue el reduccionismo que implican los criterios dicotómicos (pertenencia
+o no a un grupo, aparición del fenómeno o inexistencia del mismo) en la primera versión de 1987; la
+solución surgió con obras del mismo autor, Fuzzy-Set Social Science del 2000 y Redesigning Social
+Inquiry: Fuzzy Sets and Beyond el volumen de 2008. En este texto se usan puntuaciones de
+pertenencia, que pueden oscilar entre 0,0 (no pertenencia) y 1,0 (pertenencia plena), según el grado
+en el que las se producen los fenómenos. Mientras que la pertenencia plena y la no pertenencia plena
+eran estados en principio cualitativos (aunque numéricamente expresados), “los conjuntos difusos
+son simultáneamente cuantitativos y cualitativos (“fuzzy sets are simultaneously quantitative and
+qualitative”, Raguin, 2014, p. 24).
+16 Como ejemplo de aplicación de QCA destaca el análisis de Betina Hollstein and Claudius Wagemann
+(2014) sobre las condiciones que afectan al fenómeno de la transición de la escuela al trabajo. Los
+autores observaron factores presentes en las redes de apoyo a los jóvenes, como la situación
+profesional de los padres, el apoyo cognitivo, instrumental y emocional atendiendo también a las
+combinaciones de características individuales que condujeron al eventual éxito en la integración
+laboral. El apoyo de la red personal resultó ser una condición necesaria para acceder al mercado
+laboral en un periodo de cinco años, así como no tener una discapacidad física o mental.
+17 Lucas y Szatrowski, académicos de la Universidad de California en Berkeley, sostienen que en realidad en
+QCA no es un método basado en casos (de ser así se justificarían las muestras no probabilísticas),
+sino en variables, puesto que en las etapas más detalladas del método (tabla de verdad, calibración,
+minimización lógica) la unidad de análisis es la configuración de condiciones: “Yet QCA proponents
+sometimes claim that QCA combines qualitative and quantitative methods (Ragin 2008) and thus
+may dismiss our observations by claiming the aspects we identify (frequency threshold advice) reflect the
+quantitative side of QCA. If so, we wonder, what is QCA’s qualitative side? (…). Thus, even seen as a
+
+=== p22 ===
+Revista Latinoamericana de Metodología de las Ciencias Soc…, 2026, vol. 16, núm. 1, e167, Junio-Diciembre, ISSN: 1853-7863
+
+synthesis, QCA fumbles away the advantages of both methodological traditions” (Lucas y Szatrowski,
+2014, p.65). En apoyo al argumento de que el QCA no debe etiquetarse como “método basado en
+casos” figuran los ejemplos que muchos trabajos estadísticos en ciencias sociales, que se apoyan en
+exploraciones teóricas, documentales y en estudios de casos previos para dar dirección a la
+investigación, sin que se presenten como investigaciones basadas en casos.
+18 Lieberson (1991, 1994, 2004) alertó sobre la dificultad para detectar y medir los posibles errores en una
+investigación realizada con QCA (puesto que un ligero error en la calibración o determinación de
+las condiciones puede alterar todo el resultado), en comparación con los métodos estadísticos
+clásicos, con una larga tradición de cálculo de grados de error producido, como el análisis de
+regresión múltiple. Lieberson también alertó sobre el tratamiento de las configuraciones causales
+como invariantes, sin considerar los efectos de la interacción de condiciones. Seawright (2005) se
+preocupó por las variables omitidas (crítica que, al igual que la sensibilidad al error, podría hacer
+extensiva a los métodos estadísticos). Schneider y Wagemann, (2010), así como Rubinson, Gerrits,
+Rutten & Greckhamer (2019) han escrito específicamente sobre las buenas prácticas necesarias en la
+aplicación del método, entre las que figuran no aventurarse a explicar mecanismos causales (el
+método simplemente describe y detecta condiciones en relación a fenómenos), no reducir el número
+de casos, o evitar calibraciones mecánicas desde fuentes que no se han interpretado adecuadamente.
+19 El determinismo completo plantea problemas filosóficos, al negar el libre albedrío y el azar. La revolución
+francesa, con esta idea, tuvo necesariamente que haberse producido, sin importar las acciones de
+individuos concretos. Numerosos científicos sociales se sitúan en una posición implícita de defensa
+de la causalidad débil.
+20 Cupchik (2001) traza puentes de confluencia entre los paradigmas positivista y constructivista, haciendo
+notar que los físicos reconocen, en virtud del principio de Heisenberg, que el acto de medición
+puede llegar a afectar a partículas observadas y que las teorías de la realidad se van reemplazando
+históricamente; los constructivistas reconocen un plano material independiente de la acción de los
+sujetos. Es a medida que se pasa de las realidades compartidas a dominios de las ciencias del hombre
+donde existe subjetividad (pscicología, sociología) cuando la construcción del fenómeno es mayor.
+21 Denzin (2012, p. 82-83) describe la idea de pragmatismo como “aquello que funciona”, expresada por R.
+Howe, como una simplificación de la de W. James, que además ignora corrientes hermenéuticas del
+pragmatismo como la de Habermas o Rorty. Para este autor, el pragmatismo no da claves que
+orienten aproximaciones metodológicas, porque trata de las consecuencias del conocimiento, pero
+no del modo de determinar significados de los fenómenos.
+
+22
+
+Ediciones de la FaHCE utiliza Amelica Marcador-XML, herramienta desarrollada por RedALyC con tecnología XMLJATS4R . Proyecto académico sin fines de lucro bajo la iniciativa Open Access
+

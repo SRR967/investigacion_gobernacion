@@ -36,3 +36,4 @@ Una fila por archivo incorporado con `herramientas/incorporar_fuente.py`. Los or
 | F-099 | `fuentes_originales/F-099_marquez_pinzon_2023/Articulo_3.pdf` | pdf | — | b3702bf28d62660a299cfe8aef87caf6c874becb72c85d8673b2d6178ec989aa | 3159586 | [sin URL] | 2026-10-30 |
 | F-100 | `fuentes_originales/F-100_pinzon_arana_2025/13394-RevTERRITORIOS-52_FPinzon_et_al.pdf` | pdf | — | 731407ec410f7cd2956732d76f02964d7b9af7ccad2ef32fe79ae3bab6515864 | 618104 | [sin URL] | 2026-10-30 |
 | F-101 | `fuentes_originales/F-101_morales_moreno_2015/2846012.2846030.pdf` | pdf | — | f658d6cc11eb7053a6a633235a0e969a967be6654246e77a6807012f8972b8be | 645026 | https://doi.org/10.1145/2846012.2846030 | 2026-10-30 |
+| F-102 | `fuentes_originales/F-102_cruz_petit_2026/Relmecse167.pdf` | pdf | — | c32ebca6989637f1cbe43a60092d9ff87bcea4738db789caa52e6ef24359daef | 373285 | https://doi.org/10.24215/18537863e167 | 2026-10-31 |

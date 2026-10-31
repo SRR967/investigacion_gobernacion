@@ -43,7 +43,7 @@ for c, v in sorted(d.items(), key=lambda x: int(x[0])):
                 nom = f.get('nombre') if isinstance(f, dict) else f
                 det = txt(r.get('anotacionAdicional'))
             elif tipo == 'VERIFICACION_INST':
-                nom = r.get('descripcionVerificacion') or r.get('descripcionVerificacionInst') or r.get('descripcionDirectoInstitucion')
+                nom = r.get('descripcionVerificado') or r.get('descripcionVerificacion') or r.get('descripcionDirectoInstitucion')
                 det = ''
             elif tipo == 'SOLICITUD':
                 nom = r.get('descripcionSolicitud') or 'solicitud'

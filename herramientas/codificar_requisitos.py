@@ -1,5 +1,5 @@
-"""Codifica los requisitos documentales (Fase 1) según las reglas de la metodología (D-035, D-036).
-Entrada: datos/requisitos_govco_2026-10-31.csv. Salida: datos/matriz_documentos_2026-10-31.csv (una fila por
+"""Codifica los requisitos documentales (Fase 1) según las reglas de la metodología (D-035, D-036, D-038).
+Entrada: datos/requisitos_suit_2026-10-31.csv (Visor SUIT, F-105). Salida: datos/matriz_documentos_suit_2026-10-31.csv (una fila por
 requisito documental distinto por trámite) y un resumen por consola.
 La tabla R asigna a cada nombre normalizado (por prefijo): categoría (a/b/c/excluido), nombre canónico (para fusionar
 el mismo documento dentro de un trámite), marcas y emisor. La atribución del emisor es conocimiento general por

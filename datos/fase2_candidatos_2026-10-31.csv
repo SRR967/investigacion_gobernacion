@@ -1,0 +1,23 @@
+orden,categoria,documento,n_tramites,emisor_variable,misma_competencia,situacion
+1,a,certificado de tiempo de servicio,10,1,0,parcial
+2,a,certificado de salarios,8,1,0,parcial
+3,a,resolución de pensión del docente,8,0,1,parcial
+4,a,acto administrativo de retiro del servicio docente,7,0,1,parcial
+5,a,licencia de funcionamiento expedida por la Gobernación,4,0,1,parcial
+6,a,tornaguía,4,1,0,no declarada
+7,a,reportes anuales de cesantías,3,1,0,no declarada
+8,a,acta de visita sanitaria,2,1,0,parcial
+9,a,paz y salvo de la pagaduría del empleador,2,1,0,parcial
+10,a,resolución de cesantías pagadas,2,0,1,no declarada
+11,a,certificado de habilitación,1,0,0,completa
+12,a,constancia de no sanción por comercio ilegal de medicamentos,1,1,0,parcial
+13,a,registro profesional en salud,1,1,0,parcial
+14,a,acta de comité de exoneración del servicio social obligatorio,1,1,0,no declarada
+15,a,acta del accidente de trabajo,1,1,0,no declarada
+16,a,resolución de autorización de etiquetas,1,0,0,no declarada
+17,b,documento de identidad,30,0,0,consulta pública de vigencia (sin confirmar)
+18,b,certificado de existencia y representación legal,11,0,0,servicio web parcial
+19,b,diploma o acta de grado,10,1,0,mecanismo no declarado
+20,b,registro civil de nacimiento,9,0,0,mecanismo no declarado
+21,b,certificado de administradora de pensiones,7,1,0,servicio web parcial
+22,b,tarjeta profesional,7,1,0,servicio web parcial

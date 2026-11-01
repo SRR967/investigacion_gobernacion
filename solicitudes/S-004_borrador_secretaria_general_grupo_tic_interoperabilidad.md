@@ -1,4 +1,4 @@
-# S-004 · BORRADOR — no enviado
+# S-004 · RADICADA por Santiago (3 preguntas) — fecha y radicado por confirmar
 
 *Estado: borrador del 2026-10-29 para revisión de Santiago. Todo lo marcado como `[DATO PENDIENTE]` o `[CONFIRMAR]` debe resolverse antes de firmar. Las «Notas para Santiago» del final no forman parte de la carta.*
 
@@ -22,7 +22,6 @@ Mi nombre es Jesús Santiago Ramón Ramos, beneficiario del Fondo Jenaro Díaz J
 1. ¿La Gobernación está vinculada al servicio de interoperabilidad de los Servicios Ciudadanos Digitales (plataforma X-Road)? Si lo está, ¿desde cuándo?; si no, ¿está en proceso de vinculación?
 2. ¿En qué trámites la Gobernación consulta información directamente a otras entidades, en lugar de pedirle el documento al ciudadano, y con qué entidades lo hace?
 3. ¿La entidad ha aplicado el modelo de madurez del Marco de Interoperabilidad de MinTIC? Si es así, ¿qué nivel obtuvo?
-4. En el documento «Datos Maestros de Referencia» de la Gobernación se mencionan conexiones con el RUNT, la DIAN, Colpensiones, el RUP, el SIMAT, el RETHUS y el IGAC. ¿Qué dependencia elaboró ese documento, en qué fecha y está vigente? ¿Esas conexiones están en funcionamiento? ¿Existe alguna conexión con la Registraduría Nacional del Estado Civil?
 
 La información se usará solo con fines académicos. Si algún punto no corresponde a ese Grupo, agradezco que se dé traslado a la dependencia competente. Esta solicitud se presenta en ejercicio del derecho de petición [CONFIRMAR: norma aplicable], y agradezco que la respuesta se envíe al correo [DATO PENDIENTE: correo electrónico].
 
@@ -51,7 +50,7 @@ Jesús Santiago Ramón Ramos
 - **Punto 4 (importante):** si la entidad se evaluó con el modelo de madurez de MinTIC (cinco niveles, de «ausente» a «institucionalizado»). Si lo hizo, nos da una línea base oficial por dominio.
 - **Punto 5 (menor):** si existe el plan que exige la guía del Decreto 088 para poner sus servicios de intercambio en el lenguaje común de MinTIC. Si no existe, eso también es un hallazgo.
 
-**Versión corta (decisión de Santiago, 2026-10-29).** Se dejaron 3 preguntas; el 2026-10-31 Santiago pidió añadir una 4.ª sobre el documento de Datos Maestros (fecha, autoría, conexiones declaradas y Registraduría), porque el estudio se apoya en él y no tiene fecha ni autor. Se quitaron: acciones sobre el índice 0,0 de 2024 y plan de estandarización del Decreto 088 (Anexo 1, num. 2.4.2). El punto «Qué estamos pidiendo» de abajo describe la versión larga.
+**Versión corta (decisión de Santiago, 2026-10-29).** Se dejaron 3 preguntas. Santiago la radicó el 2026-10-31 o antes con estas 3 preguntas [CONFIRMAR: fecha y radicado]; la pregunta sobre Datos Maestros pasó al seguimiento S-005. Se quitaron: acciones sobre el índice 0,0 de 2024 y plan de estandarización del Decreto 088 (Anexo 1, num. 2.4.2). El punto «Qué estamos pidiendo» de abajo describe la versión larga.
 
 **Decisiones tuyas antes de enviar**
 1. **Presentación corta (decisión tuya, 2026-10-29).** La carta ya no menciona título, tema ni Plan de Desarrollo: solo que es parte del trabajo de investigación del Fondo.

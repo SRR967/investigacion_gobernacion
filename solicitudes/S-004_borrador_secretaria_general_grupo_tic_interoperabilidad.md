@@ -1,4 +1,4 @@
-# S-004 · RADICADA por Santiago (3 preguntas) — fecha y radicado por confirmar
+# S-004 · RADICADA el 2026-10-30, PQR 2026PQR00059197 (3 preguntas)
 
 *Estado: borrador del 2026-10-29 para revisión de Santiago. Todo lo marcado como `[DATO PENDIENTE]` o `[CONFIRMAR]` debe resolverse antes de firmar. Las «Notas para Santiago» del final no forman parte de la carta.*
 
@@ -50,7 +50,7 @@ Jesús Santiago Ramón Ramos
 - **Punto 4 (importante):** si la entidad se evaluó con el modelo de madurez de MinTIC (cinco niveles, de «ausente» a «institucionalizado»). Si lo hizo, nos da una línea base oficial por dominio.
 - **Punto 5 (menor):** si existe el plan que exige la guía del Decreto 088 para poner sus servicios de intercambio en el lenguaje común de MinTIC. Si no existe, eso también es un hallazgo.
 
-**Versión corta (decisión de Santiago, 2026-10-29).** Se dejaron 3 preguntas. Santiago la radicó el 2026-10-31 o antes con estas 3 preguntas [CONFIRMAR: fecha y radicado]; la pregunta sobre Datos Maestros pasó al seguimiento S-005. Se quitaron: acciones sobre el índice 0,0 de 2024 y plan de estandarización del Decreto 088 (Anexo 1, num. 2.4.2). El punto «Qué estamos pidiendo» de abajo describe la versión larga.
+**Versión corta (decisión de Santiago, 2026-10-29).** Se dejaron 3 preguntas. Santiago la radicó el 2026-10-30 con estas 3 preguntas Acuse de recibo de la Gobernación (correo del 2026-10-30): radicado 2026PQR00059197, asunto «Solicitud de información sobre los Servicios Ciudadanos Digitales de la Gobernación del Huila». Santiago no conserva copia del texto enviado; el contenido (3 preguntas) es según su dicho; la pregunta sobre Datos Maestros pasó al seguimiento S-005. Se quitaron: acciones sobre el índice 0,0 de 2024 y plan de estandarización del Decreto 088 (Anexo 1, num. 2.4.2). El punto «Qué estamos pidiendo» de abajo describe la versión larga.
 
 **Decisiones tuyas antes de enviar**
 1. **Presentación corta (decisión tuya, 2026-10-29).** La carta ya no menciona título, tema ni Plan de Desarrollo: solo que es parte del trabajo de investigación del Fondo.

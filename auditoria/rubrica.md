@@ -1,6 +1,6 @@
 # Rúbrica del auditor-tribunal
 
-Versión 1 · 2026-10-21. La modifica solo Santiago (o con su aprobación expresa, ver §4).
+Versión 2 · 2026-11-01 (v1: 2026-10-21). La modifica solo Santiago (o con su aprobación expresa, ver §4).
 El auditor la lee en cada auditoría. Las referencias H-xxx remiten a `libro_de_hechos.md`.
 
 ## 1. Criterios permanentes (se aplican a toda sección)
@@ -16,6 +16,7 @@ El auditor la lee en cada auditoría. Las referencias H-xxx remiten a `libro_de_
 | P7 | **Formato de la carta y APA 7**: estructura mínima, tipografía, interlineado, márgenes, sangría, citas y referencias | H-004 a H-006 |
 | P8 | **Sin contenido inventado ni relleno**: nada que suene plausible pero no tenga fuente; sin párrafos vacíos para alcanzar extensión | estilo-santiago §0, §8 |
 | P9 | **Tono**: impersonal, prudente, sin adjetivos que la fuente no use ni promesas | estilo-santiago §1-2 |
+| P10 | **Categorías y dominios con criterio operativo y evidencia**: toda clasificación del estudio (categorías de emisor, dominios de interoperabilidad, niveles de cobertura) tiene una regla escrita en la metodología, se aplica igual a todos los casos y se asigna solo con evidencia de una fuente; lo que no se pueda determinar se reporta como «no determinable» y no como ausente ni como presente por supuesto | Informes 10, 11 y 13; aprobada por Santiago 2026-11-01 |
 
 ## 2. Módulos por sección (se suman a los permanentes)
 
@@ -49,3 +50,7 @@ El auditor la lee en cada auditoría. Las referencias H-xxx remiten a `libro_de_
 - El auditor NUNCA modifica este archivo.
 - Cuando una misma razón de rechazo aparece en 3 o más informes del `registro_informes.md`, el skill `flujo-de-seccion` se la propone a Santiago como nuevo criterio o como entrada de §3.
 - Solo con la aprobación expresa de Santiago se edita este archivo, con fecha y número de versión.
+
+## 5. Historial de versiones
+- v2 · 2026-11-01: se añade P10 (aprobada por Santiago al detectarse la misma razón en los informes 10, 11 y 13).
+- v1 · 2026-10-21: versión inicial.

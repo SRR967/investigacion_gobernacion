@@ -27,4 +27,4 @@ Cada auditoría se anota aquí (lo hace el skill `flujo-de-seccion`, no el audit
 | P1: pertinencia con el Plan sin anclaje a un producto o meta | 6 | 1, 2, 3, 4, 8, 10 (umbral alcanzado: proponer a Santiago, P-022) |
 | Indicador del Plan ya cumplido según el seguimiento | 2 | 1, 10 |
 | Antecedentes o marco sin conexión con el caso o los objetivos | 3 | 5, 7, 9 (umbral alcanzado: proponer a Santiago ampliar la rúbrica) |
-| Dominios de interoperabilidad asignados sin criterio de evidencia | 3 | 10, 11, 13 (umbral alcanzado: proponer a Santiago ampliar la rúbrica) |
+| Dominios de interoperabilidad asignados sin criterio de evidencia | 3 | 10, 11, 13 (umbral alcanzado; Santiago aprobó el 2026-11-01 añadir P10 a la rúbrica, versión 2) |

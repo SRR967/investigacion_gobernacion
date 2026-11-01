@@ -7,7 +7,7 @@ Creado: 2026-10-21 · Las solicitudes las prepara el skill `solicitud-de-informa
 | S-001 | 2026-10-21 | Secretaría General — Grupo TIC | Plan de Seguridad y Privacidad 2020-2023; cifra vigente de procesos y dependencias con su fuente; series y subseries de las TRD vigentes | P-007 (H-032, H-033) | crítica para el OE3 | borrador (sin enviar) | | | | |
 | S-002 | — | Secretaría de Educación (Fondo Jenaro Díaz Jordán) | Si el máximo de 250 palabras del resumen es estricto; si se acepta un equivalente métrico de Times New Roman | P-005, P-010 | importante | candidata (sin redactar) | | | | |
 | S-003 | — | por definir (Archivo o Planeación) | Aclaración de la diferencia de 2.000 ml en el volumen de archivos de la Ordenanza | P-006 (H-013) | importante | candidata (sin redactar; revisar antes F-006 y F-008) | | | | |
-| S-004 | 2026-10-29 | Secretaría General — Grupo TIC | Vinculación al servicio ciudadano digital de interoperabilidad (AND / X-Road); intercambios que usa en trámites; acciones sobre el índice SCD (0,0 en 2024); autodiagnóstico de madurez de interoperabilidad; plan de estandarización (Decreto 088, Anexo 1, num. 2.4.2) | [DATO PENDIENTE] de integración a SCD en el marco normativo (02_marco_teorico); H-125 | crítica para el marco normativo y la propuesta | enviada (radicada por Santiago; 3 preguntas) | [CONFIRMAR: fecha] | [CONFIRMAR: radicado] | | |
+| S-004 | 2026-10-29 | Secretaría General — Grupo TIC | Vinculación al servicio ciudadano digital de interoperabilidad (AND / X-Road); intercambios que usa en trámites; acciones sobre el índice SCD (0,0 en 2024); autodiagnóstico de madurez de interoperabilidad; plan de estandarización (Decreto 088, Anexo 1, num. 2.4.2) | [DATO PENDIENTE] de integración a SCD en el marco normativo (02_marco_teorico); H-125 | crítica para el marco normativo y la propuesta | enviada (radicada por Santiago; 3 preguntas) | 2026-10-30 | 2026PQR00059197 | | |
 | S-005 | 2026-10-31 | Secretaría General — Grupo TIC | Seguimiento a S-004: fecha y autoría de Datos Maestros; si las conexiones declaradas funcionan; acceso a las bases de la Registraduría | P-fecha de Datos Maestros | importante | borrador (sin enviar) | | | | |
 
 ## Estados
@@ -18,3 +18,4 @@ Creado: 2026-10-21 · Las solicitudes las prepara el skill `solicitud-de-informa
 |---|---|---|---|---|
 | Información condonación crédito Fondo Jenaro Díaz Jordán | 2026PQR00011082 | [por confirmar] | 2026SAL00020915 (F-001) | 2026-03-10 |
 | Información PETI 2026 (herramientas de la Mesa de Ayuda) | 2026PQR00040471 | 2026-07-24 | 2026SAL00064319 (F-002) | 2026-07-27 |
+| Servicios Ciudadanos Digitales (S-004) | 2026PQR00059197 | 2026-10-30 | pendiente | — |

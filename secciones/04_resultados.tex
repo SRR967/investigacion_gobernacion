@@ -104,42 +104,102 @@ Para los 79 trámites presentes en ambas fechas se compararon los requisitos doc
 
 \subsection{Fase 2: relación de los documentos con las bases de datos y los mecanismos de intercambio}
 
-Esta fase se aplicó a los 223 requisitos de las categorías (a) y (b), que corresponden a 69 documentos distintos. La relación entre cada documento y una base de datos se basa en lo que declaran el documento de datos maestros de referencia de la Gobernación \parencite{gobernaciondelhuila2026datosmaestros} y el catálogo de sistemas de información del PETI 2026 \parencite[pp.~34-37]{gobernaciondelhuila2026peti}, cuyo texto se obtuvo por reconocimiento óptico de caracteres; el estudio no verificó qué contienen realmente esos sistemas.
+Esta fase se aplicó a los 223 requisitos de las categorías (a) y (b), que corresponden a 69 documentos distintos. La relación entre cada documento y una base de datos se basa en lo que declaran el documento de datos maestros de referencia de la Gobernación \parencite{gobernaciondelhuila2026datosmaestros} y el catálogo de sistemas de información del PETI 2026 \parencite[pp.~34-37]{gobernaciondelhuila2026peti}, cuyo texto se obtuvo por reconocimiento óptico de caracteres; el estudio no verificó qué contienen realmente esos sistemas. El documento de datos maestros no indica fecha, autor ni dependencia responsable, y su numeración de tablas se repite, por lo que en adelante se cita por página \pendiente{CONFIRMAR: fecha, autoría y vigencia del documento de datos maestros; se preguntó a la Gobernación en la solicitud de información}. Para los documentos de otras autoridades se revisó, además, si la entidad que los expide ofrece en su portal una consulta pública en línea del mismo dato. La relación completa de cada requisito con su base, su mecanismo y su consulta pública se presenta en el Anexo~\pendiente{DATO PENDIENTE: número del anexo con la matriz de la Fase 2}.
 
 \subsubsection{Documentos que expide la Gobernación}
 
-De los 56 requisitos de la categoría (a), solo uno corresponde a un dato que una base declarada contiene por completo: el certificado de habilitación de prestadores de servicios de salud, cuyo estado y fecha registra la tabla de instituciones prestadoras de servicios de salud, aunque la fuente indica que ese dato lo consume del registro del Ministerio de Salud y Protección Social. En 43 requisitos, la base declarada contiene solo parte del dato o solo para una parte de los casos. Por ejemplo, la tabla de docentes del sector educativo registra la fecha de ingreso y el grado en el escalafón, pero no el tiempo de servicio por entidad ni el salario; la tabla de servidores públicos sí registra el salario, pero no incluye a los docentes; la tabla de historial laboral guarda los actos de vinculación y retiro como expedientes digitalizados y declara, entre sus usos, la elaboración de certificaciones de tiempo de servicio y salarios para trámites de pensión, que se entregan por oficio o correo institucional, y la tabla de pensionados registra el acto administrativo de reconocimiento de los pensionados a cargo del departamento. En los 12 requisitos restantes, como la tornaguía, los reportes anuales de cesantías o la resolución de cesantías pagadas, ninguna base declarada contiene el dato.
+De los 56 requisitos de la categoría (a), solo uno corresponde a un dato que una base declarada contiene por completo: el certificado de habilitación de prestadores de servicios de salud, cuyo estado y fecha registra la tabla de instituciones prestadoras de servicios de salud \parencite[p.~3]{gobernaciondelhuila2026datosmaestros}, aunque la fuente indica que ese dato lo toma del registro del Ministerio de Salud y Protección Social. En 43 requisitos, la base declarada contiene solo parte del dato o solo para una parte de los casos, y en los 12 restantes, como la tornaguía, los reportes anuales de cesantías o la resolución de cesantías pagadas, ninguna base declarada lo contiene (Tabla~\ref{tab:cobertura}).
+
+Los casos parciales se concentran en las prestaciones de los docentes. La tabla de docentes del sector educativo registra la fecha de ingreso y el grado en el escalafón, pero no el tiempo de servicio por entidad ni el salario; la tabla de servidores públicos sí registra el salario, pero no incluye a los docentes, y la tabla de pensionados registra el acto administrativo de reconocimiento de los pensionados a cargo del departamento \parencite[pp.~2-3]{gobernaciondelhuila2026datosmaestros}. La tabla de historial laboral declara entre sus usos la \enquote{elaboración de certificaciones de tiempo de servicio y salarios para trámites de pensión} y describe así su mecanismo: \enquote{La entrega de certificaciones se hace por oficio o correo institucional} \parencite[p.~2]{gobernaciondelhuila2026datosmaestros}. Es decir, la fuente describe un circuito interno en el que la dependencia que custodia el dato produce un certificado en papel o en PDF, y no una consulta del dato desde el trámite. En el documento de datos maestros, la expresión \enquote{cargue de archivo} aparece 14 veces como mecanismo; las tablas en que aparece corresponden a reportes de municipios, inventarios enviados a entidades nacionales o formatos de gestión interna, y ninguna se relacionó con un documento exigido en los trámites.
 
 \subsubsection{Documentos que expiden otras autoridades}
 
-De los 167 requisitos de la categoría (b), 39 (23,4\,\%) corresponden a datos de entidades con las que la fuente declara un servicio web: el RUNT, para los datos del vehículo; la DIAN, para el RUT; Colpensiones, para la información pensional; el registro único de proponentes (RUP), que la fuente atribuye a «CCE»; el SIMAT del Ministerio de Educación, para la matrícula; el registro de talento humano en salud (RETHUS), y el IGAC, para los predios rurales. Como la fuente no declara el uso de una plataforma común, se deduce que son conexiones bilaterales. Solo en un caso, el RUT, la conexión cubre el dato completo; en los demás cubre una parte: la del RUNT no registra el número de la licencia de tránsito, la de Colpensiones no incluye a los fondos privados de pensiones, la del RUP no equivale al certificado de existencia y representación legal, la de RETHUS solo cubre las profesiones de la salud y la del IGAC solo los predios rurales.
+De los 167 requisitos de la categoría (b), 39 (23,4\,\%) corresponden a datos de entidades con las que la fuente declara un servicio web: el RUNT, para los datos del vehículo; la DIAN, para el RUT; Colpensiones, para la validación de derechos pensionales; el registro único de proponentes (RUP), que la fuente atribuye a \enquote{CCE}; el SIMAT del Ministerio de Educación, para la matrícula; el registro de talento humano en salud (RETHUS), y el IGAC, para los predios rurales \parencite[pp.~1-4]{gobernaciondelhuila2026datosmaestros}. Como la fuente no declara el uso de una plataforma común, el estudio deduce que se trata de conexiones bilaterales; la fuente no lo dice expresamente. Solo en el caso del RUT la conexión cubre el dato completo. En los demás cubre una parte: la del RUNT no registra el número de la licencia de tránsito; la de Colpensiones sirve para validar derechos de los pensionados del departamento y no incluye a los fondos privados, por lo que no equivale al certificado de cualquier administradora de pensiones; la del RUP no equivale al certificado de existencia y representación legal; la de RETHUS solo cubre las profesiones de la salud, y la del IGAC, solo los predios rurales.
 
-Los otros 128 requisitos (76,6\,\%) corresponden a entidades con las que no se declara ningún mecanismo de intercambio. El documento de identidad es el requisito más frecuente (30 trámites) y, sumado a los registros civiles de nacimiento, matrimonio y defunción, alcanza 50 requisitos, para los cuales no se declara ninguna conexión con la Registraduría. En dos casos la fuente niega expresamente la conexión: con el INVIMA, del que proceden el registro sanitario y el certificado de buenas prácticas de manufactura, y con la Procuraduría, de la que procede el certificado de antecedentes disciplinarios. Ninguna de las fuentes declara el uso de la plataforma X-Road ni del servicio ciudadano digital de interoperabilidad; el documento de datos maestros indica en 46 ocasiones, en sus distintas tablas, que no existe servicio web, X-Road, enlace de base de datos ni conexión P2P.
-
-\subsubsection{Dominios de interoperabilidad}
-
-La Tabla~\ref{tab:dominios} resume los dominios en los que tendría que resolverse algo para que la entidad deje de pedir cada documento, según la regla del estudio.
+Para los 128 requisitos restantes (76,6\,\%) la fuente no declara ningún mecanismo de intercambio. En 32 de ellos, la entidad que expide el documento ofrece una consulta pública en línea del mismo dato, pensada para una persona que consulta un documento a la vez y no para el intercambio entre sistemas. La Procuraduría General de la Nación indica que, desde la Ley 1238 de 2008, \enquote{las entidades públicas o privadas podrán consultar el Certificado de Antecedentes}, cuya expedición es gratuita e inmediata en su portal \parencite{procuraduria2026antecedentes}, y la Contraloría General de la República expide en línea, sin costo, el certificado de antecedentes fiscales \parencite{contraloria2026antecedentes}. En ambos casos la consulta cubre el dato que certifica el documento, aunque cada uno se exige en un solo trámite. El documento de identidad, que es el requisito de esta categoría más frecuente (30 trámites), tiene una consulta parcial: la Registraduría Nacional del Estado Civil ofrece en línea y de forma gratuita el certificado de vigencia de la cédula \parencite{registraduria2013vigencia}, que confirma que el documento está vigente pero no reemplaza la información de la copia. Para los registros civiles de nacimiento, matrimonio y defunción (20 requisitos) no se encontró una consulta pública equivalente; según la misma fuente, el registro civil se solicita a la oficina donde está inscrito. Otras dos consultas complementan documentos que ya tienen un servicio web declarado: el RUES ofrece a los funcionarios de entidades información sin costo de los registros empresariales \parencite{rues2026consulta}, aunque esa información no es el certificado de existencia y representación legal, y el RETHUS permite consultar si el personal de salud cumple los requisitos para ejercer \parencite{minsalud2026rethus}. Los otros 96 requisitos (57,5\,\%) no tienen ni mecanismo declarado ni consulta pública identificada; los más frecuentes son el diploma o acta de grado (10 trámites) y los registros civiles.
 
 \begin{table}[htbp]
 \centering
-\caption{Requisitos de las categorías (a) y (b) según los dominios de interoperabilidad que intervienen}
-\label{tab:dominios}
-\begin{tabular}{p{7.2cm}rr}
+\caption{Requisitos de las categorías (a) y (b) según la cobertura del dato y el mecanismo de intercambio declarado}
+\label{tab:cobertura}
+\begin{tabular}{p{9.5cm}rr}
 \hline
-Dominio & (a) Gobernación & (b) Otras autoridades \\
+Situación del dato & \textit{n} & \% \\
 \hline
-Organizacional & 56 & 167 \\
-Técnico: no hay base o no hay medio de intercambio & 12 & 128 \\
-Técnico: la base o el medio cubren solo una parte del dato & 43 & 36 \\
-Semántico & 52 & 71 \\
-Político-legal & -- & -- \\
-\hline
-Total de requisitos & 56 & 167 \\
+\multicolumn{3}{l}{\textit{Categoría (a): cobertura en una base de la Gobernación (n = 56)}} \\
+\quad La base contiene el dato completo & 1 & 1,8 \\
+\quad La base contiene una parte del dato & 43 & 76,8 \\
+\quad Ninguna base declarada contiene el dato & 12 & 21,4 \\
+\multicolumn{3}{l}{\textit{Categoría (b): mecanismo con la entidad que expide el documento (n = 167)}} \\
+\quad Servicio web declarado que cubre el dato completo & 3 & 1,8 \\
+\quad Servicio web declarado que cubre una parte del dato & 36 & 21,6 \\
+\quad Sin servicio web; la entidad ofrece consulta pública en línea & 32 & 19,2 \\
+\quad Sin servicio web ni consulta pública identificada & 96 & 57,5 \\
 \hline
 \end{tabular}
 
 \smallskip
-\footnotesize\textit{Nota.} Un requisito puede requerir más de un dominio. En la categoría (a), el dominio técnico se refiere a la base de datos de la propia entidad; en la (b), al medio de intercambio con la entidad que custodia el dato. La regla aplicada no permite asignar el dominio político-legal. Elaboración propia con base en \textcite{gobernaciondelhuila2026datosmaestros}, \textcite{gobernaciondelhuila2026peti} y el Visor del SUIT \parencite{funcionpublica2026visorsuit}.
+\footnotesize\textit{Nota.} Un requisito es un documento exigido en un trámite. La consulta pública en línea es una consulta de documento a documento en el portal de la entidad, no un intercambio entre sistemas. Datos tomados de \textcite{gobernaciondelhuila2026datosmaestros}, \textcite{gobernaciondelhuila2026peti}, \textcite{funcionpublica2026visorsuit} y de los portales de la Procuraduría, la Contraloría, la Registraduría, el RUES y el RETHUS, consultados el 31 de octubre de 2026.
 \end{table}
 
-El dominio organizacional se asignó a todos los requisitos, porque ninguna de las fuentes describe un procedimiento para verificar el dato dentro de los trámites en lugar de pedir el documento; es un supuesto de la regla y no se evaluó documento por documento. El técnico se asignó cuando no hay base o medio de intercambio, o cuando cubren solo una parte del dato, y el semántico, cuando el emisor varía o la base o el medio cubren solo una parte del dato. La regla no tiene un criterio para asignar el dominio político-legal a partir de las fuentes públicas, por lo que el resultado no permite afirmar ni descartar obstáculos de ese tipo.
+La fuente niega en dos tablas una conexión con entidades de las que proceden documentos de esta categoría, pero en ninguno de los dos casos la negación se refiere a esos documentos. En la tabla de farmacias, la fuente indica que la habilitación \enquote{se notifica al INVIMA por oficio} y que no existe servicio web con esa entidad \parencite[p.~3]{gobernaciondelhuila2026datosmaestros}; la tabla trata de los establecimientos y no del registro sanitario ni del certificado de buenas prácticas de manufactura. En la tabla del catálogo de faltas disciplinarias, la fuente indica que no existe servicio web con la Procuraduría \parencite[p.~5]{gobernaciondelhuila2026datosmaestros}; ninguna tabla trata del certificado de antecedentes disciplinarios. Ninguna de las fuentes declara el uso de la plataforma X-Road ni del servicio ciudadano digital de interoperabilidad, y el documento de datos maestros indica en 46 ocasiones, en sus distintas tablas, que no existe servicio web, X-Road, enlace de base de datos ni conexión P2P. Tampoco declara ninguna conexión con la Registraduría.
+
+\subsubsection{Trámites que dependen de información de otras entidades}
+
+De los 85 trámites, 52 exigen al menos un documento de la categoría (b), es decir, dependen de información de otra autoridad. En 48 de ellos al menos uno de esos documentos procede de una entidad con la que no se declara servicio web, y en 37 al menos uno no tiene servicio web ni consulta pública identificada. Solo en 4 trámites todos los documentos de otras autoridades proceden de entidades con servicio web declarado. Estos 52 trámites son el insumo para identificar las cadenas de trámites con otras entidades cuya interoperabilidad la Ley 2052 de 2020 obliga a priorizar \parencite[art.~8]{colombia2020ley2052}.
+
+\subsubsection{Estandarización de los documentos en el SUIT}
+
+El SUIT clasifica cada documento como estandarizado o propio del trámite. De los 56 requisitos de la categoría (a), 39 están registrados como propios del trámite y 17 como estandarizados; de los 167 de la categoría (b), 84 están registrados como propios, 81 como estandarizados y 2 tienen ambas clasificaciones porque el mismo documento se registró con nombres distintos \parencite{funcionpublica2026visorsuit}. Que la mayoría de los documentos que expide la propia Gobernación figure como propio del trámite indica que no están asociados a un documento tipo del registro nacional.
+
+\subsubsection{Dominios de interoperabilidad}
+
+Los dominios se asignaron solo cuando una fuente da evidencia de ello (Tabla~\ref{tab:dominios}). El técnico es el que más requisitos reúne, porque en casi todos falta la base o el medio de intercambio, o cubren solo una parte del dato. El organizacional solo pudo asignarse a 25 requisitos. En la categoría (a), a los 18 certificados de tiempo de servicio y de salarios de los trámites docentes, porque la fuente declara que esas certificaciones se entregan por oficio o correo, y, en 8 de esos trámites, el SUIT registra además que la entidad verifica el tiempo de servicio y aun así pide el certificado; también al certificado de habilitación, cuyo dato está completo en una base y aun así se exige. En la categoría (b), a 3 requisitos del RUT, cuyo dato está completo en una base con servicio web declarado; a uno de existencia y representación legal, en un trámite donde el SUIT registra que se verifica la inscripción en la cámara de comercio, y a los certificados de antecedentes disciplinarios y fiscales, cuya entidad emisora permite consultarlos en línea. En los demás requisitos, las fuentes públicas no permiten saber si falta un responsable o un procedimiento, y el dominio queda como no determinable. El semántico se asignó cuando el campo que registra la base no equivale al dato que certifica el documento o cuando el SUIT registra el documento como propio del trámite. El político-legal no se asigna en la categoría (a), porque el Decreto Ley 019 de 2012 ya prohíbe pedir los documentos que reposan en la entidad \parencite[art.~9]{colombia2012decreto019}; en la categoría (b) no puede determinarse con fuentes públicas, porque depende, entre otras cosas, de si la Gobernación está vinculada al servicio ciudadano digital de interoperabilidad \pendiente{DATO PENDIENTE: respuesta de la Gobernación a la solicitud de información}.
+
+\begin{table}[htbp]
+\centering
+\caption{Requisitos de las categorías (a) y (b) con evidencia de cada dominio de interoperabilidad}
+\label{tab:dominios}
+\begin{tabular}{p{2.6cm}p{7.4cm}cc}
+\hline
+Dominio & Criterio de asignación & (a) & (b) \\
+\hline
+Técnico & No hay base o medio de intercambio, o cubren solo una parte del dato & 55 & 164 \\
+Organizacional & El dato está al alcance de la entidad y aun así se pide el documento: el SUIT registra la verificación del mismo dato, la fuente declara entrega manual de la certificación, una base tiene el dato completo o la entidad emisora ofrece consulta pública del dato completo & 19 & 6 \\
+Semántico & El campo de la base no equivale al dato certificado, o el SUIT registra el documento como propio del trámite & 53 & 98 \\
+Político-legal & -- & n.\,a. & n.\,d. \\
+\hline
+\end{tabular}
+
+\smallskip
+\footnotesize\textit{Nota.} Categoría (a): \textit{n} = 56; categoría (b): \textit{n} = 167. Un requisito puede tener evidencia de más de un dominio. Los requisitos sin evidencia de un dominio no se cuentan en esa fila; la ausencia de evidencia no significa que el dominio no intervenga. En la categoría (a), el dominio técnico se refiere a la base de la propia entidad; en la (b), al medio de intercambio con la entidad que expide el documento. n.\,a. = no aplica, porque la norma ya prohíbe exigir esos documentos; n.\,d. = no determinable con fuentes públicas. Datos tomados de \textcite{gobernaciondelhuila2026datosmaestros}, \textcite{funcionpublica2026visorsuit} y de los portales de la Procuraduría y la Contraloría.
+\end{table}
+
+\subsubsection{Sensibilidad a la regla de misma competencia}
+
+De los 56 requisitos de la categoría (a), 21 se clasificaron así por la regla de misma competencia (actos previos de la propia Gobernación en la misma materia del trámite, como la resolución de pensión, la de cesantías, el acto de retiro o la licencia de funcionamiento). Sin esa regla, la categoría (a) queda en 35 requisitos. Los resultados de la Fase 2 sobre los certificados de tiempo de servicio y de salarios, que concentran la evidencia del dominio organizacional, no dependen de esta regla.
+
+\subsubsection{Documentos que pasan a la Fase 3}
+
+Al aplicar a estos resultados los criterios de la Fase 3 (primero la categoría (a), luego el número de trámites y luego la disponibilidad del dato en una base declarada), los documentos que reúnen más condiciones son los que se listan en la Tabla~\ref{tab:candidatos}. La lista es un insumo para el diseño y no una selección definitiva.
+
+\begin{table}[htbp]
+\centering
+\caption{Documentos con más condiciones para dejar de pedirse, según los criterios de la Fase 3}
+\label{tab:candidatos}
+\begin{tabular}{p{4.6cm}cp{2.4cm}p{5.2cm}}
+\hline
+Documento & Trámites & Categoría & Situación del dato \\
+\hline
+Certificado de tiempo de servicio & 10 & (a) & Base parcial; entrega por oficio o correo; en 8 trámites el SUIT registra además la verificación del dato \\
+Certificado de salarios & 8 & (a) & Base parcial (servidores públicos, sin docentes); entrega por oficio o correo \\
+Certificado de habilitación & 1 & (a) & Dato completo en una base \\
+Documento de identidad & 30 & (b) & Sin servicio web; consulta pública de la vigencia \\
+RUT o NIT & 3 & (b) & Dato completo; servicio web declarado con la DIAN \\
+Antecedentes disciplinarios y fiscales & 1 cada uno & (b) & Sin servicio web; consulta pública del dato completo \\
+\hline
+\end{tabular}
+
+\smallskip
+\footnotesize\textit{Nota.} Datos tomados de \textcite{gobernaciondelhuila2026datosmaestros}, \textcite{funcionpublica2026visorsuit} y de los portales de la Registraduría, la Procuraduría y la Contraloría.
+\end{table}

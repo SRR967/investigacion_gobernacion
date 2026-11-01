@@ -1,70 +1,70 @@
-categoria,documento,emisor,n_tramites,tramites,marcas,base_gobernacion,cobertura,mecanismo_declarado,evidencia,dominios
-a,certificado de tiempo de servicio,Gobernación; otra entidad si hubo servicio en otra parte,10,22952;23010;23011;23022;24031;24033;24044;24050;37691;83734,emisor_variable,"Docentes_Sector_Educativo (F-008, tabla 45); Historial_Laboral (tabla 31); Servidores_Publicos (tabla 37); SIFA, módulo de nómina (F-007, p. 35)",parcial,interno,"tabla 45 tiene Fecha_Ingreso pero no tiempos por entidad; tabla 31 guarda actos digitalizados y declara como caso de uso la elaboración de certificaciones de tiempo de servicio y salarios para trámites de pensión, entregadas por oficio o correo; la nómina de SIFA emite certificaciones laborales (texto OCR)",organizacional;técnico: base parcial;semántico
-a,certificado de salarios,empleador (Gobernación para docentes oficiales),8,22952;23010;23011;23022;24031;24033;24044;83734,emisor_variable,"Servidores_Publicos (tabla 37); SIFA, módulo de nómina (F-007, p. 35)",parcial,interno,la tabla 37 tiene Salario de los servidores; la tabla 45 de docentes no tiene campo de salario,organizacional;técnico: base parcial;semántico
-a,resolución de pensión del docente,Gobernación (acto expedido para el FOMAG; por confirmar),8,14342;22952;23010;23011;24031;24033;24044;24050,misma_competencia,Pensionados_Departamento (tabla 24),parcial,interno,"la tabla 24 registra Acto_Administrativo de reconocimiento, pero de los pensionados a cargo del departamento",organizacional;técnico: base parcial;semántico
-a,acto administrativo de retiro del servicio docente,Gobernación (nominadora del docente),7,22952;23011;23022;24033;24044;24050;50272,misma_competencia,"Historial_Laboral (tabla 31); Docentes_Sector_Educativo (tabla 45, campo Estado)",parcial,interno,"tabla 31: actos de retiro de servidores, como expediente digitalizado; tabla 45: solo el estado",organizacional;técnico: base parcial;semántico
-a,licencia de funcionamiento expedida por la Gobernación,Gobernación (Educación o Salud),4,23205;23605;25412;27023,misma_competencia,Instituciones_Educativas (tabla 42); IPS_Prestadoras_Salud (tabla 50); Farmacias (tabla 56),parcial,interno,la tabla 42 solo incluye instituciones oficiales; las tablas 50 y 56 registran habilitación,organizacional;técnico: base parcial;semántico
-a,tornaguía,Gobernación (Hacienda) u otro departamento,4,27011;27339;27344;29495,emisor_variable,—,ninguna,interno,ni F-008 ni F-007 mencionan tornaguías ni el impuesto al consumo,organizacional;técnico: no hay base;semántico
-a,reportes anuales de cesantías,empleador (Gobernación para docentes oficiales),3,23022;50272;83734,emisor_variable,—,ninguna,interno,ninguna tabla declarada,organizacional;técnico: no hay base;semántico
-a,acta de visita sanitaria,Secretaría de Salud Departamental u otra autoridad sanitaria,2,23489;34127,emisor_variable,"Farmacias (tabla 56, sistema IVC-Salud)",parcial,interno,,organizacional;técnico: base parcial;semántico
-a,paz y salvo de la pagaduría del empleador,empleador (Gobernación para docentes oficiales),2,23022;50272,emisor_variable,"SIFA, módulo de nómina (F-007, p. 35)",parcial,interno,,organizacional;técnico: base parcial;semántico
-a,resolución de cesantías pagadas,Gobernación (acto expedido para el FOMAG; por confirmar),2,23022;83734,misma_competencia,—,ninguna,interno,ninguna tabla declarada,organizacional;técnico: no hay base
-a,acta de comité de exoneración del servicio social obligatorio,comité de servicio social obligatorio,1,77292,emisor_variable,—,ninguna,interno,ninguna tabla declarada,organizacional;técnico: no hay base;semántico
-a,acta del accidente de trabajo,empleador (Gobernación para docentes oficiales),1,23011,emisor_variable,—,ninguna,interno,ninguna tabla declarada,organizacional;técnico: no hay base;semántico
-a,certificado de habilitación,Secretaría de Salud Departamental,1,23489,,IPS_Prestadoras_Salud (tabla 50),completa,interno,campos Estado_Habilitacion y Fecha_Habilitacion; la fuente dice que el REPS del MSPS es la fuente oficial y que la Gobernación consume el dato por servicio web,organizacional
-a,constancia de no sanción por comercio ilegal de medicamentos,autoridad sanitaria,1,82552,emisor_variable,Farmacias (tabla 56),parcial,interno,la tabla no declara un campo de sanciones,organizacional;técnico: base parcial;semántico
-a,registro profesional en salud,Secretaría de Salud Departamental u otra autoridad,1,23489,emisor_variable,Medicos (tabla 54); Enfermeras (tabla 55),parcial,interno,las tablas consumen RETHUS por servicio web,organizacional;técnico: base parcial;semántico
-a,resolución de autorización de etiquetas,Gobernación (Hacienda; por confirmar),1,29493,,—,ninguna,interno,ninguna tabla declarada,organizacional;técnico: no hay base
-b,documento de identidad,Registraduría Nacional / Migración Colombia,30,14342;22952;22989;23010;23011;23022;23205;23498;23612;23719;23747;23787;23797;24031;24033;24044;24050;24072;24761;29493;37691;50272;77292;79218;79220;79221;79248;82552;83734;83735,registro_publico,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio
-b,certificado de existencia y representación legal,Cámara de Comercio,11,23495;23605;23607;23719;23787;23797;24761;25412;27023;29493;82552,particular_funcion_publica;registro_publico,Contratistas_Proponentes (tabla 16),parcial,"servicio web bilateral con el RUP (según la fuente, administrado por la CCE)",el RUP no es el certificado de existencia y representación legal,organizacional;técnico: medio parcial;semántico
-b,diploma o acta de grado,institución educativa,10,22989;23205;23605;23612;23795;24045;24383;25280;37691;77292,emisor_variable,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio;semántico
-b,registro civil de nacimiento,Registraduría / notarías,9,23010;23011;24031;24033;24044;24050;50272;82552;83734,registro_publico,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio
-b,certificado de administradora de pensiones,Colpensiones o fondo privado,7,23010;23011;24031;24033;24044;24050;50272,emisor_variable,Pensionados_Departamento (tabla 24),parcial,servicio web bilateral con Colpensiones,solo Colpensiones; no los fondos privados,organizacional;técnico: medio parcial;semántico
-b,tarjeta profesional,consejo o colegio profesional,7,22989;23205;23256;23489;23607;23612;23763,emisor_variable,Medicos (tabla 54); Enfermeras (tabla 55),parcial,servicio web bilateral con RETHUS (MSPS),solo profesiones de la salud; la tabla declara RETHUS como fuente y Web Services como medio en sus columnas,organizacional;técnico: medio parcial;semántico
-b,licencia de tránsito,organismo de tránsito / RUNT,6,23205;23489;23719;23747;24761;83735,registro_publico,Impuestos_Vehiculos (tabla 17); Contribuyentes_Rentas (tabla 22),parcial,servicio web bilateral con el RUNT,tablas 17 y 22: validación de propietarios y datos de vehículos; no registran el número de la licencia,organizacional;técnico: medio parcial;semántico
-b,registro civil de defunción,Registraduría / notarías,6,14342;23011;24044;24050;24759;50272,registro_publico,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio
-b,registro civil de matrimonio,Registraduría / notarías,5,23011;24044;24050;50272;83734,registro_publico,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio
-b,RUT o NIT,DIAN,3,23205;23612;29493,registro_publico,Contratistas_Proponentes (tabla 16); Contribuyentes_Rentas (tabla 22),completa,servicio web bilateral con la DIAN (API RUT),,organizacional
-b,acta de comité municipal de directivos docentes,municipio,3,25425;27038;34127,,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio
-b,certificado de capacitación o curso,institución que dicta el curso,3,23607;24383;37691,emisor_variable,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio;semántico
-b,certificado de escolaridad,establecimiento educativo,3,24044;24050;57638,emisor_variable,"Estudiantes_Matriculados (tabla 44), SIMAT",parcial,servicio web bilateral con el SIMAT (MEN),solo matrícula oficial,organizacional;técnico: medio parcial;semántico
-b,certificado de estudios o notas,institución educativa,3,23605;37691;82552,emisor_variable,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio;semántico
-b,certificado de ingresos y retenciones,pagador (FOMAG u otro empleador),3,23011;24033;50272,emisor_variable,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio;semántico
-b,certificado de invalidez,prestador de salud,3,24031;24044;24050,emisor_variable,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio;semántico
-b,certificado de la entidad que pagaba las cesantías,entidad pagadora anterior,3,23022;50272;83734,emisor_variable,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio;semántico
-b,comprobante de pago de mesada pensional,FOMAG / Fiduprevisora,3,14342;22952;24050,,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio
-b,declaración de importación,DIAN,3,24809;27230;29488,,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio
-b,paz y salvo o estado de deuda del Fondo Nacional del Ahorro,Fondo Nacional del Ahorro,3,23022;50272;83734,,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio
-b,acto administrativo de creación de la entidad,autoridad que crea la entidad,2,23205;23489,,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio
-b,certificación laboral de otras entidades,cada empleador,2,24031;24033,emisor_variable,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio;semántico
-b,certificado catastral,gestor catastral / IGAC,2,23612;23719,registro_publico,Predios_Rurales (tabla 71),parcial,servicio web bilateral con el IGAC,solo predios rurales; campos matricula_inmobiliaria y avaluo,organizacional;técnico: medio parcial;semántico
-b,certificado de especialidad médica,institución de educación superior,2,23256;23763,emisor_variable,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio;semántico
-b,certificado o concepto de uso del suelo,municipio,2,23795;34127,,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio
-b,convalidación de título extranjero,Ministerio de Educación Nacional,2,22989;23605,,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio
-b,escritura pública,notaría,2,25280;50272,particular_funcion_publica,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio
-b,extracto de intereses de cesantías,FOMAG,2,23022;83734,,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio
-b,licencia de material radiactivo,autoridad nuclear nacional,2,23256;23763,,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio
-b,sentencia judicial,Rama Judicial,2,24044;24050,,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio
-b,acto administrativo del ICA,ICA,1,23489,,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio
-b,certificado de antecedentes DIAN,DIAN,1,24072,,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio
-b,certificado de antecedentes disciplinarios,Procuraduría General de la Nación,1,29493,,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio
-b,certificado de antecedentes fiscales,Contraloría General de la República,1,29493,,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio
-b,certificado de buenas prácticas de manufactura,INVIMA,1,23489,,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio
-b,certificado de disponibilidad presupuestal,entidad que contrata al profesional,1,23491,emisor_variable,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio;semántico
-b,certificado de idoneidad del título de posgrado,Ministerio de Educación Nacional,1,37691,,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio
-b,certificado de idoneidad sanitaria,autoridad sanitaria,1,23795,emisor_variable,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio;semántico
-b,certificado de inducción al servicio social obligatorio,institución del servicio social,1,77292,emisor_variable,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio;semántico
-b,certificado de residencia,alcaldía,1,82552,,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio
-b,certificado de terminación del servicio social obligatorio,institución del servicio social,1,77292,emisor_variable,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio;semántico
-b,certificado de tradición y libertad,Oficina de Registro de Instrumentos Públicos,1,83734,registro_publico,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio
-b,denuncia penal,Fiscalía General de la Nación,1,24759,,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio
-b,libreta militar,Ejército Nacional,1,82552,,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio
-b,licencia de construcción,curaduría urbana o municipio,1,34127,particular_funcion_publica,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio
-b,nota devolutiva de registro,Oficina de Registro de Instrumentos Públicos,1,23719,registro_publico,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio
-b,paz y salvo de Medicina Legal,Instituto Nacional de Medicina Legal,1,77292,,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio
-b,recibo de matrícula,institución educativa,1,83734,emisor_variable,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio;semántico
-b,reconocimiento de Minciencias,Minciencias,1,23491,,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio
-b,reconocimiento deportivo,ente deportivo competente (por confirmar),1,23048,emisor_variable,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio;semántico
-b,registro calificado del programa,Ministerio de Educación Nacional,1,23605,,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio
-b,registro sanitario,INVIMA,1,23489,,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio
-b,revisión técnico-mecánica,centro de diagnóstico automotor,1,23205,particular_funcion_publica,—,ninguna,ninguno declarado,ninguna tabla ni sistema declarado,organizacional;técnico: no hay medio
+categoria,documento,n_tramites,base_gobernacion,cobertura,mecanismo_declarado,consulta_publica,cobertura_consulta
+a,certificado de tiempo de servicio,10,"Docentes_Sector_Educativo (F-008, p. 3); Historial_Laboral (p. 2); Servidores_Publicos (p. 2); SIFA nómina (F-007, p. 35)",parcial,"interno: oficio o correo institucional (F-008, Historial_Laboral, p. 2)",,
+a,resolución de pensión del docente,8,Pensionados_Departamento (p. 2),parcial,interno,,
+a,certificado de salarios,8,"Servidores_Publicos (p. 2); SIFA nómina (F-007, p. 35)",parcial,"interno: oficio o correo institucional (F-008, Historial_Laboral, p. 2)",,
+a,acto administrativo de retiro del servicio docente,7,"Historial_Laboral (p. 2); Docentes_Sector_Educativo (p. 3, campo Estado)",parcial,"interno: expediente digitalizado (F-008, Historial_Laboral, p. 2)",,
+a,licencia de funcionamiento expedida por la Gobernación,4,Instituciones_Educativas (p. 3); IPS_Prestadoras_Salud (p. 3); Farmacias (p. 3),parcial,interno,,
+a,tornaguía,4,—,ninguna,interno,,
+a,reportes anuales de cesantías,3,—,ninguna,interno,,
+a,paz y salvo de la pagaduría del empleador,2,"SIFA nómina (F-007, p. 35)",parcial,interno,,
+a,resolución de cesantías pagadas,2,—,ninguna,interno,,
+a,acta de visita sanitaria,2,"Farmacias (p. 3, sistema IVC-Salud)",parcial,interno,,
+a,acta del accidente de trabajo,1,—,ninguna,interno,,
+a,certificado de habilitación,1,IPS_Prestadoras_Salud (p. 3),completa,interno (dato consumido del REPS del MSPS),,
+a,registro profesional en salud,1,Medicos; Enfermeras (p. 3),parcial,servicio web declarado con RETHUS (MSPS),ReTHUS: consulta ciudadana (F-110),parcial
+a,resolución de autorización de etiquetas,1,—,ninguna,interno,,
+a,acta de comité de exoneración del servicio social obligatorio,1,—,ninguna,interno,,
+a,constancia de no sanción por comercio ilegal de medicamentos,1,Farmacias (p. 3),parcial,interno,,
+b,documento de identidad,30,—,ninguna,ninguno declarado,"Registraduría: certificado de vigencia de la cédula, gratuito y en línea (F-109)",parcial
+b,certificado de existencia y representación legal,11,Contratistas_Proponentes (p. 1),parcial,"servicio web declarado con el RUP («CCE», según la fuente)",RUES: información detallada y sin costo para funcionarios de entidades (F-111),parcial
+b,diploma o acta de grado,10,—,ninguna,ninguno declarado,,
+b,registro civil de nacimiento,9,—,ninguna,ninguno declarado,,
+b,tarjeta profesional,7,Medicos; Enfermeras (p. 3),parcial,servicio web declarado con RETHUS (MSPS),ReTHUS: consulta ciudadana del cumplimiento de requisitos del personal de salud (F-110),parcial
+b,certificado de administradora de pensiones,7,Pensionados_Departamento (p. 2),parcial,servicio web declarado con Colpensiones,,
+b,registro civil de defunción,6,—,ninguna,ninguno declarado,,
+b,licencia de tránsito,6,Impuestos_Vehiculos; Contribuyentes_Rentas (p. 2),parcial,servicio web declarado con el RUNT,,
+b,registro civil de matrimonio,5,—,ninguna,ninguno declarado,,
+b,comprobante de pago de mesada pensional,3,—,ninguna,ninguno declarado,,
+b,certificado de ingresos y retenciones,3,—,ninguna,ninguno declarado,,
+b,certificado de la entidad que pagaba las cesantías,3,—,ninguna,ninguno declarado,,
+b,paz y salvo o estado de deuda del Fondo Nacional del Ahorro,3,—,ninguna,ninguno declarado,,
+b,RUT o NIT,3,Contratistas_Proponentes (p. 1); Contribuyentes_Rentas (p. 2),completa,servicio web declarado con la DIAN (API RUT),,
+b,certificado de estudios o notas,3,—,ninguna,ninguno declarado,,
+b,certificado de capacitación o curso,3,—,ninguna,ninguno declarado,,
+b,certificado de invalidez,3,—,ninguna,ninguno declarado,,
+b,certificado de escolaridad,3,"Estudiantes_Matriculados (p. 3), SIMAT",parcial,servicio web declarado con el SIMAT (MEN),,
+b,declaración de importación,3,—,ninguna,ninguno declarado,,
+b,acta de comité municipal de directivos docentes,3,—,ninguna,ninguno declarado,,
+b,convalidación de título extranjero,2,—,ninguna,ninguno declarado,,
+b,extracto de intereses de cesantías,2,—,ninguna,ninguno declarado,,
+b,acto administrativo de creación de la entidad,2,—,ninguna,ninguno declarado,,
+b,certificado de especialidad médica,2,—,ninguna,ninguno declarado,,
+b,licencia de material radiactivo,2,—,ninguna,ninguno declarado,,
+b,certificado catastral,2,Predios_Rurales (p. 4),parcial,servicio web declarado con el IGAC,,
+b,certificado o concepto de uso del suelo,2,—,ninguna,ninguno declarado,,
+b,certificación laboral de otras entidades,2,—,ninguna,ninguno declarado,,
+b,sentencia judicial,2,—,ninguna,ninguno declarado,,
+b,escritura pública,2,—,ninguna,ninguno declarado,,
+b,reconocimiento deportivo,1,—,ninguna,ninguno declarado,,
+b,revisión técnico-mecánica,1,—,ninguna,ninguno declarado,,
+b,acto administrativo del ICA,1,—,ninguna,ninguno declarado,,
+b,certificado de buenas prácticas de manufactura,1,—,ninguna,ninguno declarado,,
+b,registro sanitario,1,—,ninguna,ninguno declarado,,
+b,certificado de disponibilidad presupuestal,1,—,ninguna,ninguno declarado,,
+b,reconocimiento de Minciencias,1,—,ninguna,ninguno declarado,,
+b,registro calificado del programa,1,—,ninguna,ninguno declarado,,
+b,nota devolutiva de registro,1,—,ninguna,ninguno declarado,,
+b,certificado de idoneidad sanitaria,1,—,ninguna,ninguno declarado,,
+b,certificado de antecedentes DIAN,1,—,ninguna,ninguno declarado,,
+b,denuncia penal,1,—,ninguna,ninguno declarado,,
+b,certificado de antecedentes disciplinarios,1,—,ninguna,ninguno declarado,"Procuraduría: consulta y certificado en línea, gratuitos; las entidades pueden consultarlo (Ley 1238 de 2008) (F-107)",completa
+b,certificado de antecedentes fiscales,1,—,ninguna,ninguno declarado,"Contraloría: certificado en línea, sin costo (F-108); también consultable en el portal de la Procuraduría (F-107)",completa
+b,licencia de construcción,1,—,ninguna,ninguno declarado,,
+b,certificado de idoneidad del título de posgrado,1,—,ninguna,ninguno declarado,,
+b,certificado de inducción al servicio social obligatorio,1,—,ninguna,ninguno declarado,,
+b,certificado de terminación del servicio social obligatorio,1,—,ninguna,ninguno declarado,,
+b,paz y salvo de Medicina Legal,1,—,ninguna,ninguno declarado,,
+b,certificado de residencia,1,—,ninguna,ninguno declarado,,
+b,libreta militar,1,—,ninguna,ninguno declarado,,
+b,certificado de tradición y libertad,1,—,ninguna,ninguno declarado,,
+b,recibo de matrícula,1,—,ninguna,ninguno declarado,,
